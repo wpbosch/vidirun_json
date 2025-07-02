@@ -6,7 +6,7 @@
     "Title": "Lose 100 LBs, Win $250,000!",
     "Channel": "MrBeast",
     "Category": "Entertainment",
-    "Views Gained": 33403126
+    "Views Gained": 22785729
   },
   {
     "Rank": 2,
@@ -15,65 +15,47 @@
     "Title": "I Built 5 SECRET Rooms In ONE COLOR!",
     "Channel": "Stokes Twins",
     "Category": "People & Blogs",
-    "Views Gained": 14342991
+    "Views Gained": 12917154
   },
   {
     "Rank": 3,
-    "Change": "0",
+    "Change": "+4",
+    "Thumbnail": "https://i.ytimg.com/vi/2C8zYFArnKY/hqdefault.jpg",
+    "Title": "The Coldest Village on Earth (10 minutes outside = Death) -71°C, -96°F",
+    "Channel": "Ruhi Çenet",
+    "Category": "Education",
+    "Views Gained": 5817058
+  },
+  {
+    "Rank": 4,
+    "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/8OKw4TCT1w4/hqdefault.jpg",
     "Title": "JOGO COMPLETO: FLAMENGO X BAYERN DE MUNIQUE | COPA DO MUNDO DE CLUBES DA FIFA | OITAVAS DE FINAL",
     "Channel": "CazéTV",
     "Category": "Sports",
-    "Views Gained": 4886960
+    "Views Gained": 4859049
   },
   {
-    "Rank": 4,
-    "Change": "+1",
+    "Rank": 5,
+    "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/aEHsTVqphrY/hqdefault.jpg",
     "Title": "INSTASAMKA x MONEYKEN x Александр Волков | ЧТО БЫЛО ДАЛЬШЕ?",
     "Channel": "Что было дальше?",
     "Category": "Comedy",
-    "Views Gained": 4715523
+    "Views Gained": 4619698
   },
   {
-    "Rank": 5,
-    "Change": "+1",
+    "Rank": 6,
+    "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/I-QRt_qagNk/hqdefault.jpg",
     "Title": "I Bought a REAL House off Temu",
     "Channel": "The Royalty Family",
     "Category": "People & Blogs",
-    "Views Gained": 4010468
-  },
-  {
-    "Rank": 6,
-    "Change": "+5",
-    "Thumbnail": "https://i.ytimg.com/vi/IdENz7Spr74/hqdefault.jpg",
-    "Title": "Can I Turn MrBeast Into A MasterChef?",
-    "Channel": "Nick DiGiovanni",
-    "Category": "People & Blogs",
-    "Views Gained": 3933883
+    "Views Gained": 2864289
   },
   {
     "Rank": 7,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/2C8zYFArnKY/hqdefault.jpg",
-    "Title": "The Coldest Village on Earth (Lost My Health for This Video) -71°C, -96°F",
-    "Channel": "Ruhi Çenet",
-    "Category": "Education",
-    "Views Gained": 3930901
-  },
-  {
-    "Rank": 8,
-    "Change": "+1",
-    "Thumbnail": "https://i.ytimg.com/vi/_Zj_ZJEWxO0/hqdefault.jpg",
-    "Title": "ONE BLOCK with Every Horror Mod",
-    "Channel": "Maizen",
-    "Category": "Gaming",
-    "Views Gained": 2814748
-  },
-  {
-    "Rank": 9,
-    "Change": "-1",
+    "Change": "+2",
     "Thumbnail": "https://i.ytimg.com/vi/ztq8qqWVoLE/hqdefault.jpg",
     "Title": "Мафия в Реальной Жизни: Клава Кока, Глент, Вписка, Покров, Бабич, Столяров, Скрипник",
     "Channel": "Дима Масленников  ",
@@ -81,107 +63,89 @@
     "Views Gained": 2807206
   },
   {
+    "Rank": 8,
+    "Change": "0",
+    "Thumbnail": "https://i.ytimg.com/vi/_Zj_ZJEWxO0/hqdefault.jpg",
+    "Title": "ONE BLOCK with Every Horror Mod",
+    "Channel": "Maizen",
+    "Category": "Gaming",
+    "Views Gained": 2801928
+  },
+  {
+    "Rank": 9,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/k5itPbQtz_Y/hqdefault.jpg",
+    "Title": "Nothing Phone (3) - What have you done!?",
+    "Channel": "Mrwhosetheboss",
+    "Category": "Science & Technology",
+    "Views Gained": 2356478
+  },
+  {
     "Rank": 10,
+    "Change": "+1",
+    "Thumbnail": "https://i.ytimg.com/vi/feJF1j9nSsg/hqdefault.jpg",
+    "Title": "ALFA Y RUIZ ORTEGA SON HERMANOS",
+    "Channel": "Fede Vigevani",
+    "Category": "Entertainment",
+    "Views Gained": 2219164
+  },
+  {
+    "Rank": 11,
+    "Change": "-5",
+    "Thumbnail": "https://i.ytimg.com/vi/IdENz7Spr74/hqdefault.jpg",
+    "Title": "Can I Turn MrBeast Into A MasterChef?",
+    "Channel": "Nick DiGiovanni",
+    "Category": "People & Blogs",
+    "Views Gained": 2167893
+  },
+  {
+    "Rank": 12,
+    "Change": "+1",
+    "Thumbnail": "https://i.ytimg.com/vi/l1IyTt49xNI/hqdefault.jpg",
+    "Title": "PLUS ONE - MAURICE SAM, DESTINY ETIKO, OBY TITUS, BIBI SONYE, 2025 Latest Nigerian Movie",
+    "Channel": "Maurice Sam TV",
+    "Category": "Film & Animation",
+    "Views Gained": 2052813
+  },
+  {
+    "Rank": 13,
+    "Change": "+2",
+    "Thumbnail": "https://i.ytimg.com/vi/mA3Idw0N8gQ/hqdefault.jpg",
+    "Title": "KKAJHE VS AZIZ ! WEIGH IN & PRESS CONFERENCE BYON COMBAT SHOWBIZ VOL. 5!",
+    "Channel": "celloszxz",
+    "Category": "Sports",
+    "Views Gained": 1893105
+  },
+  {
+    "Rank": 14,
+    "Change": "+5",
+    "Thumbnail": "https://i.ytimg.com/vi/AIGxl8c02lM/hqdefault.jpg",
+    "Title": "My Daughter Transforms Into a Celebrity *Emotional*",
+    "Channel": "Jordan Matter",
+    "Category": "Entertainment",
+    "Views Gained": 1645124
+  },
+  {
+    "Rank": 15,
+    "Change": "+1",
+    "Thumbnail": "https://i.ytimg.com/vi/4sJ8uvWq5h0/hqdefault.jpg",
+    "Title": "100 CUERDAS MISTERIOSAS SOLO 1 PARA ESCAPAR !!",
+    "Channel": "Alejo Igoa",
+    "Category": "Entertainment",
+    "Views Gained": 1445282
+  },
+  {
+    "Rank": 16,
     "Change": "-6",
     "Thumbnail": "https://i.ytimg.com/vi/eR9XzftlURA/hqdefault.jpg",
     "Title": "Best Chocolate Art Wins $1,000!",
     "Channel": "Stay Wild",
     "Category": "Entertainment",
-    "Views Gained": 2768377
-  },
-  {
-    "Rank": 11,
-    "Change": "-1",
-    "Thumbnail": "https://i.ytimg.com/vi/feJF1j9nSsg/hqdefault.jpg",
-    "Title": "ALFA Y RUIZ ORTEGA SON HERMANOS",
-    "Channel": "Fede Vigevani",
-    "Category": "Entertainment",
-    "Views Gained": 2369312
-  },
-  {
-    "Rank": 12,
-    "Change": "+2",
-    "Thumbnail": "https://i.ytimg.com/vi/9LsQFU8C0V0/hqdefault.jpg",
-    "Title": "SELLING OLD SPORTS CARS FOR MONEY",
-    "Channel": "Techno Gamerz",
-    "Category": "Gaming",
-    "Views Gained": 2124176
-  },
-  {
-    "Rank": 13,
-    "Change": "+3",
-    "Thumbnail": "https://i.ytimg.com/vi/l1IyTt49xNI/hqdefault.jpg",
-    "Title": "PLUS ONE - MAURICE SAM, DESTINY ETIKO, OBY TITUS, BIBI SONYE, 2025 Latest Nigerian Movie",
-    "Channel": "Maurice Sam TV",
-    "Category": "Film & Animation",
-    "Views Gained": 2068507
-  },
-  {
-    "Rank": 14,
-    "Change": "-7",
-    "Thumbnail": "https://i.ytimg.com/vi/mLivzfKJlu4/hqdefault.jpg",
-    "Title": "I Rated EVERY Outdoor Boys Meal",
-    "Channel": "Max the Meat Guy",
-    "Category": "People & Blogs",
-    "Views Gained": 1940657
-  },
-  {
-    "Rank": 15,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/mA3Idw0N8gQ/hqdefault.jpg",
-    "Title": "KKAJHE VS AZIZ ! WEIGH IN & PRESS CONFERENCE BYON COMBAT SHOWBIZ VOL. 5!",
-    "Channel": "celloszxz",
-    "Category": "Sports",
-    "Views Gained": 1915343
-  },
-  {
-    "Rank": 16,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/4sJ8uvWq5h0/hqdefault.jpg",
-    "Title": "100 CUERDAS MISTERIOSAS SOLO 1 PARA ESCAPAR !!",
-    "Channel": "Alejo Igoa",
-    "Category": "Entertainment",
-    "Views Gained": 1615624
+    "Views Gained": 1429741
   },
   {
     "Rank": 17,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/kJoPssfEnO8/hqdefault.jpg",
-    "Title": "6 комнат! Пройди Испытания, Чтобы Выйти ! (Marlow, DK, ФрамеТамер, Кореш, Горилла, Nowkie)",
-    "Channel": "ExileShow",
-    "Category": "Entertainment",
-    "Views Gained": 1563020
-  },
-  {
-    "Rank": 18,
-    "Change": "+1",
-    "Thumbnail": "https://i.ytimg.com/vi/N_PRNP-zL7k/hqdefault.jpg",
-    "Title": "I Snuck Into an ADMIN Server in Grow a Garden",
-    "Channel": "MeEnyu",
-    "Category": "Gaming",
-    "Views Gained": 1457265
-  },
-  {
-    "Rank": 19,
-    "Change": "+23",
-    "Thumbnail": "https://i.ytimg.com/vi/AIGxl8c02lM/hqdefault.jpg",
-    "Title": "My Daughter Transforms Into a Celebrity *Emotional*",
-    "Channel": "Jordan Matter",
-    "Category": "Entertainment",
-    "Views Gained": 1456725
-  },
-  {
-    "Rank": 20,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/1103XwJ2N9c/hqdefault.jpg",
-    "Title": "BREAKING NEWS! I’ve Been Keeping A Secret. | Candace Ep 208",
-    "Channel": "Candace Owens",
-    "Category": "People & Blogs",
-    "Views Gained": 1385205
-  },
-  {
-    "Rank": 21,
-    "Change": "+2",
+    "Change": "+4",
     "Thumbnail": "https://i.ytimg.com/vi/LmvCExfCUZE/hqdefault.jpg",
     "Title": "14 Wickets Fall On Day 1 | Highlights | West Indies v Australia | 1st Test Day 1",
     "Channel": "Windies Cricket",
@@ -189,8 +153,8 @@
     "Views Gained": 1375566
   },
   {
-    "Rank": 22,
-    "Change": "+2",
+    "Rank": 18,
+    "Change": "+4",
     "Thumbnail": "https://i.ytimg.com/vi/O4rpQfKbMpY/hqdefault.jpg",
     "Title": "This Anomaly Game was Hilariously Terrifying",
     "Channel": "SMii7Y",
@@ -198,8 +162,8 @@
     "Views Gained": 1338013
   },
   {
-    "Rank": 23,
-    "Change": "+3",
+    "Rank": 19,
+    "Change": "+4",
     "Thumbnail": "https://i.ytimg.com/vi/hfl4o23aCXI/hqdefault.jpg",
     "Title": "A CLARA FEZ UMA FESTA ESCONDIDA DOS PAIS DELA *Pegamos no flagra ?",
     "Channel": "Emilly Vick",
@@ -207,8 +171,8 @@
     "Views Gained": 1323798
   },
   {
-    "Rank": 24,
-    "Change": "+3",
+    "Rank": 20,
+    "Change": "+4",
     "Thumbnail": "https://i.ytimg.com/vi/lArRnoMhX9I/hqdefault.jpg",
     "Title": "Men's Spring-Summer 2026 Show I LOUIS VUITTON",
     "Channel": "Louis Vuitton",
@@ -216,26 +180,8 @@
     "Views Gained": 1320449
   },
   {
-    "Rank": 25,
-    "Change": "-5",
-    "Thumbnail": "https://i.ytimg.com/vi/BiEv9yn8knM/hqdefault.jpg",
-    "Title": "this CANNOT be the ending.. [FNAF Secret of The Mimic Part 4 END]",
-    "Channel": "CoryxKenshin",
-    "Category": "Gaming",
-    "Views Gained": 1314353
-  },
-  {
-    "Rank": 26,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/mxCTfdsSH0A/hqdefault.jpg",
-    "Title": "Best Foam Art Wins $1,000!",
-    "Channel": "Stay Wild",
-    "Category": "Entertainment",
-    "Views Gained": 1312943
-  },
-  {
-    "Rank": 27,
-    "Change": "+1",
+    "Rank": 21,
+    "Change": "+6",
     "Thumbnail": "https://i.ytimg.com/vi/j434er5qnzQ/hqdefault.jpg",
     "Title": "BAROK & RATNA KENCAN DI CAFE !!!",
     "Channel": "dika_ bj",
@@ -243,8 +189,8 @@
     "Views Gained": 1297687
   },
   {
-    "Rank": 28,
-    "Change": "+1",
+    "Rank": 22,
+    "Change": "+6",
     "Thumbnail": "https://i.ytimg.com/vi/mmkhY-zLRMQ/hqdefault.jpg",
     "Title": "Steal A Brainrot OWNER Gave Me INFINITE LUCK..",
     "Channel": "CaylusBlox",
@@ -252,26 +198,8 @@
     "Views Gained": 1291247
   },
   {
-    "Rank": 29,
-    "Change": "-16",
-    "Thumbnail": "https://i.ytimg.com/vi/QbF7EWRXGcY/hqdefault.jpg",
-    "Title": "Enseñando a KIMA y JUANITO a Andar en BICICLETA",
-    "Channel": "Juan De Dios Pantoja 2",
-    "Category": "People & Blogs",
-    "Views Gained": 1286239
-  },
-  {
-    "Rank": 30,
-    "Change": "-13",
-    "Thumbnail": "https://i.ytimg.com/vi/4vqE8ASgSjw/hqdefault.jpg",
-    "Title": "How I Went From A Coward To A Hero",
-    "Channel": "MSA previously My Story Animated",
-    "Category": "Film & Animation",
-    "Views Gained": 1281453
-  },
-  {
-    "Rank": 31,
-    "Change": "-1",
+    "Rank": 23,
+    "Change": "+8",
     "Thumbnail": "https://i.ytimg.com/vi/jJwoylleoZk/hqdefault.jpg",
     "Title": "Spying on baby in his SCHOOL 😲 *Shocking*",
     "Channel": "Wanderers Hub",
@@ -279,98 +207,26 @@
     "Views Gained": 1263721
   },
   {
-    "Rank": 32,
-    "Change": "+2",
-    "Thumbnail": "https://i.ytimg.com/vi/sF8oJBDh6ig/hqdefault.jpg",
-    "Title": "Moon Wakes Up",
-    "Channel": "Milo and Chip",
+    "Rank": 24,
+    "Change": "-12",
+    "Thumbnail": "https://i.ytimg.com/vi/9LsQFU8C0V0/hqdefault.jpg",
+    "Title": "SELLING OLD SPORTS CARS FOR MONEY",
+    "Channel": "Techno Gamerz",
     "Category": "Gaming",
-    "Views Gained": 1262643
+    "Views Gained": 1253688
   },
   {
-    "Rank": 33,
-    "Change": "-1",
-    "Thumbnail": "https://i.ytimg.com/vi/gzKv_DrQ9ag/hqdefault.jpg",
-    "Title": "O ROBSON ASSUMIU TUDO ...",
-    "Channel": "Emilly Vick",
-    "Category": "Science & Technology",
-    "Views Gained": 1247220
-  },
-  {
-    "Rank": 34,
-    "Change": "-22",
-    "Thumbnail": "https://i.ytimg.com/vi/9IiYOTzJ2uw/hqdefault.jpg",
-    "Title": "I Built a Roller Coaster In My Lab",
-    "Channel": "Mark Rober",
-    "Category": "Science & Technology",
-    "Views Gained": 1247064
-  },
-  {
-    "Rank": 35,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/IgK3KgGEdTg/hqdefault.jpg",
-    "Title": "قسمت 41 عشق ابدی - Eshghe Abadi",
-    "Channel": "Eshghe Abadi - عشق ابدی",
-    "Category": "Entertainment",
-    "Views Gained": 1245434
-  },
-  {
-    "Rank": 36,
-    "Change": "+10",
-    "Thumbnail": "https://i.ytimg.com/vi/p7P8DmTbjUY/hqdefault.jpg",
-    "Title": "Surviving Afghanistan’s Extreme Street Food!!",
-    "Channel": "Best Ever Food Review Show",
-    "Category": "Travel & Events",
-    "Views Gained": 1242029
-  },
-  {
-    "Rank": 37,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/vjFL-cBcjKc/hqdefault.jpg",
-    "Title": "Trump’s One Big Beautiful Bill: Last Week Tonight with John Oliver (HBO)",
-    "Channel": "LastWeekTonight",
-    "Category": "Entertainment",
-    "Views Gained": 1216858
-  },
-  {
-    "Rank": 38,
-    "Change": "-5",
-    "Thumbnail": "https://i.ytimg.com/vi/G0uR_MRY8_U/hqdefault.jpg",
-    "Title": "TWO CITIES ONE HEART - UCHE MONTANA, UZEE USMAN, TOLU ASANU LATEST 2025 NIGERIAN MOVIE",
-    "Channel": "Uchenna Mbunabo Tv",
-    "Category": "Film & Animation",
-    "Views Gained": 1199801
-  },
-  {
-    "Rank": 39,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/B4FMlrv88-A/hqdefault.jpg",
-    "Title": "TROUVE LE BUZZER ! (Avec Djilsi, Mcfly et Carlito)",
-    "Channel": "JOYCA",
-    "Category": "Entertainment",
-    "Views Gained": 1175550
-  },
-  {
-    "Rank": 40,
-    "Change": "-5",
-    "Thumbnail": "https://i.ytimg.com/vi/C5t018qxRhU/hqdefault.jpg",
-    "Title": "Yoooo We Back Live Again!!!!🛑 #AmazonGamingFest",
-    "Channel": "Live Insaan",
-    "Category": "Gaming",
-    "Views Gained": 1152651
-  },
-  {
-    "Rank": 41,
-    "Change": "+4",
+    "Rank": 25,
+    "Change": "+16",
     "Thumbnail": "https://i.ytimg.com/vi/CZVbafdFNqs/hqdefault.jpg",
     "Title": "TIMINI FULL MOVIE | OFFICIAL | DEYEMI OKANLAWON | UCHE MONTANA | BIMBO ADEMOYE | JERRY AMILO | 4K",
     "Channel": "ROCK MAGIC IF",
     "Category": "Entertainment",
-    "Views Gained": 1151268
+    "Views Gained": 1142351
   },
   {
-    "Rank": 42,
-    "Change": "-6",
+    "Rank": 26,
+    "Change": "+16",
     "Thumbnail": "https://i.ytimg.com/vi/9kgu7WKJbow/hqdefault.jpg",
     "Title": "Подробный разговор о вечеринке Ивлеевой и ее последствиях / вДудь",
     "Channel": "вДудь",
@@ -378,8 +234,8 @@
     "Views Gained": 1139556
   },
   {
-    "Rank": 43,
-    "Change": "-6",
+    "Rank": 27,
+    "Change": "+16",
     "Thumbnail": "https://i.ytimg.com/vi/s8jNq8CvAZQ/hqdefault.jpg",
     "Title": "ENCONTREI O LABUBU DOS ROSA NO MEIO DO LIXO!  *é verdadeiro?",
     "Channel": "Robson Abreu",
@@ -387,8 +243,8 @@
     "Views Gained": 1130457
   },
   {
-    "Rank": 44,
-    "Change": "-6",
+    "Rank": 28,
+    "Change": "+16",
     "Thumbnail": "https://i.ytimg.com/vi/YU4fLkrkoOU/hqdefault.jpg",
     "Title": "Owen Wilson Feels the Walls Closing In While Eating Spicy Wings | Hot Ones",
     "Channel": "First We Feast",
@@ -396,26 +252,8 @@
     "Views Gained": 1119030
   },
   {
-    "Rank": 45,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/BreWChEoqns/hqdefault.jpg",
-    "Title": "My Boyfriend is a Werewolf?! | Alan’s Universe",
-    "Channel": "Alan's Universe",
-    "Category": "Entertainment",
-    "Views Gained": 1114119
-  },
-  {
-    "Rank": 46,
-    "Change": "-24",
-    "Thumbnail": "https://i.ytimg.com/vi/_U-7oN5AdmU/hqdefault.jpg",
-    "Title": "Minecraft Speedrunner VS $100,000 Bounty Hunter",
-    "Channel": "Dream",
-    "Category": "Gaming",
-    "Views Gained": 1101851
-  },
-  {
-    "Rank": 47,
-    "Change": "-8",
+    "Rank": 29,
+    "Change": "+18",
     "Thumbnail": "https://i.ytimg.com/vi/_V-L3hixw90/hqdefault.jpg",
     "Title": "We Created BUNKER to Survive COLD WEATHER in Minecraft @ProBoiz95",
     "Channel": "Junkeyy",
@@ -423,8 +261,8 @@
     "Views Gained": 1092978
   },
   {
-    "Rank": 48,
-    "Change": "-7",
+    "Rank": 30,
+    "Change": "+18",
     "Thumbnail": "https://i.ytimg.com/vi/o3De6B4MdCE/hqdefault.jpg",
     "Title": "$0 To $1 Trillion but Admin Decides my Powers! (Grow a Garden)",
     "Channel": "officialnoobie",
@@ -432,21 +270,183 @@
     "Views Gained": 1079086
   },
   {
-    "Rank": 49,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/ysSxvkYokcM/hqdefault.jpg",
-    "Title": "¡Los COMERCIALES de VIDEOJUEGOS eran HORRIBLES!",
-    "Channel": "MissaSinfonia",
-    "Category": "Comedy",
-    "Views Gained": 1079007
-  },
-  {
-    "Rank": 50,
-    "Change": "-7",
+    "Rank": 31,
+    "Change": "+19",
     "Thumbnail": "https://i.ytimg.com/vi/kmSn1Rh441k/hqdefault.jpg",
     "Title": "FIVE NIGHTS AT FREDDY'S: THE SECRET OF THE MIMIC - DUBLADO EM PT-BR (Jogo Completo)",
     "Channel": "Jazzghost",
     "Category": "Gaming",
     "Views Gained": 1062651
+  },
+  {
+    "Rank": 32,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/Gncd4vJTpFo/hqdefault.jpg",
+    "Title": "I’m HURT… and No One CARED!",
+    "Channel": "Aphmau",
+    "Category": "Gaming",
+    "Views Gained": 1061169
+  },
+  {
+    "Rank": 33,
+    "Change": "+3",
+    "Thumbnail": "https://i.ytimg.com/vi/p7P8DmTbjUY/hqdefault.jpg",
+    "Title": "Surviving Afghanistan’s Extreme Street Food!!",
+    "Channel": "Best Ever Food Review Show",
+    "Category": "Travel & Events",
+    "Views Gained": 1032602
+  },
+  {
+    "Rank": 34,
+    "Change": "-9",
+    "Thumbnail": "https://i.ytimg.com/vi/BiEv9yn8knM/hqdefault.jpg",
+    "Title": "this CANNOT be the ending.. [FNAF Secret of The Mimic Part 4 END]",
+    "Channel": "CoryxKenshin",
+    "Category": "Gaming",
+    "Views Gained": 1031609
+  },
+  {
+    "Rank": 35,
+    "Change": "+4",
+    "Thumbnail": "https://i.ytimg.com/vi/B4FMlrv88-A/hqdefault.jpg",
+    "Title": "TROUVE LE BUZZER ! (Avec Djilsi, Mcfly et Carlito)",
+    "Channel": "JOYCA",
+    "Category": "Entertainment",
+    "Views Gained": 1005156
+  },
+  {
+    "Rank": 36,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/u_Lxkt50xOg/hqdefault.jpg",
+    "Title": "I'm DONE with Google",
+    "Channel": "PewDiePie",
+    "Category": "Entertainment",
+    "Views Gained": 1003457
+  },
+  {
+    "Rank": 37,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/zelndc0UUkY/hqdefault.jpg",
+    "Title": "SIDEMEN PLAY REMATCH",
+    "Channel": "MoreSidemen",
+    "Category": "People & Blogs",
+    "Views Gained": 980914
+  },
+  {
+    "Rank": 38,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/r1NFjcmxvg0/hqdefault.jpg",
+    "Title": "No Mercy: 670,000+ Swept Away as Dams Burst in China, Triggering Deadly Flood!",
+    "Channel": "Xtreme TV",
+    "Category": "News & Politics",
+    "Views Gained": 969920
+  },
+  {
+    "Rank": 39,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/vTgzntPTAyo/hqdefault.jpg",
+    "Title": "Los trucos sucios de los hoteles de lujo para sacar más dinero 💵🏨",
+    "Channel": "Luisito Comunica",
+    "Category": "Entertainment",
+    "Views Gained": 967599
+  },
+  {
+    "Rank": 40,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/5zq4eUFccds/hqdefault.jpg",
+    "Title": "Probando toda la comida de Sam's Club | La Capital",
+    "Channel": "La Capital",
+    "Category": "Howto & Style",
+    "Views Gained": 960971
+  },
+  {
+    "Rank": 41,
+    "Change": "-27",
+    "Thumbnail": "https://i.ytimg.com/vi/mLivzfKJlu4/hqdefault.jpg",
+    "Title": "I Rated EVERY Outdoor Boys Meal",
+    "Channel": "Max the Meat Guy",
+    "Category": "People & Blogs",
+    "Views Gained": 958837
+  },
+  {
+    "Rank": 42,
+    "Change": "-12",
+    "Thumbnail": "https://i.ytimg.com/vi/4vqE8ASgSjw/hqdefault.jpg",
+    "Title": "How I Went From A Coward To A Hero",
+    "Channel": "MSA previously My Story Animated",
+    "Category": "Film & Animation",
+    "Views Gained": 954543
+  },
+  {
+    "Rank": 43,
+    "Change": "+6",
+    "Thumbnail": "https://i.ytimg.com/vi/ysSxvkYokcM/hqdefault.jpg",
+    "Title": "¡Los COMERCIALES de VIDEOJUEGOS eran HORRIBLES!",
+    "Channel": "MissaSinfonia",
+    "Category": "Comedy",
+    "Views Gained": 933027
+  },
+  {
+    "Rank": 44,
+    "Change": "-12",
+    "Thumbnail": "https://i.ytimg.com/vi/sF8oJBDh6ig/hqdefault.jpg",
+    "Title": "Moon Wakes Up",
+    "Channel": "Milo and Chip",
+    "Category": "Gaming",
+    "Views Gained": 921297
+  },
+  {
+    "Rank": 45,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/uOOWKg2Chj0/hqdefault.jpg",
+    "Title": "24 HORAS IGNORANDO A KARLA BUSTILLOS *La hice llorar* 💔 Renata Puente",
+    "Channel": "Renata Puente",
+    "Category": "People & Blogs",
+    "Views Gained": 920682
+  },
+  {
+    "Rank": 46,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/rdboDzHjp1Q/hqdefault.jpg",
+    "Title": "I Visited 50 States in 50 Days - Day 18",
+    "Channel": "Ryan Trahan",
+    "Category": "Entertainment",
+    "Views Gained": 905972
+  },
+  {
+    "Rank": 47,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/scWZNcsqGCs/hqdefault.jpg",
+    "Title": "PASSAMOS 72 HORAS NA ESTRADA *Sobrevivemos ?",
+    "Channel": "Emilly Vick",
+    "Category": "Science & Technology",
+    "Views Gained": 893480
+  },
+  {
+    "Rank": 48,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/NIPwY8x2TGc/hqdefault.jpg",
+    "Title": "映画『カラフルピーチ/海賊の宝』",
+    "Channel": "カラフルピーチ",
+    "Category": "Gaming",
+    "Views Gained": 886594
+  },
+  {
+    "Rank": 49,
+    "Change": "-23",
+    "Thumbnail": "https://i.ytimg.com/vi/mxCTfdsSH0A/hqdefault.jpg",
+    "Title": "Best Foam Art Wins $1,000!",
+    "Channel": "Stay Wild",
+    "Category": "Entertainment",
+    "Views Gained": 859300
+  },
+  {
+    "Rank": 50,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/R9IZZZ3IikA/hqdefault.jpg",
+    "Title": "I Visited 50 States in 50 Days - Day 16",
+    "Channel": "Ryan Trahan",
+    "Category": "Entertainment",
+    "Views Gained": 857537
   }
 ]
