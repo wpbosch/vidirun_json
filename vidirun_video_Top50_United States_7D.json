@@ -7,221 +7,291 @@
     "Channel": "ZENZING CLIPS",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 50319408
+    "Views Gained": 49307732
   },
   {
     "Rank": 2,
-    "Change": "+1",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/kNmn5rAWO_I/hqdefault.jpg",
     "Title": "\"THAT SLAP ECHOED IN THE ROOM\" | Red One | Fragment - slxughter (slowed) #edit #shorts",
     "Channel": "Jectro EditZ",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 43928611
+    "Views Gained": 49012667
   },
   {
     "Rank": 3,
-    "Change": "+1",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/9txkGBj_trg/hqdefault.jpg",
     "Title": "Call of Duty: Black Ops 7 | Gameplay Reveal Trailer",
     "Channel": "Call of Duty",
     "Category": "Gaming",
     "Format": "Standard",
-    "Views Gained": 42786667
+    "Views Gained": 45814475
   },
   {
     "Rank": 4,
-    "Change": "+1",
-    "Thumbnail": "https://i.ytimg.com/vi/HbCEy64ApcI/hqdefault.jpg",
-    "Title": "Ranking the Funniest Filter Challenge 🤣 (Part 8)",
-    "Channel": "mr chill",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 41397716
-  },
-  {
-    "Rank": 5,
-    "Change": "+2",
-    "Thumbnail": "https://i.ytimg.com/vi/mOvhHim78YA/hqdefault.jpg",
-    "Title": "THE AMAZING DIGITAL CIRCUS - Ep 6: They All Get Guns",
-    "Channel": "GLITCH",
-    "Category": "Film & Animation",
-    "Format": "Long",
-    "Views Gained": 32123184
-  },
-  {
-    "Rank": 6,
-    "Change": "-4",
-    "Thumbnail": "https://i.ytimg.com/vi/RwucUnavjWY/hqdefault.jpg",
-    "Title": "Follow for music, memes & unexpected fun! 🎹#dadjokes #parents #fatherhood",
-    "Channel": "Maryna Aksenov",
-    "Category": "Music",
-    "Format": "Short",
-    "Views Gained": 30920556
-  },
-  {
-    "Rank": 7,
-    "Change": "+3",
-    "Thumbnail": "https://i.ytimg.com/vi/gWz_HMuqDIE/hqdefault.jpg",
-    "Title": "The Ba***ds Of Bollywood | Preview | Bobby Deol, Lakshya, Raghav, Sahher | Netflix India",
-    "Channel": "Netflix India",
-    "Category": "Entertainment",
-    "Format": "Standard",
-    "Views Gained": 30246403
-  },
-  {
-    "Rank": 8,
-    "Change": "+1",
-    "Thumbnail": "https://i.ytimg.com/vi/tkD4IAo_3fE/hqdefault.jpg",
-    "Title": "His dismount have me chills 🤯 (Asher Hong) #gymnastics #gymnast #sports #sport #olympics #olympic",
-    "Channel": "Ian Gunther",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 24005207
-  },
-  {
-    "Rank": 9,
-    "Change": "+8",
-    "Thumbnail": "https://i.ytimg.com/vi/A4nu5cSnfFg/hqdefault.jpg",
-    "Title": "The Otter Who Tried Too Hard 😂🦦  (📷 @urusaiari3/TT) #shorts",
-    "Channel": "Infi's Diary",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 23552274
-  },
-  {
-    "Rank": 10,
-    "Change": "New",
+    "Change": "+6",
     "Thumbnail": "https://i.ytimg.com/vi/K7tAa-VZc_8/hqdefault.jpg",
     "Title": "natulala si kuya #funny #comedymove #comedyfilms",
     "Channel": "Melody Rafayla",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 22643032
+    "Views Gained": 44988155
+  },
+  {
+    "Rank": 5,
+    "Change": "-1",
+    "Thumbnail": "https://i.ytimg.com/vi/HbCEy64ApcI/hqdefault.jpg",
+    "Title": "Ranking the Funniest Filter Challenge 🤣 (Part 8)",
+    "Channel": "mr chill",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 44922955
+  },
+  {
+    "Rank": 6,
+    "Change": "+1",
+    "Thumbnail": "https://i.ytimg.com/vi/gWz_HMuqDIE/hqdefault.jpg",
+    "Title": "The Ba***ds Of Bollywood | Preview | Bobby Deol, Lakshya, Raghav, Sahher | Netflix India",
+    "Channel": "Netflix India",
+    "Category": "Entertainment",
+    "Format": "Standard",
+    "Views Gained": 37205267
+  },
+  {
+    "Rank": 7,
+    "Change": "+2",
+    "Thumbnail": "https://i.ytimg.com/vi/A4nu5cSnfFg/hqdefault.jpg",
+    "Title": "The Otter Who Tried Too Hard 😂🦦  (📷 @urusaiari3/TT) #shorts",
+    "Channel": "Infi's Diary",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 29230291
+  },
+  {
+    "Rank": 8,
+    "Change": "-3",
+    "Thumbnail": "https://i.ytimg.com/vi/mOvhHim78YA/hqdefault.jpg",
+    "Title": "THE AMAZING DIGITAL CIRCUS - Ep 6: They All Get Guns",
+    "Channel": "GLITCH",
+    "Category": "Film & Animation",
+    "Format": "Long",
+    "Views Gained": 26213868
+  },
+  {
+    "Rank": 9,
+    "Change": "-3",
+    "Thumbnail": "https://i.ytimg.com/vi/RwucUnavjWY/hqdefault.jpg",
+    "Title": "Follow for music, memes & unexpected fun! 🎹#dadjokes #parents #fatherhood",
+    "Channel": "Maryna Aksenov",
+    "Category": "Music",
+    "Format": "Short",
+    "Views Gained": 24529081
+  },
+  {
+    "Rank": 10,
+    "Change": "-2",
+    "Thumbnail": "https://i.ytimg.com/vi/tkD4IAo_3fE/hqdefault.jpg",
+    "Title": "His dismount have me chills 🤯 (Asher Hong) #gymnastics #gymnast #sports #sport #olympics #olympic",
+    "Channel": "Ian Gunther",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 20968899
   },
   {
     "Rank": 11,
-    "Change": "-3",
-    "Thumbnail": "https://i.ytimg.com/vi/f8yc6O-xKIE/hqdefault.jpg",
-    "Title": "You have never seen a house like this!! 🤯",
-    "Channel": "The Daily Nelly",
-    "Category": "People & Blogs",
-    "Format": "Standard",
-    "Views Gained": 21359760
+    "Change": "+25",
+    "Thumbnail": "https://i.ytimg.com/vi/MJuYk8fQEV8/hqdefault.jpg",
+    "Title": "You're Our Hero Stubby | Sgt. Stubby: An American Hero | Song - Kamin (Slowed) #edit #shorts",
+    "Channel": "Maven-Edits",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 20129638
   },
   {
     "Rank": 12,
-    "Change": "-6",
-    "Thumbnail": "https://i.ytimg.com/vi/9IvQzhaiSX8/hqdefault.jpg",
-    "Title": "What happens when your GF is so thin😱😂 #shorts #funny",
-    "Channel": "CuRe 구래",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 21138636
-  },
-  {
-    "Rank": 13,
-    "Change": "-1",
+    "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/q0L4X7QIZq8/hqdefault.jpg",
     "Title": "Ranking Most Impressive Videos 👍 #best #tiktok",
     "Channel": "EpicFraee",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 20904682
+    "Views Gained": 18811199
   },
   {
-    "Rank": 14,
-    "Change": "+1",
-    "Thumbnail": "https://i.ytimg.com/vi/zTwTY4XZ_g0/hqdefault.jpg",
-    "Title": "Last time Germany built rockets, people got upset.",
-    "Channel": "Jaka Parker",
-    "Category": "Travel & Events",
-    "Format": "Short",
-    "Views Gained": 16776422
-  },
-  {
-    "Rank": 15,
+    "Rank": 13,
     "Change": "+5",
-    "Thumbnail": "https://i.ytimg.com/vi/VhkPinAit5A/hqdefault.jpg",
-    "Title": "How Did King Louis Survive a 25 Barrel Attack?",
-    "Channel": "The Art Of War",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 15872608
-  },
-  {
-    "Rank": 16,
-    "Change": "+8",
-    "Thumbnail": "https://i.ytimg.com/vi/PZUDd-WG-fk/hqdefault.jpg",
-    "Title": "its almost christmas #blinddating #zachjustice",
-    "Channel": "Zach Justice",
-    "Category": "Comedy",
-    "Format": "Short",
-    "Views Gained": 13681001
-  },
-  {
-    "Rank": 17,
-    "Change": "-3",
-    "Thumbnail": "https://i.ytimg.com/vi/ftWhq0eHWiA/hqdefault.jpg",
-    "Title": "He could only save one of them...",
-    "Channel": "Reid Olson",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 13224621
-  },
-  {
-    "Rank": 18,
-    "Change": "New",
     "Thumbnail": "https://i.ytimg.com/vi/rgmKljzwNXY/hqdefault.jpg",
     "Title": "Japan wins gold but Canada wins hearts ❤️",
     "Channel": "NXCRE",
     "Category": "Music",
     "Format": "Short",
-    "Views Gained": 13198075
+    "Views Gained": 18774642
   },
   {
-    "Rank": 19,
-    "Change": "+3",
-    "Thumbnail": "https://i.ytimg.com/vi/lblbCWkXV7U/hqdefault.jpg",
-    "Title": "Pit Crew Pulls Prank on NASCAR Champs Blaney and Elliott",
-    "Channel": "Team Trackhouse",
-    "Category": "Sports",
-    "Format": "Short",
-    "Views Gained": 13100683
-  },
-  {
-    "Rank": 20,
-    "Change": "+16",
+    "Rank": 14,
+    "Change": "+6",
     "Thumbnail": "https://i.ytimg.com/vi/-a2Ydu__3Vw/hqdefault.jpg",
     "Title": "#kikakim",
     "Channel": "Kika Kim",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 12939112
+    "Views Gained": 17876424
+  },
+  {
+    "Rank": 15,
+    "Change": "0",
+    "Thumbnail": "https://i.ytimg.com/vi/VhkPinAit5A/hqdefault.jpg",
+    "Title": "How Did King Louis Survive a 25 Barrel Attack?",
+    "Channel": "The Art Of War",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 17645590
+  },
+  {
+    "Rank": 16,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/Bt_VZpxWQGU/hqdefault.jpg",
+    "Title": "How To Make Mosquito Snapper",
+    "Channel": "JayFindsThings",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 17199715
+  },
+  {
+    "Rank": 17,
+    "Change": "-6",
+    "Thumbnail": "https://i.ytimg.com/vi/f8yc6O-xKIE/hqdefault.jpg",
+    "Title": "You have never seen a house like this!! 🤯",
+    "Channel": "The Daily Nelly",
+    "Category": "People & Blogs",
+    "Format": "Standard",
+    "Views Gained": 16052588
+  },
+  {
+    "Rank": 18,
+    "Change": "-4",
+    "Thumbnail": "https://i.ytimg.com/vi/zTwTY4XZ_g0/hqdefault.jpg",
+    "Title": "Last time Germany built rockets, people got upset.",
+    "Channel": "Jaka Parker",
+    "Category": "Travel & Events",
+    "Format": "Short",
+    "Views Gained": 15478937
+  },
+  {
+    "Rank": 19,
+    "Change": "+6",
+    "Thumbnail": "https://i.ytimg.com/vi/H_YIMNUbTP0/hqdefault.jpg",
+    "Title": "Dantes Couldn't Believe His Eyes 😯",
+    "Channel": "clipsofdantes",
+    "Category": "Gaming",
+    "Format": "Short",
+    "Views Gained": 15088513
+  },
+  {
+    "Rank": 20,
+    "Change": "+6",
+    "Thumbnail": "https://i.ytimg.com/vi/7lWwx0yX3Bg/hqdefault.jpg",
+    "Title": "DONT CHECK THE SOUND 😭😭",
+    "Channel": "MadnessRanks",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 14883277
   },
   {
     "Rank": 21,
     "Change": "-5",
-    "Thumbnail": "https://i.ytimg.com/vi/AhAkjxQk8KE/hqdefault.jpg",
-    "Title": "REAL funny dad 😑 #Shorts",
-    "Channel": "mmmjoemele",
+    "Thumbnail": "https://i.ytimg.com/vi/PZUDd-WG-fk/hqdefault.jpg",
+    "Title": "its almost christmas #blinddating #zachjustice",
+    "Channel": "Zach Justice",
     "Category": "Comedy",
     "Format": "Short",
-    "Views Gained": 12904924
+    "Views Gained": 14334581
   },
   {
     "Rank": 22,
-    "Change": "-11",
-    "Thumbnail": "https://i.ytimg.com/vi/rSy73RerGLg/hqdefault.jpg",
-    "Title": "\"THE MARMALADE\" | Paddington 2 | Kamin - Emin & Jony (slowed) #edit #shorts",
-    "Channel": "Jectro EditZ",
-    "Category": "People & Blogs",
+    "Change": "+7",
+    "Thumbnail": "https://i.ytimg.com/vi/1IB5Zq-6Y1c/hqdefault.jpg",
+    "Title": "Road Rules Don’t Apply Here 🚫",
+    "Channel": "Red Bull",
+    "Category": "Sports",
     "Format": "Short",
-    "Views Gained": 12838698
+    "Views Gained": 13448413
   },
   {
     "Rank": 23,
+    "Change": "-4",
+    "Thumbnail": "https://i.ytimg.com/vi/lblbCWkXV7U/hqdefault.jpg",
+    "Title": "Pit Crew Pulls Prank on NASCAR Champs Blaney and Elliott",
+    "Channel": "Team Trackhouse",
+    "Category": "Sports",
+    "Format": "Short",
+    "Views Gained": 13168887
+  },
+  {
+    "Rank": 24,
+    "Change": "+19",
+    "Thumbnail": "https://i.ytimg.com/vi/rOJeiDLbGk4/hqdefault.jpg",
+    "Title": "#vaishalichaudharykhutail",
+    "Channel": "Movie Kings",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 13140589
+  },
+  {
+    "Rank": 25,
+    "Change": "-13",
+    "Thumbnail": "https://i.ytimg.com/vi/9IvQzhaiSX8/hqdefault.jpg",
+    "Title": "What happens when your GF is so thin😱😂 #shorts #funny",
+    "Channel": "CuRe 구래",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 12959330
+  },
+  {
+    "Rank": 26,
+    "Change": "-2",
+    "Thumbnail": "https://i.ytimg.com/vi/pPsONKSw18A/hqdefault.jpg",
+    "Title": "Don’t Check The Sound.. ⚠️‼️",
+    "Channel": "Loving Pets",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 12697038
+  },
+  {
+    "Rank": 27,
     "Change": "+5",
+    "Thumbnail": "https://i.ytimg.com/vi/t9fyZNiTyF4/hqdefault.jpg",
+    "Title": "Ranking the Funniest Singing to Strangers Moments",
+    "Channel": "Epic Rank",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 12493982
+  },
+  {
+    "Rank": 28,
+    "Change": "+16",
+    "Thumbnail": "https://i.ytimg.com/vi/P7vBoGWoReg/hqdefault.jpg",
+    "Title": "Stray Kids \"CEREMONY\" M/V",
+    "Channel": "JYP Entertainment",
+    "Category": "Music",
+    "Format": "Standard",
+    "Views Gained": 12386310
+  },
+  {
+    "Rank": 29,
+    "Change": "-2",
+    "Thumbnail": "https://i.ytimg.com/vi/woXgDqS4lSI/hqdefault.jpg",
+    "Title": "World's Tallest Wrestler vs. World's Smallest Wrestler",
+    "Channel": "WWE",
+    "Category": "Sports",
+    "Format": "Short",
+    "Views Gained": 12247052
+  },
+  {
+    "Rank": 30,
+    "Change": "-7",
     "Thumbnail": "https://i.ytimg.com/vi/nSV1DBULiyc/hqdefault.jpg",
     "Title": "Respect💯 Greatest Save😍 #shorts #short #status #viral",
     "Channel": "Holo Tv Info",
@@ -230,188 +300,148 @@
     "Views Gained": 12200727
   },
   {
-    "Rank": 24,
-    "Change": "+7",
-    "Thumbnail": "https://i.ytimg.com/vi/pPsONKSw18A/hqdefault.jpg",
-    "Title": "Don’t Check The Sound.. ⚠️‼️",
-    "Channel": "Loving Pets",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 12185172
-  },
-  {
-    "Rank": 25,
-    "Change": "+17",
-    "Thumbnail": "https://i.ytimg.com/vi/H_YIMNUbTP0/hqdefault.jpg",
-    "Title": "Dantes Couldn't Believe His Eyes 😯",
-    "Channel": "clipsofdantes",
-    "Category": "Gaming",
-    "Format": "Short",
-    "Views Gained": 12128149
-  },
-  {
-    "Rank": 26,
-    "Change": "+12",
-    "Thumbnail": "https://i.ytimg.com/vi/7lWwx0yX3Bg/hqdefault.jpg",
-    "Title": "DONT CHECK THE SOUND 😭😭",
-    "Channel": "MadnessRanks",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 11995363
-  },
-  {
-    "Rank": 27,
-    "Change": "+5",
-    "Thumbnail": "https://i.ytimg.com/vi/woXgDqS4lSI/hqdefault.jpg",
-    "Title": "World's Tallest Wrestler vs. World's Smallest Wrestler",
-    "Channel": "WWE",
-    "Category": "Sports",
-    "Format": "Short",
-    "Views Gained": 11539049
-  },
-  {
-    "Rank": 28,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/b_4zuJbItLQ/hqdefault.jpg",
-    "Title": "🚨 NEW HOT SAW WORLD RECORD 🚨 #hotsaw #extremesports #lumberjack #worldrecord",
-    "Channel": "The Official STIHL TIMBERSPORTS® SERIES",
-    "Category": "Sports",
-    "Format": "Short",
-    "Views Gained": 11401228
-  },
-  {
-    "Rank": 29,
-    "Change": "+15",
-    "Thumbnail": "https://i.ytimg.com/vi/1IB5Zq-6Y1c/hqdefault.jpg",
-    "Title": "Road Rules Don’t Apply Here 🚫",
-    "Channel": "Red Bull",
-    "Category": "Sports",
-    "Format": "Short",
-    "Views Gained": 11270810
-  },
-  {
-    "Rank": 30,
-    "Change": "+3",
-    "Thumbnail": "https://i.ytimg.com/vi/F5lDnO-7mpg/hqdefault.jpg",
-    "Title": "TRY NOT TO LAUGH COMPILATION 😂",
-    "Channel": "Bob Reese",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 11072642
-  },
-  {
     "Rank": 31,
-    "Change": "+9",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/sp0uqCjMXpk/hqdefault.jpg",
     "Title": "Kill the mystery 🔪 - KPOP DEMON HUNTERS ANIMATION | GH'S ANIMATION",
     "Channel": "GH'S",
     "Category": "Gaming",
     "Format": "Short",
-    "Views Gained": 10317197
+    "Views Gained": 11504015
   },
   {
     "Rank": 32,
-    "Change": "+18",
-    "Thumbnail": "https://i.ytimg.com/vi/t9fyZNiTyF4/hqdefault.jpg",
-    "Title": "Ranking the Funniest Singing to Strangers Moments",
-    "Channel": "Epic Rank",
-    "Category": "Entertainment",
+    "Change": "-11",
+    "Thumbnail": "https://i.ytimg.com/vi/AhAkjxQk8KE/hqdefault.jpg",
+    "Title": "REAL funny dad 😑 #Shorts",
+    "Channel": "mmmjoemele",
+    "Category": "Comedy",
     "Format": "Short",
-    "Views Gained": 10254686
+    "Views Gained": 11317627
   },
   {
     "Rank": 33,
-    "Change": "-15",
-    "Thumbnail": "https://i.ytimg.com/vi/q8jt-RzCDp4/hqdefault.jpg",
-    "Title": "Fruit be tasting like a V8 and raw steak 😂 | Comment if you can relate #relatable",
-    "Channel": "DankScole",
-    "Category": "Comedy",
+    "Change": "+12",
+    "Thumbnail": "https://i.ytimg.com/vi/Wp1DXXyOoBA/hqdefault.jpg",
+    "Title": "1 day vs 10 years in the USA | Guns 🥇",
+    "Channel": "Radical Living",
+    "Category": "Entertainment",
     "Format": "Short",
-    "Views Gained": 10081373
+    "Views Gained": 10703329
   },
   {
     "Rank": 34,
+    "Change": "-6",
+    "Thumbnail": "https://i.ytimg.com/vi/b_4zuJbItLQ/hqdefault.jpg",
+    "Title": "🚨 NEW HOT SAW WORLD RECORD 🚨 #hotsaw #extremesports #lumberjack #worldrecord",
+    "Channel": "The Official STIHL TIMBERSPORTS® SERIES",
+    "Category": "Sports",
+    "Format": "Short",
+    "Views Gained": 10681323
+  },
+  {
+    "Rank": 35,
+    "Change": "+12",
+    "Thumbnail": "https://i.ytimg.com/vi/7L6VquCkT50/hqdefault.jpg",
+    "Title": "Alan Tudyk Improvised This Superman Robot Scene",
+    "Channel": "Screen Brief",
+    "Category": "Film & Animation",
+    "Format": "Short",
+    "Views Gained": 10055830
+  },
+  {
+    "Rank": 36,
+    "Change": "+13",
+    "Thumbnail": "https://i.ytimg.com/vi/M15Ls7QX1W8/hqdefault.jpg",
+    "Title": "This guy's ability saved her life 🤯",
+    "Channel": "Snow Moments",
+    "Category": "Music",
+    "Format": "Short",
+    "Views Gained": 9891595
+  },
+  {
+    "Rank": 37,
+    "Change": "-2",
+    "Thumbnail": "https://i.ytimg.com/vi/CTGxf_3VrUQ/hqdefault.jpg",
+    "Title": "Chino Pacas - Ojitos Mentirosos [Video Oficial]",
+    "Channel": "Chino Pacas",
+    "Category": "Entertainment",
+    "Format": "Standard",
+    "Views Gained": 9304979
+  },
+  {
+    "Rank": 38,
+    "Change": "+1",
+    "Thumbnail": "https://i.ytimg.com/vi/1-dd4maHWVU/hqdefault.jpg",
+    "Title": "Mike Shinoda's Daughter Doesn't Know Who He Really Is",
+    "Channel": "Wavesclip",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 9243343
+  },
+  {
+    "Rank": 39,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/AG60VAuIZ9g/hqdefault.jpg",
+    "Title": "He took kindness for weakness—and paid the price!",
+    "Channel": "Boxing Sport",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 8970893
+  },
+  {
+    "Rank": 40,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/y--UiVmkics/hqdefault.jpg",
+    "Title": "How To Make Your Ice Cream Smooth.. 🍨😭 #relatablestories #comedy #funnymemes",
+    "Channel": "Tyler Vitelli",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 8938966
+  },
+  {
+    "Rank": 41,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/HVqoyMi98OI/hqdefault.jpg",
+    "Title": "ANEMONE - Official Trailer [HD] - Only in Theaters October 3",
+    "Channel": "Focus Features",
+    "Category": "Film & Animation",
+    "Format": "Standard",
+    "Views Gained": 8684772
+  },
+  {
+    "Rank": 42,
     "Change": "-8",
     "Thumbnail": "https://i.ytimg.com/vi/FMX98ROVRCE/hqdefault.jpg",
     "Title": "LISA - DREAM feat. Kentaro Sakaguchi (Official Short Film MV)",
     "Channel": "LLOUD Official",
     "Category": "Music",
     "Format": "Standard",
-    "Views Gained": 9930026
+    "Views Gained": 8672219
   },
   {
-    "Rank": 35,
-    "Change": "+2",
-    "Thumbnail": "https://i.ytimg.com/vi/CTGxf_3VrUQ/hqdefault.jpg",
-    "Title": "Chino Pacas - Ojitos Mentirosos [Video Oficial]",
-    "Channel": "Chino Pacas",
+    "Rank": 43,
+    "Change": "+3",
+    "Thumbnail": "https://i.ytimg.com/vi/zEzyD5oszwM/hqdefault.jpg",
+    "Title": "skibidi toilet 79 (part 2)",
+    "Channel": "DaFuq!?Boom!",
     "Category": "Entertainment",
     "Format": "Standard",
-    "Views Gained": 9137753
+    "Views Gained": 8669143
   },
   {
-    "Rank": 36,
+    "Rank": 44,
     "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/MJuYk8fQEV8/hqdefault.jpg",
-    "Title": "You're Our Hero Stubby | Sgt. Stubby: An American Hero | Song - Kamin (Slowed) #edit #shorts",
-    "Channel": "Maven-Edits",
+    "Thumbnail": "https://i.ytimg.com/vi/94lEXL5V3iU/hqdefault.jpg",
+    "Title": "Why Is He STILL Screaming At Me? 😡🤯",
+    "Channel": "Valuetainment Comedy",
     "Category": "Entertainment",
     "Format": "Short",
-    "Views Gained": 9037095
+    "Views Gained": 8506538
   },
   {
-    "Rank": 37,
-    "Change": "-10",
-    "Thumbnail": "https://i.ytimg.com/vi/B_739viHQYY/hqdefault.jpg",
-    "Title": "Rookie didn't know who he stopped #movie #shorts #dog",
-    "Channel": "It's Cobra Kai",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 9005219
-  },
-  {
-    "Rank": 38,
-    "Change": "+1",
-    "Thumbnail": "https://i.ytimg.com/vi/gqDf9lp-R8w/hqdefault.jpg",
-    "Title": "We all know what Deadpool wants  🤣🤣 #deadpool #mcu #shorts",
-    "Channel": "Sartre Nick",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 8919833
-  },
-  {
-    "Rank": 39,
-    "Change": "+8",
-    "Thumbnail": "https://i.ytimg.com/vi/1-dd4maHWVU/hqdefault.jpg",
-    "Title": "Mike Shinoda's Daughter Doesn't Know Who He Really Is",
-    "Channel": "Wavesclip",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 8660885
-  },
-  {
-    "Rank": 40,
-    "Change": "+1",
-    "Thumbnail": "https://i.ytimg.com/vi/BhzPEnKQP2Y/hqdefault.jpg",
-    "Title": "CHECK THE SOUND 💔🥀",
-    "Channel": "Malaj",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 8319204
-  },
-  {
-    "Rank": 41,
-    "Change": "-11",
-    "Thumbnail": "https://i.ytimg.com/vi/UVQUUuOSous/hqdefault.jpg",
-    "Title": "He’s MAD About Paying $2 for Groceries🤯💸 | The Coupon Kid",
-    "Channel": "Peakzmotivation",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 8115620
-  },
-  {
-    "Rank": 42,
-    "Change": "+1",
+    "Rank": 45,
+    "Change": "-3",
     "Thumbnail": "https://i.ytimg.com/vi/nMzXfJdDpu4/hqdefault.jpg",
     "Title": "He's Done Bullying Anyone 💀 | Movie - Palmer | Song - Fragment #edit #shorts",
     "Channel": "Maven-Edits",
@@ -420,57 +450,47 @@
     "Views Gained": 8084077
   },
   {
-    "Rank": 43,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/rOJeiDLbGk4/hqdefault.jpg",
-    "Title": "#vaishalichaudharykhutail",
-    "Channel": "Movie Kings",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 8077096
-  },
-  {
-    "Rank": 44,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/P7vBoGWoReg/hqdefault.jpg",
-    "Title": "Stray Kids \"CEREMONY\" M/V",
-    "Channel": "JYP Entertainment",
-    "Category": "Music",
-    "Format": "Standard",
-    "Views Gained": 7998078
-  },
-  {
-    "Rank": 45,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/Wp1DXXyOoBA/hqdefault.jpg",
-    "Title": "1 day vs 10 years in the USA | Guns 🥇",
-    "Channel": "Radical Living",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 7997589
-  },
-  {
     "Rank": 46,
-    "Change": "+3",
-    "Thumbnail": "https://i.ytimg.com/vi/zEzyD5oszwM/hqdefault.jpg",
-    "Title": "skibidi toilet 79 (part 2)",
-    "Channel": "DaFuq!?Boom!",
-    "Category": "Entertainment",
-    "Format": "Standard",
-    "Views Gained": 7923754
+    "Change": "-29",
+    "Thumbnail": "https://i.ytimg.com/vi/ftWhq0eHWiA/hqdefault.jpg",
+    "Title": "He could only save one of them...",
+    "Channel": "Reid Olson",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 8021499
   },
   {
     "Rank": 47,
     "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/7L6VquCkT50/hqdefault.jpg",
-    "Title": "Alan Tudyk Improvised This Superman Robot Scene",
-    "Channel": "Screen Brief",
-    "Category": "Film & Animation",
+    "Thumbnail": "https://i.ytimg.com/vi/s5msP-eilxQ/hqdefault.jpg",
+    "Title": "When Math is Not Mathing 4 #shorts",
+    "Channel": "Dude Dans",
+    "Category": "Music",
     "Format": "Short",
-    "Views Gained": 7846113
+    "Views Gained": 7755052
   },
   {
     "Rank": 48,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/cwtGBX2gLgE/hqdefault.jpg",
+    "Title": "I dont know what I would do😂",
+    "Channel": "Flirtie",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 7695201
+  },
+  {
+    "Rank": 49,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/RjIu3434i3g/hqdefault.jpg",
+    "Title": "He sees monsters that feel death😨😱",
+    "Channel": "9-1-1 house",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 7550005
+  },
+  {
+    "Rank": 50,
     "Change": "-2",
     "Thumbnail": "https://i.ytimg.com/vi/J_zRAi2A2LU/hqdefault.jpg",
     "Title": "Why Do Bathroom Urges Strike After Eating Grapes?#animation #funny #shorts",
@@ -478,25 +498,5 @@
     "Category": "Film & Animation",
     "Format": "Short",
     "Views Gained": 7369694
-  },
-  {
-    "Rank": 49,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/M15Ls7QX1W8/hqdefault.jpg",
-    "Title": "This guy's ability saved her life 🤯",
-    "Channel": "Snow Moments",
-    "Category": "Music",
-    "Format": "Short",
-    "Views Gained": 7204089
-  },
-  {
-    "Rank": 50,
-    "Change": "-16",
-    "Thumbnail": "https://i.ytimg.com/vi/v8yM5wnhyho/hqdefault.jpg",
-    "Title": "Who's In Control Of Big Bird? 🤔",
-    "Channel": "Zack D. Films",
-    "Category": "Travel & Events",
-    "Format": "Short",
-    "Views Gained": 6984517
   }
 ]
