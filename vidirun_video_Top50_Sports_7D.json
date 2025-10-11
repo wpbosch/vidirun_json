@@ -6,128 +6,101 @@
     "Title": "This Looks TERRIFYING 🫣",
     "Channel": "Red Bull",
     "Format": "Short",
-    "Views Gained": 50773549
+    "Views Gained": 54463853
   },
   {
     "Rank": 2,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/u2JSgFFW4zI/hqdefault.jpg",
-    "Title": "He's Training For WHAT?! 🫣",
-    "Channel": "Red Bull",
-    "Format": "Short",
-    "Views Gained": 25318720
-  },
-  {
-    "Rank": 3,
-    "Change": "0",
+    "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/RBa4aEO4nOY/hqdefault.jpg",
     "Title": "Control It You Keep It",
     "Channel": "Futcrunch",
     "Format": "Short",
-    "Views Gained": 19736719
+    "Views Gained": 20349314
   },
   {
-    "Rank": 4,
-    "Change": "+1",
-    "Thumbnail": "https://i.ytimg.com/vi/S4I7zLs_K7k/hqdefault.jpg",
-    "Title": "Mascots & Kids Respect Moments ❤️",
-    "Channel": "Air Football",
-    "Format": "Short",
-    "Views Gained": 12334439
-  },
-  {
-    "Rank": 5,
-    "Change": "+1",
-    "Thumbnail": "https://i.ytimg.com/vi/9btKqUvxHro/hqdefault.jpg",
-    "Title": "GOALKEEPER HAS SERIOUS SPEED",
-    "Channel": "Arsenal",
-    "Format": "Short",
-    "Views Gained": 11533289
-  },
-  {
-    "Rank": 6,
-    "Change": "-2",
-    "Thumbnail": "https://i.ytimg.com/vi/sFza4EsCwjA/hqdefault.jpg",
-    "Title": "1 Impossible Goal In A Stadium",
-    "Channel": "Futcrunch",
-    "Format": "Short",
-    "Views Gained": 10993547
-  },
-  {
-    "Rank": 7,
-    "Change": "+1",
-    "Thumbnail": "https://i.ytimg.com/vi/2WJoHETjHN0/hqdefault.jpg",
-    "Title": "This is how you trick the defenders 🧠",
-    "Channel": "GrdArena",
-    "Format": "Short",
-    "Views Gained": 8872004
-  },
-  {
-    "Rank": 8,
-    "Change": "+4",
-    "Thumbnail": "https://i.ytimg.com/vi/yiubC7g6WJ0/hqdefault.jpg",
-    "Title": "Who Has The Best Celebration? 🤔⚽️",
-    "Channel": "Celine Dept",
-    "Format": "Short",
-    "Views Gained": 8712509
-  },
-  {
-    "Rank": 9,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/XbxJXwziOnw/hqdefault.jpg",
-    "Title": "3 Letters, 1 Player or Swim 🥶💦",
-    "Channel": "Celine Dept",
-    "Format": "Short",
-    "Views Gained": 7044571
-  },
-  {
-    "Rank": 10,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/3WM881giiWo/hqdefault.jpg",
-    "Title": "Bruno Reaction🥶",
-    "Channel": "Fearron",
-    "Format": "Short",
-    "Views Gained": 6626478
-  },
-  {
-    "Rank": 11,
-    "Change": "New",
+    "Rank": 3,
+    "Change": "+8",
     "Thumbnail": "https://i.ytimg.com/vi/6a6oEvHAIL0/hqdefault.jpg",
     "Title": "Find My Football, Win £1,000 💰",
     "Channel": "John Nellis",
     "Format": "Short",
-    "Views Gained": 6111677
+    "Views Gained": 18601916
   },
   {
-    "Rank": 12,
-    "Change": "-5",
-    "Thumbnail": "https://i.ytimg.com/vi/MgUmTSv71tE/hqdefault.jpg",
-    "Title": "Don't Kick The Cake Football!",
-    "Channel": "Jesser",
+    "Rank": 4,
+    "Change": "-2",
+    "Thumbnail": "https://i.ytimg.com/vi/u2JSgFFW4zI/hqdefault.jpg",
+    "Title": "He's Training For WHAT?! 🫣",
+    "Channel": "Red Bull",
     "Format": "Short",
-    "Views Gained": 5999973
+    "Views Gained": 16122582
   },
   {
-    "Rank": 13,
-    "Change": "+6",
+    "Rank": 5,
+    "Change": "-1",
+    "Thumbnail": "https://i.ytimg.com/vi/S4I7zLs_K7k/hqdefault.jpg",
+    "Title": "Mascots & Kids Respect Moments ❤️",
+    "Channel": "Air Football",
+    "Format": "Short",
+    "Views Gained": 13885289
+  },
+  {
+    "Rank": 6,
+    "Change": "-1",
+    "Thumbnail": "https://i.ytimg.com/vi/9btKqUvxHro/hqdefault.jpg",
+    "Title": "GOALKEEPER HAS SERIOUS SPEED",
+    "Channel": "Arsenal",
+    "Format": "Short",
+    "Views Gained": 12369523
+  },
+  {
+    "Rank": 7,
+    "Change": "+1",
+    "Thumbnail": "https://i.ytimg.com/vi/yiubC7g6WJ0/hqdefault.jpg",
+    "Title": "Who Has The Best Celebration? 🤔⚽️",
+    "Channel": "Celine Dept",
+    "Format": "Short",
+    "Views Gained": 11833046
+  },
+  {
+    "Rank": 8,
+    "Change": "-1",
+    "Thumbnail": "https://i.ytimg.com/vi/2WJoHETjHN0/hqdefault.jpg",
+    "Title": "This is how you trick the defenders 🧠",
+    "Channel": "GrdArena",
+    "Format": "Short",
+    "Views Gained": 6979368
+  },
+  {
+    "Rank": 9,
+    "Change": "-3",
+    "Thumbnail": "https://i.ytimg.com/vi/sFza4EsCwjA/hqdefault.jpg",
+    "Title": "1 Impossible Goal In A Stadium",
+    "Channel": "Futcrunch",
+    "Format": "Short",
+    "Views Gained": 6863103
+  },
+  {
+    "Rank": 10,
+    "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/Pz6-0el2N30/hqdefault.jpg",
     "Title": "КРУПНЕЙШЕЕ ПАДЕНИЕ с ВЕРШИНЫ ОЛИМПА в современном боксе #shorts",
     "Channel": "BalcevMMA_BOXING",
     "Format": "Standard",
-    "Views Gained": 5313565
+    "Views Gained": 5735888
   },
   {
-    "Rank": 14,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/-vVQ1j65BvI/hqdefault.jpg",
-    "Title": "Bro will do anything for Ronaldo 🤯☠️",
-    "Channel": "Whistle On",
+    "Rank": 11,
+    "Change": "+9",
+    "Thumbnail": "https://i.ytimg.com/vi/YZskbmkubKA/hqdefault.jpg",
+    "Title": "Подлец Принял Доброту за Слабость и БЫЛ УНИЖЕН!",
+    "Channel": "Diller",
     "Format": "Short",
-    "Views Gained": 5280590
+    "Views Gained": 5334454
   },
   {
-    "Rank": 15,
-    "Change": "0",
+    "Rank": 12,
+    "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/KD-RKJi4pnU/hqdefault.jpg",
     "Title": "Juventus vs madrid will be 🔥 #championsleague",
     "Channel": "Earthly",
@@ -135,8 +108,8 @@
     "Views Gained": 5233803
   },
   {
-    "Rank": 16,
-    "Change": "0",
+    "Rank": 13,
+    "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/Q9WmBQhlOEk/hqdefault.jpg",
     "Title": "Messi's Sons Respect Ronaldo's Win😳",
     "Channel": "FlashPass",
@@ -144,8 +117,53 @@
     "Views Gained": 5206948
   },
   {
+    "Rank": 14,
+    "Change": "+4",
+    "Thumbnail": "https://i.ytimg.com/vi/fWr_AwmxP2s/hqdefault.jpg",
+    "Title": "No Molestes a un LEÑADOR RUSO💀🔥(Vasili Kamotsky) #powerslap",
+    "Channel": "Bacoj",
+    "Format": "Short",
+    "Views Gained": 4987577
+  },
+  {
+    "Rank": 15,
+    "Change": "+18",
+    "Thumbnail": "https://i.ytimg.com/vi/-g1RYt2qCso/hqdefault.jpg",
+    "Title": "Insane Goalkeeper Bicycle Goal 🔥 (Slow Motion)",
+    "Channel": "SkillPlayFC",
+    "Format": "Short",
+    "Views Gained": 4852087
+  },
+  {
+    "Rank": 16,
+    "Change": "-7",
+    "Thumbnail": "https://i.ytimg.com/vi/XbxJXwziOnw/hqdefault.jpg",
+    "Title": "3 Letters, 1 Player or Swim 🥶💦",
+    "Channel": "Celine Dept",
+    "Format": "Short",
+    "Views Gained": 4695446
+  },
+  {
     "Rank": 17,
-    "Change": "+3",
+    "Change": "-5",
+    "Thumbnail": "https://i.ytimg.com/vi/MgUmTSv71tE/hqdefault.jpg",
+    "Title": "Don't Kick The Cake Football!",
+    "Channel": "Jesser",
+    "Format": "Short",
+    "Views Gained": 4542925
+  },
+  {
+    "Rank": 18,
+    "Change": "+6",
+    "Thumbnail": "https://i.ytimg.com/vi/f-QEL0hEO6c/hqdefault.jpg",
+    "Title": "It was close..🫣 #goalkeeper #ytshorts",
+    "Channel": "Shea Woodsford",
+    "Format": "Short",
+    "Views Gained": 4459549
+  },
+  {
+    "Rank": 19,
+    "Change": "-2",
     "Thumbnail": "https://i.ytimg.com/vi/LEWNE9zpi48/hqdefault.jpg",
     "Title": "Donnarumma Bought Me a Mystery Gift 🎁",
     "Channel": "John Nellis",
@@ -153,124 +171,97 @@
     "Views Gained": 4415206
   },
   {
-    "Rank": 18,
-    "Change": "+12",
-    "Thumbnail": "https://i.ytimg.com/vi/fWr_AwmxP2s/hqdefault.jpg",
-    "Title": "No Molestes a un LEÑADOR RUSO💀🔥(Vasili Kamotsky) #powerslap",
-    "Channel": "Bacoj",
-    "Format": "Short",
-    "Views Gained": 4310211
-  },
-  {
-    "Rank": 19,
-    "Change": "+3",
-    "Thumbnail": "https://i.ytimg.com/vi/EGotVvJYj9E/hqdefault.jpg",
-    "Title": "Bro got the patience of a saint 😤 #basketball",
-    "Channel": "Rim Reaper",
-    "Format": "Short",
-    "Views Gained": 4159655
-  },
-  {
     "Rank": 20,
-    "Change": "+27",
-    "Thumbnail": "https://i.ytimg.com/vi/YZskbmkubKA/hqdefault.jpg",
-    "Title": "Подлец Принял Доброту за Слабость и БЫЛ УНИЖЕН!",
-    "Channel": "Diller",
+    "Change": "-10",
+    "Thumbnail": "https://i.ytimg.com/vi/3WM881giiWo/hqdefault.jpg",
+    "Title": "Bruno Reaction🥶",
+    "Channel": "Fearron",
     "Format": "Short",
-    "Views Gained": 4097830
+    "Views Gained": 4390996
   },
   {
     "Rank": 21,
-    "Change": "+7",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/bDESL3v_uV8/hqdefault.jpg",
     "Title": "Israel Adesanya Reacts To Alex Pereira DESTROYING Magomed Ankalaev With A 1st Round KO At UFC 320",
     "Channel": "FREESTYLEBENDER",
     "Format": "Short",
-    "Views Gained": 3914496
+    "Views Gained": 4326560
   },
   {
     "Rank": 22,
-    "Change": "+5",
+    "Change": "-8",
+    "Thumbnail": "https://i.ytimg.com/vi/-vVQ1j65BvI/hqdefault.jpg",
+    "Title": "Bro will do anything for Ronaldo 🤯☠️",
+    "Channel": "Whistle On",
+    "Format": "Short",
+    "Views Gained": 4198064
+  },
+  {
+    "Rank": 23,
+    "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/_RReu5WGhw4/hqdefault.jpg",
     "Title": "Alex Pereira Knocks Out Magomed Ankalaev 👊 | UFC 320",
     "Channel": "UFC",
     "Format": "Standard",
-    "Views Gained": 3868049
+    "Views Gained": 4063095
   },
   {
-    "Rank": 23,
-    "Change": "+3",
+    "Rank": 24,
+    "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/b6DRZbYwpbk/hqdefault.jpg",
     "Title": "REAL MADRID 3 - 1 VILLARREAL CF | RESUMEN LALIGA EA SPORTS",
     "Channel": "LALIGA EA SPORTS",
     "Format": "Standard",
-    "Views Gained": 3735631
-  },
-  {
-    "Rank": 24,
-    "Change": "+18",
-    "Thumbnail": "https://i.ytimg.com/vi/f-QEL0hEO6c/hqdefault.jpg",
-    "Title": "It was close..🫣 #goalkeeper #ytshorts",
-    "Channel": "Shea Woodsford",
-    "Format": "Short",
-    "Views Gained": 3713271
+    "Views Gained": 3811382
   },
   {
     "Rank": 25,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/YdWHeFlolU4/hqdefault.jpg",
-    "Title": "Anthony Keinjak, Bola Dibuang, Tapi MU Malah Lanjut Main",
-    "Channel": "Bahas Bola",
-    "Format": "Short",
-    "Views Gained": 3696991
-  },
-  {
-    "Rank": 26,
-    "Change": "-9",
-    "Thumbnail": "https://i.ytimg.com/vi/mAo2-ax0fz4/hqdefault.jpg",
-    "Title": "Yuri Alberto tentou a cavadinha e o Rossi fez a defesa sentado. #futebol #corinthians #flamengo",
-    "Channel": "BDB Sports",
-    "Format": "Short",
-    "Views Gained": 3470248
-  },
-  {
-    "Rank": 27,
-    "Change": "-3",
-    "Thumbnail": "https://i.ytimg.com/vi/8IhoWhQJ65g/hqdefault.jpg",
-    "Title": "Vitinha - The Little Witch🧙🏻‍♀️",
-    "Channel": "CrossBar",
-    "Format": "Short",
-    "Views Gained": 3402307
-  },
-  {
-    "Rank": 28,
-    "Change": "+3",
-    "Thumbnail": "https://i.ytimg.com/vi/vuRM9YlgUp4/hqdefault.jpg",
-    "Title": "Hikaru THROWS Gukesh’s King 😱😱 #chess #gukesh #hikarunakamura",
-    "Channel": "ChessBase India",
-    "Format": "Short",
-    "Views Gained": 3397683
-  },
-  {
-    "Rank": 29,
-    "Change": "+6",
+    "Change": "+4",
     "Thumbnail": "https://i.ytimg.com/vi/owCCute_CLU/hqdefault.jpg",
     "Title": "The Mystery At The Finish Line (@worldtriathlon)",
     "Channel": "The Athlete Feed",
     "Format": "Short",
-    "Views Gained": 3395492
+    "Views Gained": 3734769
   },
   {
-    "Rank": 30,
+    "Rank": 26,
     "Change": "+4",
     "Thumbnail": "https://i.ytimg.com/vi/mRO4bXL7GzA/hqdefault.jpg",
     "Title": "suscribanse a @Original.Futbol es mi otro yo 🔥⚽ #futbol #football #championsleague #futbolargentino",
     "Channel": "Futbol Dinámico ",
     "Format": "Short",
-    "Views Gained": 3341977
+    "Views Gained": 3502337
   },
   {
-    "Rank": 31,
+    "Rank": 27,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/Id8k1v7HbvY/hqdefault.jpg",
+    "Title": "#samayranarula",
+    "Channel": "mydailyfootball",
+    "Format": "Short",
+    "Views Gained": 3485848
+  },
+  {
+    "Rank": 28,
+    "Change": "-9",
+    "Thumbnail": "https://i.ytimg.com/vi/EGotVvJYj9E/hqdefault.jpg",
+    "Title": "Bro got the patience of a saint 😤 #basketball",
+    "Channel": "Rim Reaper",
+    "Format": "Short",
+    "Views Gained": 3432861
+  },
+  {
+    "Rank": 29,
+    "Change": "-1",
+    "Thumbnail": "https://i.ytimg.com/vi/vuRM9YlgUp4/hqdefault.jpg",
+    "Title": "Hikaru THROWS Gukesh’s King 😱😱 #chess #gukesh #hikarunakamura",
+    "Channel": "ChessBase India",
+    "Format": "Short",
+    "Views Gained": 3421179
+  },
+  {
+    "Rank": 30,
     "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/3xVoLLITfvc/hqdefault.jpg",
     "Title": "Troy Williams was DIFFERENT for this 🥶 #shorts",
@@ -279,174 +270,183 @@
     "Views Gained": 3227245
   },
   {
+    "Rank": 31,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/dElSM1a27AE/hqdefault.jpg",
+    "Title": "Efren executed a shot even in dreams you wont make it ! #efrenreyes #efrenreyes",
+    "Channel": "8910ballZ",
+    "Format": "Short",
+    "Views Gained": 3141824
+  },
+  {
     "Rank": 32,
+    "Change": "+2",
+    "Thumbnail": "https://i.ytimg.com/vi/XRIYPfozwwI/hqdefault.jpg",
+    "Title": "SEVILLA FC 4 - 1 FC BARCELONA | RESUMEN LALIGA EA SPORTS",
+    "Channel": "LALIGA EA SPORTS",
+    "Format": "Standard",
+    "Views Gained": 3133715
+  },
+  {
+    "Rank": 33,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/pG65CCVSXDU/hqdefault.jpg",
+    "Title": "football core. #football #hopecore #skills",
+    "Channel": "CallmeNizz",
+    "Format": "Short",
+    "Views Gained": 3044404
+  },
+  {
+    "Rank": 34,
+    "Change": "+4",
+    "Thumbnail": "https://i.ytimg.com/vi/i9QQCVxWr8k/hqdefault.jpg",
+    "Title": "Топурия уклоняется #ufc #mma",
+    "Channel": "Эффект MMA",
+    "Format": "Short",
+    "Views Gained": 3004089
+  },
+  {
+    "Rank": 35,
+    "Change": "+7",
+    "Thumbnail": "https://i.ytimg.com/vi/fwmpyhPe9O8/hqdefault.jpg",
+    "Title": "And he set a new national record too 👀🔥",
+    "Channel": "TrackAndFieldMoments",
+    "Format": "Short",
+    "Views Gained": 2983628
+  },
+  {
+    "Rank": 36,
+    "Change": "+3",
+    "Thumbnail": "https://i.ytimg.com/vi/M2OrbddLG3U/hqdefault.jpg",
+    "Title": "Sesko Scores At Home! 🏠🇸🇮 | Man Utd 2-0 Sunderland",
+    "Channel": "Manchester United",
+    "Format": "Standard",
+    "Views Gained": 2907255
+  },
+  {
+    "Rank": 37,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/u7921Tfg37U/hqdefault.jpg",
+    "Title": "COLLINA MIC'D UP! FT. HENRY BALE  PUYOL #shorts",
+    "Channel": "Shoot for Love",
+    "Format": "Short",
+    "Views Gained": 2800531
+  },
+  {
+    "Rank": 38,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/NmJE0O3ti9I/hqdefault.jpg",
+    "Title": "ПОЛКОВНИК ФСБ СПАС АВТОРИТЕТА #кино #фильмы",
+    "Channel": "Crime Syndicate",
+    "Format": "Short",
+    "Views Gained": 2783887
+  },
+  {
+    "Rank": 39,
+    "Change": "+8",
+    "Thumbnail": "https://i.ytimg.com/vi/gxjk2HIqNDY/hqdefault.jpg",
+    "Title": "El Nero Troncho mete puñete a su rival en el Cono Norte #mundialitodelporvenir",
+    "Channel": "Mundialito del Porvenir",
+    "Format": "Short",
+    "Views Gained": 2773581
+  },
+  {
+    "Rank": 40,
+    "Change": "+4",
+    "Thumbnail": "https://i.ytimg.com/vi/vhUzco0iHCs/hqdefault.jpg",
+    "Title": "UFC Fighter Justin Gaethje Beat Up A Mugger 😳🥊",
+    "Channel": "Pr1meFight",
+    "Format": "Short",
+    "Views Gained": 2610412
+  },
+  {
+    "Rank": 41,
     "Change": "-9",
     "Thumbnail": "https://i.ytimg.com/vi/5asfSs598yA/hqdefault.jpg",
     "Title": "이란 최악의 반칙 참교육",
     "Channel": "태권인턴",
     "Format": "Short",
-    "Views Gained": 3179535
-  },
-  {
-    "Rank": 33,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/-g1RYt2qCso/hqdefault.jpg",
-    "Title": "Insane Goalkeeper Bicycle Goal 🔥 (Slow Motion)",
-    "Channel": "SkillPlayFC",
-    "Format": "Short",
-    "Views Gained": 3101582
-  },
-  {
-    "Rank": 34,
-    "Change": "-1",
-    "Thumbnail": "https://i.ytimg.com/vi/XRIYPfozwwI/hqdefault.jpg",
-    "Title": "SEVILLA FC 4 - 1 FC BARCELONA | RESUMEN LALIGA EA SPORTS",
-    "Channel": "LALIGA EA SPORTS",
-    "Format": "Standard",
-    "Views Gained": 3096960
-  },
-  {
-    "Rank": 35,
-    "Change": "-22",
-    "Thumbnail": "https://i.ytimg.com/vi/esu-BpylKbw/hqdefault.jpg",
-    "Title": "Ronaldo Makes IShowSpeed’s Dream Come True 🤯☠️",
-    "Channel": "Whistle On",
-    "Format": "Short",
-    "Views Gained": 3046971
-  },
-  {
-    "Rank": 36,
-    "Change": "-25",
-    "Thumbnail": "https://i.ytimg.com/vi/OC6u9rjmxTs/hqdefault.jpg",
-    "Title": "#rinkujha",
-    "Channel": "Rtr7",
-    "Format": "Short",
-    "Views Gained": 3026130
-  },
-  {
-    "Rank": 37,
-    "Change": "-16",
-    "Thumbnail": "https://i.ytimg.com/vi/U-8tkBSjqk8/hqdefault.jpg",
-    "Title": "Ronaldo Reacts To IShowSpeed Revenge On Ronaldo Jr.😳",
-    "Channel": "FlashPass",
-    "Format": "Short",
-    "Views Gained": 2950940
-  },
-  {
-    "Rank": 38,
-    "Change": "+2",
-    "Thumbnail": "https://i.ytimg.com/vi/i9QQCVxWr8k/hqdefault.jpg",
-    "Title": "Топурия уклоняется #ufc #mma",
-    "Channel": "Эффект MMA",
-    "Format": "Short",
-    "Views Gained": 2897209
-  },
-  {
-    "Rank": 39,
-    "Change": "-3",
-    "Thumbnail": "https://i.ytimg.com/vi/M2OrbddLG3U/hqdefault.jpg",
-    "Title": "Sesko Scores At Home! 🏠🇸🇮 | Man Utd 2-0 Sunderland",
-    "Channel": "Manchester United",
-    "Format": "Standard",
-    "Views Gained": 2891675
-  },
-  {
-    "Rank": 40,
-    "Change": "+3",
-    "Thumbnail": "https://i.ytimg.com/vi/RGXYfGXHzzs/hqdefault.jpg",
-    "Title": "Check bro for Aura overload 😭🔥 #shorts",
-    "Channel": "MaxPreps",
-    "Format": "Short",
-    "Views Gained": 2882523
-  },
-  {
-    "Rank": 41,
-    "Change": "-2",
-    "Thumbnail": "https://i.ytimg.com/vi/MAm0RLQpYas/hqdefault.jpg",
-    "Title": "Final | India vs Pakistan | DP World Asia Cup 2025",
-    "Channel": "Asian Cricket Council",
-    "Format": "Long",
-    "Views Gained": 2518476
+    "Views Gained": 2564433
   },
   {
     "Rank": 42,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/fwmpyhPe9O8/hqdefault.jpg",
-    "Title": "And he set a new national record too 👀🔥",
-    "Channel": "TrackAndFieldMoments",
+    "Change": "-15",
+    "Thumbnail": "https://i.ytimg.com/vi/8IhoWhQJ65g/hqdefault.jpg",
+    "Title": "Vitinha - The Little Witch🧙🏻‍♀️",
+    "Channel": "CrossBar",
     "Format": "Short",
-    "Views Gained": 2426315
+    "Views Gained": 2532399
   },
   {
     "Rank": 43,
-    "Change": "+6",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/XZhXFbFCOu4/hqdefault.jpg",
     "Title": "Race Highlights | 2025 Singapore Grand Prix",
     "Channel": "FORMULA 1",
     "Format": "Standard",
-    "Views Gained": 2401687
+    "Views Gained": 2492226
   },
   {
     "Rank": 44,
     "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/vhUzco0iHCs/hqdefault.jpg",
-    "Title": "UFC Fighter Justin Gaethje Beat Up A Mugger 😳🥊",
-    "Channel": "Pr1meFight",
+    "Thumbnail": "https://i.ytimg.com/vi/8HC8qg7cw-w/hqdefault.jpg",
+    "Title": "Messi sigue siendo Messi🔥⚽️",
+    "Channel": "Todo fútbol",
     "Format": "Short",
-    "Views Gained": 2391439
+    "Views Gained": 2436353
   },
   {
     "Rank": 45,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/tQtHkQRp5Pw/hqdefault.jpg",
-    "Title": "손흥민 판단력 #shorts",
-    "Channel": "동현kldh",
-    "Format": "Short",
-    "Views Gained": 2325012
-  },
-  {
-    "Rank": 46,
-    "Change": "New",
+    "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/uXmUzDPNpn4/hqdefault.jpg",
     "Title": "Perubahan Tinggi Badan Ronaldo vs Ronaldo Jr dari Waktu ke Waktu🤯",
     "Channel": "MOON FTBALL ",
     "Format": "Short",
-    "Views Gained": 2229209
+    "Views Gained": 2435421
+  },
+  {
+    "Rank": 46,
+    "Change": "-6",
+    "Thumbnail": "https://i.ytimg.com/vi/RGXYfGXHzzs/hqdefault.jpg",
+    "Title": "Check bro for Aura overload 😭🔥 #shorts",
+    "Channel": "MaxPreps",
+    "Format": "Short",
+    "Views Gained": 2379179
   },
   {
     "Rank": 47,
     "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/gxjk2HIqNDY/hqdefault.jpg",
-    "Title": "El Nero Troncho mete puñete a su rival en el Cono Norte #mundialitodelporvenir",
-    "Channel": "Mundialito del Porvenir",
+    "Thumbnail": "https://i.ytimg.com/vi/NUosx5UTAyA/hqdefault.jpg",
+    "Title": "Legend goes it never touched the ground🤩#football #edit #golazo #satisfying",
+    "Channel": "Assist 90",
     "Format": "Short",
-    "Views Gained": 2225498
+    "Views Gained": 2319768
   },
   {
     "Rank": 48,
-    "Change": "-10",
-    "Thumbnail": "https://i.ytimg.com/vi/FKKz4VwDbkA/hqdefault.jpg",
-    "Title": "Watch in Slow Mo: Mondo Soars to New Heights!",
-    "Channel": "Just Run Running",
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/m25dwLjX6Bo/hqdefault.jpg",
+    "Title": "¿QUE OPINAN DE ESTA REGLA DE LA NBA? #nba #basketball #baloncesto",
+    "Channel": "Frankie Basket",
     "Format": "Short",
-    "Views Gained": 2221158
+    "Views Gained": 2294590
   },
   {
     "Rank": 49,
-    "Change": "-20",
-    "Thumbnail": "https://i.ytimg.com/vi/mtTt8DAxKTo/hqdefault.jpg",
-    "Title": "Man City Wolves 2019. 🔥",
-    "Channel": "WhistleNinety",
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/3U9AHjiosLQ/hqdefault.jpg",
+    "Title": "Sha’Carri Richardson’s EPIC Olympic Comeback 😱",
+    "Channel": "FitVision",
     "Format": "Short",
-    "Views Gained": 2161253
+    "Views Gained": 2232893
   },
   {
     "Rank": 50,
     "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/BK6WdxpCZPw/hqdefault.jpg",
-    "Title": "GOAT Tai Tzu Ying Epic Trickshot #badminton #badmintonlovers #バドミントン #sports #bulutangkis",
-    "Channel": "BadminGO",
+    "Thumbnail": "https://i.ytimg.com/vi/eOBlz62KBOE/hqdefault.jpg",
+    "Title": "ヘリコプター打法・馬越大地選手のフォームで打ってきた! #フォーム #野球女子 #baseball",
+    "Channel": "ゆりスターズ チャンネル",
     "Format": "Short",
-    "Views Gained": 2135141
+    "Views Gained": 2213364
   }
 ]
