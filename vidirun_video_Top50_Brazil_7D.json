@@ -7,7 +7,7 @@
     "Channel": "Cartoon World Planet",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 70118699
+    "Views Gained": 57784123
   },
   {
     "Rank": 2,
@@ -17,11 +17,21 @@
     "Channel": "MrBeast",
     "Category": "Entertainment",
     "Format": "Short",
-    "Views Gained": 49060506
+    "Views Gained": 53486132
   },
   {
     "Rank": 3,
-    "Change": "+1",
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/s7YXe922xa8/hqdefault.jpg",
+    "Title": "Guy in black t-shirt came in cluch",
+    "Channel": "Eternal Love",
+    "Category": "Music",
+    "Format": "Short",
+    "Views Gained": 43657464
+  },
+  {
+    "Rank": 4,
+    "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/OI6DvO0hpeY/hqdefault.jpg",
     "Title": "Love💞Mom😭🍟😂🧿🍭",
     "Channel": "Tuğkan Efe",
@@ -30,18 +40,18 @@
     "Views Gained": 41932997
   },
   {
-    "Rank": 4,
-    "Change": "-1",
-    "Thumbnail": "https://i.ytimg.com/vi/uQ1pCJ0VYXA/hqdefault.jpg",
-    "Title": "What Foods Hurt Your Teeth? 🦷 Find Out! #kids #learn",
-    "Channel": "KIDZOKI",
-    "Category": "Howto & Style",
+    "Rank": 5,
+    "Change": "+10",
+    "Thumbnail": "https://i.ytimg.com/vi/7si1R8mkxhY/hqdefault.jpg",
+    "Title": "How to win the Squid Game?😵‍💫",
+    "Channel": "Rapunzeel Team🔱",
+    "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 33904943
+    "Views Gained": 32132573
   },
   {
-    "Rank": 5,
-    "Change": "+9",
+    "Rank": 6,
+    "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/9a0ogc9Ozx4/hqdefault.jpg",
     "Title": "RONALDO WANT A CANDY",
     "Channel": "BRAN IA",
@@ -50,7 +60,7 @@
     "Views Gained": 27608884
   },
   {
-    "Rank": 6,
+    "Rank": 7,
     "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/FP34cvuFEtE/hqdefault.jpg",
     "Title": "Loader go 💥 #paintball #shorts #nxl",
@@ -60,28 +70,48 @@
     "Views Gained": 26371344
   },
   {
-    "Rank": 7,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/OpPf8snn-DY/hqdefault.jpg",
-    "Title": "Normal skill VS King of Backflips",
-    "Channel": "RandomDude",
+    "Rank": 8,
+    "Change": "+2",
+    "Thumbnail": "https://i.ytimg.com/vi/UvzPv5qJ3Pk/hqdefault.jpg",
+    "Title": "Funny Reaction to Wrong Shirt 🤣😅",
+    "Channel": "Fun Fun TV",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 24404899
+    "Views Gained": 26091598
   },
   {
-    "Rank": 8,
-    "Change": "0",
+    "Rank": 9,
+    "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/dMWowB1Ugxg/hqdefault.jpg",
     "Title": "Who's the Smartest Pet? 🏆 The Cat Who Doesn't Believe the Fake Abyss vs  the Terrified Dog!",
     "Channel": "Chobi Cat",
     "Category": "Entertainment",
     "Format": "Short",
-    "Views Gained": 22010159
+    "Views Gained": 23845278
   },
   {
-    "Rank": 9,
-    "Change": "0",
+    "Rank": 10,
+    "Change": "+3",
+    "Thumbnail": "https://i.ytimg.com/vi/i_B2TvfHjxI/hqdefault.jpg",
+    "Title": "#londonbridges #funny",
+    "Channel": "J House jr.",
+    "Category": "Education",
+    "Format": "Short",
+    "Views Gained": 22908993
+  },
+  {
+    "Rank": 11,
+    "Change": "-4",
+    "Thumbnail": "https://i.ytimg.com/vi/OpPf8snn-DY/hqdefault.jpg",
+    "Title": "Normal skill VS King of Backflips",
+    "Channel": "RandomDude",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 22741387
+  },
+  {
+    "Rank": 12,
+    "Change": "-3",
     "Thumbnail": "https://i.ytimg.com/vi/BIOk_37VIs4/hqdefault.jpg",
     "Title": "Kỹ năng thoát hiểm tự vệ [BEN EAGLE] #kungfu #beneagle #help",
     "Channel": "BEN EAGLE",
@@ -90,67 +120,47 @@
     "Views Gained": 21103911
   },
   {
-    "Rank": 10,
-    "Change": "+17",
-    "Thumbnail": "https://i.ytimg.com/vi/UvzPv5qJ3Pk/hqdefault.jpg",
-    "Title": "Funny Reaction to Wrong Shirt 🤣😅",
-    "Channel": "Fun Fun TV",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 21068158
-  },
-  {
-    "Rank": 11,
-    "Change": "-1",
+    "Rank": 13,
+    "Change": "-2",
     "Thumbnail": "https://i.ytimg.com/vi/IGNkA865Ozk/hqdefault.jpg",
     "Title": "He Did a REAL RAT ACT! 🐀 #karmamma #mmausa #boxingusa #ufcusa #ratmma #ratufc #ratboxing #karmaufc",
     "Channel": "Boxing Gang",
     "Category": "Sports",
     "Format": "Short",
-    "Views Gained": 19986053
+    "Views Gained": 20503022
   },
   {
-    "Rank": 12,
-    "Change": "+1",
+    "Rank": 14,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/Va4fkGVBp5s/hqdefault.jpg",
+    "Title": "Mật khẩu hài hước #funny #comedy ￼ #nytinhnghich #shortvideo #tiktok",
+    "Channel": "ny tinh nghịch",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 19883487
+  },
+  {
+    "Rank": 15,
+    "Change": "-3",
     "Thumbnail": "https://i.ytimg.com/vi/R9_iBz1sJkc/hqdefault.jpg",
     "Title": "The No Look Fist Bump Lives On 🤜🏾🤛🏻",
     "Channel": "Opinions with O ",
     "Category": "Entertainment",
     "Format": "Short",
-    "Views Gained": 18707576
-  },
-  {
-    "Rank": 13,
-    "Change": "+6",
-    "Thumbnail": "https://i.ytimg.com/vi/i_B2TvfHjxI/hqdefault.jpg",
-    "Title": "#londonbridges #funny",
-    "Channel": "J House jr.",
-    "Category": "Education",
-    "Format": "Short",
-    "Views Gained": 17435360
-  },
-  {
-    "Rank": 14,
-    "Change": "-8",
-    "Thumbnail": "https://i.ytimg.com/vi/U0bmyb-XNUI/hqdefault.jpg",
-    "Title": "Quality game, quality saves... #football #goalkeeper #oneglove",
-    "Channel": "GK Harry",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 17230477
-  },
-  {
-    "Rank": 15,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/7si1R8mkxhY/hqdefault.jpg",
-    "Title": "How to win the Squid Game?😵‍💫",
-    "Channel": "Rapunzeel Team🔱",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 16482611
+    "Views Gained": 19223386
   },
   {
     "Rank": 16,
+    "Change": "+1",
+    "Thumbnail": "https://i.ytimg.com/vi/qTMKHZelGAs/hqdefault.jpg",
+    "Title": "We Built New York In Minecraft",
+    "Channel": "MrBeast Gaming",
+    "Category": "Gaming",
+    "Format": "Long",
+    "Views Gained": 16867786
+  },
+  {
+    "Rank": 17,
     "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/XtmFhhw_n9c/hqdefault.jpg",
     "Title": "I pranked my husband with this challenge 😂",
@@ -160,18 +170,28 @@
     "Views Gained": 16308303
   },
   {
-    "Rank": 17,
-    "Change": "+3",
-    "Thumbnail": "https://i.ytimg.com/vi/qTMKHZelGAs/hqdefault.jpg",
-    "Title": "We Built New York In Minecraft",
-    "Channel": "MrBeast Gaming",
-    "Category": "Gaming",
-    "Format": "Long",
-    "Views Gained": 15045443
-  },
-  {
     "Rank": 18,
     "Change": "+3",
+    "Thumbnail": "https://i.ytimg.com/vi/h2550UoanEM/hqdefault.jpg",
+    "Title": "#fxyoeditz",
+    "Channel": "Linguini",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 15835892
+  },
+  {
+    "Rank": 19,
+    "Change": "+11",
+    "Thumbnail": "https://i.ytimg.com/vi/cSWr943wYtk/hqdefault.jpg",
+    "Title": "Bucky knows how to use the shield #shorts",
+    "Channel": "Caske57",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 15252233
+  },
+  {
+    "Rank": 20,
+    "Change": "-2",
     "Thumbnail": "https://i.ytimg.com/vi/vTY28pzFVCk/hqdefault.jpg",
     "Title": "Dream girl matches a Dream boy #shorts",
     "Channel": "Luziwei",
@@ -180,68 +200,58 @@
     "Views Gained": 14980864
   },
   {
-    "Rank": 19,
-    "Change": "+3",
+    "Rank": 21,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/CXmXx_aCrsw/hqdefault.jpg",
+    "Title": "RONALDO WANT A CAKE",
+    "Channel": "BRAN IA",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 14402302
+  },
+  {
+    "Rank": 22,
+    "Change": "-3",
     "Thumbnail": "https://i.ytimg.com/vi/Vnikh14r4E0/hqdefault.jpg",
     "Title": "Theo VS Lehmann VS Grealish VS Marcelo VS Messi VS Ronaldo",
     "Channel": "Football King",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 11815930
-  },
-  {
-    "Rank": 20,
-    "Change": "-9",
-    "Thumbnail": "https://i.ytimg.com/vi/0hbLLsLFlVQ/hqdefault.jpg",
-    "Title": "Can I Cook a Steak Inside a Football Stadium?",
-    "Channel": "John Nellis",
-    "Category": "Sports",
-    "Format": "Short",
-    "Views Gained": 11730792
-  },
-  {
-    "Rank": 21,
-    "Change": "+20",
-    "Thumbnail": "https://i.ytimg.com/vi/h2550UoanEM/hqdefault.jpg",
-    "Title": "#fxyoeditz",
-    "Channel": "Linguini",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 10895488
-  },
-  {
-    "Rank": 22,
-    "Change": "+3",
-    "Thumbnail": "https://i.ytimg.com/vi/8gB4Lv2zHhM/hqdefault.jpg",
-    "Title": "Neymar VS Lehmann VS Arda VS Griezmann VS Messi VS Ronaldo",
-    "Channel": "Football King",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 10690237
+    "Views Gained": 12181703
   },
   {
     "Rank": 23,
-    "Change": "-11",
-    "Thumbnail": "https://i.ytimg.com/vi/SzyBcluiIOc/hqdefault.jpg",
-    "Title": "Rumi sings really well",
-    "Channel": "DemonHunters-Rumi",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 10451183
-  },
-  {
-    "Rank": 24,
-    "Change": "+4",
+    "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/OfxFMRu_t7A/hqdefault.jpg",
     "Title": "Bolak balik Tetap saja",
     "Channel": "Anak Desa",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 10192595
+    "Views Gained": 10770848
+  },
+  {
+    "Rank": 24,
+    "Change": "+7",
+    "Thumbnail": "https://i.ytimg.com/vi/_jUWUEMRO-U/hqdefault.jpg",
+    "Title": "Ranking The Best Grinch Christmas Moments!",
+    "Channel": "RealRankings",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 10131711
   },
   {
     "Rank": 25,
-    "Change": "+1",
+    "Change": "-11",
+    "Thumbnail": "https://i.ytimg.com/vi/U0bmyb-XNUI/hqdefault.jpg",
+    "Title": "Quality game, quality saves... #football #goalkeeper #oneglove",
+    "Channel": "GK Harry",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 10013396
+  },
+  {
+    "Rank": 26,
+    "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/Np5R-fwDAbg/hqdefault.jpg",
     "Title": "Samsung’s iphone ☠️ #samsung #samsungs26ultra #samsungs25fe #upcomingphones",
     "Channel": "Shot4Head",
@@ -250,28 +260,58 @@
     "Views Gained": 9876881
   },
   {
-    "Rank": 26,
-    "Change": "+5",
+    "Rank": 27,
+    "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/1t3eKaoyOTU/hqdefault.jpg",
     "Title": "Пранк в гараже",
     "Channel": "Аришнев",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 8864586
+    "Views Gained": 9871858
   },
   {
-    "Rank": 27,
-    "Change": "+2",
+    "Rank": 28,
+    "Change": "+6",
+    "Thumbnail": "https://i.ytimg.com/vi/Uym0iHVOvpo/hqdefault.jpg",
+    "Title": "Morador salva POLICIAL do BOPE, ele estancou o s4ngr4mento.",
+    "Channel": "wLEY",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 9706914
+  },
+  {
+    "Rank": 29,
+    "Change": "+3",
+    "Thumbnail": "https://i.ytimg.com/vi/_PCBOPDL1VY/hqdefault.jpg",
+    "Title": "Cachorro da Polícia Sente explosão e salva criança a tempo | VÍDEO INCRÍVEL!",
+    "Channel": "Será Que Aconteceu",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 9278191
+  },
+  {
+    "Rank": 30,
+    "Change": "-3",
     "Thumbnail": "https://i.ytimg.com/vi/IWQ5YoqeuTQ/hqdefault.jpg",
     "Title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearable #shortsfeed​ #trending​‎",
     "Channel": "pagla Boy 1m",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 8846499
+    "Views Gained": 9022375
   },
   {
-    "Rank": 28,
-    "Change": "+2",
+    "Rank": 31,
+    "Change": "-11",
+    "Thumbnail": "https://i.ytimg.com/vi/0hbLLsLFlVQ/hqdefault.jpg",
+    "Title": "Can I Cook a Steak Inside a Football Stadium?",
+    "Channel": "John Nellis",
+    "Category": "Sports",
+    "Format": "Short",
+    "Views Gained": 9004041
+  },
+  {
+    "Rank": 32,
+    "Change": "-4",
     "Thumbnail": "https://i.ytimg.com/vi/ztuSFNjthlA/hqdefault.jpg",
     "Title": "Vidio sepak bola lucu yang bisa di rasakan 🔥 #football #futsal #tarkam #sepakbola",
     "Channel": "Rizal Hidayah",
@@ -280,88 +320,48 @@
     "Views Gained": 8720290
   },
   {
-    "Rank": 29,
-    "Change": "-13",
-    "Thumbnail": "https://i.ytimg.com/vi/pBwhH3Hq4JI/hqdefault.jpg",
-    "Title": "Funny prank #prank #funny #funnyprank #prank #viral #trending #scareprank #scared #haha #usa #fyp",
-    "Channel": "Huong Huynh",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 8068125
-  },
-  {
-    "Rank": 30,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/cSWr943wYtk/hqdefault.jpg",
-    "Title": "Bucky knows how to use the shield #shorts",
-    "Channel": "Caske57",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 7769192
-  },
-  {
-    "Rank": 31,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/_jUWUEMRO-U/hqdefault.jpg",
-    "Title": "Ranking The Best Grinch Christmas Moments!",
-    "Channel": "RealRankings",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 7288944
-  },
-  {
-    "Rank": 32,
-    "Change": "+2",
-    "Thumbnail": "https://i.ytimg.com/vi/_PCBOPDL1VY/hqdefault.jpg",
-    "Title": "Cachorro da Polícia Sente explosão e salva criança a tempo | VÍDEO INCRÍVEL!",
-    "Channel": "Será Que Aconteceu",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 6956359
-  },
-  {
     "Rank": 33,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/HirBkE6DT1k/hqdefault.jpg",
-    "Title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearablegadget#shortsfeed#trending",
-    "Channel": "RAFSAN BHAI 100K",
+    "Change": "-11",
+    "Thumbnail": "https://i.ytimg.com/vi/8gB4Lv2zHhM/hqdefault.jpg",
+    "Title": "Neymar VS Lehmann VS Arda VS Griezmann VS Messi VS Ronaldo",
+    "Channel": "Football King",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 6539784
+    "Views Gained": 7895503
   },
   {
     "Rank": 34,
-    "Change": "+16",
-    "Thumbnail": "https://i.ytimg.com/vi/Uym0iHVOvpo/hqdefault.jpg",
-    "Title": "Morador salva POLICIAL do BOPE, ele estancou o s4ngr4mento.",
-    "Channel": "wLEY",
+    "Change": "-11",
+    "Thumbnail": "https://i.ytimg.com/vi/SzyBcluiIOc/hqdefault.jpg",
+    "Title": "Rumi sings really well",
+    "Channel": "DemonHunters-Rumi",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 6437978
+    "Views Gained": 7100907
   },
   {
     "Rank": 35,
-    "Change": "+3",
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/yd_uG3TtREs/hqdefault.jpg",
+    "Title": "BABYMONSTER - ‘PSYCHO’ M/V",
+    "Channel": "BABYMONSTER",
+    "Category": "Music",
+    "Format": "Standard",
+    "Views Gained": 6619758
+  },
+  {
+    "Rank": 36,
+    "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/4CaODGjzcwM/hqdefault.jpg",
     "Title": "The last Technologya is on peak 💀 #trollfaceedit",
     "Channel": "IM_shaow",
     "Category": "Education",
     "Format": "Short",
-    "Views Gained": 5706405
-  },
-  {
-    "Rank": 36,
-    "Change": "-13",
-    "Thumbnail": "https://i.ytimg.com/vi/HnwUrU353u0/hqdefault.jpg",
-    "Title": "KPOP DEMON HUNTERS Compete With the Most Disgusting Balls Ever 😱🪱🐍🪳💥#kpop #kpopdemonhunters #rumi",
-    "Channel": "RotifyAI",
-    "Category": "Comedy",
-    "Format": "Short",
-    "Views Gained": 5695189
+    "Views Gained": 6314773
   },
   {
     "Rank": 37,
-    "Change": "-2",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/TKYLFLLBFnI/hqdefault.jpg",
     "Title": "Sogra boa😆 #humor #memes",
     "Channel": "sandrão",
@@ -371,7 +371,17 @@
   },
   {
     "Rank": 38,
-    "Change": "-2",
+    "Change": "+2",
+    "Thumbnail": "https://i.ytimg.com/vi/eXd8EYXneag/hqdefault.jpg",
+    "Title": "Cliente achou q eu teria que trocar a tela quebrada do tablet s6 lite mas era apenas o vidro",
+    "Channel": "Oficina Do celular",
+    "Category": "People & Blogs",
+    "Format": "Standard",
+    "Views Gained": 5252484
+  },
+  {
+    "Rank": 39,
+    "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/v_YOyK7J4gk/hqdefault.jpg",
     "Title": "This Person's Horror☠️.                             Thanks For 2k subs #ronaldo #yamal #celine #fyp",
     "Channel": "Zyxo",
@@ -380,123 +390,113 @@
     "Views Gained": 5216116
   },
   {
-    "Rank": 39,
-    "Change": "-6",
-    "Thumbnail": "https://i.ytimg.com/vi/rsd6AnmOnHA/hqdefault.jpg",
-    "Title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearable gadget🎉",
-    "Channel": "BEN_AFFLECK_FACT",
-    "Category": "Education",
-    "Format": "Short",
-    "Views Gained": 4898776
-  },
-  {
     "Rank": 40,
-    "Change": "+4",
-    "Thumbnail": "https://i.ytimg.com/vi/eXd8EYXneag/hqdefault.jpg",
-    "Title": "Cliente achou q eu teria que trocar a tela quebrada do tablet s6 lite mas era apenas o vidro",
-    "Channel": "Oficina Do celular",
-    "Category": "People & Blogs",
-    "Format": "Standard",
-    "Views Gained": 4821706
-  },
-  {
-    "Rank": 41,
-    "Change": "-2",
-    "Thumbnail": "https://i.ytimg.com/vi/vBB8tlFruZ4/hqdefault.jpg",
-    "Title": "Samsung is aura ☠️ #samsung #samsungs26ultra #samsungs25fe #upcomingphones",
-    "Channel": "Shot4Head",
-    "Category": "Science & Technology",
-    "Format": "Short",
-    "Views Gained": 4524000
-  },
-  {
-    "Rank": 42,
-    "Change": "+3",
+    "Change": "+2",
     "Thumbnail": "https://i.ytimg.com/vi/DPbYPkHf8p4/hqdefault.jpg",
     "Title": "A Piscina Esvaziou 😨",
     "Channel": "Taynan",
     "Category": "Entertainment",
     "Format": "Short",
-    "Views Gained": 4450580
+    "Views Gained": 4782058
   },
   {
-    "Rank": 43,
-    "Change": "-11",
-    "Thumbnail": "https://i.ytimg.com/vi/DEUKS6Z8y3s/hqdefault.jpg",
-    "Title": "como ele fez isso?😯 #funny #comedy #shorts",
-    "Channel": "Mundo do Guilherme",
-    "Category": "Comedy",
-    "Format": "Short",
-    "Views Gained": 4349203
-  },
-  {
-    "Rank": 44,
-    "Change": "-2",
-    "Thumbnail": "https://i.ytimg.com/vi/r4x2AzhsYkw/hqdefault.jpg",
-    "Title": "Essa capivara avisou todos no ônibus com antecedência",
-    "Channel": "Captain hau",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 4314176
-  },
-  {
-    "Rank": 45,
-    "Change": "New",
+    "Rank": 41,
+    "Change": "+4",
     "Thumbnail": "https://i.ytimg.com/vi/c7GI6tm_hbQ/hqdefault.jpg",
     "Title": "Ukrainian Helicopter Destroys A Russian Shahed Drone With A M134 Minigun. #boydnews",
     "Channel": "Boyd News",
     "Category": "News & Politics",
     "Format": "Short",
-    "Views Gained": 3937176
+    "Views Gained": 4531062
   },
   {
-    "Rank": 46,
-    "Change": "-9",
-    "Thumbnail": "https://i.ytimg.com/vi/zt6mAPlRP0k/hqdefault.jpg",
-    "Title": "\"Introducing the 'VitalWear SmartBand,' a next-generation wearable gadget\"",
-    "Channel": "Sports Wala 45",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 3765727
+    "Rank": 42,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/OgEwJ8a1OoY/hqdefault.jpg",
+    "Title": "ALLDAY PROJECT - ‘ONE MORE TIME’ M/V",
+    "Channel": "THEBLACKLABEL",
+    "Category": "Music",
+    "Format": "Standard",
+    "Views Gained": 4518866
   },
   {
-    "Rank": 47,
-    "Change": "+1",
+    "Rank": 43,
+    "Change": "+4",
     "Thumbnail": "https://i.ytimg.com/vi/vkHFr6PJ98A/hqdefault.jpg",
     "Title": "ADIVINHE O OBJETO! #shorts",
     "Channel": "Enaldinho",
     "Category": "Entertainment",
     "Format": "Short",
-    "Views Gained": 3762880
+    "Views Gained": 4115551
   },
   {
-    "Rank": 48,
-    "Change": "-1",
-    "Thumbnail": "https://i.ytimg.com/vi/xL2bjL0tc4U/hqdefault.jpg",
-    "Title": "Which Looks Cooler? #samsung #samsungs25ultra #samsunggalaxy #upcomingphones",
-    "Channel": "tyvon",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 3733042
-  },
-  {
-    "Rank": 49,
+    "Rank": 44,
     "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/2ZaCkZsx9S0/hqdefault.jpg",
+    "Title": "Definitely Xiaomi aura #xiaomi #xiaomi17promax #xiaomi17 #upcomingphones",
+    "Channel": "Shot4Head",
+    "Category": "Science & Technology",
+    "Format": "Short",
+    "Views Gained": 4092767
+  },
+  {
+    "Rank": 45,
+    "Change": "+4",
     "Thumbnail": "https://i.ytimg.com/vi/0zVnajvKKfQ/hqdefault.jpg",
     "Title": "Ele ficou sem saída e tomou a decisão mais difícil de sua vida…",
     "Channel": "Victao Edits",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 3692057
+    "Views Gained": 4058078
   },
   {
-    "Rank": 50,
-    "Change": "New",
+    "Rank": 46,
+    "Change": "+4",
     "Thumbnail": "https://i.ytimg.com/vi/6zDb7Az_6tc/hqdefault.jpg",
     "Title": "Condenado por matar a namorada debocha da pena na frente do juíz! #juiz #audienciacriminal #juri",
     "Channel": "Audiências Br / Cortes ",
     "Category": "Gaming",
     "Format": "Short",
-    "Views Gained": 3660089
+    "Views Gained": 4031878
+  },
+  {
+    "Rank": 47,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/Tr81WdSIBE4/hqdefault.jpg",
+    "Title": "Aquela amiga que sempre se assusta #turmadavalzinha #humor ✨",
+    "Channel": "Valzinha",
+    "Category": "Comedy",
+    "Format": "Short",
+    "Views Gained": 4011754
+  },
+  {
+    "Rank": 48,
+    "Change": "-9",
+    "Thumbnail": "https://i.ytimg.com/vi/rsd6AnmOnHA/hqdefault.jpg",
+    "Title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearable gadget🎉",
+    "Channel": "BEN_AFFLECK_FACT",
+    "Category": "Education",
+    "Format": "Short",
+    "Views Gained": 3859491
+  },
+  {
+    "Rank": 49,
+    "Change": "-16",
+    "Thumbnail": "https://i.ytimg.com/vi/HirBkE6DT1k/hqdefault.jpg",
+    "Title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearablegadget#shortsfeed#trending",
+    "Channel": "RAFSAN BHAI 100K",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 3844012
+  },
+  {
+    "Rank": 50,
+    "Change": "-6",
+    "Thumbnail": "https://i.ytimg.com/vi/r4x2AzhsYkw/hqdefault.jpg",
+    "Title": "Essa capivara avisou todos no ônibus com antecedência",
+    "Channel": "Captain hau",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 3817941
   }
 ]
