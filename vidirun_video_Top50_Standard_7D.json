@@ -1,151 +1,124 @@
 [
   {
     "Rank": 1,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/BKOVzHcjEIo/hqdefault.jpg",
-    "Title": "Dhurandhar Official Trailer | Ranveer Singh | Aditya Dhar | In Cinemas 5th December 2025",
-    "Channel": "JioStudios",
-    "Category": "Entertainment",
-    "Views Gained": 32392291
-  },
-  {
-    "Rank": 2,
-    "Change": "0",
+    "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/yd_uG3TtREs/hqdefault.jpg",
     "Title": "BABYMONSTER - ‘PSYCHO’ M/V",
     "Channel": "BABYMONSTER",
     "Category": "Music",
-    "Views Gained": 32212968
+    "Views Gained": 35803151
+  },
+  {
+    "Rank": 2,
+    "Change": "-1",
+    "Thumbnail": "https://i.ytimg.com/vi/BKOVzHcjEIo/hqdefault.jpg",
+    "Title": "Dhurandhar Official Trailer | Ranveer Singh | Aditya Dhar | In Cinemas 5th December 2025",
+    "Channel": "JioStudios",
+    "Category": "Entertainment",
+    "Views Gained": 33061001
   },
   {
     "Rank": 3,
-    "Change": "+1",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/NED7nev2ywQ/hqdefault.jpg",
     "Title": "Stray Kids \"Do It\" M/V",
     "Channel": "JYP Entertainment",
     "Category": "Music",
-    "Views Gained": 17224827
+    "Views Gained": 19269069
   },
   {
     "Rank": 4,
-    "Change": "+2",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/qlCBzdZSnlY/hqdefault.jpg",
     "Title": "Akhanda 2 Thaandavam Trailer (Telugu) | Nandamuri Balakrishna | Boyapati Sreenu | Thaman S | DEC 5th",
     "Channel": "14 Reels Plus",
     "Category": "Film & Animation",
-    "Views Gained": 12231891
+    "Views Gained": 12375532
   },
   {
     "Rank": 5,
-    "Change": "-2",
-    "Thumbnail": "https://i.ytimg.com/vi/7b3aJMC3hdc/hqdefault.jpg",
-    "Title": "Don't mess with Sheldon, or he'll remember you.#movie #edit",
-    "Channel": "FuturePunk Recap",
-    "Category": "Film & Animation",
-    "Views Gained": 12028202
-  },
-  {
-    "Rank": 6,
-    "Change": "-1",
+    "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/vVDp1ulBKIk/hqdefault.jpg",
     "Title": "Chikiri Chikiri Video Song | Peddi | Ram Charan | Janhvi | Buchi Babu Sana | AR Rahman|Mohit Chauhan",
     "Channel": "T-Series Telugu",
     "Category": "Music",
-    "Views Gained": 10958419
+    "Views Gained": 10800326
   },
   {
-    "Rank": 7,
+    "Rank": 6,
     "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/5VYsnngkS_U/hqdefault.jpg",
     "Title": "Project Hail Mary | Official Trailer 2",
     "Channel": "Amazon MGM Studios",
     "Category": "Entertainment",
-    "Views Gained": 10031253
+    "Views Gained": 10593063
+  },
+  {
+    "Rank": 7,
+    "Change": "-2",
+    "Thumbnail": "https://i.ytimg.com/vi/7b3aJMC3hdc/hqdefault.jpg",
+    "Title": "Don't mess with Sheldon, or he'll remember you.#movie #edit",
+    "Channel": "FuturePunk Recap",
+    "Category": "Film & Animation",
+    "Views Gained": 10160055
   },
   {
     "Rank": 8,
-    "Change": "-1",
-    "Thumbnail": "https://i.ytimg.com/vi/OgEwJ8a1OoY/hqdefault.jpg",
-    "Title": "ALLDAY PROJECT - ‘ONE MORE TIME’ M/V",
-    "Channel": "THEBLACKLABEL",
-    "Category": "Music",
-    "Views Gained": 9832761
-  },
-  {
-    "Rank": 9,
-    "Change": "+3",
-    "Thumbnail": "https://i.ytimg.com/vi/09kuFgvohIU/hqdefault.jpg",
-    "Title": "YOU, ME & TUSCANY | Official Trailer",
-    "Channel": "Universal Pictures",
-    "Category": "Entertainment",
-    "Views Gained": 8366408
-  },
-  {
-    "Rank": 10,
-    "Change": "New",
+    "Change": "+2",
     "Thumbnail": "https://i.ytimg.com/vi/k3p8CIZWFww/hqdefault.jpg",
     "Title": "Rebel Saab (Telugu) Lyrical Video - The Raja Saab | Prabhas | Maruthi  | Thaman S | Vishwa Prasad",
     "Channel": "T-Series Telugu",
     "Category": "Music",
-    "Views Gained": 8202106
+    "Views Gained": 9089364
   },
   {
-    "Rank": 11,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/qNw8ejrI0nM/hqdefault.jpg",
-    "Title": "DADDY YANKEE || BZRP Music Sessions #0/66",
-    "Channel": "Bizarrap",
-    "Category": "Entertainment",
-    "Views Gained": 7579967
-  },
-  {
-    "Rank": 12,
-    "Change": "+1",
-    "Thumbnail": "https://i.ytimg.com/vi/wvtNmMmcAYw/hqdefault.jpg",
-    "Title": "NCT DREAM 엔시티 드림 'Beat It Up' MV",
-    "Channel": "SMTOWN",
-    "Category": "Music",
-    "Views Gained": 7579911
-  },
-  {
-    "Rank": 13,
-    "Change": "-4",
-    "Thumbnail": "https://i.ytimg.com/vi/9AJsFRNJGZ8/hqdefault.jpg",
-    "Title": "Tere Ishk Mein: Trailer (Hindi) | Dhanush, Kriti S | AR Rahman | Aanand L Rai | Bhushan K | 28 Nov",
-    "Channel": "T-Series",
-    "Category": "Music",
-    "Views Gained": 7152685
-  },
-  {
-    "Rank": 14,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/wehFT0AJsV8/hqdefault.jpg",
-    "Title": "Maam ne ki sabki ichcha puri 😂🤣 #viralvideo #funny #comedy #shorts #ytshorts #trending #teacher",
-    "Channel": "Iamamrasiddiqui786",
-    "Category": "Comedy",
-    "Views Gained": 6684034
-  },
-  {
-    "Rank": 15,
-    "Change": "+3",
+    "Rank": 9,
+    "Change": "+6",
     "Thumbnail": "https://i.ytimg.com/vi/LuJpdvb5bDk/hqdefault.jpg",
     "Title": "PIRLO - EL FICTICIO 🐛 [RIP Blessd] (Audio Oficial)",
     "Channel": "Pirlo 420",
     "Category": "Music",
-    "Views Gained": 6572041
+    "Views Gained": 7185837
   },
   {
-    "Rank": 16,
-    "Change": "0",
+    "Rank": 10,
+    "Change": "+1",
+    "Thumbnail": "https://i.ytimg.com/vi/qNw8ejrI0nM/hqdefault.jpg",
+    "Title": "DADDY YANKEE || BZRP Music Sessions #0/66",
+    "Channel": "Bizarrap",
+    "Category": "Entertainment",
+    "Views Gained": 7185066
+  },
+  {
+    "Rank": 11,
+    "Change": "-2",
+    "Thumbnail": "https://i.ytimg.com/vi/09kuFgvohIU/hqdefault.jpg",
+    "Title": "YOU, ME & TUSCANY | Official Trailer",
+    "Channel": "Universal Pictures",
+    "Category": "Entertainment",
+    "Views Gained": 7171146
+  },
+  {
+    "Rank": 12,
+    "Change": "-4",
+    "Thumbnail": "https://i.ytimg.com/vi/OgEwJ8a1OoY/hqdefault.jpg",
+    "Title": "ALLDAY PROJECT - ‘ONE MORE TIME’ M/V",
+    "Channel": "THEBLACKLABEL",
+    "Category": "Music",
+    "Views Gained": 6905075
+  },
+  {
+    "Rank": 13,
+    "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/DKC0p6OdhRU/hqdefault.jpg",
     "Title": "Jajikaya Jajikaya Lyrical Video - Akhanda 2 Thaandavam | NBK | Boyapati Srinu | Samyuktha |Thaman S",
     "Channel": "Aditya Music",
     "Category": "Music",
-    "Views Gained": 6563388
+    "Views Gained": 6725875
   },
   {
-    "Rank": 17,
-    "Change": "0",
+    "Rank": 14,
+    "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/oeY828c-AXo/hqdefault.jpg",
     "Title": "Andhra King Taluka Trailer | Ram Pothineni | Upendra | Mahesh Babu P | Bhagyashri Borse",
     "Channel": "Mythri Movie Makers",
@@ -153,53 +126,62 @@
     "Views Gained": 6183336
   },
   {
-    "Rank": 18,
+    "Rank": 15,
     "Change": "-3",
-    "Thumbnail": "https://i.ytimg.com/vi/SejoKXcFrDM/hqdefault.jpg",
-    "Title": "Haji Mastan (Official Video) Cheema Y | Gur Sidhu | Sukh Sanghera | Jasmeen Akhtar",
-    "Channel": "Brown Town Music",
+    "Thumbnail": "https://i.ytimg.com/vi/wvtNmMmcAYw/hqdefault.jpg",
+    "Title": "NCT DREAM 엔시티 드림 'Beat It Up' MV",
+    "Channel": "SMTOWN",
     "Category": "Music",
-    "Views Gained": 5540512
+    "Views Gained": 5371384
   },
   {
-    "Rank": 19,
-    "Change": "0",
+    "Rank": 16,
+    "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/KgpnfT5bgLY/hqdefault.jpg",
     "Title": "Jana Nayagan – Thalapathy Kacheri Lyric Video| Thalapathy Vijay| H Vinoth| Anirudh| Pooja Hegde| KVN",
     "Channel": "T-Series",
     "Category": "Music",
-    "Views Gained": 5441547
+    "Views Gained": 5365302
   },
   {
-    "Rank": 20,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/Bs2z-hQeNlQ/hqdefault.jpg",
-    "Title": "Ya Borracho",
-    "Channel": "Herencia De Grandes - Topic",
+    "Rank": 17,
+    "Change": "+9",
+    "Thumbnail": "https://i.ytimg.com/vi/XCpkLi86juU/hqdefault.jpg",
+    "Title": "姜还是老的辣 #搞笑视频 #鬼哥 #GuiGe #comedy #hindi #funny",
+    "Channel": "鬼哥",
+    "Category": "People & Blogs",
+    "Views Gained": 5080138
+  },
+  {
+    "Rank": 18,
+    "Change": "+6",
+    "Thumbnail": "https://i.ytimg.com/vi/mgcesUk10QM/hqdefault.jpg",
+    "Title": "Financer - Bintu Pabra | Pranjal Dahiya | Shiva Choudhary | Pellet Drum Productions",
+    "Channel": "Pellet Drum Productions",
     "Category": "Music",
-    "Views Gained": 5172863
+    "Views Gained": 5001202
   },
   {
-    "Rank": 21,
-    "Change": "-11",
-    "Thumbnail": "https://i.ytimg.com/vi/DMD2uthghWE/hqdefault.jpg",
-    "Title": "VARANASI to the WORLD - Mahesh Babu | Priyanka Chopra | Prithviraj | SS Rajamouli |MM Keeravaani",
-    "Channel": "T-Series",
-    "Category": "Music",
-    "Views Gained": 5110352
-  },
-  {
-    "Rank": 22,
+    "Rank": 19,
     "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/BMwDUXLhHLY/hqdefault.jpg",
     "Title": "Aawaara Angaara: Tere Ishk Mein | Dhanush, Kriti S |AR Rahman, Faheem, Irshad| Aanand LR | Bhushan K",
     "Channel": "T-Series",
     "Category": "Music",
-    "Views Gained": 4723795
+    "Views Gained": 4954961
   },
   {
-    "Rank": 23,
-    "Change": "+1",
+    "Rank": 20,
+    "Change": "+17",
+    "Thumbnail": "https://i.ytimg.com/vi/UfaM4nPwc8Y/hqdefault.jpg",
+    "Title": "Mangli Bayilone Ballipalike | Full Song | Suresh Bobbili | Nagavva | Kamal Eslavath | Shekar Virus",
+    "Channel": "Mangli Official",
+    "Category": "Music",
+    "Views Gained": 4686641
+  },
+  {
+    "Rank": 21,
+    "Change": "+2",
     "Thumbnail": "https://i.ytimg.com/vi/YFCPF_X4ZHM/hqdefault.jpg",
     "Title": "I ran into my BIGGEST FAN! & bought her everything!",
     "Channel": "Adamthedunker",
@@ -207,62 +189,53 @@
     "Views Gained": 4572549
   },
   {
-    "Rank": 24,
-    "Change": "+8",
-    "Thumbnail": "https://i.ytimg.com/vi/mgcesUk10QM/hqdefault.jpg",
-    "Title": "Financer - Bintu Pabra | Pranjal Dahiya | Shiva Choudhary | Pellet Drum Productions",
-    "Channel": "Pellet Drum Productions",
-    "Category": "Music",
-    "Views Gained": 4545217
-  },
-  {
-    "Rank": 25,
+    "Rank": 22,
     "Change": "-2",
-    "Thumbnail": "https://i.ytimg.com/vi/cTokGAQAaK4/hqdefault.jpg",
-    "Title": "CHILLGUM (Official Video): YO YO HONEY SINGH | MALAIKA ARORA | 51 GLORIOUS DAYS | BHUSHAN KUMAR",
-    "Channel": "T-Series",
+    "Thumbnail": "https://i.ytimg.com/vi/Bs2z-hQeNlQ/hqdefault.jpg",
+    "Title": "Ya Borracho",
+    "Channel": "Herencia De Grandes - Topic",
     "Category": "Music",
-    "Views Gained": 4409873
+    "Views Gained": 4555003
   },
   {
-    "Rank": 26,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/XCpkLi86juU/hqdefault.jpg",
-    "Title": "姜还是老的辣 #搞笑视频 #鬼哥 #GuiGe #comedy #hindi #funny",
-    "Channel": "鬼哥",
-    "Category": "People & Blogs",
-    "Views Gained": 4355420
+    "Rank": 23,
+    "Change": "+9",
+    "Thumbnail": "https://i.ytimg.com/vi/GJ2v96T9xOk/hqdefault.jpg",
+    "Title": "CHANEL",
+    "Channel": "Tyla - Topic",
+    "Category": "Music",
+    "Views Gained": 4554513
   },
   {
-    "Rank": 27,
-    "Change": "+6",
+    "Rank": 24,
+    "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/ZNkk3eEoIDM/hqdefault.jpg",
     "Title": "Le Jayenge Tere Sajna (Video Song): Pawan Singh | Sana Sultan | Palak Muchhal | Shabbir Ahmed",
     "Channel": "T-Series",
     "Category": "Music",
-    "Views Gained": 4138706
+    "Views Gained": 4408784
   },
   {
-    "Rank": 28,
-    "Change": "-1",
-    "Thumbnail": "https://i.ytimg.com/vi/Dl_n2_ekfN4/hqdefault.jpg",
-    "Title": "Midnight Call (Official Video) - Harkirat Sangha | Starboy X | Rupan Bal | Interstellar 2025",
-    "Channel": "Harkirat Sangha",
+    "Rank": 25,
+    "Change": "0",
+    "Thumbnail": "https://i.ytimg.com/vi/cTokGAQAaK4/hqdefault.jpg",
+    "Title": "CHILLGUM (Official Video): YO YO HONEY SINGH | MALAIKA ARORA | 51 GLORIOUS DAYS | BHUSHAN KUMAR",
+    "Channel": "T-Series",
     "Category": "Music",
-    "Views Gained": 4127583
+    "Views Gained": 4250193
   },
   {
-    "Rank": 29,
-    "Change": "-7",
-    "Thumbnail": "https://i.ytimg.com/vi/RzRlenQT5dk/hqdefault.jpg",
-    "Title": "Snow Man '悪戯な天使' Music Video",
-    "Channel": "Snow Man",
+    "Rank": 26,
+    "Change": "-8",
+    "Thumbnail": "https://i.ytimg.com/vi/SejoKXcFrDM/hqdefault.jpg",
+    "Title": "Haji Mastan (Official Video) Cheema Y | Gur Sidhu | Sukh Sanghera | Jasmeen Akhtar",
+    "Channel": "Brown Town Music",
     "Category": "Music",
-    "Views Gained": 4054074
+    "Views Gained": 4230396
   },
   {
-    "Rank": 30,
-    "Change": "-2",
+    "Rank": 27,
+    "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/dHsK0Hm8ezM/hqdefault.jpg",
     "Title": "Magic Choice #pennandteller #magic #magician",
     "Channel": "The CW Network",
@@ -270,80 +243,71 @@
     "Views Gained": 3982428
   },
   {
-    "Rank": 31,
-    "Change": "-10",
-    "Thumbnail": "https://i.ytimg.com/vi/spQ6JXmv1do/hqdefault.jpg",
-    "Title": "GIRLSET “Little Miss” Music Video",
-    "Channel": "JYP Entertainment",
-    "Category": "Music",
-    "Views Gained": 3866903
-  },
-  {
-    "Rank": 32,
-    "Change": "+9",
-    "Thumbnail": "https://i.ytimg.com/vi/GJ2v96T9xOk/hqdefault.jpg",
-    "Title": "CHANEL",
-    "Channel": "Tyla - Topic",
-    "Category": "Music",
-    "Views Gained": 3858742
-  },
-  {
-    "Rank": 33,
-    "Change": "+1",
+    "Rank": 28,
+    "Change": "+5",
     "Thumbnail": "https://i.ytimg.com/vi/e_8Yb_YNjIM/hqdefault.jpg",
     "Title": "😱Rumi Joined the Longest Hair Challenge !😱 (Rumi, zoey, Mira)  Kpop demon hunters #shorts #fyp #kpop",
     "Channel": "TungTok",
     "Category": "Film & Animation",
-    "Views Gained": 3827955
+    "Views Gained": 3981472
   },
   {
-    "Rank": 34,
-    "Change": "+10",
+    "Rank": 29,
+    "Change": "+13",
+    "Thumbnail": "https://i.ytimg.com/vi/2Ummj-Do9JI/hqdefault.jpg",
+    "Title": "DIVINE - You & I | Kalyani Priyadarshan | Prod. by Zzorawar | Official Music Video",
+    "Channel": "DIVINE",
+    "Category": "Music",
+    "Views Gained": 3962321
+  },
+  {
+    "Rank": 30,
+    "Change": "-2",
+    "Thumbnail": "https://i.ytimg.com/vi/Dl_n2_ekfN4/hqdefault.jpg",
+    "Title": "Midnight Call (Official Video) - Harkirat Sangha | Starboy X | Rupan Bal | Interstellar 2025",
+    "Channel": "Harkirat Sangha",
+    "Category": "Music",
+    "Views Gained": 3917341
+  },
+  {
+    "Rank": 31,
+    "Change": "-17",
+    "Thumbnail": "https://i.ytimg.com/vi/wehFT0AJsV8/hqdefault.jpg",
+    "Title": "Maam ne ki sabki ichcha puri 😂🤣 #viralvideo #funny #comedy #shorts #ytshorts #trending #teacher",
+    "Channel": "Iamamrasiddiqui786",
+    "Category": "Comedy",
+    "Views Gained": 3534335
+  },
+  {
+    "Rank": 32,
+    "Change": "+2",
     "Thumbnail": "https://i.ytimg.com/vi/tGrZUfRADgs/hqdefault.jpg",
     "Title": "ONE MORE TIME",
     "Channel": "ALLDAY PROJECT - Topic",
     "Category": "Music",
-    "Views Gained": 3479304
+    "Views Gained": 3399394
   },
   {
-    "Rank": 35,
-    "Change": "+3",
+    "Rank": 33,
+    "Change": "+2",
     "Thumbnail": "https://i.ytimg.com/vi/rdyrpQbxRi0/hqdefault.jpg",
     "Title": "Fixing and Deep Cleaning Bent iPad and Case 🤢🤮 #shorts #moneytalkswireless",
     "Channel": "MONEY TALKS WIRELESS",
     "Category": "Science & Technology",
-    "Views Gained": 3338238
+    "Views Gained": 3354426
   },
   {
-    "Rank": 36,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/0hc8yz5-d5Y/hqdefault.jpg",
-    "Title": "Wake Up Dead Man: A Knives Out Mystery | Official Trailer | Netflix",
-    "Channel": "Netflix",
-    "Category": "Entertainment",
-    "Views Gained": 3332106
-  },
-  {
-    "Rank": 37,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/UfaM4nPwc8Y/hqdefault.jpg",
-    "Title": "Mangli Bayilone Ballipalike | Full Song | Suresh Bobbili | Nagavva | Kamal Eslavath | Shekar Virus",
-    "Channel": "Mangli Official",
+    "Rank": 34,
+    "Change": "-21",
+    "Thumbnail": "https://i.ytimg.com/vi/9AJsFRNJGZ8/hqdefault.jpg",
+    "Title": "Tere Ishk Mein: Trailer (Hindi) | Dhanush, Kriti S | AR Rahman | Aanand L Rai | Bhushan K | 28 Nov",
+    "Channel": "T-Series",
     "Category": "Music",
-    "Views Gained": 3313080
+    "Views Gained": 3325245
   },
   {
-    "Rank": 38,
-    "Change": "-1",
-    "Thumbnail": "https://i.ytimg.com/vi/lv8faRQ7Ve8/hqdefault.jpg",
-    "Title": "TABOLA BALE (Cover By ADAGIO Sekolah Musik)",
-    "Channel": "ADAGIO Sekolah Musik",
-    "Category": "Music",
-    "Views Gained": 3278095
-  },
-  {
-    "Rank": 39,
-    "Change": "+1",
+    "Rank": 35,
+    "Change": "+4",
     "Thumbnail": "https://i.ytimg.com/vi/LWe_VWOpxV0/hqdefault.jpg",
     "Title": "Having dyslexia is not a bad thing.#movieclips #hearttouching #childrenmovie",
     "Channel": "CineSpotlight",
@@ -351,35 +315,53 @@
     "Views Gained": 3205281
   },
   {
+    "Rank": 36,
+    "Change": "+2",
+    "Thumbnail": "https://i.ytimg.com/vi/lv8faRQ7Ve8/hqdefault.jpg",
+    "Title": "TABOLA BALE (Cover By ADAGIO Sekolah Musik)",
+    "Channel": "ADAGIO Sekolah Musik",
+    "Category": "Music",
+    "Views Gained": 3203415
+  },
+  {
+    "Rank": 37,
+    "Change": "-8",
+    "Thumbnail": "https://i.ytimg.com/vi/RzRlenQT5dk/hqdefault.jpg",
+    "Title": "Snow Man '悪戯な天使' Music Video",
+    "Channel": "Snow Man",
+    "Category": "Music",
+    "Views Gained": 3158120
+  },
+  {
+    "Rank": 38,
+    "Change": "-7",
+    "Thumbnail": "https://i.ytimg.com/vi/spQ6JXmv1do/hqdefault.jpg",
+    "Title": "GIRLSET “Little Miss” Music Video",
+    "Channel": "JYP Entertainment",
+    "Category": "Music",
+    "Views Gained": 3043825
+  },
+  {
+    "Rank": 39,
+    "Change": "+6",
+    "Thumbnail": "https://i.ytimg.com/vi/-KhQIMnBgIg/hqdefault.jpg",
+    "Title": "Mrs. GREEN APPLE - 狭心症 / Kyoshinsho [Audio]",
+    "Channel": "RADWIMPS",
+    "Category": "Music",
+    "Views Gained": 2993199
+  },
+  {
     "Rank": 40,
-    "Change": "-14",
-    "Thumbnail": "https://i.ytimg.com/vi/B6PHlQ6aZiE/hqdefault.jpg",
-    "Title": "The waiter's reminder made him suddenly realize.#shorts",
-    "Channel": "SceneBlink ",
-    "Category": "People & Blogs",
-    "Views Gained": 2969293
+    "Change": "-19",
+    "Thumbnail": "https://i.ytimg.com/vi/DMD2uthghWE/hqdefault.jpg",
+    "Title": "VARANASI to the WORLD - Mahesh Babu | Priyanka Chopra | Prithviraj | SS Rajamouli |MM Keeravaani",
+    "Channel": "T-Series",
+    "Category": "Music",
+    "Views Gained": 2973011
   },
   {
     "Rank": 41,
-    "Change": "-10",
-    "Thumbnail": "https://i.ytimg.com/vi/l2vB4qovRoE/hqdefault.jpg",
-    "Title": "Chikiri Chikiri Video Song (Hindi) | Peddi | Ram Charan | Janhvi | Buchi Babu | AR Rahman | Mohit",
-    "Channel": "T-Series",
-    "Category": "Music",
-    "Views Gained": 2964104
-  },
-  {
-    "Rank": 42,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/2Ummj-Do9JI/hqdefault.jpg",
-    "Title": "DIVINE - You & I | Kalyani Priyadarshan | Prod. by Zzorawar | Official Music Video",
-    "Channel": "DIVINE",
-    "Category": "Music",
-    "Views Gained": 2942229
-  },
-  {
-    "Rank": 43,
-    "Change": "+3",
+    "Change": "+2",
     "Thumbnail": "https://i.ytimg.com/vi/xLb5fRkAg04/hqdefault.jpg",
     "Title": "Provocative Wardrobe | Dr Phil LIVE!",
     "Channel": "Adam Ray",
@@ -387,8 +369,17 @@
     "Views Gained": 2880115
   },
   {
-    "Rank": 44,
-    "Change": "+6",
+    "Rank": 42,
+    "Change": "+5",
+    "Thumbnail": "https://i.ytimg.com/vi/MPjxijuBuSo/hqdefault.jpg",
+    "Title": "The Hunger Games: Sunrise on the Reaping (2026) Official Teaser – Joseph Zada",
+    "Channel": "Lionsgate Movies",
+    "Category": "Film & Animation",
+    "Views Gained": 2869780
+  },
+  {
+    "Rank": 43,
+    "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/wRQsObtUdgA/hqdefault.jpg",
     "Title": "El niño tiene dislexia, pero tiene un buen profesor. #peliculas #movie #shorts",
     "Channel": "Avocado Movie",
@@ -396,57 +387,66 @@
     "Views Gained": 2852792
   },
   {
-    "Rank": 45,
-    "Change": "+4",
-    "Thumbnail": "https://i.ytimg.com/vi/-KhQIMnBgIg/hqdefault.jpg",
-    "Title": "Mrs. GREEN APPLE - 狭心症 / Kyoshinsho [Audio]",
-    "Channel": "RADWIMPS",
+    "Rank": 44,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/yc4j-pIq20M/hqdefault.jpg",
+    "Title": "Mari Fernandez, @Eogrelo, @NatanzinhoLimaOficial - SAUDADE DO CARAI",
+    "Channel": "Mari Fernandez",
     "Category": "Music",
-    "Views Gained": 2823858
+    "Views Gained": 2768049
+  },
+  {
+    "Rank": 45,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/x_RYZsOfpKY/hqdefault.jpg",
+    "Title": "ILLIT (아일릿) 'NOT CUTE ANYMORE’ Official MV",
+    "Channel": "HYBE LABELS",
+    "Category": "Music",
+    "Views Gained": 2621516
   },
   {
     "Rank": 46,
-    "Change": "-11",
-    "Thumbnail": "https://i.ytimg.com/vi/TzqIEE8bEdU/hqdefault.jpg",
-    "Title": "PHURR Official Song – Kapil Sharma x Yo Yo Honey Singh  | Josh Brar | Kis Kisko Pyaar Karoon 2",
-    "Channel": "Ishtar Music",
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/E8N8CAihLT0/hqdefault.jpg",
+    "Title": "米津玄師,宇多田ヒカル「JANE DOE」×『チェンソーマン レゼ篇』MV/KenshiYonezu,HikaruUtada-JANE DOE×ChainsawMan–TheMovie:RezeArc",
+    "Channel": "Kenshi Yonezu  米津玄師",
     "Category": "Music",
-    "Views Gained": 2765903
+    "Views Gained": 2603574
   },
   {
     "Rank": 47,
     "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/MPjxijuBuSo/hqdefault.jpg",
-    "Title": "The Hunger Games: Sunrise on the Reaping (2026) Official Teaser – Joseph Zada",
-    "Channel": "Lionsgate Movies",
-    "Category": "Film & Animation",
-    "Views Gained": 2753131
+    "Thumbnail": "https://i.ytimg.com/vi/sdaMhDKFEUU/hqdefault.jpg",
+    "Title": "#Video | दुल्हा बनाईब - #Ankush Raja | #Shilpi Raj | #Astha Singh | Dulha Banaib | Bhojpuri Song",
+    "Channel": "Danger Music",
+    "Category": "Music",
+    "Views Gained": 2501664
   },
   {
     "Rank": 48,
-    "Change": "-9",
-    "Thumbnail": "https://i.ytimg.com/vi/xpzbVXZRQLo/hqdefault.jpg",
-    "Title": "Can't Be Us (OFFICIAL VIDEO) PREM DHILLON ft Sudesh Kumari | The Kidd  |  Latest Punjabi Songs 2025",
-    "Channel": "Prem Dhillon",
-    "Category": "People & Blogs",
-    "Views Gained": 2738959
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/v9zkG4vL0z8/hqdefault.jpg",
+    "Title": "RUMAH POHON PART 1 - Dhot Design",
+    "Channel": "Dhot Design",
+    "Category": "Film & Animation",
+    "Views Gained": 2488940
   },
   {
     "Rank": 49,
-    "Change": "-6",
-    "Thumbnail": "https://i.ytimg.com/vi/lLFoLJIXayk/hqdefault.jpg",
-    "Title": "NF - FEAR",
-    "Channel": "NFVEVO",
-    "Category": "Music",
-    "Views Gained": 2715495
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/mxYsdoESzxw/hqdefault.jpg",
+    "Title": "FC BARCELONA 4 - 0 ATHLETIC CLUB | RESUMEN LALIGA EA SPORTS",
+    "Channel": "LALIGA EA SPORTS",
+    "Category": "Sports",
+    "Views Gained": 2482009
   },
   {
     "Rank": 50,
-    "Change": "-20",
-    "Thumbnail": "https://i.ytimg.com/vi/YUY9RXXEMwA/hqdefault.jpg",
-    "Title": "Daddy GO #viralvideo #wife #husbandwife #skit #funny",
-    "Channel": "DMChidi TV",
-    "Category": "People & Blogs",
-    "Views Gained": 2546921
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/LHCQ5BWXmfE/hqdefault.jpg",
+    "Title": "Trump Calls for Jimmy Kimmel to Be Fired AGAIN, Threatens Members of Congress & Signs Epstein Bill",
+    "Channel": "Jimmy Kimmel Live",
+    "Category": "Comedy",
+    "Views Gained": 2406276
   }
 ]
