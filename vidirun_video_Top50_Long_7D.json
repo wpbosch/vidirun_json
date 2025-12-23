@@ -1,61 +1,88 @@
 [
   {
     "Rank": 1,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/oaOG1xOk7XY/hqdefault.jpg",
-    "Title": "THE AMAZING DIGITAL CIRCUS - Ep 7: Beach Episode",
-    "Channel": "GLITCH",
-    "Category": "Film & Animation",
-    "Views Gained": 7503290
-  },
-  {
-    "Rank": 2,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/DWCl2dN6hpg/hqdefault.jpg",
-    "Title": "1 Pro vs 500 Hunters",
-    "Channel": "MrBeast Gaming",
-    "Category": "Gaming",
-    "Views Gained": 4987653
-  },
-  {
-    "Rank": 3,
-    "Change": "+5",
-    "Thumbnail": "https://i.ytimg.com/vi/wLMdG41TynE/hqdefault.jpg",
-    "Title": "Taşacak Bu Deniz 11. Bölüm @trt1",
-    "Channel": "Taşacak Bu Deniz",
-    "Category": "Entertainment",
-    "Views Gained": 3632089
-  },
-  {
-    "Rank": 4,
-    "Change": "New",
+    "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/wWIJNCU8OOs/hqdefault.jpg",
     "Title": "Reality of Dhurandhar Film | Dhruv Rathee",
     "Channel": "Dhruv Rathee",
     "Category": "Education",
-    "Views Gained": 3199453
+    "Views Gained": 5208216
+  },
+  {
+    "Rank": 2,
+    "Change": "-1",
+    "Thumbnail": "https://i.ytimg.com/vi/oaOG1xOk7XY/hqdefault.jpg",
+    "Title": "THE AMAZING DIGITAL CIRCUS - Ep 7: Beach Episode",
+    "Channel": "GLITCH",
+    "Category": "Film & Animation",
+    "Views Gained": 5105619
+  },
+  {
+    "Rank": 3,
+    "Change": "0",
+    "Thumbnail": "https://i.ytimg.com/vi/wLMdG41TynE/hqdefault.jpg",
+    "Title": "Taşacak Bu Deniz 11. Bölüm @trt1",
+    "Channel": "Taşacak Bu Deniz",
+    "Category": "Entertainment",
+    "Views Gained": 4380090
+  },
+  {
+    "Rank": 4,
+    "Change": "-2",
+    "Thumbnail": "https://i.ytimg.com/vi/DWCl2dN6hpg/hqdefault.jpg",
+    "Title": "1 Pro vs 500 Hunters",
+    "Channel": "MrBeast Gaming",
+    "Category": "Gaming",
+    "Views Gained": 4236127
   },
   {
     "Rank": 5,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/GHlDcxYVYSw/hqdefault.jpg",
-    "Title": "Match 5 | India U19 vs Pakistan U19 | Highlights | DP World Men's U19 Asia Cup  2025",
-    "Channel": "Asian Cricket Council",
-    "Category": "Sports",
-    "Views Gained": 2699792
+    "Change": "+5",
+    "Thumbnail": "https://i.ytimg.com/vi/mWibz_ZFo3E/hqdefault.jpg",
+    "Title": "제3회 핑계고 시상식ㅣEP.95",
+    "Channel": "뜬뜬 DdeunDdeun",
+    "Category": "Comedy",
+    "Views Gained": 4094157
   },
   {
     "Rank": 6,
-    "Change": "+4",
-    "Thumbnail": "https://i.ytimg.com/vi/Oj4Lcpnerpo/hqdefault.jpg",
-    "Title": "【タカオカ解説】日本と中国の緊張状態が続くなか “ある国” が日本に思わぬ援護？",
-    "Channel": "読売テレビニュース",
-    "Category": "News & Politics",
-    "Views Gained": 2536889
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/4dVbEoPTieg/hqdefault.jpg",
+    "Title": "LE PIRE DATE #5 (ft Bigflo, Anyme, GMK)",
+    "Channel": "SQUEEZIE",
+    "Category": "Entertainment",
+    "Views Gained": 2788776
   },
   {
     "Rank": 7,
     "Change": "-1",
+    "Thumbnail": "https://i.ytimg.com/vi/Oj4Lcpnerpo/hqdefault.jpg",
+    "Title": "【タカオカ解説】日本と中国の緊張状態が続くなか “ある国” が日本に思わぬ援護？",
+    "Channel": "読売テレビニュース",
+    "Category": "News & Politics",
+    "Views Gained": 2717609
+  },
+  {
+    "Rank": 8,
+    "Change": "+11",
+    "Thumbnail": "https://i.ytimg.com/vi/J7rPlmNI1U8/hqdefault.jpg",
+    "Title": "ALFA SE ENFRENTA A INFERNO",
+    "Channel": "Fede Vigevani",
+    "Category": "Entertainment",
+    "Views Gained": 2707655
+  },
+  {
+    "Rank": 9,
+    "Change": "+9",
+    "Thumbnail": "https://i.ytimg.com/vi/MoQ-Fu30lb4/hqdefault.jpg",
+    "Title": "Grand Finale | India U19 vs Pakistan U19 | Highlights | DP World Men's U19 Asia Cup 2025",
+    "Channel": "Asian Cricket Council",
+    "Category": "Sports",
+    "Views Gained": 2451033
+  },
+  {
+    "Rank": 10,
+    "Change": "-3",
     "Thumbnail": "https://i.ytimg.com/vi/SVihhbs64aU/hqdefault.jpg",
     "Title": "Minecraft Speedrunner VS Hunter REVIVAL",
     "Channel": "Dream",
@@ -63,8 +90,8 @@
     "Views Gained": 2425518
   },
   {
-    "Rank": 8,
-    "Change": "+7",
+    "Rank": 11,
+    "Change": "-3",
     "Thumbnail": "https://i.ytimg.com/vi/sYbHGFnyTOU/hqdefault.jpg",
     "Title": "TOHIR MENEMUKAN HARTA KARUN !!!",
     "Channel": "dika_ bj",
@@ -72,8 +99,8 @@
     "Views Gained": 2392391
   },
   {
-    "Rank": 9,
-    "Change": "0",
+    "Rank": 12,
+    "Change": "-3",
     "Thumbnail": "https://i.ytimg.com/vi/2ITzIazwh3Y/hqdefault.jpg",
     "Title": "yes. i literally beat the game. in this video. pls watch.",
     "Channel": "CoryxKenshin",
@@ -81,25 +108,7 @@
     "Views Gained": 2383926
   },
   {
-    "Rank": 10,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/mWibz_ZFo3E/hqdefault.jpg",
-    "Title": "제3회 핑계고 시상식ㅣEP.95",
-    "Channel": "뜬뜬 DdeunDdeun",
-    "Category": "Comedy",
-    "Views Gained": 2327859
-  },
-  {
-    "Rank": 11,
-    "Change": "-7",
-    "Thumbnail": "https://i.ytimg.com/vi/h3r4aUYo6cA/hqdefault.jpg",
-    "Title": "Koleoso pt 8 (season2) - Latest Yoruba Movie 2025 | Iteledicon | Kemity | Muyiwa Ademola | Ogboluke",
-    "Channel": "Itelediconstudio",
-    "Category": "Film & Animation",
-    "Views Gained": 2291594
-  },
-  {
-    "Rank": 12,
+    "Rank": 13,
     "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/guJuoYMKRlI/hqdefault.jpg",
     "Title": "Uzak Şehir 42. Bölüm",
@@ -108,8 +117,17 @@
     "Views Gained": 2260608
   },
   {
-    "Rank": 13,
-    "Change": "+9",
+    "Rank": 14,
+    "Change": "+1",
+    "Thumbnail": "https://i.ytimg.com/vi/ZNvlOFxNk4U/hqdefault.jpg",
+    "Title": "NOOB VS PRO: DEER CULT HOUSE BUILD CHALLENGE in Minecraft 99 Nights in a Forest!",
+    "Channel": "Maizen",
+    "Category": "Gaming",
+    "Views Gained": 2245063
+  },
+  {
+    "Rank": 15,
+    "Change": "-2",
     "Thumbnail": "https://i.ytimg.com/vi/R-yzplsvcLo/hqdefault.jpg",
     "Title": "Kızılcık Şerbeti 118. Bölüm @showtv",
     "Channel": "Kızılcık Şerbeti",
@@ -117,7 +135,7 @@
     "Views Gained": 2167244
   },
   {
-    "Rank": 14,
+    "Rank": 16,
     "Change": "-2",
     "Thumbnail": "https://i.ytimg.com/vi/tl7HMVWDbvk/hqdefault.jpg",
     "Title": "Кто Последний Уснёт - Получит 500.000 ₽ ! (Сатир, Парадеич, Кореш, ФрамеТамер, Горилла, Кокошка)",
@@ -126,71 +144,35 @@
     "Views Gained": 2142255
   },
   {
-    "Rank": 15,
-    "Change": "+3",
-    "Thumbnail": "https://i.ytimg.com/vi/ZNvlOFxNk4U/hqdefault.jpg",
-    "Title": "NOOB VS PRO: DEER CULT HOUSE BUILD CHALLENGE in Minecraft 99 Nights in a Forest!",
-    "Channel": "Maizen",
-    "Category": "Gaming",
-    "Views Gained": 2108772
-  },
-  {
-    "Rank": 16,
-    "Change": "+4",
-    "Thumbnail": "https://i.ytimg.com/vi/HNnqJmlLR_w/hqdefault.jpg",
-    "Title": "I Explored the Minecraft Great Sea",
-    "Channel": "Wemmbu",
-    "Category": "Gaming",
-    "Views Gained": 1942457
-  },
-  {
     "Rank": 17,
-    "Change": "+2",
+    "Change": "-6",
+    "Thumbnail": "https://i.ytimg.com/vi/h3r4aUYo6cA/hqdefault.jpg",
+    "Title": "Koleoso pt 8 (season2) - Latest Yoruba Movie 2025 | Iteledicon | Kemity | Muyiwa Ademola | Ogboluke",
+    "Channel": "Itelediconstudio",
+    "Category": "Film & Animation",
+    "Views Gained": 1918358
+  },
+  {
+    "Rank": 18,
+    "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/T9us4tbBpTo/hqdefault.jpg",
     "Title": "I Forgot How To Vlog | I’m Back ❤️",
     "Channel": "Ducky Bhai",
     "Category": "People & Blogs",
-    "Views Gained": 1882274
-  },
-  {
-    "Rank": 18,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/MoQ-Fu30lb4/hqdefault.jpg",
-    "Title": "Grand Finale | India U19 vs Pakistan U19 | Highlights | DP World Men's U19 Asia Cup 2025",
-    "Channel": "Asian Cricket Council",
-    "Category": "Sports",
-    "Views Gained": 1855776
+    "Views Gained": 1901325
   },
   {
     "Rank": 19,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/J7rPlmNI1U8/hqdefault.jpg",
-    "Title": "ALFA SE ENFRENTA A INFERNO",
-    "Channel": "Fede Vigevani",
-    "Category": "Entertainment",
-    "Views Gained": 1812803
+    "Change": "+5",
+    "Thumbnail": "https://i.ytimg.com/vi/KIxAy-JdXrg/hqdefault.jpg",
+    "Title": "AKU JUALAN BAKSO MALANG DI MALAM HARI TAPI ADA YANG ANEH.... Bakso Malang Anomalies",
+    "Channel": "Windah Basudara",
+    "Category": "Gaming",
+    "Views Gained": 1881786
   },
   {
     "Rank": 20,
-    "Change": "-6",
-    "Thumbnail": "https://i.ytimg.com/vi/P-oYegwTfmI/hqdefault.jpg",
-    "Title": "DOMESTIC WAR - SONIA UCHE, BIMBO ADEMOYE, STANLEY IGBOANUGO LATEST NIGERIAN MOVIE",
-    "Channel": "Sonia Uche Tv",
-    "Category": "Film & Animation",
-    "Views Gained": 1761078
-  },
-  {
-    "Rank": 21,
-    "Change": "-5",
-    "Thumbnail": "https://i.ytimg.com/vi/gxmjIf-AYTM/hqdefault.jpg",
-    "Title": "100 Player World War in GTA",
-    "Channel": "Wanted ⭐",
-    "Category": "Gaming",
-    "Views Gained": 1721767
-  },
-  {
-    "Rank": 22,
-    "Change": "+11",
+    "Change": "+2",
     "Thumbnail": "https://i.ytimg.com/vi/7JOTUUStHeQ/hqdefault.jpg",
     "Title": "Do NOT Draw This In Mario Odyssey... (SCARY)",
     "Channel": "Manx Ninja Pig",
@@ -198,62 +180,116 @@
     "Views Gained": 1540091
   },
   {
+    "Rank": 21,
+    "Change": "0",
+    "Thumbnail": "https://i.ytimg.com/vi/gxmjIf-AYTM/hqdefault.jpg",
+    "Title": "100 Players Simulate World War in GTA",
+    "Channel": "Wanted ⭐",
+    "Category": "Gaming",
+    "Views Gained": 1529144
+  },
+  {
+    "Rank": 22,
+    "Change": "+11",
+    "Thumbnail": "https://i.ytimg.com/vi/3bh62_ghYtw/hqdefault.jpg",
+    "Title": "Güller ve Günahlar 11. Bölüm - Full Bölüm",
+    "Channel": "Güller ve Günahlar",
+    "Category": "People & Blogs",
+    "Views Gained": 1501172
+  },
+  {
     "Rank": 23,
-    "Change": "+4",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/zAd6mDrJz-8/hqdefault.jpg",
     "Title": "SIDEMEN AMONG US BUT THE IMPOSTOR IS A PEANUT",
     "Channel": "MoreSidemen",
     "Category": "People & Blogs",
-    "Views Gained": 1317237
+    "Views Gained": 1499406
   },
   {
     "Rank": 24,
-    "Change": "+22",
-    "Thumbnail": "https://i.ytimg.com/vi/KIxAy-JdXrg/hqdefault.jpg",
-    "Title": "AKU JUALAN BAKSO MALANG DI MALAM HARI TAPI ADA YANG ANEH.... Bakso Malang Anomalies",
-    "Channel": "Windah Basudara",
-    "Category": "Gaming",
-    "Views Gained": 1314130
-  },
-  {
-    "Rank": 25,
-    "Change": "-18",
-    "Thumbnail": "https://i.ytimg.com/vi/poIxPW7UA-E/hqdefault.jpg",
-    "Title": "Taşacak Bu Deniz 10. Bölüm @trt1",
-    "Channel": "Taşacak Bu Deniz",
-    "Category": "Entertainment",
-    "Views Gained": 1266095
-  },
-  {
-    "Rank": 26,
-    "Change": "+6",
-    "Thumbnail": "https://i.ytimg.com/vi/xU8KiNYXmw0/hqdefault.jpg",
-    "Title": "バキ童、彼女できました&卒業しました【記者会見】",
-    "Channel": "バキ童チャンネル【ぐんぴぃ】",
-    "Category": "Entertainment",
-    "Views Gained": 1264203
-  },
-  {
-    "Rank": 27,
-    "Change": "-24",
-    "Thumbnail": "https://i.ytimg.com/vi/d-BDeU3R5ic/hqdefault.jpg",
-    "Title": "THE GAME AWARDS 2025: Official 4K60FPS Livestream",
-    "Channel": "thegameawards",
-    "Category": "Gaming",
-    "Views Gained": 1210193
-  },
-  {
-    "Rank": 28,
-    "Change": "+16",
+    "Change": "+4",
     "Thumbnail": "https://i.ytimg.com/vi/Fa7VNHWdGqk/hqdefault.jpg",
     "Title": "Qui Abandonnera en Premier ? (Ft Mastu & Nico) Jette l’éponge",
     "Channel": "ByIlhan",
     "Category": "Entertainment",
-    "Views Gained": 1185081
+    "Views Gained": 1497115
+  },
+  {
+    "Rank": 25,
+    "Change": "-5",
+    "Thumbnail": "https://i.ytimg.com/vi/P-oYegwTfmI/hqdefault.jpg",
+    "Title": "DOMESTIC WAR - SONIA UCHE, BIMBO ADEMOYE, STANLEY IGBOANUGO LATEST NIGERIAN MOVIE",
+    "Channel": "Sonia Uche Tv",
+    "Category": "Film & Animation",
+    "Views Gained": 1488076
+  },
+  {
+    "Rank": 26,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/iPCWamt3XME/hqdefault.jpg",
+    "Title": "Ekaki Chapter 3 : Invasion | Ashish Chanchlani | ACV Studios",
+    "Channel": "ashish chanchlani vines",
+    "Category": "Comedy",
+    "Views Gained": 1483219
+  },
+  {
+    "Rank": 27,
+    "Change": "+15",
+    "Thumbnail": "https://i.ytimg.com/vi/31Pek0aIpEI/hqdefault.jpg",
+    "Title": "CONTROL REWORK TRAILER + SHOWCASE | Blox Fruits",
+    "Channel": "Gamer Robot",
+    "Category": "Gaming",
+    "Views Gained": 1476822
+  },
+  {
+    "Rank": 28,
+    "Change": "-23",
+    "Thumbnail": "https://i.ytimg.com/vi/GHlDcxYVYSw/hqdefault.jpg",
+    "Title": "Match 5 | India U19 vs Pakistan U19 | Highlights | DP World Men's U19 Asia Cup  2025",
+    "Channel": "Asian Cricket Council",
+    "Category": "Sports",
+    "Views Gained": 1455732
   },
   {
     "Rank": 29,
-    "Change": "-5",
+    "Change": "-3",
+    "Thumbnail": "https://i.ytimg.com/vi/xU8KiNYXmw0/hqdefault.jpg",
+    "Title": "バキ童、彼女できました&卒業しました【記者会見】",
+    "Channel": "バキ童チャンネル【ぐんぴぃ】",
+    "Category": "Entertainment",
+    "Views Gained": 1389081
+  },
+  {
+    "Rank": 30,
+    "Change": "+13",
+    "Thumbnail": "https://i.ytimg.com/vi/0186ffI5jZk/hqdefault.jpg",
+    "Title": "Не Спи - Получи 500.000 Рублей! 2 Часть (Сатир, ФрамеТамер, Кореш, Горилла, Парадеич, Раговский)",
+    "Channel": "ExileShow",
+    "Category": "Entertainment",
+    "Views Gained": 1273736
+  },
+  {
+    "Rank": 31,
+    "Change": "-1",
+    "Thumbnail": "https://i.ytimg.com/vi/MXv5qifWv-I/hqdefault.jpg",
+    "Title": "LOVE AFFAIR - CLINTON JOSHUA, SARIAN MARTIN 2025 Latest Nollywood New Movie",
+    "Channel": "NollyFamily tv",
+    "Category": "Entertainment",
+    "Views Gained": 1217360
+  },
+  {
+    "Rank": 32,
+    "Change": "-16",
+    "Thumbnail": "https://i.ytimg.com/vi/HNnqJmlLR_w/hqdefault.jpg",
+    "Title": "I Explored the Minecraft Great Sea",
+    "Channel": "Wemmbu",
+    "Category": "Gaming",
+    "Views Gained": 1183000
+  },
+  {
+    "Rank": 33,
+    "Change": "-4",
     "Thumbnail": "https://i.ytimg.com/vi/OOe8BN-gZa4/hqdefault.jpg",
     "Title": "الرجل العنكبوت انقاذ باتمان Spider-Man Rescue batman vs iron man vs venom funny Game GTA 5 superhero",
     "Channel": "RAIZER",
@@ -261,26 +297,17 @@
     "Views Gained": 1179357
   },
   {
-    "Rank": 30,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/MXv5qifWv-I/hqdefault.jpg",
-    "Title": "LOVE AFFAIR - CLINTON JOSHUA, SARIAN MARTIN 2025 Latest Nollywood New Movie",
-    "Channel": "NollyFamily tv",
-    "Category": "Entertainment",
-    "Views Gained": 1135809
+    "Rank": 34,
+    "Change": "+2",
+    "Thumbnail": "https://i.ytimg.com/vi/tyT2tQPdxpc/hqdefault.jpg",
+    "Title": "BANHEIRISTAS FC VERSUS: A ESTREIA (BFC vs LOUD) [EP.1]",
+    "Channel": "Banheiristas",
+    "Category": "Sports",
+    "Views Gained": 1084572
   },
   {
-    "Rank": 31,
-    "Change": "-18",
-    "Thumbnail": "https://i.ytimg.com/vi/NLhbpPuOmKM/hqdefault.jpg",
-    "Title": "Güller ve Günahlar 10. Bölüm - Full Bölüm",
-    "Channel": "Güller ve Günahlar",
-    "Category": "People & Blogs",
-    "Views Gained": 1033107
-  },
-  {
-    "Rank": 32,
-    "Change": "-1",
+    "Rank": 35,
+    "Change": "-3",
     "Thumbnail": "https://i.ytimg.com/vi/l4_5UnIekUM/hqdefault.jpg",
     "Title": "SIDEMEN WORLDS SMALLEST GTA RACE",
     "Channel": "MoreSidemen",
@@ -288,26 +315,35 @@
     "Views Gained": 1016506
   },
   {
-    "Rank": 33,
+    "Rank": 36,
     "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/3bh62_ghYtw/hqdefault.jpg",
-    "Title": "Güller ve Günahlar 11. Bölüm - Full Bölüm",
-    "Channel": "Güller ve Günahlar",
-    "Category": "People & Blogs",
-    "Views Gained": 1005259
+    "Thumbnail": "https://i.ytimg.com/vi/-lp2Kt6RJkQ/hqdefault.jpg",
+    "Title": "I bought the CRAZIEST Tech from South Korea",
+    "Channel": "Mrwhosetheboss",
+    "Category": "Science & Technology",
+    "Views Gained": 1010994
   },
   {
-    "Rank": 34,
-    "Change": "-17",
-    "Thumbnail": "https://i.ytimg.com/vi/FwXHwv6nKg0/hqdefault.jpg",
-    "Title": "CACHE-CACHE ÉDITION CAMOUFLAGE EXTRÊME #6",
-    "Channel": "Amixem",
-    "Category": "Comedy",
-    "Views Gained": 971779
+    "Rank": 37,
+    "Change": "+7",
+    "Thumbnail": "https://i.ytimg.com/vi/TZU7aMNqDS8/hqdefault.jpg",
+    "Title": "WATER AND WINE -  RUTH KADIRI DEZA THE GREAT EDDIE WATSON",
+    "Channel": "RuthKadiri247",
+    "Category": "Entertainment",
+    "Views Gained": 1009221
   },
   {
-    "Rank": 35,
-    "Change": "-1",
+    "Rank": 38,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/jRQSj8Igc9Q/hqdefault.jpg",
+    "Title": "IYAWO ALHAJI 4 - Latest Yoruba Movie 2025 Drama - Uzee Usman, Dayo Amusa, Saidi Balogun, Sidi, Itele",
+    "Channel": "Mobimpe Tv",
+    "Category": "Film & Animation",
+    "Views Gained": 970537
+  },
+  {
+    "Rank": 39,
+    "Change": "-4",
     "Thumbnail": "https://i.ytimg.com/vi/y4zPrCJJ9FE/hqdefault.jpg",
     "Title": "Hermitcraft 11: Episode 6 - THE NEW UPDATE!",
     "Channel": "Grian",
@@ -315,17 +351,8 @@
     "Views Gained": 940152
   },
   {
-    "Rank": 36,
-    "Change": "+12",
-    "Thumbnail": "https://i.ytimg.com/vi/tyT2tQPdxpc/hqdefault.jpg",
-    "Title": "BANHEIRISTAS FC VERSUS: A ESTREIA (BFC vs LOUD) [EP.1]",
-    "Channel": "Banheiristas",
-    "Category": "Sports",
-    "Views Gained": 930550
-  },
-  {
-    "Rank": 37,
-    "Change": "0",
+    "Rank": 40,
+    "Change": "-3",
     "Thumbnail": "https://i.ytimg.com/vi/1RdqxlGRHiA/hqdefault.jpg",
     "Title": "ESSE É O VÍDEO MAIS CORRETO DO CANAL!",
     "Channel": "Jazzghost",
@@ -333,8 +360,8 @@
     "Views Gained": 921048
   },
   {
-    "Rank": 38,
-    "Change": "0",
+    "Rank": 41,
+    "Change": "-3",
     "Thumbnail": "https://i.ytimg.com/vi/APdKWIDUyjQ/hqdefault.jpg",
     "Title": "Spending $8,492,586 For The REINITO SLEIGHITO..",
     "Channel": "Foltyn",
@@ -342,8 +369,8 @@
     "Views Gained": 918860
   },
   {
-    "Rank": 39,
-    "Change": "0",
+    "Rank": 42,
+    "Change": "-3",
     "Thumbnail": "https://i.ytimg.com/vi/YER_vjH6VS4/hqdefault.jpg",
     "Title": "ALFA NOS ENCERRÓ EN EL CIRCO",
     "Channel": "Fede Vigevani",
@@ -351,17 +378,8 @@
     "Views Gained": 918453
   },
   {
-    "Rank": 40,
-    "Change": "-15",
-    "Thumbnail": "https://i.ytimg.com/vi/p3iMZRhJN6w/hqdefault.jpg",
-    "Title": "NINE MONTHS TILL FOREVER - UCHE MONTANA, MAURICE SAM, Latest 2025 Nigerian Movie",
-    "Channel": "Uche Montana TV",
-    "Category": "Film & Animation",
-    "Views Gained": 911824
-  },
-  {
-    "Rank": 41,
-    "Change": "-1",
+    "Rank": 43,
+    "Change": "-2",
     "Thumbnail": "https://i.ytimg.com/vi/a9YzRjMIpp4/hqdefault.jpg",
     "Title": "الرجل العنكبوت انقاذ باتمان Spider-Man Rescue batman vs iron man vs venom funny Game GTA 5 superhero",
     "Channel": "RAIZER",
@@ -369,84 +387,66 @@
     "Views Gained": 905202
   },
   {
-    "Rank": 42,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/31Pek0aIpEI/hqdefault.jpg",
-    "Title": "CONTROL REWORK TRAILER + SHOWCASE | Blox Fruits",
-    "Channel": "Gamer Robot",
-    "Category": "Gaming",
-    "Views Gained": 901549
-  },
-  {
-    "Rank": 43,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/0186ffI5jZk/hqdefault.jpg",
-    "Title": "Не Спи - Получи 500.000 Рублей! 2 Часть (Сатир, ФрамеТамер, Кореш, Горилла, Парадеич, Раговский)",
-    "Channel": "ExileShow",
-    "Category": "Entertainment",
-    "Views Gained": 841833
-  },
-  {
     "Rank": 44,
     "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/TZU7aMNqDS8/hqdefault.jpg",
-    "Title": "WATER AND WINE -  RUTH KADIRI DEZA THE GREAT EDDIE WATSON",
-    "Channel": "RuthKadiri247",
-    "Category": "Entertainment",
-    "Views Gained": 836207
+    "Thumbnail": "https://i.ytimg.com/vi/3BLoozf3MlM/hqdefault.jpg",
+    "Title": "Minecraft Speedrunner VS 2 Hunters REVIVAL",
+    "Channel": "Dream",
+    "Category": "Gaming",
+    "Views Gained": 892499
   },
   {
     "Rank": 45,
-    "Change": "+4",
-    "Thumbnail": "https://i.ytimg.com/vi/MwxogoYoGCM/hqdefault.jpg",
-    "Title": "ESTHER AND JACINTA - ONYII ALEX, BRIGHT MORGAN,EBERE OKARO and ADA ULI #ESTHERANDJACINTA",
-    "Channel": "onyiialexTV",
-    "Category": "Film & Animation",
-    "Views Gained": 774444
-  },
-  {
-    "Rank": 46,
-    "Change": "New",
+    "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/XXZCrUzMcP0/hqdefault.jpg",
     "Title": "How I Accidentally Won a Pokemon Tournament",
     "Channel": "WolfeyVGC",
     "Category": "Gaming",
-    "Views Gained": 741248
+    "Views Gained": 891421
   },
   {
-    "Rank": 47,
-    "Change": "-19",
-    "Thumbnail": "https://i.ytimg.com/vi/aCjlR60ufpY/hqdefault.jpg",
-    "Title": "Finally Shifting in NEW HOUSE?",
-    "Channel": "Wanderers Live",
-    "Category": "People & Blogs",
-    "Views Gained": 741078
-  },
-  {
-    "Rank": 48,
-    "Change": "-13",
-    "Thumbnail": "https://i.ytimg.com/vi/8NBvKMbQqug/hqdefault.jpg",
-    "Title": "Minecraft But You Can Travel 1,000,000 Blocks",
-    "Channel": "PrestonPlayz",
-    "Category": "Gaming",
-    "Views Gained": 720388
-  },
-  {
-    "Rank": 49,
-    "Change": "New",
+    "Rank": 46,
+    "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/egfQyS_tn1M/hqdefault.jpg",
     "Title": "100 days but TREASURE CHEST ARE SUPER OP Minecraft 😱",
     "Channel": "Anshu Bisht",
     "Category": "Gaming",
-    "Views Gained": 714134
+    "Views Gained": 890642
+  },
+  {
+    "Rank": 47,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/WgxWHj6BiQU/hqdefault.jpg",
+    "Title": "LOVE AT THE GATE - CLINTON JOSHUA, OMECHE OKO, JOSEPHINE SUNDAY(JOJO) latest 2025 nigerian movie",
+    "Channel": "Uchenna Mbunabo Tv",
+    "Category": "Entertainment",
+    "Views Gained": 883881
+  },
+  {
+    "Rank": 48,
+    "Change": "-3",
+    "Thumbnail": "https://i.ytimg.com/vi/MwxogoYoGCM/hqdefault.jpg",
+    "Title": "ESTHER AND JACINTA - ONYII ALEX, BRIGHT MORGAN,EBERE OKARO and ADA ULI #ESTHERANDJACINTA",
+    "Channel": "onyiialexTV",
+    "Category": "Film & Animation",
+    "Views Gained": 818195
+  },
+  {
+    "Rank": 49,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/1GiEjt2D5Fc/hqdefault.jpg",
+    "Title": "How i got Arrested...",
+    "Channel": "Royalty Gaming",
+    "Category": "Gaming",
+    "Views Gained": 779654
   },
   {
     "Rank": 50,
     "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/nwBz-v0uPus/hqdefault.jpg",
-    "Title": "Top 50 Christmas Songs of All Time 🎄 Best Christmas Music Playlist",
-    "Channel": "Christmas Songs and Carols - Love to Sing",
-    "Category": "Music",
-    "Views Gained": 704490
+    "Thumbnail": "https://i.ytimg.com/vi/C2zwHfATeIc/hqdefault.jpg",
+    "Title": "ACT OF LOVE  - 2025 latest Nigerian movies - Omeche Oko - Victory Michael - Sonita fred",
+    "Channel": "GLOBAL CROWN TV",
+    "Category": "Entertainment",
+    "Views Gained": 743413
   }
 ]
