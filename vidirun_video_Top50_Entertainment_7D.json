@@ -1,21 +1,21 @@
 [
   {
     "Rank": 1,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/mktYW177p6U/hqdefault.jpg",
-    "Title": "Guess the Animal",
-    "Channel": "MrBeast",
-    "Format": "Short",
-    "Views Gained": 53017309
-  },
-  {
-    "Rank": 2,
-    "Change": "0",
+    "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/hm05eYaGoO0/hqdefault.jpg",
     "Title": "Don't Sit In The Wrong Chair!",
     "Channel": "Topper Guild",
     "Format": "Short",
-    "Views Gained": 49972032
+    "Views Gained": 59943676
+  },
+  {
+    "Rank": 2,
+    "Change": "-1",
+    "Thumbnail": "https://i.ytimg.com/vi/mktYW177p6U/hqdefault.jpg",
+    "Title": "Guess the Animal",
+    "Channel": "MrBeast",
+    "Format": "Short",
+    "Views Gained": 57369763
   },
   {
     "Rank": 3,
@@ -24,11 +24,11 @@
     "Title": "DON'T CHECK THE SOUND 😭😅",
     "Channel": "Rankholic",
     "Format": "Short",
-    "Views Gained": 31366762
+    "Views Gained": 36287512
   },
   {
     "Rank": 4,
-    "Change": "+1",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/ivGynL_LXOI/hqdefault.jpg",
     "Title": "Repeat it again ☠️",
     "Channel": "SIFU SS ",
@@ -37,16 +37,25 @@
   },
   {
     "Rank": 5,
-    "Change": "+2",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/6FJGHwBkI0I/hqdefault.jpg",
     "Title": "WE CAN’ BELIEVE WE JUST HIT 28M FAMILY MEMBERS! 🥹😭🥰",
     "Channel": "Double Date",
     "Format": "Short",
-    "Views Gained": 18076632
+    "Views Gained": 20404576
   },
   {
     "Rank": 6,
-    "Change": "+3",
+    "Change": "+4",
+    "Thumbnail": "https://i.ytimg.com/vi/m0wfPO0aXWk/hqdefault.jpg",
+    "Title": "OTHERS ILLUSION VS LAST ONE 💀 #edit #trending #trollface #troll #skulltroi #skulledit",
+    "Channel": "SkullTroi",
+    "Format": "Short",
+    "Views Gained": 16272191
+  },
+  {
+    "Rank": 7,
+    "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/gKhfbEpM45E/hqdefault.jpg",
     "Title": "Taskaree: The Smuggler's Web | Official Trailer | Netflix",
     "Channel": "Netflix India",
@@ -54,8 +63,8 @@
     "Views Gained": 14939712
   },
   {
-    "Rank": 7,
-    "Change": "+4",
+    "Rank": 8,
+    "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/wqnjWcR9baY/hqdefault.jpg",
     "Title": "Bro Predicted The Present😂 #ishowspeed #prediction #edit",
     "Channel": "Goofy Recaps",
@@ -63,8 +72,26 @@
     "Views Gained": 14256688
   },
   {
-    "Rank": 8,
-    "Change": "+6",
+    "Rank": 9,
+    "Change": "+2",
+    "Thumbnail": "https://i.ytimg.com/vi/g_nYXs-TEDk/hqdefault.jpg",
+    "Title": "Repeat it Again 💀",
+    "Channel": "ANAX ",
+    "Format": "Short",
+    "Views Gained": 13995502
+  },
+  {
+    "Rank": 10,
+    "Change": "+5",
+    "Thumbnail": "https://i.ytimg.com/vi/Hn1bJk1OqMY/hqdefault.jpg",
+    "Title": "Garib Ka MADAD😭😭 Garib Ka Majak😭😭SHOBHA IS BACK❤️❤️ #shortvideo #short #shortvideo #shorts",
+    "Channel": "ALBUM CREATIONS",
+    "Format": "Short",
+    "Views Gained": 13914567
+  },
+  {
+    "Rank": 11,
+    "Change": "-3",
     "Thumbnail": "https://i.ytimg.com/vi/5KWpwOsxg28/hqdefault.jpg",
     "Title": "#mhacommunity",
     "Channel": "DEXOD",
@@ -72,8 +99,8 @@
     "Views Gained": 13596833
   },
   {
-    "Rank": 9,
-    "Change": "+3",
+    "Rank": 12,
+    "Change": "-3",
     "Thumbnail": "https://i.ytimg.com/vi/QJI0an6irrA/hqdefault.jpg",
     "Title": "30 Celebrities Fight For $1,000,000!",
     "Channel": "MrBeast",
@@ -81,44 +108,35 @@
     "Views Gained": 13214497
   },
   {
-    "Rank": 10,
-    "Change": "+14",
-    "Thumbnail": "https://i.ytimg.com/vi/m0wfPO0aXWk/hqdefault.jpg",
-    "Title": "OTHERS ILLUSION VS LAST ONE 💀 #edit #trending #trollface #troll #skulltroi #skulledit",
-    "Channel": "SkullTroi",
-    "Format": "Short",
-    "Views Gained": 13214169
-  },
-  {
-    "Rank": 11,
-    "Change": "+9",
-    "Thumbnail": "https://i.ytimg.com/vi/g_nYXs-TEDk/hqdefault.jpg",
-    "Title": "Repeat it Again 💀",
-    "Channel": "ANAX ",
-    "Format": "Short",
-    "Views Gained": 12254265
-  },
-  {
-    "Rank": 12,
-    "Change": "-6",
-    "Thumbnail": "https://i.ytimg.com/vi/6IUrH9k8DZI/hqdefault.jpg",
-    "Title": "Semua punya arsya #arsyastory #funny #comedy #trendingshorts",
-    "Channel": "ARSYA STORY",
-    "Format": "Short",
-    "Views Gained": 11736278
-  },
-  {
     "Rank": 13,
-    "Change": "+10",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/PUTCzxwr7D4/hqdefault.jpg",
     "Title": "Magic Cycle 🚲Ko Bacha Liya Jadu Ne #funny #comedy #shortsfeed #cutebaby #viralvideo",
     "Channel": "The Monish Vines",
     "Format": "Short",
-    "Views Gained": 11466684
+    "Views Gained": 13025987
   },
   {
     "Rank": 14,
-    "Change": "+3",
+    "Change": "+14",
+    "Thumbnail": "https://i.ytimg.com/vi/vjp2PEseQ1E/hqdefault.jpg",
+    "Title": "Macam Macam Perosotan Anak #cartoon #kartun #animasi #shorts",
+    "Channel": "Yabi Afriansyah",
+    "Format": "Short",
+    "Views Gained": 12500375
+  },
+  {
+    "Rank": 15,
+    "Change": "+1",
+    "Thumbnail": "https://i.ytimg.com/vi/vavpqB5RWJk/hqdefault.jpg",
+    "Title": "The Dog Waited for the Right Moment…",
+    "Channel": "The Night Code",
+    "Format": "Short",
+    "Views Gained": 11227105
+  },
+  {
+    "Rank": 16,
+    "Change": "-2",
     "Thumbnail": "https://i.ytimg.com/vi/wK8pqZBnLuw/hqdefault.jpg",
     "Title": "What just happened?! 😂",
     "Channel": "America's Got Talent",
@@ -126,44 +144,53 @@
     "Views Gained": 11081784
   },
   {
-    "Rank": 15,
-    "Change": "+20",
-    "Thumbnail": "https://i.ytimg.com/vi/Hn1bJk1OqMY/hqdefault.jpg",
-    "Title": "Garib Ka MADAD😭😭 Garib Ka Majak😭😭SHOBHA IS BACK❤️❤️ #shortvideo #short #shortvideo #shorts",
-    "Channel": "ALBUM CREATIONS",
-    "Format": "Short",
-    "Views Gained": 10883511
-  },
-  {
-    "Rank": 16,
-    "Change": "-1",
-    "Thumbnail": "https://i.ytimg.com/vi/vavpqB5RWJk/hqdefault.jpg",
-    "Title": "The Dog Waited for the Right Moment…",
-    "Channel": "The Night Code",
-    "Format": "Short",
-    "Views Gained": 10880307
-  },
-  {
     "Rank": 17,
-    "Change": "-13",
-    "Thumbnail": "https://i.ytimg.com/vi/teomAijqL7s/hqdefault.jpg",
-    "Title": "Mom Always Protects The Family",
-    "Channel": "The McCartys",
+    "Change": "+6",
+    "Thumbnail": "https://i.ytimg.com/vi/1YzPMKzEuEo/hqdefault.jpg",
+    "Title": "No one expected this to happen 😭 #hopecore #hopeless #funny",
+    "Channel": "HopeleesCore Fuel Up",
     "Format": "Short",
-    "Views Gained": 10200664
+    "Views Gained": 10969042
   },
   {
     "Rank": 18,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/dXCliyBQnWU/hqdefault.jpg",
-    "Title": "Parasakthi - Trailer | Sivakarthikeyan | RaviMohan | Atharvaa | Sreeleela | Sudha Kongara| GVPrakash",
-    "Channel": "Sun TV",
-    "Format": "Standard",
-    "Views Gained": 8923296
+    "Change": "+28",
+    "Thumbnail": "https://i.ytimg.com/vi/Pk3Jp7H3tHY/hqdefault.jpg",
+    "Title": "₹1000 Vs ₹1,00,000 - Mimicry Artist",
+    "Channel": "Agnit Shorts",
+    "Format": "Short",
+    "Views Gained": 10902202
   },
   {
     "Rank": 19,
-    "Change": "0",
+    "Change": "+17",
+    "Thumbnail": "https://i.ytimg.com/vi/v8R0xDczERo/hqdefault.jpg",
+    "Title": "The Wrecking Crew – Official Trailer | Prime Video",
+    "Channel": "Prime Video",
+    "Format": "Standard",
+    "Views Gained": 9205840
+  },
+  {
+    "Rank": 20,
+    "Change": "+5",
+    "Thumbnail": "https://i.ytimg.com/vi/dxP5rAy8M78/hqdefault.jpg",
+    "Title": "Messi thông đã lừa Ronaldo ngốc nghếch như thế nào? #kindness #ronaldo",
+    "Channel": "RO vs SI",
+    "Format": "Short",
+    "Views Gained": 9195182
+  },
+  {
+    "Rank": 21,
+    "Change": "+14",
+    "Thumbnail": "https://i.ytimg.com/vi/g_TiLDIRgIs/hqdefault.jpg",
+    "Title": "🎬 American Dad! — “Klaus Gets Addicted to Clicks”｜Chaos Hits the House 😂📺",
+    "Channel": "Isabella223",
+    "Format": "Short",
+    "Views Gained": 8876950
+  },
+  {
+    "Rank": 22,
+    "Change": "-3",
     "Thumbnail": "https://i.ytimg.com/vi/iBfppF-rS1M/hqdefault.jpg",
     "Title": "Ranking Funniest Guess the item Moments😭💀",
     "Channel": "rokclips ",
@@ -171,62 +198,26 @@
     "Views Gained": 8841681
   },
   {
-    "Rank": 20,
-    "Change": "+1",
-    "Thumbnail": "https://i.ytimg.com/vi/oLdskkGb3F8/hqdefault.jpg",
-    "Title": "Common fruits hain yaar 😬 #shorts | Rahul Sinha | Isha Yadav | Thethar Puns",
-    "Channel": "Thethar Puns",
-    "Format": "Short",
-    "Views Gained": 8818627
-  },
-  {
-    "Rank": 21,
-    "Change": "-5",
-    "Thumbnail": "https://i.ytimg.com/vi/cEfrioNiUOQ/hqdefault.jpg",
-    "Title": "😂 Backbencher bag check part 5 😂 #chetannn026 #funny #chetanthebackbencher #bagcheck",
-    "Channel": "Chetan the backbencher",
-    "Format": "Short",
-    "Views Gained": 8675062
-  },
-  {
-    "Rank": 22,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/8X3sG3kTZrM/hqdefault.jpg",
-    "Title": "СМЕХ🤣",
-    "Channel": "Chapitosiki",
-    "Format": "Short",
-    "Views Gained": 8629915
-  },
-  {
     "Rank": 23,
-    "Change": "+27",
-    "Thumbnail": "https://i.ytimg.com/vi/1YzPMKzEuEo/hqdefault.jpg",
-    "Title": "No one expected this to happen 😭 #hopecore #hopeless #funny",
-    "Channel": "HopeleesCore Fuel Up",
+    "Change": "+9",
+    "Thumbnail": "https://i.ytimg.com/vi/Hl9MkrLsnec/hqdefault.jpg",
+    "Title": "Chaipaglu😋",
+    "Channel": "Bhupinder Kaur",
     "Format": "Short",
-    "Views Gained": 8601840
+    "Views Gained": 8565456
   },
   {
     "Rank": 24,
-    "Change": "-14",
-    "Thumbnail": "https://i.ytimg.com/vi/B55IWJXHaOE/hqdefault.jpg",
-    "Title": "Spicy Spyro #reptiles #shorts",
-    "Channel": "Branden Nicholson",
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/AYXugD7bYDc/hqdefault.jpg",
+    "Title": "Wait for last 🤣🤣 #shorts",
+    "Channel": "ashok soni vlogs",
     "Format": "Short",
-    "Views Gained": 8510854
+    "Views Gained": 8319629
   },
   {
     "Rank": 25,
-    "Change": "+9",
-    "Thumbnail": "https://i.ytimg.com/vi/dxP5rAy8M78/hqdefault.jpg",
-    "Title": "Messi thông đã lừa Ronaldo ngốc nghếch như thế nào? #kindness #ronaldo",
-    "Channel": "RO vs SI",
-    "Format": "Short",
-    "Views Gained": 8348576
-  },
-  {
-    "Rank": 26,
-    "Change": "-1",
+    "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/Zle9guO7pEQ/hqdefault.jpg",
     "Title": "#trollface",
     "Channel": "BACKO MEMES",
@@ -234,44 +225,35 @@
     "Views Gained": 8248513
   },
   {
-    "Rank": 27,
-    "Change": "-14",
-    "Thumbnail": "https://i.ytimg.com/vi/ePETC42wTWM/hqdefault.jpg",
-    "Title": "2026 वाला ￼गुलक 😍💰 क़ीमती है 😨 ￼￼#mastikipaathsala #babu #Nimuda #srindori09 #doli #dolly",
-    "Channel": "Sr indori09",
+    "Rank": 26,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/SR8ZoEdjVpU/hqdefault.jpg",
+    "Title": "El cocodrilo 🐊 inflable | dañó el momento #humor #broma #shortvideo",
+    "Channel": "los maravillosos del humor",
     "Format": "Short",
-    "Views Gained": 7661247
+    "Views Gained": 8099981
+  },
+  {
+    "Rank": 27,
+    "Change": "+7",
+    "Thumbnail": "https://i.ytimg.com/vi/I1aK2yJOBrU/hqdefault.jpg",
+    "Title": "POV: People in movies vs real life",
+    "Channel": "Godfrey Twins",
+    "Format": "Short",
+    "Views Gained": 7655067
   },
   {
     "Rank": 28,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/vjp2PEseQ1E/hqdefault.jpg",
-    "Title": "Macam Macam Perosotan Anak #cartoon #kartun #animasi #shorts",
-    "Channel": "Yabi Afriansyah",
+    "Change": "-16",
+    "Thumbnail": "https://i.ytimg.com/vi/6IUrH9k8DZI/hqdefault.jpg",
+    "Title": "Semua punya arsya #arsyastory #funny #comedy #trendingshorts",
+    "Channel": "ARSYA STORY",
     "Format": "Short",
-    "Views Gained": 7633236
+    "Views Gained": 7585046
   },
   {
     "Rank": 29,
-    "Change": "+8",
-    "Thumbnail": "https://i.ytimg.com/vi/VhQFg0zoJho/hqdefault.jpg",
-    "Title": "akhirnya Kevin berhasil menyelesaikan tantangannya #shorts #videolucu #dubbing #videokocak",
-    "Channel": "Cha-Cha Lisha",
-    "Format": "Short",
-    "Views Gained": 7607938
-  },
-  {
-    "Rank": 30,
-    "Change": "+3",
-    "Thumbnail": "https://i.ytimg.com/vi/uwqkrmFK-r8/hqdefault.jpg",
-    "Title": "I can’t believe my husband did this to me😳💀🤣 #husbandwife #funny #couple",
-    "Channel": "Hammy TV",
-    "Format": "Short",
-    "Views Gained": 7568301
-  },
-  {
-    "Rank": 31,
-    "Change": "-2",
+    "Change": "+2",
     "Thumbnail": "https://i.ytimg.com/vi/7fVE-_nuW_Q/hqdefault.jpg",
     "Title": "Tom&jerry🥰Funny moment ❤️#shorts #shortvideo",
     "Channel": "Krishna Avyu",
@@ -279,17 +261,8 @@
     "Views Gained": 7542357
   },
   {
-    "Rank": 32,
-    "Change": "+12",
-    "Thumbnail": "https://i.ytimg.com/vi/Hl9MkrLsnec/hqdefault.jpg",
-    "Title": "Chaipaglu😋",
-    "Channel": "Bhupinder Kaur",
-    "Format": "Short",
-    "Views Gained": 7444472
-  },
-  {
-    "Rank": 33,
-    "Change": "-1",
+    "Rank": 30,
+    "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/kH1XlwHQv9o/hqdefault.jpg",
     "Title": "Avengers: Doomsday | Only in Theaters December 18, 2026",
     "Channel": "Marvel Entertainment",
@@ -297,35 +270,35 @@
     "Views Gained": 7351520
   },
   {
+    "Rank": 31,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/pnnVnu4v6oI/hqdefault.jpg",
+    "Title": "Udi Udi jaye 😂👌🏻ll Vishal Rajput shorts #celebratewithshorts #vishalsinghrajput #makarsankranti",
+    "Channel": "Vishal Rajput Official",
+    "Format": "Short",
+    "Views Gained": 7134751
+  },
+  {
+    "Rank": 32,
+    "Change": "+15",
+    "Thumbnail": "https://i.ytimg.com/vi/THGR0KcJ-3o/hqdefault.jpg",
+    "Title": "Never Waste Food #shorts",
+    "Channel": "VENDY YADUWANSHI",
+    "Format": "Short",
+    "Views Gained": 7095574
+  },
+  {
+    "Rank": 33,
+    "Change": "+11",
+    "Thumbnail": "https://i.ytimg.com/vi/f_-BitEA82U/hqdefault.jpg",
+    "Title": "Middle Class 💔😱 God vs Principal Sir 😭 #poor #india #shorts #maa #school",
+    "Channel": "Jomy Production",
+    "Format": "Short",
+    "Views Gained": 7092325
+  },
+  {
     "Rank": 34,
-    "Change": "+2",
-    "Thumbnail": "https://i.ytimg.com/vi/I1aK2yJOBrU/hqdefault.jpg",
-    "Title": "POV: People in movies vs real life",
-    "Channel": "Godfrey Twins",
-    "Format": "Short",
-    "Views Gained": 7330101
-  },
-  {
-    "Rank": 35,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/g_TiLDIRgIs/hqdefault.jpg",
-    "Title": "🎬 American Dad! — “Klaus Gets Addicted to Clicks”｜Chaos Hits the House 😂📺",
-    "Channel": "Isabella223",
-    "Format": "Short",
-    "Views Gained": 7254721
-  },
-  {
-    "Rank": 36,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/v8R0xDczERo/hqdefault.jpg",
-    "Title": "The Wrecking Crew – Official Trailer | Prime Video",
-    "Channel": "Prime Video",
-    "Format": "Standard",
-    "Views Gained": 7126774
-  },
-  {
-    "Rank": 37,
-    "Change": "New",
+    "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/-oaMs2GQ69U/hqdefault.jpg",
     "Title": "I EXPOSED HER CRUSH 🤯 TOP 20",
     "Channel": "Rick Smith, Jr.",
@@ -333,35 +306,53 @@
     "Views Gained": 7078935
   },
   {
-    "Rank": 38,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/thqs8UrXqAw/hqdefault.jpg",
-    "Title": "EL PEOR LADRON #comedia",
-    "Channel": "Alfredo Larin",
-    "Format": "Short",
-    "Views Gained": 6614601
-  },
-  {
-    "Rank": 39,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/UtVijamJJcg/hqdefault.jpg",
-    "Title": "Mana ShankaraVaraPrasad Garu Official Trailer | Chiranjeevi | Venkatesh | Nayanthara | Anil Ravipudi",
-    "Channel": "SHINE screens",
-    "Format": "Standard",
-    "Views Gained": 6570704
-  },
-  {
-    "Rank": 40,
-    "Change": "+6",
+    "Rank": 35,
+    "Change": "+5",
     "Thumbnail": "https://i.ytimg.com/vi/Tw_JxGxh78o/hqdefault.jpg",
     "Title": "Introducing the \"VitalWear SmartBand,\" a next-generation wearable gadget🎉",
     "Channel": "Humanity Thriving",
     "Format": "Short",
-    "Views Gained": 6532662
+    "Views Gained": 7007652
   },
   {
-    "Rank": 41,
-    "Change": "0",
+    "Rank": 36,
+    "Change": "-15",
+    "Thumbnail": "https://i.ytimg.com/vi/cEfrioNiUOQ/hqdefault.jpg",
+    "Title": "😂 Backbencher bag check part 5 😂 #chetannn026 #funny #chetanthebackbencher #bagcheck",
+    "Channel": "Chetan the backbencher",
+    "Format": "Short",
+    "Views Gained": 6975762
+  },
+  {
+    "Rank": 37,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/51Q7EfhfrMc/hqdefault.jpg",
+    "Title": "iPhone 17 Pro Max Cosmic Orange🧽🔥#noads Part 115",
+    "Channel": "Flash Memes",
+    "Format": "Short",
+    "Views Gained": 6858568
+  },
+  {
+    "Rank": 38,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/KeEHsuZ4Ja4/hqdefault.jpg",
+    "Title": "Crime 101 | Official Trailer 2",
+    "Channel": "Amazon MGM Studios",
+    "Format": "Standard",
+    "Views Gained": 6692073
+  },
+  {
+    "Rank": 39,
+    "Change": "-19",
+    "Thumbnail": "https://i.ytimg.com/vi/oLdskkGb3F8/hqdefault.jpg",
+    "Title": "Common fruits hain yaar 😬 #shorts | Rahul Sinha | Isha Yadav | Thethar Puns",
+    "Channel": "Thethar Puns",
+    "Format": "Short",
+    "Views Gained": 6400033
+  },
+  {
+    "Rank": 40,
+    "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/z2vBABxaiAo/hqdefault.jpg",
     "Title": "season 6?💀 #steveharrington #strangerthings #strangerthings5 #shorts",
     "Channel": "F4ndom aep",
@@ -369,17 +360,8 @@
     "Views Gained": 6377993
   },
   {
-    "Rank": 42,
-    "Change": "-34",
-    "Thumbnail": "https://i.ytimg.com/vi/fv56eZzHeIY/hqdefault.jpg",
-    "Title": "From Chubby to MUSCLE Merman! 🧜‍♂️💪 Insane Transformation! ✨",
-    "Channel": "Orange Paw Prints",
-    "Format": "Short",
-    "Views Gained": 6319774
-  },
-  {
-    "Rank": 43,
-    "Change": "-1",
+    "Rank": 41,
+    "Change": "+2",
     "Thumbnail": "https://i.ytimg.com/vi/sip5nGSPemk/hqdefault.jpg",
     "Title": "Los que tienen mascotas entenderán 🤭🥰 #viral #parati #jhonnyranks",
     "Channel": "Jhonny Ranks",
@@ -387,44 +369,26 @@
     "Views Gained": 6307127
   },
   {
+    "Rank": 42,
+    "Change": "-12",
+    "Thumbnail": "https://i.ytimg.com/vi/uwqkrmFK-r8/hqdefault.jpg",
+    "Title": "I can’t believe my husband did this to me😳💀🤣 #husbandwife #funny #couple",
+    "Channel": "Hammy TV",
+    "Format": "Short",
+    "Views Gained": 5959486
+  },
+  {
+    "Rank": 43,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/_PLPsr7AGds/hqdefault.jpg",
+    "Title": "Anant ki gaadi (car) kon chalayega 😱",
+    "Channel": "PoonamSikarwar",
+    "Format": "Short",
+    "Views Gained": 5929862
+  },
+  {
     "Rank": 44,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/f_-BitEA82U/hqdefault.jpg",
-    "Title": "Middle Class 💔😱 God vs Principal Sir 😭 #poor #india #shorts #maa #school",
-    "Channel": "Jomy Production",
-    "Format": "Short",
-    "Views Gained": 6144020
-  },
-  {
-    "Rank": 45,
-    "Change": "-2",
-    "Thumbnail": "https://i.ytimg.com/vi/hvrmMS_oWD0/hqdefault.jpg",
-    "Title": "#Rumi #Jinu El crucero 🙀🙀🗿💥",
-    "Channel": "EyDrian",
-    "Format": "Short",
-    "Views Gained": 6125919
-  },
-  {
-    "Rank": 46,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/Pk3Jp7H3tHY/hqdefault.jpg",
-    "Title": "₹1000 Vs ₹1,00,000 - Mimicry Artist",
-    "Channel": "Agnit Shorts",
-    "Format": "Short",
-    "Views Gained": 6090467
-  },
-  {
-    "Rank": 47,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/THGR0KcJ-3o/hqdefault.jpg",
-    "Title": "Never Waste Food #shorts",
-    "Channel": "VENDY YADUWANSHI",
-    "Format": "Short",
-    "Views Gained": 6081429
-  },
-  {
-    "Rank": 48,
-    "Change": "New",
+    "Change": "+4",
     "Thumbnail": "https://i.ytimg.com/vi/5DHFB9-I3HI/hqdefault.jpg",
     "Title": "Real end twist 😂 wait for last 😂🤣#shorts #trending #funny #viral #viralvideo #youtubeshorts",
     "Channel": "Rishan sriansh & Sree nayana",
@@ -432,21 +396,57 @@
     "Views Gained": 5858568
   },
   {
-    "Rank": 49,
-    "Change": "-2",
-    "Thumbnail": "https://i.ytimg.com/vi/34NPN8ew83A/hqdefault.jpg",
-    "Title": "BALÃO COM ÁGUA! 🎈💦 #shorts",
-    "Channel": "Enaldinho",
+    "Rank": 45,
+    "Change": "-16",
+    "Thumbnail": "https://i.ytimg.com/vi/VhQFg0zoJho/hqdefault.jpg",
+    "Title": "akhirnya Kevin berhasil menyelesaikan tantangannya #shorts #videolucu #dubbing #videokocak",
+    "Channel": "Cha-Cha Lisha",
     "Format": "Short",
-    "Views Gained": 5857144
+    "Views Gained": 5824493
   },
   {
-    "Rank": 50,
-    "Change": "-5",
+    "Rank": 46,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/BN6eZOdgHyM/hqdefault.jpg",
+    "Title": "She Is A Great Doctor 🔥 | Doogie Kameāloha, M.D. | Song - NO BATIDÃO (Slowed) #trending #shorts",
+    "Channel": "Maven-Edits",
+    "Format": "Short",
+    "Views Gained": 5810922
+  },
+  {
+    "Rank": 47,
+    "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/i0gKOa2xVcU/hqdefault.jpg",
     "Title": "Homefront (2013) | This father protected his daughter🌾👨‍👧💛",
     "Channel": "老街森娱",
     "Format": "Standard",
     "Views Gained": 5769861
+  },
+  {
+    "Rank": 48,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/SCeikgCne4U/hqdefault.jpg",
+    "Title": "Mami en tienda viral #viral #fyp #paratii #viralvideo #shortvideo #comedy #regalosunicos #reyesmagos",
+    "Channel": "Montserrat Fueyo",
+    "Format": "Short",
+    "Views Gained": 5657403
+  },
+  {
+    "Rank": 49,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/UsURJgOzRxg/hqdefault.jpg",
+    "Title": "La broma del botón 🕹️😂",
+    "Channel": "Federico Millan",
+    "Format": "Short",
+    "Views Gained": 5568106
+  },
+  {
+    "Rank": 50,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/Sp6CuRAiwTE/hqdefault.jpg",
+    "Title": "बच्चे ने जैसे ही पतंग को हाथ लगाया वो भी पतंग में बदल गया।😂🪁#kite #kiteflying #patang #patangbazi",
+    "Channel": "All Rounder Boy ASR",
+    "Format": "Short",
+    "Views Gained": 5543791
   }
 ]

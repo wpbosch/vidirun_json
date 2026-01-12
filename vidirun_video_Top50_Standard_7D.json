@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Change": "+1",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/e3D7Fj1PsWk/hqdefault.jpg",
     "Title": "Salvation (ft. Forts) | For Demacia 2026 Season 1 Cinematic - League of Legends",
     "Channel": "League of Legends",
@@ -10,16 +10,16 @@
   },
   {
     "Rank": 2,
-    "Change": "-1",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/lOHVMmZ6n3o/hqdefault.jpg",
     "Title": "BORDER 2: Ghar Kab Aaoge | Sunny Deol | Anu,Mithoon, Sonu, Roop, Arijit, Vishal, Diljit, Javed,Manoj",
     "Channel": "T-Series",
     "Category": "Music",
-    "Views Gained": 21247331
+    "Views Gained": 20000697
   },
   {
     "Rank": 3,
-    "Change": "+1",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/gKhfbEpM45E/hqdefault.jpg",
     "Title": "Taskaree: The Smuggler's Web | Official Trailer | Netflix",
     "Channel": "Netflix India",
@@ -28,7 +28,16 @@
   },
   {
     "Rank": 4,
-    "Change": "+6",
+    "Change": "+2",
+    "Thumbnail": "https://i.ytimg.com/vi/mrV8kK5t0V8/hqdefault.jpg",
+    "Title": "Bruno Mars - I Just Might [Official Music Video]",
+    "Channel": "Bruno Mars",
+    "Category": "Music",
+    "Views Gained": 13300497
+  },
+  {
+    "Rank": 5,
+    "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/aF08WVSvCok/hqdefault.jpg",
     "Title": "Toxic: Introducing Raya | Rocking Star Yash| Geetu Mohandas| KVN Productions| Monster Mind Creations",
     "Channel": "KVN PRODUCTIONS",
@@ -36,40 +45,31 @@
     "Views Gained": 11085972
   },
   {
-    "Rank": 5,
-    "Change": "0",
+    "Rank": 6,
+    "Change": "+6",
+    "Thumbnail": "https://i.ytimg.com/vi/v8R0xDczERo/hqdefault.jpg",
+    "Title": "The Wrecking Crew – Official Trailer | Prime Video",
+    "Channel": "Prime Video",
+    "Category": "Entertainment",
+    "Views Gained": 9205840
+  },
+  {
+    "Rank": 7,
+    "Change": "-2",
     "Thumbnail": "https://i.ytimg.com/vi/Cs6i13GIyo8/hqdefault.jpg",
     "Title": "Nassif Zeytoun & @abuwardmusic - Kazdoura [Official Video] (2025) / ناصيف زيتون و أبو ورد - كزدورة",
     "Channel": "Nassif Zeytoun",
     "Category": "Music",
-    "Views Gained": 9694223
-  },
-  {
-    "Rank": 6,
-    "Change": "+16",
-    "Thumbnail": "https://i.ytimg.com/vi/mrV8kK5t0V8/hqdefault.jpg",
-    "Title": "Bruno Mars - I Just Might [Official Music Video]",
-    "Channel": "Bruno Mars",
-    "Category": "Music",
-    "Views Gained": 9553164
-  },
-  {
-    "Rank": 7,
-    "Change": "+1",
-    "Thumbnail": "https://i.ytimg.com/vi/dXCliyBQnWU/hqdefault.jpg",
-    "Title": "Parasakthi - Trailer | Sivakarthikeyan | RaviMohan | Atharvaa | Sreeleela | Sudha Kongara| GVPrakash",
-    "Channel": "Sun TV",
-    "Category": "Entertainment",
-    "Views Gained": 8923296
+    "Views Gained": 8118028
   },
   {
     "Rank": 8,
-    "Change": "-5",
-    "Thumbnail": "https://i.ytimg.com/vi/fJaAYcERf3Y/hqdefault.jpg",
-    "Title": "Jana Nayagan - Official Trailer | Thalapathy Vijay | Pooja Hegde | H Vinoth | Anirudh | KVN",
-    "Channel": "KVN PRODUCTIONS",
-    "Category": "Film & Animation",
-    "Views Gained": 8869546
+    "Change": "+2",
+    "Thumbnail": "https://i.ytimg.com/vi/VWCBZpvjZfc/hqdefault.jpg",
+    "Title": "Lutt Le Gaya | Dhurandhar | Ranveer Singh, Akshaye Khanna, Shashwat Sachdev, Simran Choudhary",
+    "Channel": "Saregama Music",
+    "Category": "Music",
+    "Views Gained": 7977673
   },
   {
     "Rank": 9,
@@ -78,20 +78,20 @@
     "Title": "El Bogueto ❌ Anuel AA ❌ Yung Beef ❌ Fuerza Regida - Cuando No Era Cantante Remix , Official video",
     "Channel": "El Bogueto",
     "Category": "Music",
-    "Views Gained": 8840967
+    "Views Gained": 7643463
   },
   {
     "Rank": 10,
-    "Change": "+1",
-    "Thumbnail": "https://i.ytimg.com/vi/VWCBZpvjZfc/hqdefault.jpg",
-    "Title": "Lutt Le Gaya | Dhurandhar | Ranveer Singh, Akshaye Khanna, Shashwat Sachdev, Simran Choudhary",
+    "Change": "+5",
+    "Thumbnail": "https://i.ytimg.com/vi/P_c0Aojg0KY/hqdefault.jpg",
+    "Title": "Nache Nache - Video Song | The RajaSaab | Prabhas, Malavika Mohan, Nidhhi Agerwal, Riddhi | Thaman S",
     "Channel": "Saregama Music",
     "Category": "Music",
-    "Views Gained": 8348144
+    "Views Gained": 7582125
   },
   {
     "Rank": 11,
-    "Change": "+2",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/AnGdzz-XWcE/hqdefault.jpg",
     "Title": "Welcome to my world…",
     "Channel": "VALORANT",
@@ -100,70 +100,43 @@
   },
   {
     "Rank": 12,
-    "Change": "+14",
-    "Thumbnail": "https://i.ytimg.com/vi/v8R0xDczERo/hqdefault.jpg",
-    "Title": "The Wrecking Crew – Official Trailer | Prime Video",
-    "Channel": "Prime Video",
+    "Change": "+28",
+    "Thumbnail": "https://i.ytimg.com/vi/KeEHsuZ4Ja4/hqdefault.jpg",
+    "Title": "Crime 101 | Official Trailer 2",
+    "Channel": "Amazon MGM Studios",
     "Category": "Entertainment",
-    "Views Gained": 7126774
+    "Views Gained": 6692073
   },
   {
     "Rank": 13,
-    "Change": "-1",
-    "Thumbnail": "https://i.ytimg.com/vi/9loVIHzN2aQ/hqdefault.jpg",
-    "Title": "Bessan Ismail - Najma (Official Music Video) | بيسان اسماعيل - نجمة",
-    "Channel": "Bessan Ismail Music",
-    "Category": "Music",
-    "Views Gained": 6913237
-  },
-  {
-    "Rank": 14,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/UtVijamJJcg/hqdefault.jpg",
-    "Title": "Mana ShankaraVaraPrasad Garu Official Trailer | Chiranjeevi | Venkatesh | Nayanthara | Anil Ravipudi",
-    "Channel": "SHINE screens",
-    "Category": "Entertainment",
-    "Views Gained": 6570704
-  },
-  {
-    "Rank": 15,
-    "Change": "+8",
-    "Thumbnail": "https://i.ytimg.com/vi/P_c0Aojg0KY/hqdefault.jpg",
-    "Title": "Nache Nache - Video Song | The RajaSaab | Prabhas, Malavika Mohan, Nidhhi Agerwal, Riddhi | Thaman S",
-    "Channel": "Saregama Music",
-    "Category": "Music",
-    "Views Gained": 6555112
-  },
-  {
-    "Rank": 16,
-    "Change": "-10",
-    "Thumbnail": "https://i.ytimg.com/vi/YyepU5ztLf4/hqdefault.jpg",
-    "Title": "Shararat | Dhurandhar | Ranveer, Aditya Dhar, Shashwat, Jasmine, Madhubanti, Ayesha, Krystle",
-    "Channel": "Saregama Music",
-    "Category": "Music",
-    "Views Gained": 6452884
-  },
-  {
-    "Rank": 17,
-    "Change": "-1",
-    "Thumbnail": "https://i.ytimg.com/vi/7CF5qbw8zec/hqdefault.jpg",
-    "Title": "PEDRO SAMPAIO, Melody, MC Meno K - JETSKI ",
-    "Channel": "PEDRO SAMPAIO",
-    "Category": "People & Blogs",
-    "Views Gained": 6413282
-  },
-  {
-    "Rank": 18,
-    "Change": "+3",
+    "Change": "+5",
     "Thumbnail": "https://i.ytimg.com/vi/q6ZAuGc_3Uk/hqdefault.jpg",
     "Title": "#VIDEO - 3 थान | #Khesari Lal Yadav, Anupma Yadav | Ft: Raksha Gupta, Rani, Parul Yadav | Song 2026",
     "Channel": "Khesari Music World",
     "Category": "Music",
-    "Views Gained": 6047735
+    "Views Gained": 6556583
   },
   {
-    "Rank": 19,
-    "Change": "-4",
+    "Rank": 14,
+    "Change": "+9",
+    "Thumbnail": "https://i.ytimg.com/vi/xE3BGWksJas/hqdefault.jpg",
+    "Title": "Video | #Pawan Singh | बानी लइका | #Shilpi Raj | Bani Laika | Birthday Special Song | Bhojpuri Song",
+    "Channel": "PAMMY RECORDS ",
+    "Category": "Music",
+    "Views Gained": 6209536
+  },
+  {
+    "Rank": 15,
+    "Change": "-7",
+    "Thumbnail": "https://i.ytimg.com/vi/fJaAYcERf3Y/hqdefault.jpg",
+    "Title": "Jana Nayagan - Official Trailer | Thalapathy Vijay | Pooja Hegde | H Vinoth | Anirudh | KVN",
+    "Channel": "KVN PRODUCTIONS",
+    "Category": "Film & Animation",
+    "Views Gained": 6107211
+  },
+  {
+    "Rank": 16,
+    "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/PIGACZhZ7qQ/hqdefault.jpg",
     "Title": "There’s nothing this boy can’t learn #movie #edit",
     "Channel": "FuturePunk Recap",
@@ -171,8 +144,17 @@
     "Views Gained": 6019731
   },
   {
-    "Rank": 20,
-    "Change": "-3",
+    "Rank": 17,
+    "Change": "-4",
+    "Thumbnail": "https://i.ytimg.com/vi/9loVIHzN2aQ/hqdefault.jpg",
+    "Title": "Bessan Ismail - Najma (Official Music Video) | بيسان اسماعيل - نجمة",
+    "Channel": "Bessan Ismail Music",
+    "Category": "Music",
+    "Views Gained": 5916426
+  },
+  {
+    "Rank": 18,
+    "Change": "+2",
     "Thumbnail": "https://i.ytimg.com/vi/JeQZW8E5TB8/hqdefault.jpg",
     "Title": "Rahu Ketu Official Trailer | Pulkit S | Varun S | Shalini P | In Cinemas 16th January 2026",
     "Channel": "Zee Studios",
@@ -180,8 +162,8 @@
     "Views Gained": 5780447
   },
   {
-    "Rank": 21,
-    "Change": "-3",
+    "Rank": 19,
+    "Change": "+2",
     "Thumbnail": "https://i.ytimg.com/vi/i0gKOa2xVcU/hqdefault.jpg",
     "Title": "Homefront (2013) | This father protected his daughter🌾👨‍👧💛",
     "Channel": "老街森娱",
@@ -189,58 +171,76 @@
     "Views Gained": 5769861
   },
   {
-    "Rank": 22,
+    "Rank": 20,
     "Change": "-3",
-    "Thumbnail": "https://i.ytimg.com/vi/kCIf6yaJisQ/hqdefault.jpg",
-    "Title": "Shakira - Zoo (From \"Zootopia 2\")",
-    "Channel": "DisneyMusicVEVO",
-    "Category": "Music",
-    "Views Gained": 5742338
+    "Thumbnail": "https://i.ytimg.com/vi/7CF5qbw8zec/hqdefault.jpg",
+    "Title": "PEDRO SAMPAIO, Melody, MC Meno K - JETSKI ",
+    "Channel": "PEDRO SAMPAIO",
+    "Category": "People & Blogs",
+    "Views Gained": 5719144
+  },
+  {
+    "Rank": 21,
+    "Change": "+27",
+    "Thumbnail": "https://i.ytimg.com/vi/kW_BXunBzYE/hqdefault.jpg",
+    "Title": "Polka Dot Man👇👇👇#movie #edit #movieedit #aeedit #fyp #tiktok",
+    "Channel": "vnnttxx",
+    "Category": "Film & Animation",
+    "Views Gained": 5506114
+  },
+  {
+    "Rank": 22,
+    "Change": "+11",
+    "Thumbnail": "https://i.ytimg.com/vi/jw-sQZLs1Qg/hqdefault.jpg",
+    "Title": "Tu Yaa Main: Teaser | Shanaya K, Adarsh G | Bejoy Nambiar | Aanand L Rai | Vinod Bhanushali",
+    "Channel": "Colour Yellow",
+    "Category": "Entertainment",
+    "Views Gained": 5405901
   },
   {
     "Rank": 23,
-    "Change": "+4",
-    "Thumbnail": "https://i.ytimg.com/vi/xE3BGWksJas/hqdefault.jpg",
-    "Title": "Video | #Pawan Singh | बानी लइका | #Shilpi Raj | Bani Laika | Birthday Special Song | Bhojpuri Song",
-    "Channel": "PAMMY RECORDS ",
-    "Category": "Music",
-    "Views Gained": 5587892
-  },
-  {
-    "Rank": 24,
-    "Change": "-4",
-    "Thumbnail": "https://i.ytimg.com/vi/guFFBwipASU/hqdefault.jpg",
-    "Title": "dopamina - Peso Pluma & Tito Double P (Video Oficial)",
-    "Channel": "Peso Pluma",
-    "Category": "Music",
-    "Views Gained": 5401555
-  },
-  {
-    "Rank": 25,
-    "Change": "0",
+    "Change": "+2",
     "Thumbnail": "https://i.ytimg.com/vi/tlSDDuWxO_0/hqdefault.jpg",
     "Title": "The Death of Robin Hood | Official Trailer HD | A24",
     "Channel": "A24",
     "Category": "Film & Animation",
-    "Views Gained": 5206876
+    "Views Gained": 5280632
+  },
+  {
+    "Rank": 24,
+    "Change": "0",
+    "Thumbnail": "https://i.ytimg.com/vi/guFFBwipASU/hqdefault.jpg",
+    "Title": "dopamina - Peso Pluma & Tito Double P (Video Oficial)",
+    "Channel": "Peso Pluma",
+    "Category": "Music",
+    "Views Gained": 5196170
+  },
+  {
+    "Rank": 25,
+    "Change": "+4",
+    "Thumbnail": "https://i.ytimg.com/vi/odJE47wW_J4/hqdefault.jpg",
+    "Title": "AL SAHER AL HINDI - JAADUGAR (Official Video) | YO YO HONEY SINGH | 51 GLORIOUS DAYS | BHUSHAN KUMAR",
+    "Channel": "T-Series",
+    "Category": "Music",
+    "Views Gained": 5178382
   },
   {
     "Rank": 26,
-    "Change": "-2",
-    "Thumbnail": "https://i.ytimg.com/vi/nQrrVyVIYvw/hqdefault.jpg",
-    "Title": "Vaammo Vaayyo | Bhartha Mahasayulaku Wignyapthi | Ravi Teja, Ashika R, Dimple H | Bheems Ceciroleo",
-    "Channel": "Saregama Telugu",
+    "Change": "+4",
+    "Thumbnail": "https://i.ytimg.com/vi/lCp0BmcFPQ8/hqdefault.jpg",
+    "Title": "A$AP Rocky - Punk Rocky (Official Video)",
+    "Channel": "ASAPROCKYUPTOWN",
     "Category": "Music",
-    "Views Gained": 5150212
+    "Views Gained": 5098069
   },
   {
     "Rank": 27,
-    "Change": "-20",
-    "Thumbnail": "https://i.ytimg.com/vi/o57PoDJzQCU/hqdefault.jpg",
-    "Title": "Udin membelikan kembang Api khusus abangnya🔥#shorts #anomali #tungtungtungsahur",
-    "Channel": "WARUNG TUNGTUNG",
-    "Category": "Film & Animation",
-    "Views Gained": 5012353
+    "Change": "-5",
+    "Thumbnail": "https://i.ytimg.com/vi/kCIf6yaJisQ/hqdefault.jpg",
+    "Title": "Shakira - Zoo (From \"Zootopia 2\")",
+    "Channel": "DisneyMusicVEVO",
+    "Category": "Music",
+    "Views Gained": 5021683
   },
   {
     "Rank": 28,
@@ -249,65 +249,56 @@
     "Title": "Naal Nachna | Dhurandhar | Ranveer Singh, Sara Arjun, Shashwat Sachdev, Afsana Khan, Reble, Irshad",
     "Channel": "Saregama Music",
     "Category": "Music",
-    "Views Gained": 4719586
+    "Views Gained": 4576022
   },
   {
     "Rank": 29,
-    "Change": "+4",
-    "Thumbnail": "https://i.ytimg.com/vi/odJE47wW_J4/hqdefault.jpg",
-    "Title": "AL SAHER AL HINDI - JAADUGAR (Official Video) | YO YO HONEY SINGH | 51 GLORIOUS DAYS | BHUSHAN KUMAR",
-    "Channel": "T-Series",
-    "Category": "Music",
-    "Views Gained": 4682199
-  },
-  {
-    "Rank": 30,
-    "Change": "+5",
-    "Thumbnail": "https://i.ytimg.com/vi/lCp0BmcFPQ8/hqdefault.jpg",
-    "Title": "A$AP Rocky - Punk Rocky (Official Video)",
-    "Channel": "ASAPROCKYUPTOWN",
-    "Category": "Music",
-    "Views Gained": 4628946
-  },
-  {
-    "Rank": 31,
-    "Change": "-1",
-    "Thumbnail": "https://i.ytimg.com/vi/lcw4TDMBjZA/hqdefault.jpg",
-    "Title": "AADAT (Official Video): YO YO HONEY SINGH | AP DHILLON | VAANI KAPOOR | 51 GLORIOUS DAYS | BHUSHAN K",
-    "Channel": "T-Series",
-    "Category": "Music",
-    "Views Gained": 4511272
-  },
-  {
-    "Rank": 32,
-    "Change": "0",
+    "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/pyGU-UudvrM/hqdefault.jpg",
     "Title": "She & Him - I Thought I Saw Your Face Today (Official Lyric Video)",
     "Channel": "SheandHimOfficial",
     "Category": "Music",
-    "Views Gained": 4426341
+    "Views Gained": 4481289
   },
   {
-    "Rank": 33,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/jw-sQZLs1Qg/hqdefault.jpg",
-    "Title": "Tu Yaa Main: Teaser | Shanaya K, Adarsh G | Bejoy Nambiar | Aanand L Rai | Vinod Bhanushali",
-    "Channel": "Colour Yellow",
-    "Category": "Entertainment",
-    "Views Gained": 4363465
-  },
-  {
-    "Rank": 34,
-    "Change": "+6",
+    "Rank": 30,
+    "Change": "+4",
     "Thumbnail": "https://i.ytimg.com/vi/vU7LAdC3fis/hqdefault.jpg",
     "Title": "He saved the guy who bullied him 😭 #movie #edit #shorts",
     "Channel": "Bull Movie",
     "Category": "Film & Animation",
-    "Views Gained": 4065596
+    "Views Gained": 4376115
   },
   {
-    "Rank": 35,
+    "Rank": 31,
+    "Change": "-24",
+    "Thumbnail": "https://i.ytimg.com/vi/dXCliyBQnWU/hqdefault.jpg",
+    "Title": "Parasakthi - Trailer | Sivakarthikeyan | RaviMohan | Atharvaa | Sreeleela | Sudha Kongara| GVPrakash",
+    "Channel": "Sun TV",
+    "Category": "Entertainment",
+    "Views Gained": 4292617
+  },
+  {
+    "Rank": 32,
     "Change": "+12",
+    "Thumbnail": "https://i.ytimg.com/vi/qGHEf0PYCCM/hqdefault.jpg",
+    "Title": "Dog Pound (2010) | He protected himself and his friends⚡🔥😤",
+    "Channel": "貂蝉撩电影",
+    "Category": "Film & Animation",
+    "Views Gained": 4146480
+  },
+  {
+    "Rank": 33,
+    "Change": "+5",
+    "Thumbnail": "https://i.ytimg.com/vi/7asvzlNuLBQ/hqdefault.jpg",
+    "Title": "МУЖИК ПРОУЧИЛ БОРЗЫХ МАЛОЛЕТОК 🔥 #сериал #криминал",
+    "Channel": "FREMFILMS",
+    "Category": "People & Blogs",
+    "Views Gained": 4054023
+  },
+  {
+    "Rank": 34,
+    "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/UqXhbDoVDyM/hqdefault.jpg",
     "Title": "$1 or Mystery MrBeast",
     "Channel": "James Seo",
@@ -315,53 +306,62 @@
     "Views Gained": 3940521
   },
   {
-    "Rank": 36,
-    "Change": "+6",
-    "Thumbnail": "https://i.ytimg.com/vi/5dsi4mTwzYs/hqdefault.jpg",
-    "Title": "daño - Peso Pluma & Tito Double P (Lyric Video)",
-    "Channel": "Peso Pluma",
-    "Category": "Music",
-    "Views Gained": 3822425
+    "Rank": 35,
+    "Change": "+7",
+    "Thumbnail": "https://i.ytimg.com/vi/H0Ec79vecq8/hqdefault.jpg",
+    "Title": "POV: He just took my dog. #shorts",
+    "Channel": "Motion Ray",
+    "Category": "People & Blogs",
+    "Views Gained": 3940076
   },
   {
-    "Rank": 37,
-    "Change": "+2",
+    "Rank": 36,
+    "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/iPtFo4sMQb8/hqdefault.jpg",
     "Title": "AMO MINHA FAVELA - MC MENO K & DJ JAPA NK",
     "Channel": "DJ Japa NK",
     "Category": "Music",
-    "Views Gained": 3806438
+    "Views Gained": 3896699
+  },
+  {
+    "Rank": 37,
+    "Change": "-1",
+    "Thumbnail": "https://i.ytimg.com/vi/5dsi4mTwzYs/hqdefault.jpg",
+    "Title": "daño - Peso Pluma & Tito Double P (Lyric Video)",
+    "Channel": "Peso Pluma",
+    "Category": "Music",
+    "Views Gained": 3895329
   },
   {
     "Rank": 38,
-    "Change": "+3",
-    "Thumbnail": "https://i.ytimg.com/vi/7asvzlNuLBQ/hqdefault.jpg",
-    "Title": "МУЖИК ПРОУЧИЛ БОРЗЫХ МАЛОЛЕТОК 🔥 #сериал #криминал",
-    "Channel": "FREMFILMS",
-    "Category": "People & Blogs",
-    "Views Gained": 3778019
+    "Change": "-12",
+    "Thumbnail": "https://i.ytimg.com/vi/nQrrVyVIYvw/hqdefault.jpg",
+    "Title": "Vaammo Vaayyo | Bhartha Mahasayulaku Wignyapthi | Ravi Teja, Ashika R, Dimple H | Bheems Ceciroleo",
+    "Channel": "Saregama Telugu",
+    "Category": "Music",
+    "Views Gained": 3876463
   },
   {
     "Rank": 39,
-    "Change": "-10",
-    "Thumbnail": "https://i.ytimg.com/vi/5L5eSTYX6wc/hqdefault.jpg",
-    "Title": "Soda Pop (Huntrix Version) | KPop Demon Hunters Animation |【Female Cover by MilkyyMelodies】",
-    "Channel": "MilkyyMelodies",
+    "Change": "-8",
+    "Thumbnail": "https://i.ytimg.com/vi/lcw4TDMBjZA/hqdefault.jpg",
+    "Title": "AADAT (Official Video): YO YO HONEY SINGH | AP DHILLON | VAANI KAPOOR | 51 GLORIOUS DAYS | BHUSHAN K",
+    "Channel": "T-Series",
     "Category": "Music",
-    "Views Gained": 3707450
+    "Views Gained": 3866976
   },
   {
     "Rank": 40,
     "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/KeEHsuZ4Ja4/hqdefault.jpg",
-    "Title": "Crime 101 | Official Trailer 2",
-    "Channel": "Amazon MGM Studios",
-    "Category": "Entertainment",
-    "Views Gained": 3694062
+    "Thumbnail": "https://i.ytimg.com/vi/SOJpE1KMUbo/hqdefault.jpg",
+    "Title": "Dave - Raindance (ft. Tems)",
+    "Channel": "Santan Dave",
+    "Category": "Music",
+    "Views Gained": 3793040
   },
   {
     "Rank": 41,
-    "Change": "-3",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/rtVwVLiH5H4/hqdefault.jpg",
     "Title": "Geng 4G Reborn PART 1 - Dhot Design",
     "Channel": "Dhot Design",
@@ -370,83 +370,83 @@
   },
   {
     "Rank": 42,
-    "Change": "+2",
-    "Thumbnail": "https://i.ytimg.com/vi/H0Ec79vecq8/hqdefault.jpg",
-    "Title": "POV: He just took my dog. #shorts",
-    "Channel": "Motion Ray",
-    "Category": "People & Blogs",
-    "Views Gained": 3659530
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/E7ergOnpO1Q/hqdefault.jpg",
+    "Title": "Dhanda Nyoliwala - Not Guilty (Official Music Video)",
+    "Channel": "Dhanda Nyoliwala",
+    "Category": "Music",
+    "Views Gained": 3474299
   },
   {
     "Rank": 43,
-    "Change": "-7",
-    "Thumbnail": "https://i.ytimg.com/vi/5q9EjSUovc4/hqdefault.jpg",
-    "Title": "“Internet Girl” Visualizer | KATSEYE",
-    "Channel": "KATSEYE",
-    "Category": "Music",
-    "Views Gained": 3565864
-  },
-  {
-    "Rank": 44,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/qGHEf0PYCCM/hqdefault.jpg",
-    "Title": "Dog Pound (2010) | He protected himself and his friends⚡🔥😤",
-    "Channel": "貂蝉撩电影",
-    "Category": "Film & Animation",
-    "Views Gained": 3444790
-  },
-  {
-    "Rank": 45,
-    "Change": "-14",
-    "Thumbnail": "https://i.ytimg.com/vi/pL6snbioDFc/hqdefault.jpg",
-    "Title": "VIDEO | बेडरूम में राजा | #Pawan Singh | Bedroom Me Raja | #Shilpi Raj | New Bhojpuri Song 2026",
-    "Channel": "VGM Music ",
-    "Category": "Music",
-    "Views Gained": 3340574
-  },
-  {
-    "Rank": 46,
-    "Change": "-12",
-    "Thumbnail": "https://i.ytimg.com/vi/hcXdJHTPogQ/hqdefault.jpg",
-    "Title": "hakim bawah tanah yang menghukum para penjahat 💀",
-    "Channel": "Indo Film Recap",
-    "Category": "People & Blogs",
-    "Views Gained": 3276219
-  },
-  {
-    "Rank": 47,
-    "Change": "+1",
+    "Change": "+4",
     "Thumbnail": "https://i.ytimg.com/vi/QcSk1JMF2y0/hqdefault.jpg",
     "Title": "Junior H x Gael Valenzuela - MI GATA [Official Video]",
     "Channel": "Rancho Humilde",
     "Category": "Music",
-    "Views Gained": 3114531
+    "Views Gained": 3410142
   },
   {
-    "Rank": 48,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/kW_BXunBzYE/hqdefault.jpg",
-    "Title": "Polka Dot Man👇👇👇#movie #edit #movieedit #aeedit #fyp #tiktok",
-    "Channel": "vnnttxx",
+    "Rank": 44,
+    "Change": "-17",
+    "Thumbnail": "https://i.ytimg.com/vi/o57PoDJzQCU/hqdefault.jpg",
+    "Title": "Udin membelikan kembang Api khusus abangnya🔥#shorts #anomali #tungtungtungsahur",
+    "Channel": "WARUNG TUNGTUNG",
     "Category": "Film & Animation",
-    "Views Gained": 3060196
+    "Views Gained": 3387735
   },
   {
-    "Rank": 49,
-    "Change": "New",
+    "Rank": 45,
+    "Change": "+4",
     "Thumbnail": "https://i.ytimg.com/vi/v84ZYg0mDyg/hqdefault.jpg",
     "Title": "Ramba Ho | Dhurandhar | Ranveer Singh, Shashwat Sachdev, Madhubanti Bagchi",
     "Channel": "Saregama Music",
     "Category": "Music",
-    "Views Gained": 2981580
+    "Views Gained": 3380790
+  },
+  {
+    "Rank": 46,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/XYZ3bej3uOg/hqdefault.jpg",
+    "Title": "This boy’s brain is like a computer #movie #edit",
+    "Channel": "FuturePunk Recap",
+    "Category": "Film & Animation",
+    "Views Gained": 3307185
+  },
+  {
+    "Rank": 47,
+    "Change": "-33",
+    "Thumbnail": "https://i.ytimg.com/vi/UtVijamJJcg/hqdefault.jpg",
+    "Title": "Mana ShankaraVaraPrasad Garu Official Trailer | Chiranjeevi | Venkatesh | Nayanthara | Anil Ravipudi",
+    "Channel": "SHINE screens",
+    "Category": "Entertainment",
+    "Views Gained": 3272605
+  },
+  {
+    "Rank": 48,
+    "Change": "-5",
+    "Thumbnail": "https://i.ytimg.com/vi/5q9EjSUovc4/hqdefault.jpg",
+    "Title": "“Internet Girl” Visualizer | KATSEYE",
+    "Channel": "KATSEYE",
+    "Category": "Music",
+    "Views Gained": 3268818
+  },
+  {
+    "Rank": 49,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/7rH1JlCz2hg/hqdefault.jpg",
+    "Title": "7-3 - Peso Pluma & Tito Double P (Lyric Video)",
+    "Channel": "Peso Pluma",
+    "Category": "Music",
+    "Views Gained": 3201573
   },
   {
     "Rank": 50,
-    "Change": "-4",
-    "Thumbnail": "https://i.ytimg.com/vi/RcVGOYyknEo/hqdefault.jpg",
-    "Title": "Aaj Kehna Zaroori Hai | Andaaz | Akshay Kumar | Lara Dutta | Udit Narayan | Alka Yagnik",
-    "Channel": "SKI Melodious",
-    "Category": "People & Blogs",
-    "Views Gained": 2954934
+    "Change": "-34",
+    "Thumbnail": "https://i.ytimg.com/vi/YyepU5ztLf4/hqdefault.jpg",
+    "Title": "Shararat | Dhurandhar | Ranveer, Aditya Dhar, Shashwat, Jasmine, Madhubanti, Ayesha, Krystle",
+    "Channel": "Saregama Music",
+    "Category": "Music",
+    "Views Gained": 3141439
   }
 ]
