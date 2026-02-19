@@ -6,7 +6,7 @@
     "Title": "Ages 1 - 100 Race For $250,000!",
     "Channel": "MrBeast",
     "Category": "Entertainment",
-    "Views Gained": 13394668
+    "Views Gained": 12186811
   },
   {
     "Rank": 2,
@@ -15,7 +15,7 @@
     "Title": "4 Pros vs 1000 Players",
     "Channel": "MrBeast Gaming",
     "Category": "Gaming",
-    "Views Gained": 8280521
+    "Views Gained": 9199149
   },
   {
     "Rank": 3,
@@ -24,7 +24,7 @@
     "Title": "Yeraltı 3. Bölüm",
     "Channel": "Yeraltı",
     "Category": "Entertainment",
-    "Views Gained": 7395077
+    "Views Gained": 8142903
   },
   {
     "Rank": 4,
@@ -33,110 +33,119 @@
     "Title": "Taşacak Bu Deniz 18. Bölüm @trt1",
     "Channel": "Taşacak Bu Deniz",
     "Category": "Entertainment",
-    "Views Gained": 5795770
+    "Views Gained": 6547668
   },
   {
     "Rank": 5,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/2WusTNLmBpE/hqdefault.jpg",
-    "Title": "I Became King of the Unstable SMP",
-    "Channel": "Parrot",
-    "Category": "Gaming",
-    "Views Gained": 4613602
-  },
-  {
-    "Rank": 6,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/y4MLwl3Uvvc/hqdefault.jpg",
-    "Title": "2 Speedrunners Share 1 Inventory VS 4 Hunters",
-    "Channel": "Baablu",
-    "Category": "Gaming",
-    "Views Gained": 4013027
-  },
-  {
-    "Rank": 7,
-    "Change": "0",
+    "Change": "+2",
     "Thumbnail": "https://i.ytimg.com/vi/uI-hgSE5QIw/hqdefault.jpg",
     "Title": "Barack Obama BREAKS SILENCE on Trump's ape video, Bad Bunny, and 2028 election",
     "Channel": "Brian Tyler Cohen",
     "Category": "News & Politics",
-    "Views Gained": 3970347
+    "Views Gained": 4145579
   },
   {
-    "Rank": 8,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/vfpQbv7CmeE/hqdefault.jpg",
-    "Title": "Trump Defends Racist Obama Meme & MAGA Rages Over Bad Bunny’s Spanish Halftime Show | The Daily Show",
-    "Channel": "The Daily Show",
-    "Category": "Comedy",
-    "Views Gained": 3642083
-  },
-  {
-    "Rank": 9,
-    "Change": "+2",
+    "Rank": 6,
+    "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/f_aRA-KcTQs/hqdefault.jpg",
     "Title": "Unstable SMP: The LAW",
     "Channel": "Wemmbu",
     "Category": "Gaming",
-    "Views Gained": 2810322
+    "Views Gained": 3028978
   },
   {
-    "Rank": 10,
+    "Rank": 7,
     "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/O7bwJRMNIU0/hqdefault.jpg",
     "Title": "Kızılcık Şerbeti 125. Bölüm @showtv",
     "Channel": "Kızılcık Şerbeti",
     "Category": "Entertainment",
-    "Views Gained": 2722791
+    "Views Gained": 3026672
   },
   {
-    "Rank": 11,
-    "Change": "+7",
-    "Thumbnail": "https://i.ytimg.com/vi/XUaGCHBcqj0/hqdefault.jpg",
-    "Title": "The Best TINY Tech on the Internet!",
-    "Channel": "Mrwhosetheboss",
-    "Category": "Science & Technology",
-    "Views Gained": 2203261
-  },
-  {
-    "Rank": 12,
-    "Change": "-2",
-    "Thumbnail": "https://i.ytimg.com/vi/Bh1IUj9BkJE/hqdefault.jpg",
-    "Title": "Mom Secretly Hides in Son’s Bedroom…",
-    "Channel": "The Royalty Family",
-    "Category": "People & Blogs",
-    "Views Gained": 2154933
-  },
-  {
-    "Rank": 13,
-    "Change": "+3",
-    "Thumbnail": "https://i.ytimg.com/vi/xDypUdR_8d0/hqdefault.jpg",
-    "Title": "4 Minecraft Pros VS 2500 Players",
-    "Channel": "Spoke",
-    "Category": "Gaming",
-    "Views Gained": 2140913
-  },
-  {
-    "Rank": 14,
-    "Change": "New",
+    "Rank": 8,
+    "Change": "+6",
     "Thumbnail": "https://i.ytimg.com/vi/w50J1jWfC2o/hqdefault.jpg",
     "Title": "SIDEMEN AMONG US IS BACK",
     "Channel": "MoreSidemen",
     "Category": "People & Blogs",
-    "Views Gained": 2026112
+    "Views Gained": 3014129
+  },
+  {
+    "Rank": 9,
+    "Change": "-3",
+    "Thumbnail": "https://i.ytimg.com/vi/y4MLwl3Uvvc/hqdefault.jpg",
+    "Title": "2 Speedrunners Share 1 Inventory VS 4 Hunters",
+    "Channel": "Baablu",
+    "Category": "Gaming",
+    "Views Gained": 2404449
+  },
+  {
+    "Rank": 10,
+    "Change": "+1",
+    "Thumbnail": "https://i.ytimg.com/vi/XUaGCHBcqj0/hqdefault.jpg",
+    "Title": "The Best TINY Tech on the Internet!",
+    "Channel": "Mrwhosetheboss",
+    "Category": "Science & Technology",
+    "Views Gained": 2367936
+  },
+  {
+    "Rank": 11,
+    "Change": "+2",
+    "Thumbnail": "https://i.ytimg.com/vi/xDypUdR_8d0/hqdefault.jpg",
+    "Title": "4 Minecraft Pros VS 2500 Players",
+    "Channel": "Spoke",
+    "Category": "Gaming",
+    "Views Gained": 2183054
+  },
+  {
+    "Rank": 12,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/3uxDhtiXHMQ/hqdefault.jpg",
+    "Title": "ESCAPING A GANGSTER’S SECRET BASE | GTA 5 GAMEPLAY #164",
+    "Channel": "Techno Gamerz",
+    "Category": "Gaming",
+    "Views Gained": 2174992
+  },
+  {
+    "Rank": 13,
+    "Change": "-8",
+    "Thumbnail": "https://i.ytimg.com/vi/2WusTNLmBpE/hqdefault.jpg",
+    "Title": "I Became King of the Unstable SMP",
+    "Channel": "Parrot",
+    "Category": "Gaming",
+    "Views Gained": 2072715
+  },
+  {
+    "Rank": 14,
+    "Change": "+13",
+    "Thumbnail": "https://i.ytimg.com/vi/YDJLgirKu3Y/hqdefault.jpg",
+    "Title": "WARUNG MAKTON HANCUR LEBUR !!!",
+    "Channel": "dika_ bj",
+    "Category": "People & Blogs",
+    "Views Gained": 2048324
   },
   {
     "Rank": 15,
-    "Change": "-6",
-    "Thumbnail": "https://i.ytimg.com/vi/Ly72G5N-G9c/hqdefault.jpg",
-    "Title": "ATTACKING ON A LUXURY HOTEL | GTA 5 GAMEPLAY #163",
-    "Channel": "Techno Gamerz",
-    "Category": "Gaming",
-    "Views Gained": 1843184
+    "Change": "-7",
+    "Thumbnail": "https://i.ytimg.com/vi/vfpQbv7CmeE/hqdefault.jpg",
+    "Title": "Trump Defends Racist Obama Meme & MAGA Rages Over Bad Bunny’s Spanish Halftime Show | The Daily Show",
+    "Channel": "The Daily Show",
+    "Category": "Comedy",
+    "Views Gained": 1836641
   },
   {
     "Rank": 16,
-    "Change": "+3",
+    "Change": "+2",
+    "Thumbnail": "https://i.ytimg.com/vi/5Lai7WmbmaQ/hqdefault.jpg",
+    "Title": "HER FIFTH SENSE - MAURICE SAM, PEARL WATS, Latest 2026 Nigerian Movie",
+    "Channel": "Maurice Sam TV",
+    "Category": "Film & Animation",
+    "Views Gained": 1822037
+  },
+  {
+    "Rank": 17,
+    "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/0hcCsTaJUEM/hqdefault.jpg",
     "Title": "PAK RT DIGOTONG WARGA !!!",
     "Channel": "dika_ bj",
@@ -144,26 +153,35 @@
     "Views Gained": 1818794
   },
   {
-    "Rank": 17,
-    "Change": "+4",
-    "Thumbnail": "https://i.ytimg.com/vi/4dMtgh74c4Y/hqdefault.jpg",
-    "Title": "Trump Attacks Bad Bunny’s Super Bowl Performance & Reposts Vile and Racist Video of the Obamas",
-    "Channel": "Jimmy Kimmel Live",
-    "Category": "Comedy",
-    "Views Gained": 1778557
-  },
-  {
     "Rank": 18,
-    "Change": "+5",
-    "Thumbnail": "https://i.ytimg.com/vi/5Lai7WmbmaQ/hqdefault.jpg",
-    "Title": "HER FIFTH SENSE - MAURICE SAM, PEARL WATS, Latest 2026 Nigerian Movie",
-    "Channel": "Maurice Sam TV",
-    "Category": "Film & Animation",
-    "Views Gained": 1709247
+    "Change": "+7",
+    "Thumbnail": "https://i.ytimg.com/vi/YPWMMa4XxLs/hqdefault.jpg",
+    "Title": "2500 Players VS Minecraft Combat Master",
+    "Channel": "FlameFrags",
+    "Category": "Gaming",
+    "Views Gained": 1792250
   },
   {
     "Rank": 19,
     "Change": "+3",
+    "Thumbnail": "https://i.ytimg.com/vi/Rg8Usq0gKQg/hqdefault.jpg",
+    "Title": "Güller ve Günahlar 17. Bölüm - Full Bölüm",
+    "Channel": "Güller ve Günahlar",
+    "Category": "People & Blogs",
+    "Views Gained": 1735555
+  },
+  {
+    "Rank": 20,
+    "Change": "+17",
+    "Thumbnail": "https://i.ytimg.com/vi/5-KDUOHEZFk/hqdefault.jpg",
+    "Title": "ICE & DHS: Last Week Tonight with John Oliver (HBO)",
+    "Channel": "LastWeekTonight",
+    "Category": "Entertainment",
+    "Views Gained": 1666876
+  },
+  {
+    "Rank": 21,
+    "Change": "-2",
     "Thumbnail": "https://i.ytimg.com/vi/lrnVhHFr9qE/hqdefault.jpg",
     "Title": "황홀한 부다페스트의 밤에 치얼쓰🥂 4형제는 낭만에 취해쓰🌟｜풍향고2 EP.4 헝가리 부다페스트 #유재석 #이성민 #지석진 #양세찬",
     "Channel": "뜬뜬 DdeunDdeun",
@@ -171,17 +189,26 @@
     "Views Gained": 1576191
   },
   {
-    "Rank": 20,
-    "Change": "-5",
-    "Thumbnail": "https://i.ytimg.com/vi/90lzlq8AEX0/hqdefault.jpg",
-    "Title": "Survive 99 Nights, Win $99,000",
-    "Channel": "MrBeast Gaming",
-    "Category": "Gaming",
-    "Views Gained": 1502406
+    "Rank": 22,
+    "Change": "+14",
+    "Thumbnail": "https://i.ytimg.com/vi/nQ14h3EDlR0/hqdefault.jpg",
+    "Title": "BEAUTY IS THE BEAST - UCHE MONTANA, KUNLE REMI, Latest 2026 Nigerian Movie",
+    "Channel": "Uche Montana TV",
+    "Category": "Film & Animation",
+    "Views Gained": 1564324
   },
   {
-    "Rank": 21,
-    "Change": "+7",
+    "Rank": 23,
+    "Change": "+3",
+    "Thumbnail": "https://i.ytimg.com/vi/MNNYpYd33sU/hqdefault.jpg",
+    "Title": "UN REPAS TOUT SAUF PARFAIT 2 (ft Billy & Théodort)",
+    "Channel": "Djilsi",
+    "Category": "Entertainment",
+    "Views Gained": 1535792
+  },
+  {
+    "Rank": 24,
+    "Change": "-3",
     "Thumbnail": "https://i.ytimg.com/vi/FvtgBZwseCE/hqdefault.jpg",
     "Title": "this trap isn't clickbait",
     "Channel": "JudeLow",
@@ -189,62 +216,35 @@
     "Views Gained": 1462330
   },
   {
-    "Rank": 22,
-    "Change": "+20",
-    "Thumbnail": "https://i.ytimg.com/vi/Rg8Usq0gKQg/hqdefault.jpg",
-    "Title": "Güller ve Günahlar 17. Bölüm - Full Bölüm",
-    "Channel": "Güller ve Günahlar",
-    "Category": "People & Blogs",
-    "Views Gained": 1432678
-  },
-  {
-    "Rank": 23,
-    "Change": "+2",
-    "Thumbnail": "https://i.ytimg.com/vi/2LaaT_Uskz0/hqdefault.jpg",
-    "Title": "Hablemos De Tal - Ep. 108 - Fernanda Blaz | UnTalFredo",
-    "Channel": "UNTALFREDO",
-    "Category": "Entertainment",
-    "Views Gained": 1419487
-  },
-  {
-    "Rank": 24,
-    "Change": "-7",
-    "Thumbnail": "https://i.ytimg.com/vi/rgxV4XWR_3I/hqdefault.jpg",
-    "Title": "MY PRIDE HER DESTINY - SARIAN MARTIN, UZOR ARUKWE, Latest 2026 Nigerian Movie",
-    "Channel": "Sarian Martin Tv",
-    "Category": "Film & Animation",
-    "Views Gained": 1368472
-  },
-  {
     "Rank": 25,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/YPWMMa4XxLs/hqdefault.jpg",
-    "Title": "2500 Players VS Minecraft Combat Master",
-    "Channel": "FlameFrags",
-    "Category": "Gaming",
-    "Views Gained": 1359590
+    "Change": "-13",
+    "Thumbnail": "https://i.ytimg.com/vi/Bh1IUj9BkJE/hqdefault.jpg",
+    "Title": "Mom Secretly Hides in Son’s Bedroom…",
+    "Channel": "The Royalty Family",
+    "Category": "People & Blogs",
+    "Views Gained": 1459133
   },
   {
     "Rank": 26,
-    "Change": "+7",
-    "Thumbnail": "https://i.ytimg.com/vi/MNNYpYd33sU/hqdefault.jpg",
-    "Title": "UN REPAS TOUT SAUF PARFAIT 2 (ft Billy & Théodort)",
-    "Channel": "Djilsi",
-    "Category": "Entertainment",
-    "Views Gained": 1355186
+    "Change": "+6",
+    "Thumbnail": "https://i.ytimg.com/vi/XIMqtXVuCUQ/hqdefault.jpg",
+    "Title": "Sont-ils DES EX ou EN COUPLE ? (Avec Théodort)",
+    "Channel": "Mastu",
+    "Category": "Comedy",
+    "Views Gained": 1415382
   },
   {
     "Rank": 27,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/YDJLgirKu3Y/hqdefault.jpg",
-    "Title": "WARUNG MAKTON HANCUR LEBUR !!!",
-    "Channel": "dika_ bj",
-    "Category": "People & Blogs",
-    "Views Gained": 1352636
+    "Change": "+4",
+    "Thumbnail": "https://i.ytimg.com/vi/nbKXn_XtajY/hqdefault.jpg",
+    "Title": "Quel couple se connaît le mieux ? Avec Erika et Tif 💜 (y’a TOUT dans cette vidéo)",
+    "Channel": "Mcfly et Carlito",
+    "Category": "Entertainment",
+    "Views Gained": 1411634
   },
   {
     "Rank": 28,
-    "Change": "-2",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/tZx2pmLEG2Q/hqdefault.jpg",
     "Title": "We Made a Doomsday Bunker to Survive Alien Attack in Minecraft!",
     "Channel": "ProBoiz 95",
@@ -253,7 +253,7 @@
   },
   {
     "Rank": 29,
-    "Change": "-2",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/z6DxRwY9WVY/hqdefault.jpg",
     "Title": "I Beat China’s Hardest Mod… So They Made It Harder...",
     "Channel": "Mud Flaps",
@@ -262,7 +262,7 @@
   },
   {
     "Rank": 30,
-    "Change": "+4",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/Cdvu4rNEOqc/hqdefault.jpg",
     "Title": "MORGENSHTERN - Live from the Dead Sea (Солевой Лайв 2026)",
     "Channel": "MORGENSHTERN",
@@ -271,43 +271,25 @@
   },
   {
     "Rank": 31,
-    "Change": "+4",
-    "Thumbnail": "https://i.ytimg.com/vi/nbKXn_XtajY/hqdefault.jpg",
-    "Title": "Quel couple se connaît le mieux ? Avec Erika et Tif 💜 (y’a TOUT dans cette vidéo)",
-    "Channel": "Mcfly et Carlito",
-    "Category": "Entertainment",
-    "Views Gained": 1269220
+    "Change": "+15",
+    "Thumbnail": "https://i.ytimg.com/vi/gwdHz1Xnfm0/hqdefault.jpg",
+    "Title": "1 Minute Ago: Trump Falls Apart Staff Handling Him Legacy Panic & Black History Erasure |George Will",
+    "Channel": "Politics Raw",
+    "Category": "News & Politics",
+    "Views Gained": 1280551
   },
   {
     "Rank": 32,
-    "Change": "+8",
-    "Thumbnail": "https://i.ytimg.com/vi/XIMqtXVuCUQ/hqdefault.jpg",
-    "Title": "Sont-ils DES EX ou EN COUPLE ? (Avec Théodort)",
-    "Channel": "Mastu",
-    "Category": "Comedy",
-    "Views Gained": 1259423
-  },
-  {
-    "Rank": 33,
-    "Change": "-19",
-    "Thumbnail": "https://i.ytimg.com/vi/wvQdEN2djPM/hqdefault.jpg",
-    "Title": "Taşacak Bu Deniz 17. Bölüm @trt1",
-    "Channel": "Taşacak Bu Deniz",
-    "Category": "Entertainment",
-    "Views Gained": 1212516
-  },
-  {
-    "Rank": 34,
-    "Change": "-5",
+    "Change": "+2",
     "Thumbnail": "https://i.ytimg.com/vi/flhBQvJeAH8/hqdefault.jpg",
     "Title": "Spurs Sack Thomas Frank & Ange Postecoglou Doesn’t Hold Back | Stick to Football EP 116",
     "Channel": "The Overlap",
     "Category": "Sports",
-    "Views Gained": 1207824
+    "Views Gained": 1247311
   },
   {
-    "Rank": 35,
-    "Change": "+1",
+    "Rank": 33,
+    "Change": "+2",
     "Thumbnail": "https://i.ytimg.com/vi/UEQbFC2BIAc/hqdefault.jpg",
     "Title": "They Asked for a Factory, I Built Them a Chaotic Nightmare - Arknights: Endfield",
     "Channel": "Let's Game It Out",
@@ -315,35 +297,35 @@
     "Views Gained": 1198344
   },
   {
-    "Rank": 36,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/nQ14h3EDlR0/hqdefault.jpg",
-    "Title": "BEAUTY IS THE BEAST - UCHE MONTANA, KUNLE REMI, Latest 2026 Nigerian Movie",
-    "Channel": "Uche Montana TV",
-    "Category": "Film & Animation",
-    "Views Gained": 1193623
-  },
-  {
-    "Rank": 37,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/5-KDUOHEZFk/hqdefault.jpg",
-    "Title": "ICE & DHS: Last Week Tonight with John Oliver (HBO)",
-    "Channel": "LastWeekTonight",
-    "Category": "Entertainment",
-    "Views Gained": 1157191
-  },
-  {
-    "Rank": 38,
-    "Change": "-6",
+    "Rank": 34,
+    "Change": "+4",
     "Thumbnail": "https://i.ytimg.com/vi/IZS1dVumDIg/hqdefault.jpg",
     "Title": "\"A VERY Valuable Asset\" Epstein's Links To Mossad | Bassem Youssef vs Alan Dershowitz",
     "Channel": "Piers Morgan Uncensored",
     "Category": "Entertainment",
-    "Views Gained": 1151755
+    "Views Gained": 1185328
   },
   {
-    "Rank": 39,
+    "Rank": 35,
     "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/aXndNMbfMO8/hqdefault.jpg",
+    "Title": "I Became a TAXI DRIVER in VR",
+    "Channel": "ProBoii",
+    "Category": "Gaming",
+    "Views Gained": 1169827
+  },
+  {
+    "Rank": 36,
+    "Change": "+11",
+    "Thumbnail": "https://i.ytimg.com/vi/_qKp9JGq1V4/hqdefault.jpg",
+    "Title": "PERMISSION TO BREAK UP - Nigerian Movies 2026 Latest Full Movies",
+    "Channel": "Omoni Oboli TV",
+    "Category": "Entertainment",
+    "Views Gained": 1148236
+  },
+  {
+    "Rank": 37,
+    "Change": "+2",
     "Thumbnail": "https://i.ytimg.com/vi/XefLWHDEorM/hqdefault.jpg",
     "Title": "I Got #1 LEADBOARD in KNOCKOUT..",
     "Channel": "CaylusBlox",
@@ -351,17 +333,26 @@
     "Views Gained": 1123680
   },
   {
-    "Rank": 40,
-    "Change": "-3",
-    "Thumbnail": "https://i.ytimg.com/vi/xwXnlJPfjFk/hqdefault.jpg",
-    "Title": "SYMPTOMS OF LOVE - OMECHE OKO, KELVIN EZIKE latest 2026 nigerian movie",
-    "Channel": "Uchenna Mbunabo Tv",
+    "Rank": 38,
+    "Change": "+12",
+    "Thumbnail": "https://i.ytimg.com/vi/_CbFMLFVxQk/hqdefault.jpg",
+    "Title": "Hãy Chọn Heo Đúng Thắng 10 Triệu | Trò Chơi Đập Heo Đất Tết 2026 của Lâm Vlog",
+    "Channel": "Lâm Vlog",
     "Category": "Entertainment",
-    "Views Gained": 1113848
+    "Views Gained": 1120592
   },
   {
-    "Rank": 41,
-    "Change": "-11",
+    "Rank": 39,
+    "Change": "+3",
+    "Thumbnail": "https://i.ytimg.com/vi/RgwO0qVFW-Q/hqdefault.jpg",
+    "Title": "Die Epstein-Files: Wer steht drin?",
+    "Channel": "MrWissen2go",
+    "Category": "Education",
+    "Views Gained": 1117454
+  },
+  {
+    "Rank": 40,
+    "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/8lO_GYI8K4o/hqdefault.jpg",
     "Title": "LIVING IN A FOREST AT NIGHT GONE WRONG!",
     "Channel": "Techno Gamerz",
@@ -369,17 +360,17 @@
     "Views Gained": 1113206
   },
   {
-    "Rank": 42,
-    "Change": "-3",
-    "Thumbnail": "https://i.ytimg.com/vi/RgwO0qVFW-Q/hqdefault.jpg",
-    "Title": "Die Epstein-Files: Wer steht drin?",
-    "Channel": "MrWissen2go",
-    "Category": "Education",
-    "Views Gained": 1081705
+    "Rank": 41,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/h4jebcjJZUM/hqdefault.jpg",
+    "Title": "Racing Random Cars up Huge Ramp",
+    "Channel": "Hudson's Playground Gaming",
+    "Category": "Gaming",
+    "Views Gained": 1084538
   },
   {
-    "Rank": 43,
-    "Change": "New",
+    "Rank": 42,
+    "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/lyojYhnQrwg/hqdefault.jpg",
     "Title": "ОГОНЬ и ЛЁД! МЕСТЬ клану \"ПЛАКС\" в РАСТ RUST",
     "Channel": "ДЕРЖИ ДВЕРЬ",
@@ -387,17 +378,26 @@
     "Views Gained": 1060696
   },
   {
+    "Rank": 43,
+    "Change": "-23",
+    "Thumbnail": "https://i.ytimg.com/vi/90lzlq8AEX0/hqdefault.jpg",
+    "Title": "Survive 99 Nights, Win $99,000",
+    "Channel": "MrBeast Gaming",
+    "Category": "Gaming",
+    "Views Gained": 1037161
+  },
+  {
     "Rank": 44,
-    "Change": "-32",
-    "Thumbnail": "https://i.ytimg.com/vi/qG2kMXjWW7A/hqdefault.jpg",
-    "Title": "MAMA LELA & LULUK BERSATU !!!",
-    "Channel": "dika_ bj",
-    "Category": "People & Blogs",
-    "Views Gained": 1050385
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/-jCetpg9h6w/hqdefault.jpg",
+    "Title": "RENT A ROMANCE  - CLINTON JOSHUA, MIWA OLORUNFEMI, Latest 2026 Nigerian Movie",
+    "Channel": "Miwa Olorunfemi TV",
+    "Category": "Film & Animation",
+    "Views Gained": 1032627
   },
   {
     "Rank": 45,
-    "Change": "-1",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/EgDfiTbfJME/hqdefault.jpg",
     "Title": "Hermitcraft 11: Episode 11 - MEGA CITY",
     "Channel": "Mumbo Jumbo",
@@ -407,46 +407,46 @@
   {
     "Rank": 46,
     "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/gwdHz1Xnfm0/hqdefault.jpg",
-    "Title": "1 Minute Ago: Trump Falls Apart Staff Handling Him Legacy Panic & Black History Erasure |George Will",
-    "Channel": "Politics Raw",
-    "Category": "News & Politics",
-    "Views Gained": 1009355
+    "Thumbnail": "https://i.ytimg.com/vi/CmcV8VpGsmo/hqdefault.jpg",
+    "Title": "El Nuevo Mario Tennis es SALVAJE",
+    "Channel": "Rubius Z",
+    "Category": "Gaming",
+    "Views Gained": 993783
   },
   {
     "Rank": 47,
     "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/_qKp9JGq1V4/hqdefault.jpg",
-    "Title": "PERMISSION TO BREAK UP - Nigerian Movies 2026 Latest Full Movies",
-    "Channel": "Omoni Oboli TV",
-    "Category": "Entertainment",
-    "Views Gained": 965757
+    "Thumbnail": "https://i.ytimg.com/vi/slLCgLhnQlA/hqdefault.jpg",
+    "Title": "ARIANA - CHIKE DANIELS, CLINTON JOSHUA, MIWA OLORUNFEMI, Latest 2026 Nigerian movie",
+    "Channel": "Chike Daniels TV",
+    "Category": "Film & Animation",
+    "Views Gained": 986907
   },
   {
     "Rank": 48,
+    "Change": "-24",
+    "Thumbnail": "https://i.ytimg.com/vi/rgxV4XWR_3I/hqdefault.jpg",
+    "Title": "MY PRIDE HER DESTINY - SARIAN MARTIN, UZOR ARUKWE, Latest 2026 Nigerian Movie",
+    "Channel": "Sarian Martin Tv",
+    "Category": "Film & Animation",
+    "Views Gained": 976251
+  },
+  {
+    "Rank": 49,
     "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/ayuThI4RToE/hqdefault.jpg",
+    "Title": "ALAKOSO 3 (THE TYRANT) Latest 2025 Yoruba Movie Wumi Toriola, Remi Surutu,Femi Adekanye,Aisha Lawal",
+    "Channel": "Wumitoriolatv",
+    "Category": "Entertainment",
+    "Views Gained": 966444
+  },
+  {
+    "Rank": 50,
+    "Change": "-2",
     "Thumbnail": "https://i.ytimg.com/vi/Y4AHrgdhLSI/hqdefault.jpg",
     "Title": "WAY TOO FUNNY | MyVoice Zoo",
     "Channel": "jacksepticeye",
     "Category": "Gaming",
     "Views Gained": 957429
-  },
-  {
-    "Rank": 49,
-    "Change": "-6",
-    "Thumbnail": "https://i.ytimg.com/vi/xEN85i57UmM/hqdefault.jpg",
-    "Title": "Hermitcraft 11: Episode 10 - FINISHING THE CAVE!",
-    "Channel": "Grian",
-    "Category": "Gaming",
-    "Views Gained": 950279
-  },
-  {
-    "Rank": 50,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/_CbFMLFVxQk/hqdefault.jpg",
-    "Title": "Hãy Chọn Heo Đúng Thắng 10 Triệu | Trò Chơi Đập Heo Đất Tết 2026 của Lâm Vlog",
-    "Channel": "Lâm Vlog",
-    "Category": "Entertainment",
-    "Views Gained": 947306
   }
 ]
