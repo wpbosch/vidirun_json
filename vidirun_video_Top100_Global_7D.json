@@ -1,107 +1,117 @@
 [
   {
     "Rank": 1,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/DMNlzf8PiEM/hqdefault.jpg",
-    "Title": "THE AMAZING DIGITAL CIRCUS - Ep 8: hjsakldfhl",
-    "Channel": "GLITCH",
-    "Category": "Film & Animation",
-    "Format": "Long",
-    "Views Gained": 56967871
-  },
-  {
-    "Rank": 2,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/b4iVv91Z6lY/hqdefault.jpg",
-    "Title": "BTS (방탄소년단) ‘SWIM’ Official MV",
-    "Channel": "HYBE LABELS",
-    "Category": "Music",
-    "Format": "Standard",
-    "Views Gained": 43098672
-  },
-  {
-    "Rank": 3,
-    "Change": "+3",
-    "Thumbnail": "https://i.ytimg.com/vi/vZOQJtFA_GY/hqdefault.jpg",
-    "Title": "A 4-Year-Old Walks Into a Dance Class… Watch What Happens 👀✨#dance #fyp #flexibility",
-    "Channel": "ywddxwls",
-    "Category": "Education",
-    "Format": "Short",
-    "Views Gained": 35746985
-  },
-  {
-    "Rank": 4,
-    "Change": "-1",
-    "Thumbnail": "https://i.ytimg.com/vi/N3JdQTm0qoM/hqdefault.jpg",
-    "Title": "Who Can Escape The Bad Guy The Fastest",
-    "Channel": "Law By Mike",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 35313500
-  },
-  {
-    "Rank": 5,
-    "Change": "+6",
+    "Change": "+4",
     "Thumbnail": "https://i.ytimg.com/vi/I9BhyjU8fHM/hqdefault.jpg",
     "Title": "patta khatam ho gya #reels",
     "Channel": "Pintu Jack",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 32243992
+    "Views Gained": 46055715
   },
   {
-    "Rank": 6,
-    "Change": "-1",
-    "Thumbnail": "https://i.ytimg.com/vi/yE6hDPH9It0/hqdefault.jpg",
-    "Title": "When the Host Catches You Wearing a Wig",
-    "Channel": "True Earth Stories",
-    "Category": "People & Blogs",
+    "Rank": 2,
+    "Change": "+1",
+    "Thumbnail": "https://i.ytimg.com/vi/vZOQJtFA_GY/hqdefault.jpg",
+    "Title": "A 4-Year-Old Walks Into a Dance Class… Watch What Happens 👀✨#dance #fyp #flexibility",
+    "Channel": "ywddxwls",
+    "Category": "Education",
     "Format": "Short",
-    "Views Gained": 30502367
+    "Views Gained": 41473110
   },
   {
-    "Rank": 7,
-    "Change": "0",
+    "Rank": 3,
+    "Change": "+1",
+    "Thumbnail": "https://i.ytimg.com/vi/N3JdQTm0qoM/hqdefault.jpg",
+    "Title": "Who Can Escape The Bad Guy The Fastest",
+    "Channel": "Law By Mike",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 36410010
+  },
+  {
+    "Rank": 4,
+    "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/NzkbG0h2JFQ/hqdefault.jpg",
     "Title": "Ranking Funniest Harmless Dad Pranks #funny",
     "Channel": "RankFS",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 29750713
+    "Views Gained": 33651032
   },
   {
-    "Rank": 8,
-    "Change": "-4",
-    "Thumbnail": "https://i.ytimg.com/vi/jw_o0xr8MWU/hqdefault.jpg",
-    "Title": "NVIDIA GTC Keynote 2026",
-    "Channel": "NVIDIA",
-    "Category": "Science & Technology",
-    "Format": "Long",
-    "Views Gained": 28158950
-  },
-  {
-    "Rank": 9,
-    "Change": "+9",
-    "Thumbnail": "https://i.ytimg.com/vi/p1SkKhT42uA/hqdefault.jpg",
-    "Title": "Cái giá của LÒNG TỐT... 🥺💔| Kindness Misunderstood",
-    "Channel": "Fun Fun TV",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 25752097
-  },
-  {
-    "Rank": 10,
-    "Change": "+12",
+    "Rank": 5,
+    "Change": "+5",
     "Thumbnail": "https://i.ytimg.com/vi/kBxYRgMuBgg/hqdefault.jpg",
     "Title": "Strongest snack vs mom🍿",
     "Channel": "ISSEI / いっせい",
     "Category": "Entertainment",
     "Format": "Short",
-    "Views Gained": 24958781
+    "Views Gained": 32639900
+  },
+  {
+    "Rank": 6,
+    "Change": "+3",
+    "Thumbnail": "https://i.ytimg.com/vi/p1SkKhT42uA/hqdefault.jpg",
+    "Title": "Cái giá của LÒNG TỐT... 🥺💔| Kindness Misunderstood",
+    "Channel": "Fun Fun TV",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 32191780
+  },
+  {
+    "Rank": 7,
+    "Change": "-6",
+    "Thumbnail": "https://i.ytimg.com/vi/DMNlzf8PiEM/hqdefault.jpg",
+    "Title": "THE AMAZING DIGITAL CIRCUS - Ep 8: hjsakldfhl",
+    "Channel": "GLITCH",
+    "Category": "Film & Animation",
+    "Format": "Long",
+    "Views Gained": 31418174
+  },
+  {
+    "Rank": 8,
+    "Change": "-6",
+    "Thumbnail": "https://i.ytimg.com/vi/b4iVv91Z6lY/hqdefault.jpg",
+    "Title": "BTS (방탄소년단) ‘SWIM’ Official MV",
+    "Channel": "HYBE LABELS",
+    "Category": "Music",
+    "Format": "Standard",
+    "Views Gained": 31227148
+  },
+  {
+    "Rank": 9,
+    "Change": "+3",
+    "Thumbnail": "https://i.ytimg.com/vi/SdsLp63NomA/hqdefault.jpg",
+    "Title": "JALAN DITUTUP😭😭🤲🥵⁉️ #shorts #trendingshorts #viralshorts #funny",
+    "Channel": "Rogi",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 27414268
+  },
+  {
+    "Rank": 10,
+    "Change": "-4",
+    "Thumbnail": "https://i.ytimg.com/vi/yE6hDPH9It0/hqdefault.jpg",
+    "Title": "When the Host Catches You Wearing a Wig",
+    "Channel": "True Earth Stories",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 23956095
   },
   {
     "Rank": 11,
-    "Change": "-3",
+    "Change": "+8",
+    "Thumbnail": "https://i.ytimg.com/vi/py3S6ixjn-Q/hqdefault.jpg",
+    "Title": "The Hidden Star",
+    "Channel": "Pure Moments",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 23793475
+  },
+  {
+    "Rank": 12,
+    "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/HCRaV75hGso/hqdefault.jpg",
     "Title": "Sweetheart 🤗😍 #shorts #viralvideo #funnyshorts #funnyvideo #trending",
     "Channel": "Misti Happy Lifestyle Games & Shorts",
@@ -110,18 +120,18 @@
     "Views Gained": 23008566
   },
   {
-    "Rank": 12,
-    "Change": "+5",
-    "Thumbnail": "https://i.ytimg.com/vi/SdsLp63NomA/hqdefault.jpg",
-    "Title": "JALAN DITUTUP😭😭🤲🥵⁉️ #shorts #trendingshorts #viralshorts #funny",
-    "Channel": "Rogi",
+    "Rank": 13,
+    "Change": "+10",
+    "Thumbnail": "https://i.ytimg.com/vi/Dllzz_9Sx60/hqdefault.jpg",
+    "Title": "KFC или McDonald’s ?? что ты выберешь🤔",
+    "Channel": "BRUNO",
     "Category": "Entertainment",
     "Format": "Short",
-    "Views Gained": 21436124
+    "Views Gained": 21539575
   },
   {
-    "Rank": 13,
-    "Change": "-3",
+    "Rank": 14,
+    "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/pXN0a_1uAek/hqdefault.jpg",
     "Title": "Team donuts where are you?😅",
     "Channel": "Jaymondy",
@@ -130,18 +140,38 @@
     "Views Gained": 19597050
   },
   {
-    "Rank": 14,
-    "Change": "-2",
+    "Rank": 15,
+    "Change": "+5",
+    "Thumbnail": "https://i.ytimg.com/vi/UnkEhuozhIE/hqdefault.jpg",
+    "Title": "Traffic Light Rules 🚦 When to Cross the Road for Kids #safetyrules",
+    "Channel": "Buildy Wildy",
+    "Category": "Howto & Style",
+    "Format": "Short",
+    "Views Gained": 19350047
+  },
+  {
+    "Rank": 16,
+    "Change": "+9",
+    "Thumbnail": "https://i.ytimg.com/vi/Nak2buKNw18/hqdefault.jpg",
+    "Title": "Repeat it 0.3x",
+    "Channel": "RITIKEDITZ-00",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 18644121
+  },
+  {
+    "Rank": 17,
+    "Change": "-3",
     "Thumbnail": "https://i.ytimg.com/vi/RBaSiVjtKR4/hqdefault.jpg",
     "Title": "Body to Body",
     "Channel": "BTS - Topic",
     "Category": "Music",
     "Format": "Standard",
-    "Views Gained": 18837805
+    "Views Gained": 17051838
   },
   {
-    "Rank": 15,
-    "Change": "0",
+    "Rank": 18,
+    "Change": "-3",
     "Thumbnail": "https://i.ytimg.com/vi/vq_Qw4UU9qQ/hqdefault.jpg",
     "Title": "#nobatidao",
     "Channel": "LEELU",
@@ -150,58 +180,28 @@
     "Views Gained": 16156796
   },
   {
-    "Rank": 16,
-    "Change": "-3",
-    "Thumbnail": "https://i.ytimg.com/vi/DhnHWXP1wYY/hqdefault.jpg",
-    "Title": "#shorts#kpop#Nurse",
-    "Channel": "Nurse & the Loony",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 16110024
-  },
-  {
-    "Rank": 17,
-    "Change": "-3",
-    "Thumbnail": "https://i.ytimg.com/vi/W_3fxwrObxY/hqdefault.jpg",
-    "Title": "A Mimic Using Her Sons Voice",
-    "Channel": "DISTURB",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 16036893
-  },
-  {
-    "Rank": 18,
-    "Change": "-2",
+    "Rank": 19,
+    "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/bOo086LXRyA/hqdefault.jpg",
     "Title": "Gervonta Davis is a brilliant boxer! #boxing #ufc #mma",
     "Channel": "Boxing Warriors",
     "Category": "Sports",
     "Format": "Short",
-    "Views Gained": 15872492
-  },
-  {
-    "Rank": 19,
-    "Change": "+48",
-    "Thumbnail": "https://i.ytimg.com/vi/py3S6ixjn-Q/hqdefault.jpg",
-    "Title": "The Hidden Star",
-    "Channel": "Pure Moments",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 15796249
+    "Views Gained": 16120844
   },
   {
     "Rank": 20,
-    "Change": "+11",
-    "Thumbnail": "https://i.ytimg.com/vi/UnkEhuozhIE/hqdefault.jpg",
-    "Title": "Traffic Light Rules 🚦 When to Cross the Road for Kids #safetyrules",
-    "Channel": "Buildy Wildy",
-    "Category": "Howto & Style",
-    "Format": "Short",
-    "Views Gained": 15522675
+    "Change": "-12",
+    "Thumbnail": "https://i.ytimg.com/vi/jw_o0xr8MWU/hqdefault.jpg",
+    "Title": "NVIDIA GTC Keynote 2026",
+    "Channel": "NVIDIA",
+    "Category": "Science & Technology",
+    "Format": "Long",
+    "Views Gained": 15458058
   },
   {
     "Rank": 21,
-    "Change": "+4",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/erLnHzm8YGc/hqdefault.jpg",
     "Title": "Meri Zindagi Hai Tu Last Episode | 22 March 2026 | ENG SUB | Hania Aamir | Bilal Abbas | ARY Digital",
     "Channel": "ARY Digital HD",
@@ -211,107 +211,57 @@
   },
   {
     "Rank": 22,
-    "Change": "-1",
-    "Thumbnail": "https://i.ytimg.com/vi/GLHn7q5Oat0/hqdefault.jpg",
-    "Title": "#rumi #jinu #funny #kpopdemonhunters #kpop",
-    "Channel": "Starry",
-    "Category": "Music",
-    "Format": "Short",
-    "Views Gained": 13613500
-  },
-  {
-    "Rank": 23,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/Dllzz_9Sx60/hqdefault.jpg",
-    "Title": "KFC или McDonald’s ?? что ты выберешь🤔",
-    "Channel": "BRUNO",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 13495936
-  },
-  {
-    "Rank": 24,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/1MBftPiwgyA/hqdefault.jpg",
-    "Title": "😂❓¿Grande o Pequeño? ¿Cuál elegirías tú? #kpop #kpopdemonhunters #funny #rumi #jinu",
-    "Channel": "bestShenggou",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 13309770
-  },
-  {
-    "Rank": 25,
-    "Change": "+63",
-    "Thumbnail": "https://i.ytimg.com/vi/Nak2buKNw18/hqdefault.jpg",
-    "Title": "Repeat it 0.3x",
-    "Channel": "RITIKEDITZ-00",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 13141572
-  },
-  {
-    "Rank": 26,
-    "Change": "-3",
-    "Thumbnail": "https://i.ytimg.com/vi/IrFc0rnzJjc/hqdefault.jpg",
-    "Title": "When Mom figures out the CHEAT CODE to win her baby back...#kpop #funny #kpopdemonhunters#abby #mira",
-    "Channel": "Yt.JokerFace",
-    "Category": "Howto & Style",
-    "Format": "Short",
-    "Views Gained": 13127090
-  },
-  {
-    "Rank": 27,
-    "Change": "+1",
-    "Thumbnail": "https://i.ytimg.com/vi/A69pPnczkEw/hqdefault.jpg",
-    "Title": "GO 4 puliya throw bass testing",
-    "Channel": "Crazybasstest",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 12657326
-  },
-  {
-    "Rank": 28,
-    "Change": "-1",
-    "Thumbnail": "https://i.ytimg.com/vi/pFFCZjfWXes/hqdefault.jpg",
-    "Title": "Tom Holland React Viral Videos Part 6 #tomholland #funny #trytolaugh #reaction",
-    "Channel": "Lucky Star",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 12463616
-  },
-  {
-    "Rank": 29,
-    "Change": "+6",
+    "Change": "+7",
     "Thumbnail": "https://i.ytimg.com/vi/sDt6IkirIQQ/hqdefault.jpg",
     "Title": "Ranking Funniest Trampoline Moments",
     "Channel": "BrinyShorts",
     "Category": "Entertainment",
     "Format": "Short",
-    "Views Gained": 12191799
+    "Views Gained": 12675765
   },
   {
-    "Rank": 30,
-    "Change": "-21",
-    "Thumbnail": "https://i.ytimg.com/vi/Vzh3WEEXKUg/hqdefault.jpg",
-    "Title": "He Offered His Head to His Opponent… For This Reason 🤯",
-    "Channel": "FitVision",
-    "Category": "Sports",
+    "Rank": 23,
+    "Change": "+1",
+    "Thumbnail": "https://i.ytimg.com/vi/1MBftPiwgyA/hqdefault.jpg",
+    "Title": "😂❓¿Grande o Pequeño? ¿Cuál elegirías tú? #kpop #kpopdemonhunters #funny #rumi #jinu",
+    "Channel": "bestShenggou",
+    "Category": "Entertainment",
     "Format": "Short",
-    "Views Gained": 11941698
+    "Views Gained": 12591652
   },
   {
-    "Rank": 31,
-    "Change": "+3",
+    "Rank": 24,
+    "Change": "+7",
     "Thumbnail": "https://i.ytimg.com/vi/aRNfSqsgrgE/hqdefault.jpg",
     "Title": "Sheesha (Official Music Video) | Mitta Ror ft. Swara Verma | Sorab Bedi | Niharika Tiwari",
     "Channel": "Sony Music India",
     "Category": "Music",
     "Format": "Standard",
-    "Views Gained": 11736555
+    "Views Gained": 12591068
   },
   {
-    "Rank": 32,
-    "Change": "+22",
+    "Rank": 25,
+    "Change": "+55",
+    "Thumbnail": "https://i.ytimg.com/vi/cQzPqLihL4E/hqdefault.jpg",
+    "Title": "#comedy #funny 🤣🤣 #video #viral #video #comedyshorts #reels",
+    "Channel": "Comedy team",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 12479831
+  },
+  {
+    "Rank": 26,
+    "Change": "+11",
+    "Thumbnail": "https://i.ytimg.com/vi/KFTHLg7CV94/hqdefault.jpg",
+    "Title": "Tom Cruise always finds a way out 🥶 #usa",
+    "Channel": "DoubleShorts",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 12243324
+  },
+  {
+    "Rank": 27,
+    "Change": "+5",
     "Thumbnail": "https://i.ytimg.com/vi/zZKuMEz_y7I/hqdefault.jpg",
     "Title": "Awas jatuh #ventriloquist",
     "Channel": "sefitra bahira",
@@ -320,8 +270,8 @@
     "Views Gained": 11689340
   },
   {
-    "Rank": 33,
-    "Change": "-1",
+    "Rank": 28,
+    "Change": "+5",
     "Thumbnail": "https://i.ytimg.com/vi/1j9wzYj50iw/hqdefault.jpg",
     "Title": "Ronaldo criticized the toy Messi gave him.",
     "Channel": "Bad Child",
@@ -330,98 +280,118 @@
     "Views Gained": 11312925
   },
   {
-    "Rank": 34,
-    "Change": "-14",
-    "Thumbnail": "https://i.ytimg.com/vi/uX7mDyZIo68/hqdefault.jpg",
-    "Title": "Perfect Slice Challenge",
-    "Channel": "Nick DiGiovanni",
+    "Rank": 29,
+    "Change": "+16",
+    "Thumbnail": "https://i.ytimg.com/vi/vCZabxrZ3yU/hqdefault.jpg",
+    "Title": "Messi misunderstood Ronaldo, and here's the truth.",
+    "Channel": "Bad Child",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 11240438
+    "Views Gained": 11171977
   },
   {
-    "Rank": 35,
-    "Change": "-9",
-    "Thumbnail": "https://i.ytimg.com/vi/4Tn7sQnqyJA/hqdefault.jpg",
-    "Title": "🔥😱 Ronaldo Turns Into Fire Man… Messi Gets Roasted! #ronaldo #cr7 #messi #shorts #football",
-    "Channel": "GOAT for SEVEN",
-    "Category": "Entertainment",
+    "Rank": 30,
+    "Change": "+55",
+    "Thumbnail": "https://i.ytimg.com/vi/1dmTPzFHTb8/hqdefault.jpg",
+    "Title": "Какой зонт не даст вам промокнуть?",
+    "Channel": "Аришнев",
+    "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 11209559
+    "Views Gained": 11067472
   },
   {
-    "Rank": 36,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/oJ-JJHfxYIA/hqdefault.jpg",
-    "Title": "American Gods S1 (2017) x Hercules (2014) | Arrows Decide Who Lives 😳🏹⚡️",
-    "Channel": "FlickTales7",
-    "Category": "Entertainment",
+    "Rank": 31,
+    "Change": "+16",
+    "Thumbnail": "https://i.ytimg.com/vi/EmS07idKISU/hqdefault.jpg",
+    "Title": "Rebutan lolipop musik kok ditukar terus sih akhirnya⁉️",
+    "Channel": "Keizo & Friends",
+    "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 11106212
+    "Views Gained": 10852493
   },
   {
-    "Rank": 37,
-    "Change": "+4",
-    "Thumbnail": "https://i.ytimg.com/vi/KFTHLg7CV94/hqdefault.jpg",
-    "Title": "Tom Cruise always finds a way out 🥶 #usa",
-    "Channel": "DoubleShorts",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 11068075
-  },
-  {
-    "Rank": 38,
-    "Change": "-5",
+    "Rank": 32,
+    "Change": "+6",
     "Thumbnail": "https://i.ytimg.com/vi/b68HETiNO98/hqdefault.jpg",
     "Title": "@SaiAbhyankkar - Pavazha Malli (Music Video) | Kayadu | Shruti Haasan | Vivek | Thejo | Think Indie",
     "Channel": "Think Music India",
     "Category": "Music",
     "Format": "Standard",
-    "Views Gained": 11014329
+    "Views Gained": 10673010
   },
   {
-    "Rank": 39,
-    "Change": "+5",
-    "Thumbnail": "https://i.ytimg.com/vi/QWDayFgPDjQ/hqdefault.jpg",
-    "Title": "FYA",
-    "Channel": "BTS - Topic",
-    "Category": "Music",
-    "Format": "Standard",
-    "Views Gained": 10663863
-  },
-  {
-    "Rank": 40,
-    "Change": "-21",
-    "Thumbnail": "https://i.ytimg.com/vi/Vl21j-UMALE/hqdefault.jpg",
-    "Title": "The ending is crazy 💀💀",
-    "Channel": "deagzzzshorts",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 10422968
-  },
-  {
-    "Rank": 41,
-    "Change": "+14",
-    "Thumbnail": "https://i.ytimg.com/vi/TkLkStcQ0o4/hqdefault.jpg",
-    "Title": "Jaan Se Guzarte Hain (Audio): Dhurandhar The Revenge | Shashwat S | Nusrat Fateh Ali,Khan S,Irshad K",
-    "Channel": "T-Series",
-    "Category": "Music",
-    "Format": "Standard",
-    "Views Gained": 10246691
-  },
-  {
-    "Rank": 42,
-    "Change": "+3",
+    "Rank": 33,
+    "Change": "+9",
     "Thumbnail": "https://i.ytimg.com/vi/cuTfsc0i4nU/hqdefault.jpg",
     "Title": "Superheroes become villains, and villains become superheroes#shorts #shortvideo",
     "Channel": "Elizabeth Jones",
     "Category": "Entertainment",
     "Format": "Short",
-    "Views Gained": 10217097
+    "Views Gained": 10645349
   },
   {
-    "Rank": 43,
-    "Change": "-4",
+    "Rank": 34,
+    "Change": "+21",
+    "Thumbnail": "https://i.ytimg.com/vi/et31ndoNogg/hqdefault.jpg",
+    "Title": "You Can Feel LeBron’s Aura 🥶🥶",
+    "Channel": "CourtLife Media",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 10577486
+  },
+  {
+    "Rank": 35,
+    "Change": "-18",
+    "Thumbnail": "https://i.ytimg.com/vi/W_3fxwrObxY/hqdefault.jpg",
+    "Title": "A Mimic Using Her Sons Voice",
+    "Channel": "DISTURB",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 10412741
+  },
+  {
+    "Rank": 36,
+    "Change": "+5",
+    "Thumbnail": "https://i.ytimg.com/vi/TkLkStcQ0o4/hqdefault.jpg",
+    "Title": "Jaan Se Guzarte Hain (Audio): Dhurandhar The Revenge | Shashwat S | Nusrat Fateh Ali,Khan S,Irshad K",
+    "Channel": "T-Series",
+    "Category": "Music",
+    "Format": "Standard",
+    "Views Gained": 10323664
+  },
+  {
+    "Rank": 37,
+    "Change": "+32",
+    "Thumbnail": "https://i.ytimg.com/vi/4Qm8X8bvIU8/hqdefault.jpg",
+    "Title": "Ranking Funniest Bringing Random Items To School",
+    "Channel": "Ranzy",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 10252632
+  },
+  {
+    "Rank": 38,
+    "Change": "+8",
+    "Thumbnail": "https://i.ytimg.com/vi/WK_PlcL8Tzo/hqdefault.jpg",
+    "Title": "Jaiye Sajana (Audio): Dhurandhar The Revenge | Shashwat Sachdev | Jasmine Sandlas, Satinder Sartaaj",
+    "Channel": "T-Series",
+    "Category": "Music",
+    "Format": "Standard",
+    "Views Gained": 10190018
+  },
+  {
+    "Rank": 39,
+    "Change": "+24",
+    "Thumbnail": "https://i.ytimg.com/vi/7I6xlUNEikA/hqdefault.jpg",
+    "Title": "This Sleep Trick is Either Genius or Insane #comedy #marriage #funny",
+    "Channel": "Courtney & Alex ",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 10156710
+  },
+  {
+    "Rank": 40,
+    "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/EwoyC1OylXg/hqdefault.jpg",
     "Title": "Big Sister Saves Brother As Soon As He Begins To Choke",
     "Channel": "Frame Catch",
@@ -430,88 +400,78 @@
     "Views Gained": 10147314
   },
   {
-    "Rank": 44,
-    "Change": "+9",
-    "Thumbnail": "https://i.ytimg.com/vi/lKgzkmTKvHU/hqdefault.jpg",
-    "Title": "Hooligan",
-    "Channel": "BTS - Topic",
+    "Rank": 41,
+    "Change": "+27",
+    "Thumbnail": "https://i.ytimg.com/vi/h-Y97xErGL8/hqdefault.jpg",
+    "Title": "BTS (방탄소년단) 'SWIM' Official Performance Video",
+    "Channel": "HYBE LABELS",
     "Category": "Music",
     "Format": "Standard",
-    "Views Gained": 10083545
+    "Views Gained": 10066266
   },
   {
-    "Rank": 45,
-    "Change": "+14",
-    "Thumbnail": "https://i.ytimg.com/vi/vCZabxrZ3yU/hqdefault.jpg",
-    "Title": "Messi misunderstood Ronaldo, and here's the truth.",
-    "Channel": "Bad Child",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 9904009
-  },
-  {
-    "Rank": 46,
-    "Change": "+3",
-    "Thumbnail": "https://i.ytimg.com/vi/WK_PlcL8Tzo/hqdefault.jpg",
-    "Title": "Jaiye Sajana (Audio): Dhurandhar The Revenge | Shashwat Sachdev | Jasmine Sandlas, Satinder Sartaaj",
-    "Channel": "T-Series",
+    "Rank": 42,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/nQMhLxv8fSI/hqdefault.jpg",
+    "Title": "Snow Man 'BANG!!' Music Video",
+    "Channel": "Snow Man",
     "Category": "Music",
     "Format": "Standard",
-    "Views Gained": 9833368
+    "Views Gained": 10022972
   },
   {
-    "Rank": 47,
-    "Change": "+14",
-    "Thumbnail": "https://i.ytimg.com/vi/EmS07idKISU/hqdefault.jpg",
-    "Title": "Rebutan lolipop musik kok ditukar terus sih akhirnya⁉️",
-    "Channel": "Keizo & Friends",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 9662983
-  },
-  {
-    "Rank": 48,
-    "Change": "-6",
-    "Thumbnail": "https://i.ytimg.com/vi/jaepz1QLeHw/hqdefault.jpg",
-    "Title": "الكل زعلوها و انا راضيتها 2 ❤️ #funny #sigma",
-    "Channel": "حسام الحلبي HUSSAM ALHALAPI",
-    "Category": "Comedy",
-    "Format": "Short",
-    "Views Gained": 9647311
-  },
-  {
-    "Rank": 49,
-    "Change": "+8",
+    "Rank": 43,
+    "Change": "+6",
     "Thumbnail": "https://i.ytimg.com/vi/m6G60ZmzqPc/hqdefault.jpg",
     "Title": "Jax Teller's Final Ride | The END That Destroyed Us All | Sons of Anarchy Series Finale 🔥💔",
     "Channel": "GG STORY",
     "Category": "Film & Animation",
     "Format": "Short",
-    "Views Gained": 9553112
+    "Views Gained": 10005557
   },
   {
-    "Rank": 50,
-    "Change": "+13",
+    "Rank": 44,
+    "Change": "+6",
     "Thumbnail": "https://i.ytimg.com/vi/5ivAvUlU8eM/hqdefault.jpg",
     "Title": "\"He Turned Him Into A Villain\" ✅🔥 | X-Men: First Class | DIA DE FIESTA (Super Slowed) #edit #shorts",
     "Channel": "AfridiAE",
     "Category": "Entertainment",
     "Format": "Short",
-    "Views Gained": 9442889
+    "Views Gained": 9986438
   },
   {
-    "Rank": 51,
-    "Change": "-3",
-    "Thumbnail": "https://i.ytimg.com/vi/zqL7S-EQjhM/hqdefault.jpg",
-    "Title": "That is definitely his baby😭😭II #shorts #viral #fyp #relatable",
-    "Channel": "Micheal The Milk god ",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 9425644
-  },
-  {
-    "Rank": 52,
+    "Rank": 45,
     "Change": "-6",
+    "Thumbnail": "https://i.ytimg.com/vi/QWDayFgPDjQ/hqdefault.jpg",
+    "Title": "FYA",
+    "Channel": "BTS - Topic",
+    "Category": "Music",
+    "Format": "Standard",
+    "Views Gained": 9797791
+  },
+  {
+    "Rank": 46,
+    "Change": "-19",
+    "Thumbnail": "https://i.ytimg.com/vi/A69pPnczkEw/hqdefault.jpg",
+    "Title": "GO 4 puliya throw bass testing",
+    "Channel": "Crazybasstest",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 9760009
+  },
+  {
+    "Rank": 47,
+    "Change": "+29",
+    "Thumbnail": "https://i.ytimg.com/vi/u7X7ZC3-1U0/hqdefault.jpg",
+    "Title": "Bought Him The Most EXPENSIVE Gift 🎁🎉",
+    "Channel": "Riley Mae Lewis",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 9701581
+  },
+  {
+    "Rank": 48,
+    "Change": "+4",
     "Thumbnail": "https://i.ytimg.com/vi/QEEpnvYeZIs/hqdefault.jpg",
     "Title": "Middle Class 💔😭 Real Maa Family Story 😈 #shorts #video #viral #maa",
     "Channel": "Jomy Production",
@@ -520,8 +480,18 @@
     "Views Gained": 9301425
   },
   {
-    "Rank": 53,
-    "Change": "+18",
+    "Rank": 49,
+    "Change": "-5",
+    "Thumbnail": "https://i.ytimg.com/vi/lKgzkmTKvHU/hqdefault.jpg",
+    "Title": "Hooligan",
+    "Channel": "BTS - Topic",
+    "Category": "Music",
+    "Format": "Standard",
+    "Views Gained": 9296798
+  },
+  {
+    "Rank": 50,
+    "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/7pQGprkk4uc/hqdefault.jpg",
     "Title": "He Did NOT Expect That! (@PhilTheThrill)",
     "Channel": "TrendClips",
@@ -530,28 +500,58 @@
     "Views Gained": 9244681
   },
   {
-    "Rank": 54,
-    "Change": "-24",
-    "Thumbnail": "https://i.ytimg.com/vi/dZ7uUiifcZE/hqdefault.jpg",
-    "Title": "😀🪣👑💜 Rumi y Jinu🖤 | ¿A quién eliges 🤔 #kpopdemonhunters #shorts",
-    "Channel": "Crónicas de Huntrix",
-    "Category": "Entertainment",
+    "Rank": 51,
+    "Change": "+8",
+    "Thumbnail": "https://i.ytimg.com/vi/gQ5ZH6jn5mg/hqdefault.jpg",
+    "Title": "Padahal Digaji 2x Lipat..😯",
+    "Channel": "Miya21",
+    "Category": "Gaming",
     "Format": "Short",
-    "Views Gained": 9132696
+    "Views Gained": 9140703
+  },
+  {
+    "Rank": 52,
+    "Change": "+6",
+    "Thumbnail": "https://i.ytimg.com/vi/Ml9x3vRSc2I/hqdefault.jpg",
+    "Title": "Oh Champion, you didn't just step out when Thala is behind the stumps! 😜#WhistlePodu #Roar26",
+    "Channel": "Chennai Super Kings",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 9123704
+  },
+  {
+    "Rank": 53,
+    "Change": "+7",
+    "Thumbnail": "https://i.ytimg.com/vi/Rauvjq1BkQE/hqdefault.jpg",
+    "Title": "Standing Until Ronaldo Scores A Goal",
+    "Channel": "Futcrunch",
+    "Category": "Sports",
+    "Format": "Short",
+    "Views Gained": 9082909
+  },
+  {
+    "Rank": 54,
+    "Change": "+10",
+    "Thumbnail": "https://i.ytimg.com/vi/FRoIyoAyVNM/hqdefault.jpg",
+    "Title": "🤫Cheating👫The sight🥇win The Fight🤣||vishvi official||#trending#shorts #fun  #youtubeshort",
+    "Channel": "Vishvi Official",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 9080346
   },
   {
     "Rank": 55,
-    "Change": "+17",
-    "Thumbnail": "https://i.ytimg.com/vi/et31ndoNogg/hqdefault.jpg",
-    "Title": "You Can Feel LeBron’s Aura 🥶🥶",
-    "Channel": "CourtLife Media",
+    "Change": "-21",
+    "Thumbnail": "https://i.ytimg.com/vi/uX7mDyZIo68/hqdefault.jpg",
+    "Title": "Perfect Slice Challenge",
+    "Channel": "Nick DiGiovanni",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 9034944
+    "Views Gained": 8989229
   },
   {
     "Rank": 56,
-    "Change": "-6",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/iL98_bqM-hY/hqdefault.jpg",
     "Title": "Tom 🍓 Jerry (Nandhu&Ammu)Real End Twist😍🎈 #shorts #viral #v5familyshow",
     "Channel": "V5 Family Show",
@@ -561,7 +561,7 @@
   },
   {
     "Rank": 57,
-    "Change": "-6",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/zKPTIHQfFwA/hqdefault.jpg",
     "Title": "Middle Class 😱💔 Gareeb Maa Story 💵 #shorts #video #viral",
     "Channel": "Jomy Production",
@@ -571,37 +571,7 @@
   },
   {
     "Rank": 58,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/Ml9x3vRSc2I/hqdefault.jpg",
-    "Title": "Oh Champion, you didn't just step out when Thala is behind the stumps! 😜#WhistlePodu #Roar26",
-    "Channel": "Chennai Super Kings",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 8941067
-  },
-  {
-    "Rank": 59,
-    "Change": "+1",
-    "Thumbnail": "https://i.ytimg.com/vi/gQ5ZH6jn5mg/hqdefault.jpg",
-    "Title": "Padahal Digaji 2x Lipat..😯",
-    "Channel": "Miya21",
-    "Category": "Gaming",
-    "Format": "Short",
-    "Views Gained": 8935938
-  },
-  {
-    "Rank": 60,
-    "Change": "-4",
-    "Thumbnail": "https://i.ytimg.com/vi/Rauvjq1BkQE/hqdefault.jpg",
-    "Title": "Standing Until Ronaldo Scores A Goal",
-    "Channel": "Futcrunch",
-    "Category": "Sports",
-    "Format": "Short",
-    "Views Gained": 8928081
-  },
-  {
-    "Rank": 61,
-    "Change": "-9",
+    "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/-NgopH_hkR4/hqdefault.jpg",
     "Title": "Can’t even sleep in peace #memesdaily #memes",
     "Channel": "memes galore",
@@ -610,48 +580,48 @@
     "Views Gained": 8910055
   },
   {
+    "Rank": 59,
+    "Change": "+16",
+    "Thumbnail": "https://i.ytimg.com/vi/r19M54PuiCA/hqdefault.jpg",
+    "Title": "Tom Brady PRIME🔥 #nfl #footballshorts",
+    "Channel": "ELIJAHH NFL🏈",
+    "Category": "Sports",
+    "Format": "Short",
+    "Views Gained": 8905041
+  },
+  {
+    "Rank": 60,
+    "Change": "-25",
+    "Thumbnail": "https://i.ytimg.com/vi/4Tn7sQnqyJA/hqdefault.jpg",
+    "Title": "🔥😱 Ronaldo Turns Into Fire Man… Messi Gets Roasted! #ronaldo #cr7 #messi #shorts #football",
+    "Channel": "GOAT for SEVEN",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 8729456
+  },
+  {
+    "Rank": 61,
+    "Change": "-33",
+    "Thumbnail": "https://i.ytimg.com/vi/pFFCZjfWXes/hqdefault.jpg",
+    "Title": "Tom Holland React Viral Videos Part 6 #tomholland #funny #trytolaugh #reaction",
+    "Channel": "Lucky Star",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 8700739
+  },
+  {
     "Rank": 62,
-    "Change": "-24",
-    "Thumbnail": "https://i.ytimg.com/vi/3_9vCamtuPY/hqdefault.jpg",
-    "Title": "Dune: Part Three | Official Teaser Trailer",
-    "Channel": "Warner Bros.",
+    "Change": "+10",
+    "Thumbnail": "https://i.ytimg.com/vi/hxvZ7rN9Ny0/hqdefault.jpg",
+    "Title": "God's Cruelest Trick Yet? 😨 (Supernatural 15x05 Breakdown)",
+    "Channel": "Dj Bihari dhamaka (Jamui)",
     "Category": "Film & Animation",
-    "Format": "Standard",
-    "Views Gained": 8899872
+    "Format": "Short",
+    "Views Gained": 8629194
   },
   {
     "Rank": 63,
-    "Change": "+14",
-    "Thumbnail": "https://i.ytimg.com/vi/7I6xlUNEikA/hqdefault.jpg",
-    "Title": "This Sleep Trick is Either Genius or Insane #comedy #marriage #funny",
-    "Channel": "Courtney & Alex ",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 8869488
-  },
-  {
-    "Rank": 64,
-    "Change": "+2",
-    "Thumbnail": "https://i.ytimg.com/vi/FRoIyoAyVNM/hqdefault.jpg",
-    "Title": "🤫Cheating👫The sight🥇win The Fight🤣||vishvi official||#trending#shorts #fun  #youtubeshort",
-    "Channel": "Vishvi Official",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 8832075
-  },
-  {
-    "Rank": 65,
-    "Change": "-36",
-    "Thumbnail": "https://i.ytimg.com/vi/GKmM-9xc3vk/hqdefault.jpg",
-    "Title": "#aesthetic",
-    "Channel": "Sangam Editz",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 8489132
-  },
-  {
-    "Rank": 66,
-    "Change": "+21",
+    "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/PO-AiXx6xe8/hqdefault.jpg",
     "Title": "who ate jinu's dragon fruit? #kpopdemonhunters #kdrama #rumi #kpop #automobile #funny",
     "Channel": "OliviaCastro",
@@ -660,108 +630,68 @@
     "Views Gained": 8469119
   },
   {
-    "Rank": 67,
-    "Change": "-30",
-    "Thumbnail": "https://i.ytimg.com/vi/8bJvRFhig60/hqdefault.jpg",
-    "Title": "Dad Vs Daughter | Who's In Her \"ROOM\"?😭💔",
-    "Channel": "Voxel",
+    "Rank": 64,
+    "Change": "-34",
+    "Thumbnail": "https://i.ytimg.com/vi/Vzh3WEEXKUg/hqdefault.jpg",
+    "Title": "He Offered His Head to His Opponent… For This Reason 🤯",
+    "Channel": "FitVision",
+    "Category": "Sports",
+    "Format": "Short",
+    "Views Gained": 8092623
+  },
+  {
+    "Rank": 65,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/w-ksvLyan8w/hqdefault.jpg",
+    "Title": "Bro is on house arrest💀🔥 | Malcolm In The Middle. | #edit #short",
+    "Channel": "NDRKX",
+    "Category": "Film & Animation",
+    "Format": "Short",
+    "Views Gained": 8037866
+  },
+  {
+    "Rank": 66,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/5L5U9hxEr_M/hqdefault.jpg",
+    "Title": "Jack's meticulous analysis guessed everything right#shortvideo #shorts #brooklynninenine",
+    "Channel": "Riley Quinn",
     "Category": "Entertainment",
     "Format": "Short",
-    "Views Gained": 8399002
+    "Views Gained": 7997779
+  },
+  {
+    "Rank": 67,
+    "Change": "-5",
+    "Thumbnail": "https://i.ytimg.com/vi/3_9vCamtuPY/hqdefault.jpg",
+    "Title": "Dune: Part Three | Official Teaser Trailer",
+    "Channel": "Warner Bros.",
+    "Category": "Film & Animation",
+    "Format": "Standard",
+    "Views Gained": 7772338
   },
   {
     "Rank": 68,
-    "Change": "+21",
-    "Thumbnail": "https://i.ytimg.com/vi/h-Y97xErGL8/hqdefault.jpg",
-    "Title": "BTS (방탄소년단) 'SWIM' Official Performance Video",
-    "Channel": "HYBE LABELS",
-    "Category": "Music",
-    "Format": "Standard",
-    "Views Gained": 8312732
-  },
-  {
-    "Rank": 69,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/4Qm8X8bvIU8/hqdefault.jpg",
-    "Title": "Ranking Funniest Bringing Random Items To School",
-    "Channel": "Ranzy",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 8170050
-  },
-  {
-    "Rank": 70,
-    "Change": "-27",
-    "Thumbnail": "https://i.ytimg.com/vi/dESIGVxSSCE/hqdefault.jpg",
-    "Title": "Dhurandhar The Revenge - AARI AARI | Ranveer Singh | Shashwat Sachdev, Bombay Rockers | Aditya Dhar",
+    "Change": "+18",
+    "Thumbnail": "https://i.ytimg.com/vi/wEwKNS-JIPA/hqdefault.jpg",
+    "Title": "Jaan Se Guzarte Hain (Live at Dhurandhar The Revenge -Music Album Launch)|Shashwat Sachdev,Khan Saab",
     "Channel": "T-Series",
     "Category": "Music",
     "Format": "Standard",
-    "Views Gained": 7948999
+    "Views Gained": 7698673
   },
   {
-    "Rank": 71,
-    "Change": "-2",
-    "Thumbnail": "https://i.ytimg.com/vi/jacLHVu9eJE/hqdefault.jpg",
-    "Title": "JBL essential testing jumping",
-    "Channel": "Thunder-Bass-Hub",
+    "Rank": 69,
+    "Change": "-53",
+    "Thumbnail": "https://i.ytimg.com/vi/DhnHWXP1wYY/hqdefault.jpg",
+    "Title": "#shorts#kpop#Nurse",
+    "Channel": "Nurse & the Loony",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 7834246
+    "Views Gained": 7597329
   },
   {
-    "Rank": 72,
-    "Change": "+23",
-    "Thumbnail": "https://i.ytimg.com/vi/hxvZ7rN9Ny0/hqdefault.jpg",
-    "Title": "God's Cruelest Trick Yet? 😨 (Supernatural 15x05 Breakdown)",
-    "Channel": "Dj Bihari dhamaka (Jamui)",
-    "Category": "Film & Animation",
-    "Format": "Short",
-    "Views Gained": 7687028
-  },
-  {
-    "Rank": 73,
-    "Change": "-11",
-    "Thumbnail": "https://i.ytimg.com/vi/YwtvQ23_-34/hqdefault.jpg",
-    "Title": "Diljit Dosanjh : Dealer (Official Music Video) Virk Andaaz : Da Future",
-    "Channel": "Diljit Dosanjh",
-    "Category": "Music",
-    "Format": "Standard",
-    "Views Gained": 7684109
-  },
-  {
-    "Rank": 74,
-    "Change": "-27",
-    "Thumbnail": "https://i.ytimg.com/vi/kayKwUO2l-g/hqdefault.jpg",
-    "Title": "\"BOO!\" – Bruce Lee's Most ICONIC Taunt! 👊 | Dragon: The Bruce Lee Story (1993) #movie #film",
-    "Channel": "Spectre",
-    "Category": "Film & Animation",
-    "Format": "Short",
-    "Views Gained": 7565423
-  },
-  {
-    "Rank": 75,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/r19M54PuiCA/hqdefault.jpg",
-    "Title": "Tom Brady PRIME🔥 #nfl #footballshorts",
-    "Channel": "ELIJAHH NFL🏈",
-    "Category": "Sports",
-    "Format": "Short",
-    "Views Gained": 7537172
-  },
-  {
-    "Rank": 76,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/u7X7ZC3-1U0/hqdefault.jpg",
-    "Title": "Bought Him The Most EXPENSIVE Gift 🎁🎉",
-    "Channel": "Riley Mae Lewis",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 7515826
-  },
-  {
-    "Rank": 77,
-    "Change": "-4",
+    "Rank": 70,
+    "Change": "+7",
     "Thumbnail": "https://i.ytimg.com/vi/dxUB5JvvwH4/hqdefault.jpg",
     "Title": "#aestheic",
     "Channel": "Grin",
@@ -770,8 +700,8 @@
     "Views Gained": 7506181
   },
   {
-    "Rank": 78,
-    "Change": "-3",
+    "Rank": 71,
+    "Change": "+7",
     "Thumbnail": "https://i.ytimg.com/vi/YNaj0Q8twMg/hqdefault.jpg",
     "Title": "آخر مرة العب فيها معك",
     "Channel": "Curiosity Vault",
@@ -780,8 +710,8 @@
     "Views Gained": 7450892
   },
   {
-    "Rank": 79,
-    "Change": "-3",
+    "Rank": 72,
+    "Change": "+7",
     "Thumbnail": "https://i.ytimg.com/vi/W2KBO8axQSM/hqdefault.jpg",
     "Title": "#nobatidao 🤣",
     "Channel": "games hub",
@@ -790,18 +720,48 @@
     "Views Gained": 7441265
   },
   {
-    "Rank": 80,
+    "Rank": 73,
     "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/cQzPqLihL4E/hqdefault.jpg",
-    "Title": "#comedy #funny 🤣🤣 #video #viral #video #comedyshorts #reels",
-    "Channel": "Comedy team",
+    "Thumbnail": "https://i.ytimg.com/vi/OEhdsc4n9xY/hqdefault.jpg",
+    "Title": "Brothers love 🥰 comedy video #shorts #reels #tranding #viralvideos #shortsviral #funny",
+    "Channel": "Mampi Roy",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 7275972
+    "Views Gained": 7386208
   },
   {
-    "Rank": 81,
-    "Change": "-2",
+    "Rank": 74,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/l9zh8u9Bwro/hqdefault.jpg",
+    "Title": "This Was Actually Genius 🚴‍♂️🚗  Mr. Bean's Holiday  MATADORA (Slowed) #Trending #Shorts",
+    "Channel": "Darked1t",
+    "Category": "Science & Technology",
+    "Format": "Short",
+    "Views Gained": 7285871
+  },
+  {
+    "Rank": 75,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/TjkOrTtenQ0/hqdefault.jpg",
+    "Title": "【The Wrong Guy】An Unusual Goodnight?#movie #shorts",
+    "Channel": "ClipFlick Haven",
+    "Category": "Film & Animation",
+    "Format": "Short",
+    "Views Gained": 7282004
+  },
+  {
+    "Rank": 76,
+    "Change": "-25",
+    "Thumbnail": "https://i.ytimg.com/vi/zqL7S-EQjhM/hqdefault.jpg",
+    "Title": "That is definitely his baby😭😭II #shorts #viral #fyp #relatable",
+    "Channel": "Micheal The Milk god ",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 7266278
+  },
+  {
+    "Rank": 77,
+    "Change": "+4",
     "Thumbnail": "https://i.ytimg.com/vi/X4NmJJ3KwG8/hqdefault.jpg",
     "Title": "THE CRAZIEST Heart Shaped Aquarium Floor… Grandma's Reaction Says It All 😍 #shorts #epoxy",
     "Channel": "HypeBuild",
@@ -810,98 +770,198 @@
     "Views Gained": 7237346
   },
   {
-    "Rank": 82,
-    "Change": "-2",
-    "Thumbnail": "https://i.ytimg.com/vi/jCE1Ol3PYDs/hqdefault.jpg",
-    "Title": "I Hid $1,000,000 In This Vault",
-    "Channel": "MrBeast",
+    "Rank": 78,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/wg3Us_CWJq8/hqdefault.jpg",
+    "Title": "He got in trouble for something he didn’t do #Siblings #Family #Real #Relatable #FYP",
+    "Channel": "Urbantales",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 7184424
+  },
+  {
+    "Rank": 79,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/pFm-x89d-4A/hqdefault.jpg",
+    "Title": "Bisakah Papoy Lompat Di Ketinggian 3 Meter #alethaabew",
+    "Channel": "Aletha Abew",
     "Category": "Entertainment",
     "Format": "Short",
-    "Views Gained": 7206041
+    "Views Gained": 7144726
   },
   {
-    "Rank": 83,
-    "Change": "-19",
-    "Thumbnail": "https://i.ytimg.com/vi/kyqJ_FId-_w/hqdefault.jpg",
-    "Title": "Bairan",
-    "Channel": "Banjaare - Topic",
-    "Category": "Music",
-    "Format": "Standard",
-    "Views Gained": 7165658
-  },
-  {
-    "Rank": 84,
-    "Change": "-10",
-    "Thumbnail": "https://i.ytimg.com/vi/9wTEmuv6SvU/hqdefault.jpg",
-    "Title": "Diljit Dosanjh : Ranjha (Official Music Video) ft. SIA : David Guetta",
-    "Channel": "Diljit Dosanjh",
-    "Category": "Music",
-    "Format": "Standard",
-    "Views Gained": 7160374
-  },
-  {
-    "Rank": 85,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/1dmTPzFHTb8/hqdefault.jpg",
-    "Title": "Какой зонт не даст вам промокнуть?",
-    "Channel": "Аришнев",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 7156899
-  },
-  {
-    "Rank": 86,
+    "Rank": 80,
     "Change": "+13",
-    "Thumbnail": "https://i.ytimg.com/vi/wEwKNS-JIPA/hqdefault.jpg",
-    "Title": "Jaan Se Guzarte Hain (Live at Dhurandhar The Revenge -Music Album Launch)|Shashwat Sachdev,Khan Saab",
-    "Channel": "T-Series",
-    "Category": "Music",
-    "Format": "Standard",
-    "Views Gained": 7122222
-  },
-  {
-    "Rank": 87,
-    "Change": "-4",
-    "Thumbnail": "https://i.ytimg.com/vi/SibEc9J6Dxc/hqdefault.jpg",
-    "Title": "#noads",
-    "Channel": "IQ1 Editz",
+    "Thumbnail": "https://i.ytimg.com/vi/wbqmez_bMhY/hqdefault.jpg",
+    "Title": "She thought she was gonna win 😭 #foryoupage #viralvideos #grumpyleanne #xybca #prank",
+    "Channel": "Grumpy Leanne And Maitland Fans",
     "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 6993382
+    "Format": "Standard",
+    "Views Gained": 7139641
   },
   {
-    "Rank": 88,
-    "Change": "-3",
+    "Rank": 81,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/noPEIEttaog/hqdefault.jpg",
+    "Title": "\"A woman won the MVP\" ☠️🔥 | Speak No Evil | #trending  #shorts #movie",
+    "Channel": "Salma Voice 10",
+    "Category": "People & Blogs",
+    "Format": "Standard",
+    "Views Gained": 7090611
+  },
+  {
+    "Rank": 82,
+    "Change": "+6",
     "Thumbnail": "https://i.ytimg.com/vi/boHiXyKuFW8/hqdefault.jpg",
     "Title": "Bro lost his \"Papa\" title in 3 seconds 🏆😭 #funny #comedy #kpopfunny #kpopdemonhunters  #mira #rumi",
     "Channel": "cicici",
     "Category": "Entertainment",
     "Format": "Short",
-    "Views Gained": 6930231
+    "Views Gained": 7063498
+  },
+  {
+    "Rank": 83,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/aKB4L4n97Hw/hqdefault.jpg",
+    "Title": "Convincing my wife the 3D printer was worth it (Part 5) #3dprinting #3dprint #diy #shorts #3dprinted",
+    "Channel": "Jake Ward",
+    "Category": "Science & Technology",
+    "Format": "Short",
+    "Views Gained": 6902241
+  },
+  {
+    "Rank": 84,
+    "Change": "+8",
+    "Thumbnail": "https://i.ytimg.com/vi/RKkC_FHXKMQ/hqdefault.jpg",
+    "Title": "Wait for it 👀😂 #Shorts",
+    "Channel": "mmmjoemele",
+    "Category": "Comedy",
+    "Format": "Short",
+    "Views Gained": 6870153
+  },
+  {
+    "Rank": 85,
+    "Change": "-49",
+    "Thumbnail": "https://i.ytimg.com/vi/oJ-JJHfxYIA/hqdefault.jpg",
+    "Title": "American Gods S1 (2017) x Hercules (2014) | Arrows Decide Who Lives 😳🏹⚡️",
+    "Channel": "FlickTales7",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 6806581
+  },
+  {
+    "Rank": 86,
+    "Change": "-13",
+    "Thumbnail": "https://i.ytimg.com/vi/YwtvQ23_-34/hqdefault.jpg",
+    "Title": "Diljit Dosanjh : Dealer (Official Music Video) Virk Andaaz : Da Future",
+    "Channel": "Diljit Dosanjh",
+    "Category": "Music",
+    "Format": "Standard",
+    "Views Gained": 6802713
+  },
+  {
+    "Rank": 87,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/W5y__cpMTQs/hqdefault.jpg",
+    "Title": "What did he even DO wrong?!#shorts",
+    "Channel": "ReelMuse",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 6797636
+  },
+  {
+    "Rank": 88,
+    "Change": "-21",
+    "Thumbnail": "https://i.ytimg.com/vi/8bJvRFhig60/hqdefault.jpg",
+    "Title": "Dad Vs Daughter | Who's In Her \"ROOM\"?😭💔",
+    "Channel": "Voxel",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 6746830
   },
   {
     "Rank": 89,
-    "Change": "-5",
-    "Thumbnail": "https://i.ytimg.com/vi/rdd4wJZATzQ/hqdefault.jpg",
-    "Title": "Ranking BEST SCREAMING TREND (PT.9) #obsessedchallenge #viral #trending",
-    "Channel": "peakrank",
+    "Change": "+5",
+    "Thumbnail": "https://i.ytimg.com/vi/Tqkj5sCi0TA/hqdefault.jpg",
+    "Title": "IMPOSSÍVEL DOBRAR ESSA MOLA! #shorts",
+    "Channel": "Rafa & Luiz",
     "Category": "Entertainment",
     "Format": "Short",
-    "Views Gained": 6784733
+    "Views Gained": 6728035
   },
   {
     "Rank": 90,
-    "Change": "-22",
-    "Thumbnail": "https://i.ytimg.com/vi/Aze7zTyIRtk/hqdefault.jpg",
-    "Title": "Aura 10/10 - Music Video | Meesaya Murukku 2 | Hiphop Tamizha | Ketika Sharma",
-    "Channel": "Saregama Tamil",
+    "Change": "-6",
+    "Thumbnail": "https://i.ytimg.com/vi/9wTEmuv6SvU/hqdefault.jpg",
+    "Title": "Diljit Dosanjh : Ranjha (Official Music Video) ft. SIA : David Guetta",
+    "Channel": "Diljit Dosanjh",
     "Category": "Music",
     "Format": "Standard",
-    "Views Gained": 6651884
+    "Views Gained": 6662192
   },
   {
     "Rank": 91,
+    "Change": "-69",
+    "Thumbnail": "https://i.ytimg.com/vi/GLHn7q5Oat0/hqdefault.jpg",
+    "Title": "#rumi #jinu #funny #kpopdemonhunters #kpop",
+    "Channel": "Starry",
+    "Category": "Music",
+    "Format": "Short",
+    "Views Gained": 6658519
+  },
+  {
+    "Rank": 92,
     "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/F8oczlaoGNE/hqdefault.jpg",
+    "Title": "Приём самообороны 😅 👍🏻",
+    "Channel": "Боря смеётся",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 6613892
+  },
+  {
+    "Rank": 93,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/lFxADrjdQoM/hqdefault.jpg",
+    "Title": "Tom🍓Jerry,Exam Finish ❤️❤️ #shorts",
+    "Channel": "vlog 4u",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 6606972
+  },
+  {
+    "Rank": 94,
+    "Change": "-29",
+    "Thumbnail": "https://i.ytimg.com/vi/GKmM-9xc3vk/hqdefault.jpg",
+    "Title": "#aesthetic",
+    "Channel": "Sangam Editz",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 6605257
+  },
+  {
+    "Rank": 95,
+    "Change": "-55",
+    "Thumbnail": "https://i.ytimg.com/vi/Vl21j-UMALE/hqdefault.jpg",
+    "Title": "The ending is crazy 💀💀",
+    "Channel": "deagzzzshorts",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 6589720
+  },
+  {
+    "Rank": 96,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/uR8CVa42euE/hqdefault.jpg",
+    "Title": "Kanjak Scam by Lonkra🤣 #chetanmonga #comedy #shorts",
+    "Channel": "Cheri's World",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 6518462
+  },
+  {
+    "Rank": 97,
+    "Change": "-6",
     "Thumbnail": "https://i.ytimg.com/vi/Ld4VQrUYd08/hqdefault.jpg",
     "Title": "Boys vs Girls - Who's The Better Parent?",
     "Channel": "Jordan Matter",
@@ -910,93 +970,33 @@
     "Views Gained": 6492672
   },
   {
-    "Rank": 92,
+    "Rank": 98,
     "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/RKkC_FHXKMQ/hqdefault.jpg",
-    "Title": "Wait for it 👀😂 #Shorts",
-    "Channel": "mmmjoemele",
-    "Category": "Comedy",
-    "Format": "Short",
-    "Views Gained": 6441247
-  },
-  {
-    "Rank": 93,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/wbqmez_bMhY/hqdefault.jpg",
-    "Title": "She thought she was gonna win 😭 #foryoupage #viralvideos #grumpyleanne #xybca #prank",
-    "Channel": "Grumpy Leanne And Maitland Fans",
+    "Thumbnail": "https://i.ytimg.com/vi/XGEe4RuAITw/hqdefault.jpg",
+    "Title": "Jbl flip 2 bass in water pipe drop",
+    "Channel": "Radha_____@",
     "Category": "People & Blogs",
-    "Format": "Standard",
-    "Views Gained": 6378213
-  },
-  {
-    "Rank": 94,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/Tqkj5sCi0TA/hqdefault.jpg",
-    "Title": "IMPOSSÍVEL DOBRAR ESSA MOLA! #shorts",
-    "Channel": "Rafa & Luiz",
-    "Category": "Entertainment",
     "Format": "Short",
-    "Views Gained": 6332385
+    "Views Gained": 6459551
   },
   {
-    "Rank": 95,
-    "Change": "-3",
+    "Rank": 99,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/a8RHqN93qfo/hqdefault.jpg",
+    "Title": "FORGOTTEN ISLAND | Official Trailer",
+    "Channel": "Universal Pictures",
+    "Category": "Entertainment",
+    "Format": "Standard",
+    "Views Gained": 6435117
+  },
+  {
+    "Rank": 100,
+    "Change": "-5",
     "Thumbnail": "https://i.ytimg.com/vi/cE37pp37idY/hqdefault.jpg",
     "Title": "رونالدو و ميسي",
     "Channel": "صاحب التكتيك | Sa7eb El Tactic",
     "Category": "Sports",
     "Format": "Short",
     "Views Gained": 6232969
-  },
-  {
-    "Rank": 96,
-    "Change": "-3",
-    "Thumbnail": "https://i.ytimg.com/vi/L4M7qF3uk0w/hqdefault.jpg",
-    "Title": "Yeraltı 8. Bölüm",
-    "Channel": "Yeraltı",
-    "Category": "Entertainment",
-    "Format": "Long",
-    "Views Gained": 6215407
-  },
-  {
-    "Rank": 97,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/s46mOMmRJ2M/hqdefault.jpg",
-    "Title": "Yonas kancil vs Rajendra ,siapa yg menang?? #omped_visual #iswandironi #dibaliklayar #komedie",
-    "Channel": "Iswandi Roni",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 6085674
-  },
-  {
-    "Rank": 98,
-    "Change": "+2",
-    "Thumbnail": "https://i.ytimg.com/vi/ayVOijHgG9E/hqdefault.jpg",
-    "Title": "Jinu Climbed Rumi’s Hair… And THIS Happened at the Top😳 #comedy #kpop",
-    "Channel": "Wizz Verse",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 5997940
-  },
-  {
-    "Rank": 99,
-    "Change": "-17",
-    "Thumbnail": "https://i.ytimg.com/vi/urTuJn79BbI/hqdefault.jpg",
-    "Title": "JBL Go 4 PVC Pipe dropwater Test",
-    "Channel": "Throw mini",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 5980735
-  },
-  {
-    "Rank": 100,
-    "Change": "-60",
-    "Thumbnail": "https://i.ytimg.com/vi/OxuaZOWfu-o/hqdefault.jpg",
-    "Title": "He thinks he's the boss now😂 | Malcolm in the Middle (2000) - 4k Edit | MATADORA (Slowed)",
-    "Channel": "LaughTrack",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 5963764
   }
 ]
