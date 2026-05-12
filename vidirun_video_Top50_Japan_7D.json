@@ -7,7 +7,7 @@
     "Channel": "BABYMONSTER",
     "Category": "Music",
     "Format": "Standard",
-    "Views Gained": 38493996
+    "Views Gained": 43079982
   },
   {
     "Rank": 2,
@@ -17,7 +17,7 @@
     "Channel": "ランキング忍者",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 10130003
+    "Views Gained": 10517091
   },
   {
     "Rank": 3,
@@ -27,7 +27,7 @@
     "Channel": "Junão Pro Play",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 8330529
+    "Views Gained": 8588473
   },
   {
     "Rank": 4,
@@ -37,21 +37,41 @@
     "Channel": "HYBE LABELS",
     "Category": "Music",
     "Format": "Standard",
-    "Views Gained": 6809220
+    "Views Gained": 6580504
   },
   {
     "Rank": 5,
-    "Change": "New",
+    "Change": "+11",
+    "Thumbnail": "https://i.ytimg.com/vi/0JX3KKJjgK4/hqdefault.jpg",
+    "Title": "원피스 1분 요약 (1)",
+    "Channel": "우주농부 Alien farmer",
+    "Category": "Comedy",
+    "Format": "Short",
+    "Views Gained": 6061729
+  },
+  {
+    "Rank": 6,
+    "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/XDzGoMtSqZA/hqdefault.jpg",
     "Title": "It's Me",
     "Channel": "ILLIT - Topic",
     "Category": "Music",
     "Format": "Standard",
-    "Views Gained": 4917190
+    "Views Gained": 5007411
   },
   {
-    "Rank": 6,
-    "Change": "0",
+    "Rank": 7,
+    "Change": "+3",
+    "Thumbnail": "https://i.ytimg.com/vi/D392nnYL5Yc/hqdefault.jpg",
+    "Title": "中毒性がスゴいｗ頭から離れないネタ（※ 結局これが一番笑える）🧠💊🤣  61",
+    "Channel": "ViralMoments",
+    "Category": "Gaming",
+    "Format": "Short",
+    "Views Gained": 4685244
+  },
+  {
+    "Rank": 8,
+    "Change": "-2",
     "Thumbnail": "https://i.ytimg.com/vi/wqSHogLRtJI/hqdefault.jpg",
     "Title": "BABYMONSTER - '춤 (CHOOM)' PERFORMANCE VIDEO",
     "Channel": "BABYMONSTER",
@@ -60,77 +80,67 @@
     "Views Gained": 4666231
   },
   {
-    "Rank": 7,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/BMFYm-TQXmY/hqdefault.jpg",
-    "Title": "ちなみに相手全然知らない人だった😹",
-    "Channel": "ayaka",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 4637503
-  },
-  {
-    "Rank": 8,
-    "Change": "+2",
-    "Thumbnail": "https://i.ytimg.com/vi/6DNbT_JC40c/hqdefault.jpg",
-    "Title": "Tutorial on How to Curve Any Monitor",
-    "Channel": "Archetype Origins",
-    "Category": "Science & Technology",
-    "Format": "Short",
-    "Views Gained": 4370401
-  },
-  {
     "Rank": 9,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/CTfuZIGJ5HM/hqdefault.jpg",
-    "Title": "しんちゃんが天才少女の嘘を見破っちゃったよ #コントチャンネル #アニメ #面白い #コント #anime #funny",
-    "Channel": "ジョジョの劇場",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 4311586
-  },
-  {
-    "Rank": 10,
-    "Change": "+6",
-    "Thumbnail": "https://i.ytimg.com/vi/D392nnYL5Yc/hqdefault.jpg",
-    "Title": "中毒性がスゴいｗ頭から離れないネタ（※ 結局これが一番笑える）🧠💊🤣  61",
-    "Channel": "ViralMoments",
-    "Category": "Gaming",
-    "Format": "Short",
-    "Views Gained": 4063553
-  },
-  {
-    "Rank": 11,
-    "Change": "+3",
+    "Change": "+2",
     "Thumbnail": "https://i.ytimg.com/vi/cXsHhP7TQDo/hqdefault.jpg",
     "Title": "桐谷さんが23円の現金払うだけで、こんな驚かれるんだwww #月曜から夜ふかし #マツコ・デラックス#マツコ #デラックス",
     "Channel": "theanticlangaming",
     "Category": "Gaming",
     "Format": "Short",
-    "Views Gained": 4063187
+    "Views Gained": 4330660
+  },
+  {
+    "Rank": 10,
+    "Change": "-2",
+    "Thumbnail": "https://i.ytimg.com/vi/6DNbT_JC40c/hqdefault.jpg",
+    "Title": "Tutorial on How to Curve Any Monitor",
+    "Channel": "Archetype Origins",
+    "Category": "Science & Technology",
+    "Format": "Short",
+    "Views Gained": 4292154
+  },
+  {
+    "Rank": 11,
+    "Change": "-4",
+    "Thumbnail": "https://i.ytimg.com/vi/BMFYm-TQXmY/hqdefault.jpg",
+    "Title": "ちなみに相手全然知らない人だった😹",
+    "Channel": "ayaka",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 4043279
   },
   {
     "Rank": 12,
+    "Change": "+3",
+    "Thumbnail": "https://i.ytimg.com/vi/pQ8uZE6UHqQ/hqdefault.jpg",
+    "Title": "若返れるなら何だってできる",
+    "Channel": "ショートムービー中心",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 3990836
+  },
+  {
+    "Rank": 13,
     "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/OHAjc-ayhus/hqdefault.jpg",
     "Title": "ヨルシカ - あぶく（OFFICIAL VIDEO）",
     "Channel": "ヨルシカ / n-buna Official",
     "Category": "Music",
     "Format": "Standard",
-    "Views Gained": 4004634
-  },
-  {
-    "Rank": 13,
-    "Change": "-8",
-    "Thumbnail": "https://i.ytimg.com/vi/HYhQpGGh3fA/hqdefault.jpg",
-    "Title": "World's smallest 4k headset 😎 Visor.com #tech #vr #technology #virtualreality #Thesupermariogalaxy",
-    "Channel": "Immersed",
-    "Category": "Science & Technology",
-    "Format": "Short",
-    "Views Gained": 3655545
+    "Views Gained": 3919023
   },
   {
     "Rank": 14,
+    "Change": "+3",
+    "Thumbnail": "https://i.ytimg.com/vi/JjIOef8wZYg/hqdefault.jpg",
+    "Title": "どうやら誤解があったようです😂#デジタルアニメアート #アート #デジタルドロー #描画 #iPadProアート #アニメーション",
+    "Channel": "Sora illu",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 3658589
+  },
+  {
+    "Rank": 15,
     "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/hQ_V6wnduvI/hqdefault.jpg",
     "Title": "マンガのあるあるは現実にありえるのか？#水曜日のダウンタウン#検証動画#検証#検証系#説検証#浜田雅功#松本人志 #shorts #funny #お笑い#面白集#面白い#お笑い芸人",
@@ -140,188 +150,198 @@
     "Views Gained": 3523673
   },
   {
-    "Rank": 15,
-    "Change": "+13",
-    "Thumbnail": "https://i.ytimg.com/vi/pQ8uZE6UHqQ/hqdefault.jpg",
-    "Title": "若返れるなら何だってできる",
-    "Channel": "ショートムービー中心",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 3496137
-  },
-  {
     "Rank": 16,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/0JX3KKJjgK4/hqdefault.jpg",
-    "Title": "원피스 1분 요약 (1)",
-    "Channel": "우주농부 Alien farmer",
-    "Category": "Comedy",
-    "Format": "Short",
-    "Views Gained": 3251787
-  },
-  {
-    "Rank": 17,
-    "Change": "+13",
-    "Thumbnail": "https://i.ytimg.com/vi/JjIOef8wZYg/hqdefault.jpg",
-    "Title": "どうやら誤解があったようです😂#デジタルアニメアート #アート #デジタルドロー #描画 #iPadProアート #アニメーション",
-    "Channel": "Sora illu",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 3229377
-  },
-  {
-    "Rank": 18,
-    "Change": "+9",
-    "Thumbnail": "https://i.ytimg.com/vi/RoZHC5kDQFE/hqdefault.jpg",
-    "Title": "膝を曲げずに座るチャレンジ",
-    "Channel": "30秒のへぇ話",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 3144351
-  },
-  {
-    "Rank": 19,
-    "Change": "-11",
-    "Thumbnail": "https://i.ytimg.com/vi/Xj1F3JnBMGA/hqdefault.jpg",
-    "Title": "ドッジボール戦、楠雄はあの手この手で退場しようとする。#shorts #viral #trending #anime",
-    "Channel": "Edit Quartheon ",
-    "Category": "Film & Animation",
-    "Format": "Short",
-    "Views Gained": 3112773
-  },
-  {
-    "Rank": 20,
-    "Change": "-8",
-    "Thumbnail": "https://i.ytimg.com/vi/b4BQ4EqUB9A/hqdefault.jpg",
-    "Title": "世界一無能な部下 #shorts",
-    "Channel": "バカ軍曹",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 3111439
-  },
-  {
-    "Rank": 21,
-    "Change": "+2",
+    "Change": "+5",
     "Thumbnail": "https://i.ytimg.com/vi/y3NoJVSLTxE/hqdefault.jpg",
     "Title": "槙野智章が天才だと分かる瞬間w#すごい #サッカー #お笑い #shorts",
     "Channel": "緑おじぃのショート",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 3098936
+    "Views Gained": 3385540
   },
   {
-    "Rank": 22,
-    "Change": "-3",
+    "Rank": 17,
+    "Change": "+1",
+    "Thumbnail": "https://i.ytimg.com/vi/RoZHC5kDQFE/hqdefault.jpg",
+    "Title": "膝を曲げずに座るチャレンジ",
+    "Channel": "30秒のへぇ話",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 3309274
+  },
+  {
+    "Rank": 18,
+    "Change": "-9",
+    "Thumbnail": "https://i.ytimg.com/vi/CTfuZIGJ5HM/hqdefault.jpg",
+    "Title": "しんちゃんが天才少女の嘘を見破っちゃったよ #コントチャンネル #アニメ #面白い #コント #anime #funny",
+    "Channel": "ジョジョの劇場",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 3287346
+  },
+  {
+    "Rank": 19,
+    "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/9NJI7cLZ2Qg/hqdefault.jpg",
     "Title": "Mrs. GREEN APPLE「風と町」Official Music Video",
     "Channel": "Mrs. GREEN APPLE",
     "Category": "Music",
     "Format": "Standard",
-    "Views Gained": 3036284
+    "Views Gained": 3034091
   },
   {
-    "Rank": 23,
-    "Change": "-5",
-    "Thumbnail": "https://i.ytimg.com/vi/KLEaBDx3JHc/hqdefault.jpg",
-    "Title": "JI BLUE | '景色' Official MV",
-    "Channel": "LAPONE ENTERTAINMENT Official YouTube",
-    "Category": "Sports",
-    "Format": "Standard",
-    "Views Gained": 3020785
+    "Rank": 20,
+    "Change": "+14",
+    "Thumbnail": "https://i.ytimg.com/vi/_3nELMp_73k/hqdefault.jpg",
+    "Title": "「お前らの人生台無しにしてやるからな！」#櫻井翔",
+    "Channel": "Film Focus",
+    "Category": "Film & Animation",
+    "Format": "Short",
+    "Views Gained": 3006050
   },
   {
-    "Rank": 24,
-    "Change": "+1",
+    "Rank": 21,
+    "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/2n0db4YOXp8/hqdefault.jpg",
     "Title": "MLBで禁止された最強のバット",
     "Channel": "1分動画",
     "Category": "Comedy",
     "Format": "Short",
-    "Views Gained": 2827774
+    "Views Gained": 2897477
   },
   {
-    "Rank": 25,
+    "Rank": 22,
+    "Change": "-9",
+    "Thumbnail": "https://i.ytimg.com/vi/HYhQpGGh3fA/hqdefault.jpg",
+    "Title": "World's smallest 4k headset 😎 Visor.com #tech #vr #technology #virtualreality #Thesupermariogalaxy",
+    "Channel": "Immersed",
+    "Category": "Science & Technology",
+    "Format": "Short",
+    "Views Gained": 2748808
+  },
+  {
+    "Rank": 23,
     "Change": "+8",
+    "Thumbnail": "https://i.ytimg.com/vi/MLlNTr7p0g8/hqdefault.jpg",
+    "Title": "自分で外に出てパニックになって怒ってやっと捕まえた日 #猫 #脱走猫 #家猫 #shorts",
+    "Channel": "PanoL",
+    "Category": "Pets & Animals",
+    "Format": "Short",
+    "Views Gained": 2715998
+  },
+  {
+    "Rank": 24,
+    "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/mQuLP_irNl0/hqdefault.jpg",
     "Title": "スピード、2m56cmを跳ぶ！？ロナウドの伝説的記録に挑んだ瞬間！",
     "Channel": "スピードジャパン【ishowspeed日本語】",
     "Category": "Entertainment",
     "Format": "Short",
-    "Views Gained": 2529965
+    "Views Gained": 2673457
   },
   {
-    "Rank": 26,
-    "Change": "-11",
-    "Thumbnail": "https://i.ytimg.com/vi/Ca-tbJMpuzo/hqdefault.jpg",
-    "Title": "何度でもみたい愛嬌100点ネキ　#shorts #おすすめ #すごい #おもしろ #海外#チアリーダー #バズれ",
-    "Channel": "X最高",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 2463339
-  },
-  {
-    "Rank": 27,
-    "Change": "+5",
-    "Thumbnail": "https://i.ytimg.com/vi/CCyxIGUBa-8/hqdefault.jpg",
-    "Title": "【大学あるある】学年別 彼氏の踊り方の違い",
-    "Channel": "まつした",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 2446956
-  },
-  {
-    "Rank": 28,
-    "Change": "-11",
-    "Thumbnail": "https://i.ytimg.com/vi/PIgmxjozeCU/hqdefault.jpg",
-    "Title": "NEXZ(넥스지) \"Mmchk\" M/V",
-    "Channel": "JYP Entertainment",
-    "Category": "Music",
-    "Format": "Standard",
-    "Views Gained": 2424638
-  },
-  {
-    "Rank": 29,
-    "Change": "+10",
+    "Rank": 25,
+    "Change": "+4",
     "Thumbnail": "https://i.ytimg.com/vi/a7_2jXnXPLU/hqdefault.jpg",
     "Title": "いちご農家、最強説 #月曜から夜ふかし",
     "Channel": "芸能人ちゃんねる",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 2406309
+    "Views Gained": 2632006
   },
   {
-    "Rank": 30,
+    "Rank": 26,
     "Change": "+4",
     "Thumbnail": "https://i.ytimg.com/vi/kRpaqR5sbf0/hqdefault.jpg",
     "Title": "CORTIS (코르티스) 'TNT' Official MV",
     "Channel": "HYBE LABELS",
     "Category": "Music",
     "Format": "Standard",
-    "Views Gained": 2380042
+    "Views Gained": 2629101
+  },
+  {
+    "Rank": 27,
+    "Change": "+17",
+    "Thumbnail": "https://i.ytimg.com/vi/fR7RPEW6YE0/hqdefault.jpg",
+    "Title": "Motoki Ohmori -「催し」Official MV",
+    "Channel": "大森元貴 / Motoki Ohmori",
+    "Category": "Music",
+    "Format": "Standard",
+    "Views Gained": 2616118
+  },
+  {
+    "Rank": 28,
+    "Change": "-5",
+    "Thumbnail": "https://i.ytimg.com/vi/KLEaBDx3JHc/hqdefault.jpg",
+    "Title": "JI BLUE | '景色' Official MV",
+    "Channel": "LAPONE ENTERTAINMENT Official YouTube",
+    "Category": "Sports",
+    "Format": "Standard",
+    "Views Gained": 2599917
+  },
+  {
+    "Rank": 29,
+    "Change": "+7",
+    "Thumbnail": "https://i.ytimg.com/vi/Tnus2QN2Q2s/hqdefault.jpg",
+    "Title": "クジラが海の中で授乳する方法",
+    "Channel": "もふもふ事件簿",
+    "Category": "Pets & Animals",
+    "Format": "Short",
+    "Views Gained": 2361545
+  },
+  {
+    "Rank": 30,
+    "Change": "-10",
+    "Thumbnail": "https://i.ytimg.com/vi/b4BQ4EqUB9A/hqdefault.jpg",
+    "Title": "世界一無能な部下 #shorts",
+    "Channel": "バカ軍曹",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 2357561
   },
   {
     "Rank": 31,
-    "Change": "+17",
-    "Thumbnail": "https://i.ytimg.com/vi/MLlNTr7p0g8/hqdefault.jpg",
-    "Title": "自分で外に出てパニックになって怒ってやっと捕まえた日 #猫 #脱走猫 #家猫 #shorts",
-    "Channel": "PanoL",
-    "Category": "Pets & Animals",
-    "Format": "Short",
-    "Views Gained": 2369449
-  },
-  {
-    "Rank": 32,
-    "Change": "+4",
+    "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/cqD_rVj-Nyo/hqdefault.jpg",
     "Title": "Damage Connector Replace 🔥👍",
     "Channel": "ideal institute aligarh",
     "Category": "Science & Technology",
     "Format": "Short",
-    "Views Gained": 2282516
+    "Views Gained": 2303440
+  },
+  {
+    "Rank": 32,
+    "Change": "+15",
+    "Thumbnail": "https://i.ytimg.com/vi/rW-OC-d-RE8/hqdefault.jpg",
+    "Title": "【魂の鎮魂】無名戦士に捧ぐ、高市総理の深い慈しみ #高市早苗 #無名戦士の墓 #キャンベラ #オーストラリア",
+    "Channel": "世界のかわら版3",
+    "Category": "News & Politics",
+    "Format": "Short",
+    "Views Gained": 2271011
   },
   {
     "Rank": 33,
-    "Change": "+8",
+    "Change": "+7",
+    "Thumbnail": "https://i.ytimg.com/vi/uQjEWaMX-to/hqdefault.jpg",
+    "Title": "シティーハンター｜リョウ・サカザキの華麗アクション＆爆笑トラブル 🕵️‍♂️💥",
+    "Channel": "FluxReign",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 2243311
+  },
+  {
+    "Rank": 34,
+    "Change": "+3",
+    "Thumbnail": "https://i.ytimg.com/vi/Ry0X84PA7QA/hqdefault.jpg",
+    "Title": "陽気で面白すぎるピエロ！",
+    "Channel": "笑ンク",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 2229761
+  },
+  {
+    "Rank": 35,
+    "Change": "-2",
     "Thumbnail": "https://i.ytimg.com/vi/948N_uRqbSU/hqdefault.jpg",
     "Title": "取り調べ中にウソ発見器で暴かれた真実",
     "Channel": "千年ぶりのYouTube",
@@ -330,48 +350,18 @@
     "Views Gained": 2220636
   },
   {
-    "Rank": 34,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/_3nELMp_73k/hqdefault.jpg",
-    "Title": "「お前らの人生台無しにしてやるからな！」#櫻井翔",
-    "Channel": "Film Focus",
-    "Category": "Film & Animation",
-    "Format": "Short",
-    "Views Gained": 2213261
-  },
-  {
-    "Rank": 35,
-    "Change": "-13",
-    "Thumbnail": "https://i.ytimg.com/vi/0n5osqFplmc/hqdefault.jpg",
-    "Title": "偏見が消えていく瞬間",
-    "Channel": "心のままに",
-    "Category": "Film & Animation",
-    "Format": "Standard",
-    "Views Gained": 2157054
-  },
-  {
     "Rank": 36,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/Tnus2QN2Q2s/hqdefault.jpg",
-    "Title": "クジラが海の中で授乳する方法",
-    "Channel": "もふもふ事件簿",
-    "Category": "Pets & Animals",
+    "Change": "-17",
+    "Thumbnail": "https://i.ytimg.com/vi/Xj1F3JnBMGA/hqdefault.jpg",
+    "Title": "ドッジボール戦、楠雄はあの手この手で退場しようとする。#shorts #viral #trending #anime",
+    "Channel": "Edit Quartheon ",
+    "Category": "Film & Animation",
     "Format": "Short",
-    "Views Gained": 2136992
+    "Views Gained": 2123017
   },
   {
     "Rank": 37,
-    "Change": "+10",
-    "Thumbnail": "https://i.ytimg.com/vi/Ry0X84PA7QA/hqdefault.jpg",
-    "Title": "陽気で面白すぎるピエロ！",
-    "Channel": "笑ンク",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 2105657
-  },
-  {
-    "Rank": 38,
-    "Change": "-1",
+    "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/hs-1cHqmyNA/hqdefault.jpg",
     "Title": "闇金ウシジマくん — 日本一恐ろしい闇金、10日で5割、借りたら終わり 🔥",
     "Channel": "宵映",
@@ -380,38 +370,28 @@
     "Views Gained": 2080269
   },
   {
-    "Rank": 39,
-    "Change": "-19",
-    "Thumbnail": "https://i.ytimg.com/vi/fDsIcuRwH_k/hqdefault.jpg",
-    "Title": "無理だと思っていたのに、こんな偶然が重なって信じざるを得ない！ #水曜日のダウンタウン #ドッキリ #検証企画",
-    "Channel": "アホの証明",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 2050579
-  },
-  {
-    "Rank": 40,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/uQjEWaMX-to/hqdefault.jpg",
-    "Title": "シティーハンター｜リョウ・サカザキの華麗アクション＆爆笑トラブル 🕵️‍♂️💥",
-    "Channel": "FluxReign",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 2032656
-  },
-  {
-    "Rank": 41,
-    "Change": "+2",
+    "Rank": 38,
+    "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/bTe_s98bdmg/hqdefault.jpg",
     "Title": "世界が認めたバカ男 #shorts #おもしろ",
     "Channel": "海外で笑おう",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 2019882
+    "Views Gained": 2067678
   },
   {
-    "Rank": 42,
-    "Change": "New",
+    "Rank": 39,
+    "Change": "+6",
+    "Thumbnail": "https://i.ytimg.com/vi/O5JN8l4pgOo/hqdefault.jpg",
+    "Title": "宇多田ヒカル　「パッパパラダイス」 Music Video",
+    "Channel": "Hikaru Utada",
+    "Category": "Music",
+    "Format": "Standard",
+    "Views Gained": 2048370
+  },
+  {
+    "Rank": 40,
+    "Change": "+2",
     "Thumbnail": "https://i.ytimg.com/vi/hVoi3z6TFzM/hqdefault.jpg",
     "Title": "立ち漕ぎの時チェーン外れたらバランス崩すのに桐谷さんすごいわ #月曜から夜ふかし #マツコ・デラックス#マツコ #デラックス",
     "Channel": "theanticlangaming",
@@ -420,8 +400,8 @@
     "Views Gained": 2008441
   },
   {
-    "Rank": 43,
-    "Change": "-3",
+    "Rank": 41,
+    "Change": "+2",
     "Thumbnail": "https://i.ytimg.com/vi/MPeQgQ1AzW4/hqdefault.jpg",
     "Title": "生徒への対応が完璧すぎる教師#すごい #感動 #学校 #shorts",
     "Channel": "ツルツル坊や",
@@ -430,73 +410,93 @@
     "Views Gained": 2000292
   },
   {
-    "Rank": 44,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/fR7RPEW6YE0/hqdefault.jpg",
-    "Title": "Motoki Ohmori -「催し」Official MV",
-    "Channel": "大森元貴 / Motoki Ohmori",
-    "Category": "Music",
-    "Format": "Standard",
-    "Views Gained": 1991870
-  },
-  {
-    "Rank": 45,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/O5JN8l4pgOo/hqdefault.jpg",
-    "Title": "宇多田ヒカル　「パッパパラダイス」 Music Video",
-    "Channel": "Hikaru Utada",
-    "Category": "Music",
-    "Format": "Standard",
-    "Views Gained": 1930368
-  },
-  {
-    "Rank": 46,
-    "Change": "+4",
-    "Thumbnail": "https://i.ytimg.com/vi/NldxtmAfFxE/hqdefault.jpg",
-    "Title": "中毒性がスゴいｗ頭から離れないネタ（※ 結局これが一番笑える）🧠💊🤣  3",
-    "Channel": "Инфи",
-    "Category": "Gaming",
-    "Format": "Short",
-    "Views Gained": 1873200
-  },
-  {
-    "Rank": 47,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/rW-OC-d-RE8/hqdefault.jpg",
-    "Title": "【魂の鎮魂】無名戦士に捧ぐ、高市総理の深い慈しみ #高市早苗 #無名戦士の墓 #キャンベラ #オーストラリア",
-    "Channel": "世界のかわら版3",
-    "Category": "News & Politics",
-    "Format": "Short",
-    "Views Gained": 1860621
-  },
-  {
-    "Rank": 48,
-    "Change": "-27",
-    "Thumbnail": "https://i.ytimg.com/vi/p4ytTRBUTaE/hqdefault.jpg",
-    "Title": "ラグビー選手が一斉に顔を歪める瞬間の正体",
-    "Channel": "陰キャの憧れ",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 1812225
-  },
-  {
-    "Rank": 49,
-    "Change": "New",
+    "Rank": 42,
+    "Change": "+7",
     "Thumbnail": "https://i.ytimg.com/vi/mrNaq2N1Dl0/hqdefault.jpg",
     "Title": "ゴムだから拘束を簡単に脱出できるルフィw #onepiece #ワンピース #アニメ #雑学",
     "Channel": "チョッパーのすすめ【ワンピース】",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 1803474
+    "Views Gained": 1942816
   },
   {
-    "Rank": 50,
-    "Change": "New",
+    "Rank": 43,
+    "Change": "+3",
+    "Thumbnail": "https://i.ytimg.com/vi/NldxtmAfFxE/hqdefault.jpg",
+    "Title": "中毒性がスゴいｗ頭から離れないネタ（※ 結局これが一番笑える）🧠💊🤣  3",
+    "Channel": "Инфи",
+    "Category": "Gaming",
+    "Format": "Short",
+    "Views Gained": 1941907
+  },
+  {
+    "Rank": 44,
+    "Change": "+6",
     "Thumbnail": "https://i.ytimg.com/vi/lAxpdz1LBXU/hqdefault.jpg",
     "Title": "実は悪いことしてた。",
     "Channel": "脳筋ショート",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 1764718
+    "Views Gained": 1921386
+  },
+  {
+    "Rank": 45,
+    "Change": "-17",
+    "Thumbnail": "https://i.ytimg.com/vi/PIgmxjozeCU/hqdefault.jpg",
+    "Title": "NEXZ(넥스지) \"Mmchk\" M/V",
+    "Channel": "JYP Entertainment",
+    "Category": "Music",
+    "Format": "Standard",
+    "Views Gained": 1826764
+  },
+  {
+    "Rank": 46,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/oDAERbo0a5U/hqdefault.jpg",
+    "Title": "童心にかえった先生",
+    "Channel": "となりのK",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 1732372
+  },
+  {
+    "Rank": 47,
+    "Change": "-12",
+    "Thumbnail": "https://i.ytimg.com/vi/0n5osqFplmc/hqdefault.jpg",
+    "Title": "偏見が消えていく瞬間",
+    "Channel": "心のままに",
+    "Category": "Film & Animation",
+    "Format": "Standard",
+    "Views Gained": 1731036
+  },
+  {
+    "Rank": 48,
+    "Change": "-21",
+    "Thumbnail": "https://i.ytimg.com/vi/CCyxIGUBa-8/hqdefault.jpg",
+    "Title": "【大学あるある】学年別 彼氏の踊り方の違い",
+    "Channel": "まつした",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 1697520
+  },
+  {
+    "Rank": 49,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/F0UIsSnotlA/hqdefault.jpg",
+    "Title": "HAN \"back to life\" | [Stray Kids : SKZ-PLAYER]",
+    "Channel": "Stray Kids",
+    "Category": "Music",
+    "Format": "Standard",
+    "Views Gained": 1695704
+  },
+  {
+    "Rank": 50,
+    "Change": "-24",
+    "Thumbnail": "https://i.ytimg.com/vi/Ca-tbJMpuzo/hqdefault.jpg",
+    "Title": "何度でもみたい愛嬌100点ネキ　#shorts #おすすめ #すごい #おもしろ #海外#チアリーダー #バズれ",
+    "Channel": "X最高",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 1673093
   }
 ]
