@@ -6,7 +6,7 @@
     "Title": "Escape 50 Pros, Win $50,000",
     "Channel": "MrBeast Gaming",
     "Category": "Gaming",
-    "Views Gained": 11938701
+    "Views Gained": 12454382
   },
   {
     "Rank": 2,
@@ -15,11 +15,11 @@
     "Title": "Nastya teaches how to make the right decisions",
     "Channel": "Like Nastya",
     "Category": "Entertainment",
-    "Views Gained": 9109955
+    "Views Gained": 7325209
   },
   {
     "Rank": 3,
-    "Change": "+1",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/8YVs17FVDMM/hqdefault.jpg",
     "Title": "Taşacak Bu Deniz 27. Bölüm @trt1",
     "Channel": "Taşacak Bu Deniz",
@@ -28,12 +28,12 @@
   },
   {
     "Rank": 4,
-    "Change": "-1",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/beNtxDFHPhc/hqdefault.jpg",
     "Title": "Yeraltı 14. Bölüm",
     "Channel": "Yeraltı",
     "Category": "Entertainment",
-    "Views Gained": 5310705
+    "Views Gained": 4498508
   },
   {
     "Rank": 5,
@@ -42,29 +42,38 @@
     "Title": "SIDEMEN AMONG US 15 MAN SPECIAL: ULTRA CHAOS MODE",
     "Channel": "MoreSidemen",
     "Category": "People & Blogs",
-    "Views Gained": 4300269
+    "Views Gained": 4461051
   },
   {
     "Rank": 6,
-    "Change": "+1",
-    "Thumbnail": "https://i.ytimg.com/vi/-1py8UMak4k/hqdefault.jpg",
-    "Title": "CHAOS NEXT DOOR - DANIEL ETIM EFFIONG, BIMBO ADEMOYE 2026 Latest Nollywood New Movie",
-    "Channel": "NollyFamily tv",
+    "Change": "+4",
+    "Thumbnail": "https://i.ytimg.com/vi/VFdUKcpP3vU/hqdefault.jpg",
+    "Title": "ME, YOU & LUNA - CHINENYE NNEBE, ESO DIKE, AMANDA NEO latest 2026 nigerian movie",
+    "Channel": "Uchenna Mbunabo Tv",
     "Category": "Entertainment",
-    "Views Gained": 3826679
+    "Views Gained": 3872384
   },
   {
     "Rank": 7,
-    "Change": "+18",
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/Ct1ETewFYqc/hqdefault.jpg",
+    "Title": "MY FIRST DAY AS A BILLIONAIRE | GTA 5 GAMEPLAY #168",
+    "Channel": "Techno Gamerz",
+    "Category": "Gaming",
+    "Views Gained": 3858072
+  },
+  {
+    "Rank": 8,
+    "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/dXCCleAddEA/hqdefault.jpg",
     "Title": "🎬 Watch The Android Show | I/O Edition 2026",
     "Channel": "Android",
     "Category": "Science & Technology",
-    "Views Gained": 3800386
+    "Views Gained": 3842033
   },
   {
-    "Rank": 8,
-    "Change": "0",
+    "Rank": 9,
+    "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/xAVXNAbAwnc/hqdefault.jpg",
     "Title": "Kızılcık Şerbeti 136. Bölüm @showtv",
     "Channel": "Kızılcık Şerbeti",
@@ -72,26 +81,17 @@
     "Views Gained": 3722736
   },
   {
-    "Rank": 9,
-    "Change": "-3",
-    "Thumbnail": "https://i.ytimg.com/vi/7jteLIoNDaQ/hqdefault.jpg",
-    "Title": "MONICA 2 - UCHE MONTANA, BLESSING ONWUKWE, JOSEPH MOMODU, Latest 2026 Nigerian Movie",
-    "Channel": "Uche Montana TV",
-    "Category": "Film & Animation",
-    "Views Gained": 3456781
-  },
-  {
     "Rank": 10,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/VFdUKcpP3vU/hqdefault.jpg",
-    "Title": "ME, YOU & LUNA - CHINENYE NNEBE, ESO DIKE, AMANDA NEO latest 2026 nigerian movie",
-    "Channel": "Uchenna Mbunabo Tv",
+    "Change": "+2",
+    "Thumbnail": "https://i.ytimg.com/vi/dkEh4c3pi6s/hqdefault.jpg",
+    "Title": "How Long Can We Secretly Live In A Grocery Store?",
+    "Channel": "Beta Squad",
     "Category": "Entertainment",
-    "Views Gained": 3432679
+    "Views Gained": 3596368
   },
   {
     "Rank": 11,
-    "Change": "-2",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/WxP5iYYflpI/hqdefault.jpg",
     "Title": "I OPENED MY OWN GAMING STORE",
     "Channel": "Techno Gamerz",
@@ -100,52 +100,79 @@
   },
   {
     "Rank": 12,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/dkEh4c3pi6s/hqdefault.jpg",
-    "Title": "How Long Can We Secretly Live In A Grocery Store?",
-    "Channel": "Beta Squad",
-    "Category": "Entertainment",
-    "Views Gained": 3121932
-  },
-  {
-    "Rank": 13,
-    "Change": "-2",
+    "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/qNXKZhLqk1Q/hqdefault.jpg",
     "Title": "ON JUGE 50 IMITATEURS #3 avec Natoo",
     "Channel": "Amixem",
     "Category": "Comedy",
-    "Views Gained": 2947208
+    "Views Gained": 3113268
+  },
+  {
+    "Rank": 13,
+    "Change": "-7",
+    "Thumbnail": "https://i.ytimg.com/vi/-1py8UMak4k/hqdefault.jpg",
+    "Title": "CHAOS NEXT DOOR - DANIEL ETIM EFFIONG, BIMBO ADEMOYE 2026 Latest Nollywood New Movie",
+    "Channel": "NollyFamily tv",
+    "Category": "Entertainment",
+    "Views Gained": 3096574
   },
   {
     "Rank": 14,
-    "Change": "-1",
-    "Thumbnail": "https://i.ytimg.com/vi/Rc3y7KLqp14/hqdefault.jpg",
-    "Title": "SYUKUR MAKTON TERJATUH !!!",
-    "Channel": "dika_ bj",
-    "Category": "People & Blogs",
-    "Views Gained": 2573720
+    "Change": "-5",
+    "Thumbnail": "https://i.ytimg.com/vi/7jteLIoNDaQ/hqdefault.jpg",
+    "Title": "MONICA 2 - UCHE MONTANA, BLESSING ONWUKWE, JOSEPH MOMODU, Latest 2026 Nigerian Movie",
+    "Channel": "Uche Montana TV",
+    "Category": "Film & Animation",
+    "Views Gained": 3095304
   },
   {
     "Rank": 15,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/yc0NJGtbDmk/hqdefault.jpg",
-    "Title": "Sevdiğim Sensin 12. Bölüm",
-    "Channel": "Sevdiğim Sensin",
-    "Category": "Entertainment",
-    "Views Gained": 2535249
-  },
-  {
-    "Rank": 16,
-    "Change": "0",
+    "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/ZjO0dep5VjU/hqdefault.jpg",
     "Title": "Searching For My Friend Who Went Missing",
     "Channel": "Wemmbu",
     "Category": "Gaming",
-    "Views Gained": 2361424
+    "Views Gained": 2476161
+  },
+  {
+    "Rank": 16,
+    "Change": "+8",
+    "Thumbnail": "https://i.ytimg.com/vi/fPmrzygqO8U/hqdefault.jpg",
+    "Title": "IT'S BEAUTIFUL | Subnautica 2 - Part 1",
+    "Channel": "jacksepticeye",
+    "Category": "Gaming",
+    "Views Gained": 2463516
   },
   {
     "Rank": 17,
-    "Change": "+4",
+    "Change": "+1",
+    "Thumbnail": "https://i.ytimg.com/vi/C00p7TsiJoc/hqdefault.jpg",
+    "Title": "Uzak Şehir 61. Bölüm",
+    "Channel": "Uzak Şehir",
+    "Category": "Entertainment",
+    "Views Gained": 2369257
+  },
+  {
+    "Rank": 18,
+    "Change": "+1",
+    "Thumbnail": "https://i.ytimg.com/vi/iU3PSAAgbrU/hqdefault.jpg",
+    "Title": "Strike Force Five Is And Always Will Be: Kimmel, Fallon, Meyers, Oliver and Colbert",
+    "Channel": "The Late Show with Stephen Colbert",
+    "Category": "Entertainment",
+    "Views Gained": 2283370
+  },
+  {
+    "Rank": 19,
+    "Change": "+15",
+    "Thumbnail": "https://i.ytimg.com/vi/BgMNOqSU-iI/hqdefault.jpg",
+    "Title": "Yeraltı 15. Bölüm",
+    "Channel": "Yeraltı",
+    "Category": "Entertainment",
+    "Views Gained": 2172425
+  },
+  {
+    "Rank": 20,
+    "Change": "-3",
     "Thumbnail": "https://i.ytimg.com/vi/xjVK88e13ds/hqdefault.jpg",
     "Title": "Delikanlı 6. Bölüm",
     "Channel": "Delikanlı",
@@ -153,26 +180,35 @@
     "Views Gained": 2125676
   },
   {
-    "Rank": 18,
-    "Change": "+2",
-    "Thumbnail": "https://i.ytimg.com/vi/C00p7TsiJoc/hqdefault.jpg",
-    "Title": "Uzak Şehir 61. Bölüm",
-    "Channel": "Uzak Şehir",
+    "Rank": 21,
+    "Change": "+4",
+    "Thumbnail": "https://i.ytimg.com/vi/wQcDFc2OuRI/hqdefault.jpg",
+    "Title": "THE FARMER'S DAUGHTER - Nigerian Movies 2026 Latest Full Movies",
+    "Channel": "Omoni Oboli TV",
     "Category": "Entertainment",
-    "Views Gained": 2125228
+    "Views Gained": 1858692
   },
   {
-    "Rank": 19,
-    "Change": "+4",
-    "Thumbnail": "https://i.ytimg.com/vi/iU3PSAAgbrU/hqdefault.jpg",
-    "Title": "Strike Force Five Is And Always Will Be: Kimmel, Fallon, Meyers, Oliver and Colbert",
-    "Channel": "The Late Show with Stephen Colbert",
+    "Rank": 22,
+    "Change": "+5",
+    "Thumbnail": "https://i.ytimg.com/vi/sSa1NC3VnBw/hqdefault.jpg",
+    "Title": "Talking Thomas (Part 2) ABUJA INVASION – Nosa Rex, Sonia Uche | Latest Nollywood Comedy Movie 2026",
+    "Channel": "Nosarexfamtv",
     "Category": "Entertainment",
-    "Views Gained": 1973759
+    "Views Gained": 1832717
   },
   {
-    "Rank": 20,
-    "Change": "+4",
+    "Rank": 23,
+    "Change": "+3",
+    "Thumbnail": "https://i.ytimg.com/vi/a54Kyi9j_F4/hqdefault.jpg",
+    "Title": "ONE KOBO - Latest Yoruba Movie 2026 Drama - Ibrahim Yekini, Bimpe Adedimeji, Sidi, Tokunbo Malvins",
+    "Channel": "Mobimpe Tv",
+    "Category": "Film & Animation",
+    "Views Gained": 1819099
+  },
+  {
+    "Rank": 24,
+    "Change": "-4",
     "Thumbnail": "https://i.ytimg.com/vi/5qfy5bhfPsA/hqdefault.jpg",
     "Title": "After Result Paavangal | Parithabangal",
     "Channel": "Parithabangal",
@@ -180,8 +216,8 @@
     "Views Gained": 1813346
   },
   {
-    "Rank": 21,
-    "Change": "+5",
+    "Rank": 25,
+    "Change": "-4",
     "Thumbnail": "https://i.ytimg.com/vi/0iTNen9sIec/hqdefault.jpg",
     "Title": "Minecraft, But You Can Open ANY MOBS!",
     "Channel": "ProBoiz 95",
@@ -189,71 +225,44 @@
     "Views Gained": 1811024
   },
   {
-    "Rank": 22,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/j7JddsoUH8A/hqdefault.jpg",
-    "Title": "Finding 1000 Missing Minecraft Players",
-    "Channel": "Spoke",
-    "Category": "Gaming",
-    "Views Gained": 1719944
-  },
-  {
-    "Rank": 23,
-    "Change": "-6",
-    "Thumbnail": "https://i.ytimg.com/vi/IhaBDfrByLQ/hqdefault.jpg",
-    "Title": "OLOMO KAN 2026 Yoruba Movie Wumi Toriola, Babatunde Aderinoye, Omo Ara, Madam Saje,  Malvins Tokunbo",
-    "Channel": "Wumitoriolatv",
-    "Category": "Entertainment",
-    "Views Gained": 1698745
-  },
-  {
-    "Rank": 24,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/fPmrzygqO8U/hqdefault.jpg",
-    "Title": "IT'S BEAUTIFUL | Subnautica 2 - Part 1",
-    "Channel": "jacksepticeye",
-    "Category": "Gaming",
-    "Views Gained": 1694436
-  },
-  {
-    "Rank": 25,
-    "Change": "+3",
-    "Thumbnail": "https://i.ytimg.com/vi/wQcDFc2OuRI/hqdefault.jpg",
-    "Title": "THE FARMER'S DAUGHTER - Nigerian Movies 2026 Latest Full Movies",
-    "Channel": "Omoni Oboli TV",
-    "Category": "Entertainment",
-    "Views Gained": 1690733
-  },
-  {
     "Rank": 26,
-    "Change": "+1",
-    "Thumbnail": "https://i.ytimg.com/vi/a54Kyi9j_F4/hqdefault.jpg",
-    "Title": "ONE KOBO - Latest Yoruba Movie 2026 Drama - Ibrahim Yekini, Bimpe Adedimeji, Sidi, Tokunbo Malvins",
-    "Channel": "Mobimpe Tv",
-    "Category": "Film & Animation",
-    "Views Gained": 1669328
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/fb4cj3EoPZs/hqdefault.jpg",
+    "Title": "Así es la vida de rancho con La Mansión VIP | Maza Clan",
+    "Channel": "MAZA CLAN OFICIAL",
+    "Category": "People & Blogs",
+    "Views Gained": 1798160
   },
   {
     "Rank": 27,
-    "Change": "+8",
-    "Thumbnail": "https://i.ytimg.com/vi/sSa1NC3VnBw/hqdefault.jpg",
-    "Title": "Talking Thomas (Part 2) ABUJA INVASION – Nosa Rex, Sonia Uche | Latest Nollywood Comedy Movie 2026",
-    "Channel": "Nosarexfamtv",
+    "Change": "-12",
+    "Thumbnail": "https://i.ytimg.com/vi/yc0NJGtbDmk/hqdefault.jpg",
+    "Title": "Sevdiğim Sensin 12. Bölüm",
+    "Channel": "Sevdiğim Sensin",
     "Category": "Entertainment",
-    "Views Gained": 1584192
+    "Views Gained": 1667006
   },
   {
     "Rank": 28,
-    "Change": "+4",
-    "Thumbnail": "https://i.ytimg.com/vi/5EuKQbIrN_M/hqdefault.jpg",
-    "Title": "ROOM FOR HER; WALTER ANGA, ANGEL UNIGWE, OMA NNADI, SAMUEL O, ANNABEL A 2026 Latest Nollywood Movie",
-    "Channel": "Uche Nancy Update Tv",
+    "Change": "+3",
+    "Thumbnail": "https://i.ytimg.com/vi/0AUi3fe2r08/hqdefault.jpg",
+    "Title": "LIBURAN SERU BARENG SUSI !!!",
+    "Channel": "dika_ bj",
     "Category": "People & Blogs",
-    "Views Gained": 1514768
+    "Views Gained": 1607092
   },
   {
     "Rank": 29,
-    "Change": "+2",
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/CfLjIuFI-x0/hqdefault.jpg",
+    "Title": "Minecraft But Breaking a Block BREAKS THEM ALL",
+    "Channel": "Carvs",
+    "Category": "Gaming",
+    "Views Gained": 1552007
+  },
+  {
+    "Rank": 30,
+    "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/8NCaEveCxJ8/hqdefault.jpg",
     "Title": "Our Airport Security Still Sucks...",
     "Channel": "SMii7Y",
@@ -261,7 +270,7 @@
     "Views Gained": 1476494
   },
   {
-    "Rank": 30,
+    "Rank": 31,
     "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/Y-7S7tkSyG4/hqdefault.jpg",
     "Title": "I Killed a Man on His Birthday",
@@ -270,49 +279,40 @@
     "Views Gained": 1466456
   },
   {
-    "Rank": 31,
-    "Change": "+10",
-    "Thumbnail": "https://i.ytimg.com/vi/0AUi3fe2r08/hqdefault.jpg",
-    "Title": "LIBURAN SERU BARENG SUSI !!!",
-    "Channel": "dika_ bj",
-    "Category": "People & Blogs",
-    "Views Gained": 1466225
-  },
-  {
     "Rank": 32,
-    "Change": "-18",
-    "Thumbnail": "https://i.ytimg.com/vi/SjdfwNujb9w/hqdefault.jpg",
-    "Title": "ENFRENTÉ A 404 CON MIS VECINOS",
-    "Channel": "Fede Vigevani",
+    "Change": "-9",
+    "Thumbnail": "https://i.ytimg.com/vi/IhaBDfrByLQ/hqdefault.jpg",
+    "Title": "OLOMO KAN 2026 Yoruba Movie Wumi Toriola, Babatunde Aderinoye, Omo Ara, Madam Saje,  Malvins Tokunbo",
+    "Channel": "Wumitoriolatv",
     "Category": "Entertainment",
-    "Views Gained": 1464528
+    "Views Gained": 1453373
   },
   {
     "Rank": 33,
-    "Change": "+1",
-    "Thumbnail": "https://i.ytimg.com/vi/UgyNHLMlK_0/hqdefault.jpg",
-    "Title": "DEAL OR NO DEAL -  RUTH KADIRI DEZA THE GREAT ANTHON JEFTHA",
-    "Channel": "RuthKadiri247",
-    "Category": "Entertainment",
-    "Views Gained": 1443345
-  },
-  {
-    "Rank": 34,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/BgMNOqSU-iI/hqdefault.jpg",
-    "Title": "Yeraltı 15. Bölüm",
-    "Channel": "Yeraltı",
-    "Category": "Entertainment",
-    "Views Gained": 1436452
-  },
-  {
-    "Rank": 35,
-    "Change": "-5",
+    "Change": "+2",
     "Thumbnail": "https://i.ytimg.com/vi/v324aEfFX3o/hqdefault.jpg",
     "Title": "The Last Guest: Reimagined - The Origin | A Roblox Action Movie",
     "Channel": "ConvexHD",
     "Category": "Film & Animation",
     "Views Gained": 1395853
+  },
+  {
+    "Rank": 34,
+    "Change": "-6",
+    "Thumbnail": "https://i.ytimg.com/vi/5EuKQbIrN_M/hqdefault.jpg",
+    "Title": "ROOM FOR HER; WALTER ANGA, ANGEL UNIGWE, OMA NNADI, SAMUEL O, ANNABEL A 2026 Latest Nollywood Movie",
+    "Channel": "Uche Nancy Update Tv",
+    "Category": "People & Blogs",
+    "Views Gained": 1309341
+  },
+  {
+    "Rank": 35,
+    "Change": "-2",
+    "Thumbnail": "https://i.ytimg.com/vi/UgyNHLMlK_0/hqdefault.jpg",
+    "Title": "DEAL OR NO DEAL -  RUTH KADIRI DEZA THE GREAT ANTHON JEFTHA",
+    "Channel": "RuthKadiri247",
+    "Category": "Entertainment",
+    "Views Gained": 1280261
   },
   {
     "Rank": 36,
@@ -325,16 +325,7 @@
   },
   {
     "Rank": 37,
-    "Change": "-19",
-    "Thumbnail": "https://i.ytimg.com/vi/kCxwhCqIbhc/hqdefault.jpg",
-    "Title": "ALAKADA GEN Z PART 2 Full Movie 2026 | Toyin Abraham, Mr Latin, Imisi, Bianca | New Nollywood Comedy",
-    "Channel": "Toyin Abraham TV",
-    "Category": "Entertainment",
-    "Views Gained": 1275384
-  },
-  {
-    "Rank": 38,
-    "Change": "New",
+    "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/HszK863ED-0/hqdefault.jpg",
     "Title": "Living In Lift Challenge 😲 With Brothers",
     "Channel": "Sourav Joshi Vlogs",
@@ -342,8 +333,8 @@
     "Views Gained": 1272596
   },
   {
-    "Rank": 39,
-    "Change": "-2",
+    "Rank": 38,
+    "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/YcoyPs1Og2Y/hqdefault.jpg",
     "Title": "宇多田さんとテトリスをしました",
     "Channel": "佐藤 健 / Satoh Takeru",
@@ -351,8 +342,8 @@
     "Views Gained": 1245343
   },
   {
-    "Rank": 40,
-    "Change": "+3",
+    "Rank": 39,
+    "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/lzL1K2TrhZk/hqdefault.jpg",
     "Title": "so i found a mace glitch...",
     "Channel": "JudeLow",
@@ -360,8 +351,44 @@
     "Views Gained": 1239092
   },
   {
+    "Rank": 40,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/eYgf1v2rUfs/hqdefault.jpg",
+    "Title": "Koleoso pt 11 ( Season 3 ) - Latest Yoruba Movie 2026 Drama | Iteledicon | Kemity | Ogboluke  ",
+    "Channel": "Itelediconstudio",
+    "Category": "Film & Animation",
+    "Views Gained": 1237859
+  },
+  {
     "Rank": 41,
-    "Change": "+1",
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/hDIBiPiZRSQ/hqdefault.jpg",
+    "Title": "Unlimited Fun In New Personal Waterpark…😍 - All Water Slides Open | Part-10 | Day 54",
+    "Channel": "MR. INDIAN HACKER",
+    "Category": "Science & Technology",
+    "Views Gained": 1230803
+  },
+  {
+    "Rank": 42,
+    "Change": "0",
+    "Thumbnail": "https://i.ytimg.com/vi/GGGILke4f-k/hqdefault.jpg",
+    "Title": "We Played The New Lethal Company Update",
+    "Channel": "SMii7Yplus",
+    "Category": "Gaming",
+    "Views Gained": 1213506
+  },
+  {
+    "Rank": 43,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/MeTbv6Wqfgg/hqdefault.jpg",
+    "Title": "THE BEAUTIFUL TERRIFYING OCEAN | Subnautica 2 - Part 1",
+    "Channel": "Markiplier",
+    "Category": "Gaming",
+    "Views Gained": 1178021
+  },
+  {
+    "Rank": 44,
+    "Change": "-3",
     "Thumbnail": "https://i.ytimg.com/vi/SaKzgVpxxqM/hqdefault.jpg",
     "Title": "Хантавирус: новая угроза миру? Эпидемия на лайнере | Штамм «Андес», реакция ВОЗ, вакцины нет",
     "Channel": "varlamov",
@@ -369,17 +396,35 @@
     "Views Gained": 1155272
   },
   {
-    "Rank": 42,
+    "Rank": 45,
     "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/GGGILke4f-k/hqdefault.jpg",
-    "Title": "We Played The New Lethal Company Update",
-    "Channel": "SMii7Yplus",
-    "Category": "Gaming",
-    "Views Gained": 1089512
+    "Thumbnail": "https://i.ytimg.com/vi/bsxnSBI0Uu4/hqdefault.jpg",
+    "Title": "Inside West Virginia's Most Remote Holler",
+    "Channel": "RocaNews",
+    "Category": "Travel & Events",
+    "Views Gained": 1120646
   },
   {
-    "Rank": 43,
-    "Change": "+1",
+    "Rank": 46,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/mES2iPGVaiA/hqdefault.jpg",
+    "Title": "Roblox But EVERY Second My DRAGON Evolves..",
+    "Channel": "Foltyn",
+    "Category": "Gaming",
+    "Views Gained": 1108831
+  },
+  {
+    "Rank": 47,
+    "Change": "-33",
+    "Thumbnail": "https://i.ytimg.com/vi/Rc3y7KLqp14/hqdefault.jpg",
+    "Title": "SYUKUR MAKTON TERJATUH !!!",
+    "Channel": "dika_ bj",
+    "Category": "People & Blogs",
+    "Views Gained": 1096775
+  },
+  {
+    "Rank": 48,
+    "Change": "-5",
     "Thumbnail": "https://i.ytimg.com/vi/sDnXYB0WQAI/hqdefault.jpg",
     "Title": "The Biggest Announcement of Our Life!",
     "Channel": "The Anazala Family ",
@@ -387,8 +432,8 @@
     "Views Gained": 1074697
   },
   {
-    "Rank": 44,
-    "Change": "+2",
+    "Rank": 49,
+    "Change": "-5",
     "Thumbnail": "https://i.ytimg.com/vi/wzSKg-_PzGo/hqdefault.jpg",
     "Title": "My Problem as the Oldest Sister",
     "Channel": "MSA",
@@ -396,57 +441,12 @@
     "Views Gained": 1066781
   },
   {
-    "Rank": 45,
-    "Change": "-26",
-    "Thumbnail": "https://i.ytimg.com/vi/H3qHmXrPyYs/hqdefault.jpg",
-    "Title": "On devine 41 fromages avec Max et Elian et Carlito n’a pas trouvé le camembert",
-    "Channel": "Mcfly et Carlito",
-    "Category": "Entertainment",
-    "Views Gained": 1046591
-  },
-  {
-    "Rank": 46,
-    "Change": "+1",
-    "Thumbnail": "https://i.ytimg.com/vi/qNfAeQFOsrg/hqdefault.jpg",
-    "Title": "Me Convertí en PERRO BEBÉ con ARMAS para Trollear a Mis Amigos en Minecraft!",
-    "Channel": "Dagar",
-    "Category": "Gaming",
-    "Views Gained": 1028340
-  },
-  {
-    "Rank": 47,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/dPDYBJBN_mk/hqdefault.jpg",
-    "Title": "German Saw Game en pleno 2026",
-    "Channel": "JuegaGerman",
-    "Category": "Gaming",
-    "Views Gained": 1014035
-  },
-  {
-    "Rank": 48,
-    "Change": "-9",
-    "Thumbnail": "https://i.ytimg.com/vi/Xw5LsULigm8/hqdefault.jpg",
-    "Title": "CHISOM THE AGENT - SONIA UCHE, DEZA THE GREAT, 2026 LATEST NIGERIAN MOVIE",
-    "Channel": "DezaTheGreatTV",
-    "Category": "Entertainment",
-    "Views Gained": 997624
-  },
-  {
-    "Rank": 49,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/DdZRqHWUQpc/hqdefault.jpg",
-    "Title": "BAJÉ A LOS BACKROOMS EN ROBLOX",
-    "Channel": "FedeGames",
-    "Category": "Gaming",
-    "Views Gained": 992690
-  },
-  {
     "Rank": 50,
-    "Change": "-10",
-    "Thumbnail": "https://i.ytimg.com/vi/HDDxxeh3r-E/hqdefault.jpg",
-    "Title": "I Created the World's Largest Minecraft Army",
-    "Channel": "Parrot",
-    "Category": "Gaming",
-    "Views Gained": 989688
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/X6pHrlX57ds/hqdefault.jpg",
+    "Title": "ANJOLA -(2026 LATEST NOLLYWOOD MOVIE) BOLAJI OGUNMOLA, FEMI JACOBS, BIMBO AKINTOLA ",
+    "Channel": "BOLAJI OGUNMOLA TV",
+    "Category": "Entertainment",
+    "Views Gained": 1032055
   }
 ]
