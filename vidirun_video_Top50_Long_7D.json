@@ -1,16 +1,16 @@
 [
   {
     "Rank": 1,
-    "Change": "New",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/5F5MKI_jXJw/hqdefault.jpg",
     "Title": "I Survived 100 Days In Realistic Minecraft",
     "Channel": "MrBeast Gaming",
     "Category": "Gaming",
-    "Views Gained": 12782889
+    "Views Gained": 21252682
   },
   {
     "Rank": 2,
-    "Change": "-1",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/qYvM26WeYeg/hqdefault.jpg",
     "Title": "Daha 17 | 1. Bölüm",
     "Channel": "Daha On Yedi",
@@ -19,16 +19,16 @@
   },
   {
     "Rank": 3,
-    "Change": "-1",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/wSp6AiNIrsY/hqdefault.jpg",
     "Title": "NVIDIA GTC Taipei 2026 Keynote | Full Replay",
     "Channel": "NVIDIA",
     "Category": "Science & Technology",
-    "Views Gained": 9127235
+    "Views Gained": 9137103
   },
   {
     "Rank": 4,
-    "Change": "-1",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/2CvGbR_RkM8/hqdefault.jpg",
     "Title": "I STARTED MY OWN CAR BUSINESS | GTA 5 GAMEPLAY #169",
     "Channel": "Techno Gamerz",
@@ -42,65 +42,83 @@
     "Title": "God of War Laufey - Gameplay Reveal Trailer | PS5 Games",
     "Channel": "PlayStation",
     "Category": "Gaming",
-    "Views Gained": 5787481
+    "Views Gained": 6021941
   },
   {
     "Rank": 6,
-    "Change": "-2",
-    "Thumbnail": "https://i.ytimg.com/vi/zew8cf5jacg/hqdefault.jpg",
-    "Title": "Taşacak Bu Deniz 30. Bölüm @trt1",
-    "Channel": "Taşacak Bu Deniz",
-    "Category": "Entertainment",
-    "Views Gained": 4885222
-  },
-  {
-    "Rank": 7,
-    "Change": "-1",
-    "Thumbnail": "https://i.ytimg.com/vi/FO9kMeIQI7M/hqdefault.jpg",
-    "Title": "10 YouTubers vs 1 Secret Traitor",
-    "Channel": "MrBeast Gaming",
-    "Category": "Gaming",
-    "Views Gained": 3783814
-  },
-  {
-    "Rank": 8,
-    "Change": "New",
+    "Change": "+2",
     "Thumbnail": "https://i.ytimg.com/vi/2XSY6L6asDs/hqdefault.jpg",
     "Title": "Boys vs Girls - ONE COLOR Dream Sleepover",
     "Channel": "Jordan Matter",
     "Category": "Entertainment",
-    "Views Gained": 3079040
+    "Views Gained": 5064425
   },
   {
-    "Rank": 9,
+    "Rank": 7,
     "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/4v_jk0w7wR0/hqdefault.jpg",
-    "Title": "1000 Players Simulate THE PURGE in Minecraft",
-    "Channel": "Wemmbu",
+    "Thumbnail": "https://i.ytimg.com/vi/qmkmQ1AWPVE/hqdefault.jpg",
+    "Title": "DMZ First Look | COD POD Ep. 11 w/ Infinity Ward | Call of Duty: Modern Warfare 4",
+    "Channel": "Call of Duty",
     "Category": "Gaming",
-    "Views Gained": 3038123
+    "Views Gained": 4495819
   },
   {
-    "Rank": 10,
-    "Change": "-1",
-    "Thumbnail": "https://i.ytimg.com/vi/AlhYnt27VVY/hqdefault.jpg",
-    "Title": "RIP Godi Media? | Anjana Kashyap Insults Online Teachers - Get A Nuclear Backlash | Akash Banerjee",
-    "Channel": "The Deshbhakt",
-    "Category": "Education",
-    "Views Gained": 2993218
-  },
-  {
-    "Rank": 11,
-    "Change": "New",
+    "Rank": 8,
+    "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/kfZ714FXOA4/hqdefault.jpg",
     "Title": "Taşacak Bu Deniz 31. Bölüm (Sezon Finali) @trt1",
     "Channel": "Taşacak Bu Deniz",
     "Category": "Entertainment",
-    "Views Gained": 2668218
+    "Views Gained": 4211104
+  },
+  {
+    "Rank": 9,
+    "Change": "0",
+    "Thumbnail": "https://i.ytimg.com/vi/4v_jk0w7wR0/hqdefault.jpg",
+    "Title": "1000 Players Simulate THE PURGE in Minecraft",
+    "Channel": "Wemmbu",
+    "Category": "Gaming",
+    "Views Gained": 3898419
+  },
+  {
+    "Rank": 10,
+    "Change": "0",
+    "Thumbnail": "https://i.ytimg.com/vi/AlhYnt27VVY/hqdefault.jpg",
+    "Title": "RIP Godi Media? | Anjana Kashyap Insults Online Teachers - Get A Nuclear Backlash | Akash Banerjee",
+    "Channel": "The Deshbhakt",
+    "Category": "Education",
+    "Views Gained": 3063958
+  },
+  {
+    "Rank": 11,
+    "Change": "-5",
+    "Thumbnail": "https://i.ytimg.com/vi/zew8cf5jacg/hqdefault.jpg",
+    "Title": "Taşacak Bu Deniz 30. Bölüm @trt1",
+    "Channel": "Taşacak Bu Deniz",
+    "Category": "Entertainment",
+    "Views Gained": 3012458
   },
   {
     "Rank": 12,
-    "Change": "-1",
+    "Change": "-5",
+    "Thumbnail": "https://i.ytimg.com/vi/FO9kMeIQI7M/hqdefault.jpg",
+    "Title": "10 YouTubers vs 1 Secret Traitor",
+    "Channel": "MrBeast Gaming",
+    "Category": "Gaming",
+    "Views Gained": 2981666
+  },
+  {
+    "Rank": 13,
+    "Change": "+1",
+    "Thumbnail": "https://i.ytimg.com/vi/KjFHG9wekCQ/hqdefault.jpg",
+    "Title": "SEREM GILANG KESURUPAN !!!",
+    "Channel": "dika_ bj",
+    "Category": "People & Blogs",
+    "Views Gained": 2686105
+  },
+  {
+    "Rank": 14,
+    "Change": "-2",
     "Thumbnail": "https://i.ytimg.com/vi/BwX-x-HRlfw/hqdefault.jpg",
     "Title": "Uzak Şehir 63. Bölüm (SEZON FİNALİ)",
     "Channel": "Uzak Şehir",
@@ -108,107 +126,98 @@
     "Views Gained": 2545791
   },
   {
-    "Rank": 13,
-    "Change": "-6",
-    "Thumbnail": "https://i.ytimg.com/vi/s7aOJYueEtI/hqdefault.jpg",
-    "Title": "I Investigated India’s Biggest Smartphone Controversy",
-    "Channel": "Mrwhosetheboss",
-    "Category": "Science & Technology",
-    "Views Gained": 2493316
-  },
-  {
-    "Rank": 14,
-    "Change": "+7",
-    "Thumbnail": "https://i.ytimg.com/vi/KjFHG9wekCQ/hqdefault.jpg",
-    "Title": "SEREM GILANG KESURUPAN !!!",
-    "Channel": "dika_ bj",
-    "Category": "People & Blogs",
-    "Views Gained": 2333694
-  },
-  {
     "Rank": 15,
-    "Change": "-2",
-    "Thumbnail": "https://i.ytimg.com/vi/NT2Is90lFoI/hqdefault.jpg",
-    "Title": "Unstable SMP: Civil War FINALE",
-    "Channel": "Parrot",
-    "Category": "Gaming",
-    "Views Gained": 2058918
-  },
-  {
-    "Rank": 16,
-    "Change": "-4",
-    "Thumbnail": "https://i.ytimg.com/vi/Vagb9BqdX8g/hqdefault.jpg",
-    "Title": "We Almost Lost EVERYTHING Gambling",
-    "Channel": "SMii7Yplus",
-    "Category": "Gaming",
-    "Views Gained": 1942164
-  },
-  {
-    "Rank": 17,
-    "Change": "-9",
-    "Thumbnail": "https://i.ytimg.com/vi/r4auxPbAmP4/hqdefault.jpg",
-    "Title": "SIDEMEN AMONG US: HARRY POTTER CHAOS MODE",
-    "Channel": "MoreSidemen",
-    "Category": "People & Blogs",
-    "Views Gained": 1919303
-  },
-  {
-    "Rank": 18,
-    "Change": "-2",
-    "Thumbnail": "https://i.ytimg.com/vi/xoHsosBXukA/hqdefault.jpg",
-    "Title": "Trump Can’t Negotiate for S**t, and the Iran Peace Talks Prove It | The Daily Show",
-    "Channel": "The Daily Show",
-    "Category": "Comedy",
-    "Views Gained": 1868093
-  },
-  {
-    "Rank": 19,
-    "Change": "-4",
-    "Thumbnail": "https://i.ytimg.com/vi/rwa_R6MnLLY/hqdefault.jpg",
-    "Title": "The Most SATISFYING Roblox Game..",
-    "Channel": "Foltyn",
-    "Category": "Gaming",
-    "Views Gained": 1808175
-  },
-  {
-    "Rank": 20,
-    "Change": "+2",
-    "Thumbnail": "https://i.ytimg.com/vi/HgiWaDBSo7s/hqdefault.jpg",
-    "Title": "Draw to Save My Puppy!",
-    "Channel": "BriannaPlayz",
-    "Category": "Gaming",
-    "Views Gained": 1668447
-  },
-  {
-    "Rank": 21,
-    "Change": "-4",
-    "Thumbnail": "https://i.ytimg.com/vi/qyNqLCJBIlo/hqdefault.jpg",
-    "Title": "Police Step in After Bar Fight Ends in Tragedy",
-    "Channel": "Midwest Patrol",
-    "Category": "News & Politics",
-    "Views Gained": 1642471
-  },
-  {
-    "Rank": 22,
-    "Change": "-2",
-    "Thumbnail": "https://i.ytimg.com/vi/OlQEoEPMJUo/hqdefault.jpg",
-    "Title": "Hydroneer Tried to Optimize, So I Double Overloaded It on PC AND Console",
-    "Channel": "Let's Game It Out",
-    "Category": "Gaming",
-    "Views Gained": 1587646
-  },
-  {
-    "Rank": 23,
-    "Change": "New",
+    "Change": "+8",
     "Thumbnail": "https://i.ytimg.com/vi/Dr2-b4tL_8Q/hqdefault.jpg",
     "Title": "Стримеры VS Блогеры ! Футбольный матч МЕДИА КЛАССИКО",
     "Channel": "ExileShow",
     "Category": "Entertainment",
-    "Views Gained": 1549177
+    "Views Gained": 2402365
+  },
+  {
+    "Rank": 16,
+    "Change": "-1",
+    "Thumbnail": "https://i.ytimg.com/vi/NT2Is90lFoI/hqdefault.jpg",
+    "Title": "Unstable SMP: Civil War FINALE",
+    "Channel": "Parrot",
+    "Category": "Gaming",
+    "Views Gained": 2154220
+  },
+  {
+    "Rank": 17,
+    "Change": "+1",
+    "Thumbnail": "https://i.ytimg.com/vi/xoHsosBXukA/hqdefault.jpg",
+    "Title": "Trump Can’t Negotiate for S**t, and the Iran Peace Talks Prove It | The Daily Show",
+    "Channel": "The Daily Show",
+    "Category": "Comedy",
+    "Views Gained": 1955332
+  },
+  {
+    "Rank": 18,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/OR0JMeZCayQ/hqdefault.jpg",
+    "Title": "QUI CONNAÎT LE PLUS DE MEMES (IRL) ? (feat SQUEEZIE & ADÈLE CASTILLON)",
+    "Channel": "Mister V",
+    "Category": "Comedy",
+    "Views Gained": 1933427
+  },
+  {
+    "Rank": 19,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/yK3qL3wc7Sc/hqdefault.jpg",
+    "Title": "Brazil vs. Egypt | Full Game Highlights | ESPN FC",
+    "Channel": "ESPN FC",
+    "Category": "Sports",
+    "Views Gained": 1859314
+  },
+  {
+    "Rank": 20,
+    "Change": "-7",
+    "Thumbnail": "https://i.ytimg.com/vi/s7aOJYueEtI/hqdefault.jpg",
+    "Title": "I Investigated India’s Biggest Smartphone Controversy",
+    "Channel": "Mrwhosetheboss",
+    "Category": "Science & Technology",
+    "Views Gained": 1771172
+  },
+  {
+    "Rank": 21,
+    "Change": "-1",
+    "Thumbnail": "https://i.ytimg.com/vi/HgiWaDBSo7s/hqdefault.jpg",
+    "Title": "Draw to Save My Puppy!",
+    "Channel": "BriannaPlayz",
+    "Category": "Gaming",
+    "Views Gained": 1767914
+  },
+  {
+    "Rank": 22,
+    "Change": "+4",
+    "Thumbnail": "https://i.ytimg.com/vi/XwWYI8FMrQ4/hqdefault.jpg",
+    "Title": "ROCK, PAPER, SCISSORS - MAURICE SAM, NANCY ISIME, Latest 2026 Nigerian Movie",
+    "Channel": "Maurice Sam TV",
+    "Category": "Film & Animation",
+    "Views Gained": 1754682
+  },
+  {
+    "Rank": 23,
+    "Change": "+10",
+    "Thumbnail": "https://i.ytimg.com/vi/PrQ99jTqeKY/hqdefault.jpg",
+    "Title": "Sevdiğim Sensin 15. Bölüm (SEZON FİNALİ)",
+    "Channel": "Sevdiğim Sensin",
+    "Category": "Entertainment",
+    "Views Gained": 1693451
   },
   {
     "Rank": 24,
-    "Change": "+4",
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/QdNmVWXuYec/hqdefault.jpg",
+    "Title": "SUMMER GAME FEST 2026: Official 4K60FPS Livestream, (Resident Evil Veronica, FINAL FANTASY VII)",
+    "Channel": "thegameawards",
+    "Category": "Gaming",
+    "Views Gained": 1536561
+  },
+  {
+    "Rank": 25,
+    "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/lMeLKztZE_s/hqdefault.jpg",
     "Title": "Predator School Counselor Realizes He's Been Caught",
     "Channel": "EWU Bodycam",
@@ -216,26 +225,17 @@
     "Views Gained": 1533198
   },
   {
-    "Rank": 25,
-    "Change": "-11",
-    "Thumbnail": "https://i.ytimg.com/vi/YPJVFc9gDgo/hqdefault.jpg",
-    "Title": "WHEN LOVE FINDS ME - Michael Dappa, Chinenye Nnebe, Sultana Latest 2026 Romantic Movie #trending",
-    "Channel": "IBAKATV",
-    "Category": "Entertainment",
-    "Views Gained": 1529465
-  },
-  {
     "Rank": 26,
-    "Change": "+4",
-    "Thumbnail": "https://i.ytimg.com/vi/XwWYI8FMrQ4/hqdefault.jpg",
-    "Title": "ROCK, PAPER, SCISSORS - MAURICE SAM, NANCY ISIME, Latest 2026 Nigerian Movie",
-    "Channel": "Maurice Sam TV",
-    "Category": "Film & Animation",
-    "Views Gained": 1518823
+    "Change": "+15",
+    "Thumbnail": "https://i.ytimg.com/vi/KvaIE9QzfMU/hqdefault.jpg",
+    "Title": "LOVE, LIES & BROKEN MINDS | Emotional Nigerian Drama | BIMBO ADEMOYE, IK OGBONNA | 2026 Latest Movie",
+    "Channel": "Chinedu Benjamin TV",
+    "Category": "Entertainment",
+    "Views Gained": 1462870
   },
   {
     "Rank": 27,
-    "Change": "New",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/b34efg3J2vg/hqdefault.jpg",
     "Title": "Me Hice pasar por un PERRO OP en UN CHUNK en Minecraft!",
     "Channel": "Dagar",
@@ -244,106 +244,79 @@
   },
   {
     "Rank": 28,
-    "Change": "-4",
-    "Thumbnail": "https://i.ytimg.com/vi/hLEvtLlsMUg/hqdefault.jpg",
-    "Title": "GUESS THE ACTOR FT IDRIS ELBA",
-    "Channel": "Beta Squad",
-    "Category": "Entertainment",
-    "Views Gained": 1427175
-  },
-  {
-    "Rank": 29,
-    "Change": "-4",
-    "Thumbnail": "https://i.ytimg.com/vi/IfCpqLYv3n0/hqdefault.jpg",
-    "Title": "Me Convertí en SUNMAN para Trollear a Mis Amigos en Minecraft!",
-    "Channel": "Dagar",
-    "Category": "Gaming",
-    "Views Gained": 1376783
-  },
-  {
-    "Rank": 30,
-    "Change": "-11",
-    "Thumbnail": "https://i.ytimg.com/vi/OgLTQANxXsE/hqdefault.jpg",
-    "Title": "WHEN THE SUN SETS - BIMBO ADEMOYE, EMEKA IKE, DERA OSADEBE, RITA EDOCHIE latest 2026 nigerian movie",
-    "Channel": "Uchenna Mbunabo Tv",
-    "Category": "Entertainment",
-    "Views Gained": 1372580
-  },
-  {
-    "Rank": 31,
-    "Change": "-13",
-    "Thumbnail": "https://i.ytimg.com/vi/RIXFh0YObkg/hqdefault.jpg",
-    "Title": "We Have To DIG TO ESCAPE This PRISON In Roblox!",
-    "Channel": "Kin Tin Plays - Roblox and More",
-    "Category": "Gaming",
-    "Views Gained": 1358831
-  },
-  {
-    "Rank": 32,
-    "Change": "-22",
-    "Thumbnail": "https://i.ytimg.com/vi/_hyFGrcVv5U/hqdefault.jpg",
-    "Title": "I Went to WAR on a Hardcore Minecraft SMP",
-    "Channel": "Wemmbu",
-    "Category": "Gaming",
-    "Views Gained": 1356174
-  },
-  {
-    "Rank": 33,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/PrQ99jTqeKY/hqdefault.jpg",
-    "Title": "Sevdiğim Sensin 15. Bölüm (SEZON FİNALİ)",
-    "Channel": "Sevdiğim Sensin",
-    "Category": "Entertainment",
-    "Views Gained": 1345165
-  },
-  {
-    "Rank": 34,
-    "Change": "0",
+    "Change": "+6",
     "Thumbnail": "https://i.ytimg.com/vi/lE_11_paGoA/hqdefault.jpg",
     "Title": "I Escaped the Apple Ecosystem - It Backfired",
     "Channel": "Mrwhosetheboss",
     "Category": "Science & Technology",
-    "Views Gained": 1342845
+    "Views Gained": 1449556
   },
   {
-    "Rank": 35,
-    "Change": "-8",
-    "Thumbnail": "https://i.ytimg.com/vi/CykGYuZAj9M/hqdefault.jpg",
-    "Title": "KMJS livestream May 31, 2026 Episode - Replay | Kapuso Mo, Jessica Soho",
-    "Channel": "GMA Public Affairs",
-    "Category": "Entertainment",
-    "Views Gained": 1335326
-  },
-  {
-    "Rank": 36,
-    "Change": "-7",
-    "Thumbnail": "https://i.ytimg.com/vi/UnFIrVKA9Zc/hqdefault.jpg",
-    "Title": "1000 VS 1000 Player Minecraft Civil War",
-    "Channel": "FlameFrags",
-    "Category": "Gaming",
-    "Views Gained": 1330066
-  },
-  {
-    "Rank": 37,
-    "Change": "+1",
+    "Rank": 29,
+    "Change": "+8",
     "Thumbnail": "https://i.ytimg.com/vi/BPolND9t7mQ/hqdefault.jpg",
     "Title": "ALABOSI (The Hypocrite) - Full Nollywood Movie 2026  | Toyin Abraham, Micheal Ejoor, Bukola, Arike",
     "Channel": "Toyin Abraham TV",
     "Category": "Entertainment",
-    "Views Gained": 1283282
+    "Views Gained": 1417825
   },
   {
-    "Rank": 38,
-    "Change": "+4",
+    "Rank": 30,
+    "Change": "+6",
+    "Thumbnail": "https://i.ytimg.com/vi/UnFIrVKA9Zc/hqdefault.jpg",
+    "Title": "1000 VS 1000 Player Minecraft Civil War",
+    "Channel": "FlameFrags",
+    "Category": "Gaming",
+    "Views Gained": 1367757
+  },
+  {
+    "Rank": 31,
+    "Change": "-14",
+    "Thumbnail": "https://i.ytimg.com/vi/r4auxPbAmP4/hqdefault.jpg",
+    "Title": "SIDEMEN AMONG US: HARRY POTTER CHAOS MODE",
+    "Channel": "MoreSidemen",
+    "Category": "People & Blogs",
+    "Views Gained": 1342456
+  },
+  {
+    "Rank": 32,
+    "Change": "+6",
     "Thumbnail": "https://i.ytimg.com/vi/MHJtIkfA-s8/hqdefault.jpg",
     "Title": "What Every American Should Know about Data Centers",
     "Channel": "Tommy G",
     "Category": "Music",
-    "Views Gained": 1225068
+    "Views Gained": 1337748
   },
   {
-    "Rank": 39,
-    "Change": "-7",
+    "Rank": 33,
+    "Change": "-8",
+    "Thumbnail": "https://i.ytimg.com/vi/YPJVFc9gDgo/hqdefault.jpg",
+    "Title": "WHEN LOVE FINDS ME - Michael Dappa, Chinenye Nnebe, Sultana Latest 2026 Romantic Movie #trending",
+    "Channel": "IBAKATV",
+    "Category": "Entertainment",
+    "Views Gained": 1300793
+  },
+  {
+    "Rank": 34,
+    "Change": "+10",
+    "Thumbnail": "https://i.ytimg.com/vi/EIQbBg-PPkY/hqdefault.jpg",
+    "Title": "FOREVER IN A MINUTE - SANDRA OKUNZUWA, DANIEL ETIM, CHIDIMMA UGWU - LATEST 2026 NIGERIAN MOVIE",
+    "Channel": "SANDRA OKUNZUWA TV",
+    "Category": "Film & Animation",
+    "Views Gained": 1256823
+  },
+  {
+    "Rank": 35,
+    "Change": "-4",
+    "Thumbnail": "https://i.ytimg.com/vi/RIXFh0YObkg/hqdefault.jpg",
+    "Title": "We Have To DIG TO ESCAPE This PRISON In Roblox!",
+    "Channel": "Kin Tin Plays - Roblox and More",
+    "Category": "Gaming",
+    "Views Gained": 1230768
+  },
+  {
+    "Rank": 36,
+    "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/cvh0xXmu0bs/hqdefault.jpg",
     "Title": "State of Play | June 2, 2026 [English]",
     "Channel": "PlayStation",
@@ -351,8 +324,8 @@
     "Views Gained": 1210605
   },
   {
-    "Rank": 40,
-    "Change": "-5",
+    "Rank": 37,
+    "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/JZ5WgeJu_ZI/hqdefault.jpg",
     "Title": "Reliving Childhood Trauma on Goofy Gorillas",
     "Channel": "SMii7Y",
@@ -360,17 +333,8 @@
     "Views Gained": 1191895
   },
   {
-    "Rank": 41,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/KvaIE9QzfMU/hqdefault.jpg",
-    "Title": "LOVE, LIES & BROKEN MINDS | Emotional Nigerian Drama | BIMBO ADEMOYE, IK OGBONNA | 2026 Latest Movie",
-    "Channel": "Chinedu Benjamin TV",
-    "Category": "Entertainment",
-    "Views Gained": 1179673
-  },
-  {
-    "Rank": 42,
-    "Change": "-6",
+    "Rank": 38,
+    "Change": "+4",
     "Thumbnail": "https://i.ytimg.com/vi/TuXCnmT3hSM/hqdefault.jpg",
     "Title": "Una CHICA WARDEN Se Enamoró de Mi en Minecraft...",
     "Channel": "Nacho",
@@ -378,8 +342,17 @@
     "Views Gained": 1178452
   },
   {
-    "Rank": 43,
-    "Change": "-6",
+    "Rank": 39,
+    "Change": "-9",
+    "Thumbnail": "https://i.ytimg.com/vi/OgLTQANxXsE/hqdefault.jpg",
+    "Title": "WHEN THE SUN SETS - BIMBO ADEMOYE, EMEKA IKE, DERA OSADEBE, RITA EDOCHIE latest 2026 nigerian movie",
+    "Channel": "Uchenna Mbunabo Tv",
+    "Category": "Entertainment",
+    "Views Gained": 1167840
+  },
+  {
+    "Rank": 40,
+    "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/T9AFQi4Wr4I/hqdefault.jpg",
     "Title": "Evolucioné de CASA ÁRBOL NOOB a PRO en Minecraft!",
     "Channel": "Dagar",
@@ -387,66 +360,93 @@
     "Views Gained": 1159045
   },
   {
+    "Rank": 41,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/pERhXgUsyZ8/hqdefault.jpg",
+    "Title": "This Racing Game is Still Hilarious",
+    "Channel": "SMii7Y",
+    "Category": "Gaming",
+    "Views Gained": 1141276
+  },
+  {
+    "Rank": 42,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/xHTymez8ZiU/hqdefault.jpg",
+    "Title": "Outsmarting Mr. Beast's $25,000 Creator Event",
+    "Channel": "Chuck Nasty",
+    "Category": "Gaming",
+    "Views Gained": 1119694
+  },
+  {
+    "Rank": 43,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/ApkVDhj0KjA/hqdefault.jpg",
+    "Title": "I Evolved From FAT to MUSCULAR in Minecraft!",
+    "Channel": "PrestonPlayz",
+    "Category": "Gaming",
+    "Views Gained": 1091428
+  },
+  {
     "Rank": 44,
-    "Change": "+4",
-    "Thumbnail": "https://i.ytimg.com/vi/EIQbBg-PPkY/hqdefault.jpg",
-    "Title": "FOREVER IN A MINUTE - SANDRA OKUNZUWA, DANIEL ETIM, CHIDIMMA UGWU - LATEST 2026 NIGERIAN MOVIE",
-    "Channel": "SANDRA OKUNZUWA TV",
-    "Category": "Film & Animation",
-    "Views Gained": 1158603
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/5PYXOluK-Ts/hqdefault.jpg",
+    "Title": "EPL 4 | Round2hell | Nazim Ahmed",
+    "Channel": "Nazim Ahmed",
+    "Category": "Entertainment",
+    "Views Gained": 1073989
   },
   {
     "Rank": 45,
-    "Change": "+1",
-    "Thumbnail": "https://i.ytimg.com/vi/5FQv4WssvTM/hqdefault.jpg",
-    "Title": "Trump Faces WORLD CUP DISASTER as MAJOR CRISIS GROWS!!!",
-    "Channel": "MeidasTouch",
-    "Category": "News & Politics",
-    "Views Gained": 1070966
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/vvqQasvI7zo/hqdefault.jpg",
+    "Title": "I Tried \"Gaming\" In EVERY Bus Seat",
+    "Channel": "Dantic",
+    "Category": "Entertainment",
+    "Views Gained": 1070846
   },
   {
     "Rank": 46,
-    "Change": "+1",
-    "Thumbnail": "https://i.ytimg.com/vi/1bOMYQFgK4I/hqdefault.jpg",
-    "Title": "#2 SPURS at #1 THUNDER | FULL GAME 7 HIGHLIGHTS | May 30, 2026",
-    "Channel": "NBA",
-    "Category": "Sports",
-    "Views Gained": 1048701
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/wZ0Ti6SyPH8/hqdefault.jpg",
+    "Title": "ROBLOX BECOME A BILLIONAIRE..",
+    "Channel": "Foltyn",
+    "Category": "Gaming",
+    "Views Gained": 1008664
   },
   {
     "Rank": 47,
-    "Change": "-16",
-    "Thumbnail": "https://i.ytimg.com/vi/5p426fSlYH4/hqdefault.jpg",
-    "Title": "We Saw What AI Data Centers Don't Want You to See",
-    "Channel": "PBS Terra",
-    "Category": "Education",
-    "Views Gained": 1040162
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/hGBROjRqyDM/hqdefault.jpg",
+    "Title": "Something is Knocking at Your Door...",
+    "Channel": "ThatMob",
+    "Category": "Gaming",
+    "Views Gained": 995435
   },
   {
     "Rank": 48,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/n2p-dwCjJB8/hqdefault.jpg",
-    "Title": "I DON'T WANT TO BE A PASTOR'S WIFE! 😭 | MUMMY G.O | Full Nigerian Movie | Stan Nze, Shaznay Okawa ",
-    "Channel": "Love Story Media",
-    "Category": "Film & Animation",
-    "Views Gained": 1038643
-  },
-  {
-    "Rank": 49,
-    "Change": "-5",
-    "Thumbnail": "https://i.ytimg.com/vi/ENISQgpkw-c/hqdefault.jpg",
-    "Title": "Koleoso pt 12 ( Season 3) Latest Yoruba Movie 2026 | Iteledicon | Kemity | Ogboluke | Damilola Oni ",
-    "Channel": "Itelediconstudio",
-    "Category": "Film & Animation",
-    "Views Gained": 986284
-  },
-  {
-    "Rank": 50,
-    "Change": "New",
+    "Change": "+2",
     "Thumbnail": "https://i.ytimg.com/vi/4r4ikaXTW6w/hqdefault.jpg",
     "Title": "Try Not to Laugh Challenge vs Ruchika and Abhishek (Extreme Edition)",
     "Channel": "Triggered Insaan",
     "Category": "People & Blogs",
     "Views Gained": 984352
+  },
+  {
+    "Rank": 49,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/7SUuecsHstg/hqdefault.jpg",
+    "Title": "FOOTBALL PUB GOLF: AUSTRALIA EDITION",
+    "Channel": "ChrisMD",
+    "Category": "Entertainment",
+    "Views Gained": 955668
+  },
+  {
+    "Rank": 50,
+    "Change": "-2",
+    "Thumbnail": "https://i.ytimg.com/vi/n2p-dwCjJB8/hqdefault.jpg",
+    "Title": "I DON'T WANT TO BE A PASTOR'S WIFE! 😭 | MUMMY G.O | Full Nigerian Movie | Stan Nze, Shaznay Okawa ",
+    "Channel": "Love Story Media",
+    "Category": "Film & Animation",
+    "Views Gained": 916251
   }
 ]
