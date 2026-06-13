@@ -17,7 +17,7 @@
     "Channel": "Celine Dept",
     "Category": "Sports",
     "Format": "Short",
-    "Views Gained": 42839610
+    "Views Gained": 42955043
   },
   {
     "Rank": 3,
@@ -27,7 +27,7 @@
     "Channel": "TREASURE (트레저)",
     "Category": "Entertainment",
     "Format": "Standard",
-    "Views Gained": 38202623
+    "Views Gained": 38707452
   },
   {
     "Rank": 4,
@@ -37,7 +37,7 @@
     "Channel": "BABYMONSTER",
     "Category": "Music",
     "Format": "Standard",
-    "Views Gained": 24893745
+    "Views Gained": 29363862
   },
   {
     "Rank": 5,
@@ -47,11 +47,31 @@
     "Channel": "Goal Pulse",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 15562991
+    "Views Gained": 16668759
   },
   {
     "Rank": 6,
+    "Change": "+5",
+    "Thumbnail": "https://i.ytimg.com/vi/4mVAOrL0Crg/hqdefault.jpg",
+    "Title": "Jbl go4 mud throw",
+    "Channel": "Daily JBL test",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 13846279
+  },
+  {
+    "Rank": 7,
     "Change": "0",
+    "Thumbnail": "https://i.ytimg.com/vi/zGsj0fDHB_s/hqdefault.jpg",
+    "Title": "BOYNEXTDOOR (보이넥스트도어) 'VIRAL' Official MV",
+    "Channel": "HYBE LABELS",
+    "Category": "Music",
+    "Format": "Standard",
+    "Views Gained": 11788522
+  },
+  {
+    "Rank": 8,
+    "Change": "-2",
     "Thumbnail": "https://i.ytimg.com/vi/RE_MTiGL7iw/hqdefault.jpg",
     "Title": "The T-800 destroyed the liquid metal Terminator, the T-1000, and saved Sarah's life. #sarah #shorts",
     "Channel": "Angel524",
@@ -60,64 +80,44 @@
     "Views Gained": 11230721
   },
   {
-    "Rank": 7,
-    "Change": "+3",
-    "Thumbnail": "https://i.ytimg.com/vi/zGsj0fDHB_s/hqdefault.jpg",
-    "Title": "BOYNEXTDOOR (보이넥스트도어) 'VIRAL' Official MV",
-    "Channel": "HYBE LABELS",
-    "Category": "Music",
-    "Format": "Standard",
-    "Views Gained": 8447578
-  },
-  {
-    "Rank": 8,
-    "Change": "+1",
-    "Thumbnail": "https://i.ytimg.com/vi/83C3TZ4Zm_o/hqdefault.jpg",
-    "Title": "aespa 에스파 'LEMONADE' MV",
-    "Channel": "SMTOWN",
-    "Category": "Music",
-    "Format": "Standard",
-    "Views Gained": 6159546
-  },
-  {
     "Rank": 9,
-    "Change": "New",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/27C4pfRsf9g/hqdefault.jpg",
     "Title": "LE SSERAFIM (르세라핌) x ILLIT (아일릿) x KATSEYE (캣츠아이) 'ICONIC BY MISTAKE' Official MV",
     "Channel": "HYBE LABELS",
     "Category": "Music",
     "Format": "Standard",
-    "Views Gained": 6080240
+    "Views Gained": 9876578
   },
   {
     "Rank": 10,
     "Change": "-2",
+    "Thumbnail": "https://i.ytimg.com/vi/83C3TZ4Zm_o/hqdefault.jpg",
+    "Title": "aespa 에스파 'LEMONADE' MV",
+    "Channel": "SMTOWN",
+    "Category": "Music",
+    "Format": "Standard",
+    "Views Gained": 5840487
+  },
+  {
+    "Rank": 11,
+    "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/SlQR9iu09bQ/hqdefault.jpg",
     "Title": "SON TUNG M-TP x TYGA | COME MY WAY | OFFICIAL MUSIC VIDEO",
     "Channel": "Sơn Tùng M-TP Official",
     "Category": "Music",
     "Format": "Standard",
-    "Views Gained": 5904233
-  },
-  {
-    "Rank": 11,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/4mVAOrL0Crg/hqdefault.jpg",
-    "Title": "Jbl go4 mud throw",
-    "Channel": "Daily JBL test",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 4974174
+    "Views Gained": 5363628
   },
   {
     "Rank": 12,
-    "Change": "-1",
-    "Thumbnail": "https://i.ytimg.com/vi/Zv6JKobJyFY/hqdefault.jpg",
-    "Title": "BTS (방탄소년단) 'Hooligan' Official Performance Video",
-    "Channel": "HYBE LABELS",
-    "Category": "Music",
-    "Format": "Standard",
-    "Views Gained": 4884566
+    "Change": "+3",
+    "Thumbnail": "https://i.ytimg.com/vi/9hgoixR0b5c/hqdefault.jpg",
+    "Title": "🤣Whoa! That's crazy hilarious—she opened the back compartment.😁😂🤣#comedy #laugh #funny #shorts",
+    "Channel": "Bien Let Em Know Channel",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 5145491
   },
   {
     "Rank": 13,
@@ -127,71 +127,91 @@
     "Channel": "M!LK",
     "Category": "Music",
     "Format": "Standard",
-    "Views Gained": 4097869
+    "Views Gained": 4266691
   },
   {
     "Rank": 14,
-    "Change": "-7",
-    "Thumbnail": "https://i.ytimg.com/vi/wSp6AiNIrsY/hqdefault.jpg",
-    "Title": "NVIDIA GTC Taipei 2026 Keynote | Full Replay",
-    "Channel": "NVIDIA",
-    "Category": "Science & Technology",
-    "Format": "Long",
-    "Views Gained": 3797139
+    "Change": "-2",
+    "Thumbnail": "https://i.ytimg.com/vi/Zv6JKobJyFY/hqdefault.jpg",
+    "Title": "BTS (방탄소년단) 'Hooligan' Official Performance Video",
+    "Channel": "HYBE LABELS",
+    "Category": "Music",
+    "Format": "Standard",
+    "Views Gained": 3898039
   },
   {
     "Rank": 15,
-    "Change": "+31",
-    "Thumbnail": "https://i.ytimg.com/vi/9hgoixR0b5c/hqdefault.jpg",
-    "Title": "🤣Whoa! That's crazy hilarious—she opened the back compartment.😁😂🤣#comedy #laugh #funny #shorts",
-    "Channel": "Bien Let Em Know Channel",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 3777412
-  },
-  {
-    "Rank": 16,
-    "Change": "-1",
-    "Thumbnail": "https://i.ytimg.com/vi/Y4E76Lqdnw0/hqdefault.jpg",
-    "Title": "水戸なら今でも印籠の効果あるんじゃないか説 #水曜日のダウンタウン",
-    "Channel": "笑いの瞬間TV",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 3636758
-  },
-  {
-    "Rank": 17,
-    "Change": "-5",
-    "Thumbnail": "https://i.ytimg.com/vi/ye4SwnFNCio/hqdefault.jpg",
-    "Title": "Hài Hước || Rồi Xong 🤣🤣 #funny #haihuoc",
-    "Channel": "Tin Tức Vui Vẻ",
-    "Category": "Comedy",
-    "Format": "Short",
-    "Views Gained": 3600568
-  },
-  {
-    "Rank": 18,
-    "Change": "0",
+    "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/7xgD5YIxyIM/hqdefault.jpg",
     "Title": "ヨ。ー予想外すぎるカウンターについてー",
     "Channel": "ミームの虫",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 3437745
+    "Views Gained": 3668603
   },
   {
-    "Rank": 19,
-    "Change": "+6",
+    "Rank": 16,
+    "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/NJ4S9zl_jdM/hqdefault.jpg",
     "Title": "黛の神名場面！服部がメイク施すと、古美門が呆気に取られる！ #clips #highlights #shorts",
     "Channel": "Thang Hoang Thi",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 3147837
+    "Views Gained": 3549305
+  },
+  {
+    "Rank": 17,
+    "Change": "+4",
+    "Thumbnail": "https://i.ytimg.com/vi/b0rFCEYqMmE/hqdefault.jpg",
+    "Title": "カップルで腹筋崩壊する瞬間ww #おもしろ #面白い #カップル",
+    "Channel": "バズ神殿",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 3249014
+  },
+  {
+    "Rank": 18,
+    "Change": "+9",
+    "Thumbnail": "https://i.ytimg.com/vi/Fqb5VcbZB9s/hqdefault.jpg",
+    "Title": "【神回】体育祭ダンスで青春を謳歌する高校生の面白い瞬間TOP5",
+    "Channel": "ワールドハック",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 3211027
+  },
+  {
+    "Rank": 19,
+    "Change": "+5",
+    "Thumbnail": "https://i.ytimg.com/vi/YJOc_l457OI/hqdefault.jpg",
+    "Title": "光線カウンターだ！中村敬斗と久保建英、上田綺世と堂安律が仕掛けるカウンターがW杯でも火を吹く日！ #サッカー",
+    "Channel": "サッカーの時間です",
+    "Category": "Sports",
+    "Format": "Short",
+    "Views Gained": 3171387
   },
   {
     "Rank": 20,
-    "Change": "0",
+    "Change": "+17",
+    "Thumbnail": "https://i.ytimg.com/vi/QdqrywKOb_4/hqdefault.jpg",
+    "Title": "ゲームがどれだけ強くても役に立たない理由",
+    "Channel": "ニヤリハット",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 3044728
+  },
+  {
+    "Rank": 21,
+    "Change": "+13",
+    "Thumbnail": "https://i.ytimg.com/vi/edyAEUPXSeA/hqdefault.jpg",
+    "Title": "【紺野ぶるま】立ち食い蕎麦#神速49秒 #お笑い #紺野ぶるま #ゆにばーす #はら #最速 #まい賞 #おすすめバラエティ #49秒グランプリ #shorts",
+    "Channel": "動画、はじめてみました【テレビ朝日公式】",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 2986590
+  },
+  {
+    "Rank": 22,
+    "Change": "-2",
     "Thumbnail": "https://i.ytimg.com/vi/_BE6aVJgM98/hqdefault.jpg",
     "Title": "FORMULA BRAWL RACE #1 #FormulaBrawl",
     "Channel": "Brawl Stars",
@@ -200,98 +220,78 @@
     "Views Gained": 2965815
   },
   {
-    "Rank": 21,
-    "Change": "+3",
-    "Thumbnail": "https://i.ytimg.com/vi/b0rFCEYqMmE/hqdefault.jpg",
-    "Title": "カップルで腹筋崩壊する瞬間ww #おもしろ #面白い #カップル",
-    "Channel": "バズ神殿",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 2912012
-  },
-  {
-    "Rank": 22,
-    "Change": "+1",
+    "Rank": 23,
+    "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/METZ_5mIzq8/hqdefault.jpg",
     "Title": "サッカー界の異次元すぎるPK  #ワールドカップ #メッシ#ファンダイク #ジダン #ピルロ #セルヒオラモス #2026worldcup #pk #サッカー",
     "Channel": "ほぼタケフサ【Football】",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 2820922
-  },
-  {
-    "Rank": 23,
-    "Change": "-9",
-    "Thumbnail": "https://i.ytimg.com/vi/IwGr47Eszpo/hqdefault.jpg",
-    "Title": "誘拐してわかった親の気持ち",
-    "Channel": "千年ぶりのYouTube",
-    "Category": "Gaming",
-    "Format": "Short",
-    "Views Gained": 2795907
+    "Views Gained": 2942891
   },
   {
     "Rank": 24,
-    "Change": "+17",
-    "Thumbnail": "https://i.ytimg.com/vi/YJOc_l457OI/hqdefault.jpg",
-    "Title": "光線カウンターだ！中村敬斗と久保建英、上田綺世と堂安律が仕掛けるカウンターがW杯でも火を吹く日！ #サッカー",
-    "Channel": "サッカーの時間です",
-    "Category": "Sports",
+    "Change": "+7",
+    "Thumbnail": "https://i.ytimg.com/vi/gc3uUStlHcY/hqdefault.jpg",
+    "Title": "愉快なおじいちゃん マンスール・バーラミ",
+    "Channel": "スポーツ研究所",
+    "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 2699974
+    "Views Gained": 2865925
   },
   {
     "Rank": 25,
-    "Change": "-9",
-    "Thumbnail": "https://i.ytimg.com/vi/ePrl09ZohgI/hqdefault.jpg",
-    "Title": "髪カット集 #衝撃 #面白集 #カット",
-    "Channel": "世界GAMEまとめ",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 2664577
-  },
-  {
-    "Rank": 26,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/dGld-gOn6Uw/hqdefault.jpg",
-    "Title": "ファンの不安を秒で解決、トラブル対応まで約束する山口一郎が神すぎる【山口一郎切り抜き】",
-    "Channel": "山口一郎の切り抜きアーカイブちゃんねる",
-    "Category": "Music",
-    "Format": "Short",
-    "Views Gained": 2622199
-  },
-  {
-    "Rank": 27,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/Fqb5VcbZB9s/hqdefault.jpg",
-    "Title": "【神回】体育祭ダンスで青春を謳歌する高校生の面白い瞬間TOP5",
-    "Channel": "ワールドハック",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 2603742
-  },
-  {
-    "Rank": 28,
-    "Change": "+6",
+    "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/tgfIfMGsv8I/hqdefault.jpg",
     "Title": "わかる人にはわかる",
     "Channel": "一瞬後",
     "Category": "Entertainment",
     "Format": "Short",
-    "Views Gained": 2549544
+    "Views Gained": 2807050
   },
   {
-    "Rank": 29,
-    "Change": "+4",
+    "Rank": 26,
+    "Change": "+12",
+    "Thumbnail": "https://i.ytimg.com/vi/6V7TC0yjkM0/hqdefault.jpg",
+    "Title": "Wireless Charging Stopped Working!#wutheringwaves #wuwa #wuwacreator",
+    "Channel": "wuwarchie",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 2783719
+  },
+  {
+    "Rank": 27,
+    "Change": "+2",
     "Thumbnail": "https://i.ytimg.com/vi/Ds-QZMYy40Y/hqdefault.jpg",
     "Title": "歴代級の「パパ流の育児」予想外すぎる展開 TOP7",
     "Channel": "トラショ",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 2535923
+    "Views Gained": 2769133
+  },
+  {
+    "Rank": 28,
+    "Change": "-2",
+    "Thumbnail": "https://i.ytimg.com/vi/dGld-gOn6Uw/hqdefault.jpg",
+    "Title": "ファンの不安を秒で解決、トラブル対応まで約束する山口一郎が神すぎる【山口一郎切り抜き】",
+    "Channel": "山口一郎の切り抜きアーカイブちゃんねる",
+    "Category": "Music",
+    "Format": "Short",
+    "Views Gained": 2654027
+  },
+  {
+    "Rank": 29,
+    "Change": "+12",
+    "Thumbnail": "https://i.ytimg.com/vi/fbg8-9mv-0k/hqdefault.jpg",
+    "Title": "大谷にフラれたブルージェイズの嫉妬と大谷の神対応",
+    "Channel": "なんでジャパン",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 2559635
   },
   {
     "Rank": 30,
-    "Change": "+14",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/dtqsLr3yzRQ/hqdefault.jpg",
     "Title": "ナダルの怒らせる発言 好感度はダイアンの方がある#shorts #煽り#爆笑",
     "Channel": "見たくな〜るおもしろスポーツ",
@@ -301,117 +301,47 @@
   },
   {
     "Rank": 31,
-    "Change": "+12",
-    "Thumbnail": "https://i.ytimg.com/vi/gc3uUStlHcY/hqdefault.jpg",
-    "Title": "愉快なおじいちゃん マンスール・バーラミ",
-    "Channel": "スポーツ研究所",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 2479716
-  },
-  {
-    "Rank": 32,
-    "Change": "-3",
-    "Thumbnail": "https://i.ytimg.com/vi/96POqAn3laE/hqdefault.jpg",
-    "Title": "ダンク一つ間違えてチームから即追放された理由 🏀",
-    "Channel": "ر",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 2396651
-  },
-  {
-    "Rank": 33,
-    "Change": "-14",
-    "Thumbnail": "https://i.ytimg.com/vi/aXLej-gGmMY/hqdefault.jpg",
-    "Title": "『NPBの誤審王 球審・嶋田』に関する雑学 #野球 #嶋田哲也 #白井一行 #誤審 #プロ野球",
-    "Channel": "野球記",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 2346259
-  },
-  {
-    "Rank": 34,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/edyAEUPXSeA/hqdefault.jpg",
-    "Title": "【紺野ぶるま】立ち食い蕎麦#神速49秒 #お笑い #紺野ぶるま #ゆにばーす #はら #最速 #まい賞 #おすすめバラエティ #49秒グランプリ #shorts",
-    "Channel": "動画、はじめてみました【テレビ朝日公式】",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 2266101
-  },
-  {
-    "Rank": 35,
-    "Change": "+5",
+    "Change": "+4",
     "Thumbnail": "https://i.ytimg.com/vi/jkdd5gXc8IE/hqdefault.jpg",
     "Title": "【嵐】6人目の嵐になった男まとめ👑#嵐 #shorts",
     "Channel": "いいねが好物さん",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 2257526
+    "Views Gained": 2370507
   },
   {
-    "Rank": 36,
-    "Change": "-1",
-    "Thumbnail": "https://i.ytimg.com/vi/ZorPfmG0N7g/hqdefault.jpg",
-    "Title": "地元のマクドでまさかの人と出会う霜降り明星せいや",
-    "Channel": "【公認】イニミニ切り抜きチャンネル【霜降り明星せいや】",
+    "Rank": 32,
+    "Change": "-16",
+    "Thumbnail": "https://i.ytimg.com/vi/Y4E76Lqdnw0/hqdefault.jpg",
+    "Title": "水戸なら今でも印籠の効果あるんじゃないか説 #水曜日のダウンタウン",
+    "Channel": "笑いの瞬間TV",
     "Category": "Entertainment",
     "Format": "Short",
-    "Views Gained": 2253955
+    "Views Gained": 2308421
   },
   {
-    "Rank": 37,
+    "Rank": 33,
     "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/QdqrywKOb_4/hqdefault.jpg",
-    "Title": "ゲームがどれだけ強くても役に立たない理由",
-    "Channel": "ニヤリハット",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 2249857
-  },
-  {
-    "Rank": 38,
-    "Change": "+1",
-    "Thumbnail": "https://i.ytimg.com/vi/6V7TC0yjkM0/hqdefault.jpg",
-    "Title": "Wireless Charging Stopped Working!#wutheringwaves #wuwa #wuwacreator",
-    "Channel": "wuwarchie",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 2218459
-  },
-  {
-    "Rank": 39,
-    "Change": "-22",
-    "Thumbnail": "https://i.ytimg.com/vi/rL3QcCs7dBI/hqdefault.jpg",
-    "Title": "【爆笑】伊藤健太郎めっちゃバカでオモロイ#shorts #伊藤健太郎 #賀来賢人 #橋本環奈",
-    "Channel": "見たくな〜るおもしろスポーツ",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 2210176
-  },
-  {
-    "Rank": 40,
-    "Change": "-10",
-    "Thumbnail": "https://i.ytimg.com/vi/ARj1adoUoEU/hqdefault.jpg",
-    "Title": "飛ぶ時 / Vaundy：MUSIC VIDEO",
-    "Channel": "Vaundy",
-    "Category": "Music",
+    "Thumbnail": "https://i.ytimg.com/vi/U3Dg0uhYk0E/hqdefault.jpg",
+    "Title": "原始部族の少年は野生のオオカミと支え合い、故郷を目指す！",
+    "Channel": " 即見シネマ",
+    "Category": "Entertainment",
     "Format": "Standard",
-    "Views Gained": 2140575
+    "Views Gained": 2247572
   },
   {
-    "Rank": 41,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/fbg8-9mv-0k/hqdefault.jpg",
-    "Title": "大谷にフラれたブルージェイズの嫉妬と大谷の神対応",
-    "Channel": "なんでジャパン",
-    "Category": "Entertainment",
+    "Rank": 34,
+    "Change": "-2",
+    "Thumbnail": "https://i.ytimg.com/vi/96POqAn3laE/hqdefault.jpg",
+    "Title": "ダンク一つ間違えてチームから即追放された理由 🏀",
+    "Channel": "ر",
+    "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 2100928
+    "Views Gained": 2172814
   },
   {
-    "Rank": 42,
-    "Change": "0",
+    "Rank": 35,
+    "Change": "+7",
     "Thumbnail": "https://i.ytimg.com/vi/cTZjFMDQgO8/hqdefault.jpg",
     "Title": "巨大ワニと男性の嘘みたいな実話",
     "Channel": "TheWorld",
@@ -420,48 +350,48 @@
     "Views Gained": 2086788
   },
   {
-    "Rank": 43,
-    "Change": "-15",
-    "Thumbnail": "https://i.ytimg.com/vi/t5syk03CTyY/hqdefault.jpg",
-    "Title": "大人じゃないと分からないネタ4選www アニメ、漫画",
-    "Channel": "ハレスケ!【アニメ解説考察感想】",
-    "Category": "Film & Animation",
-    "Format": "Short",
-    "Views Gained": 2051086
-  },
-  {
-    "Rank": 44,
-    "Change": "-23",
-    "Thumbnail": "https://i.ytimg.com/vi/YJivn8hc3II/hqdefault.jpg",
-    "Title": "まさかの後ろもかよw #shorts#tiktok#Twitter#おもしろ#お笑い#おすすめ#ムーンウォーク #面白い#おもしろ動画#爆笑#バズれ",
-    "Channel": "おもしろ宝庫",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 2019123
-  },
-  {
-    "Rank": 45,
-    "Change": "+3",
+    "Rank": 36,
+    "Change": "+9",
     "Thumbnail": "https://i.ytimg.com/vi/hF8swzNR1-o/hqdefault.jpg",
     "Title": "Apple WWDC 2026 June 8: Introducing Siri AI and more",
     "Channel": "Apple",
     "Category": "Science & Technology",
     "Format": "Long",
-    "Views Gained": 1979645
+    "Views Gained": 2036412
   },
   {
-    "Rank": 46,
-    "Change": "-19",
-    "Thumbnail": "https://i.ytimg.com/vi/stffcpJ9wHw/hqdefault.jpg",
-    "Title": "こんなサーブ食らったら痛いよな🤣　　　　　#お笑い #ドッキリ #joy #バレーボール",
-    "Channel": "ジュリラン",
+    "Rank": 37,
+    "Change": "-12",
+    "Thumbnail": "https://i.ytimg.com/vi/ePrl09ZohgI/hqdefault.jpg",
+    "Title": "髪カット集 #衝撃 #面白集 #カット",
+    "Channel": "世界GAMEまとめ",
     "Category": "People & Blogs",
-    "Format": "Standard",
-    "Views Gained": 1979063
+    "Format": "Short",
+    "Views Gained": 2014391
   },
   {
-    "Rank": 47,
-    "Change": "-2",
+    "Rank": 38,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/_mWNb6zRii8/hqdefault.jpg",
+    "Title": "安定のオチで草ww🤣",
+    "Channel": "める【プロフガチ】",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 1973759
+  },
+  {
+    "Rank": 39,
+    "Change": "+1",
+    "Thumbnail": "https://i.ytimg.com/vi/ARj1adoUoEU/hqdefault.jpg",
+    "Title": "飛ぶ時 / Vaundy：MUSIC VIDEO",
+    "Channel": "Vaundy",
+    "Category": "Music",
+    "Format": "Standard",
+    "Views Gained": 1939528
+  },
+  {
+    "Rank": 40,
+    "Change": "+7",
     "Thumbnail": "https://i.ytimg.com/vi/NQRGAh7ukh8/hqdefault.jpg",
     "Title": "izna 'METRONOME' MV",
     "Channel": "izna (이즈나)",
@@ -470,33 +400,103 @@
     "Views Gained": 1931296
   },
   {
-    "Rank": 48,
+    "Rank": 41,
+    "Change": "-18",
+    "Thumbnail": "https://i.ytimg.com/vi/IwGr47Eszpo/hqdefault.jpg",
+    "Title": "誘拐してわかった親の気持ち",
+    "Channel": "千年ぶりのYouTube",
+    "Category": "Gaming",
+    "Format": "Short",
+    "Views Gained": 1884520
+  },
+  {
+    "Rank": 42,
+    "Change": "-25",
+    "Thumbnail": "https://i.ytimg.com/vi/ye4SwnFNCio/hqdefault.jpg",
+    "Title": "Hài Hước || Rồi Xong 🤣🤣 #funny #haihuoc",
+    "Channel": "Tin Tức Vui Vẻ",
+    "Category": "Comedy",
+    "Format": "Short",
+    "Views Gained": 1811998
+  },
+  {
+    "Rank": 43,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/udyTjbJlBQU/hqdefault.jpg",
+    "Title": "男に影響される彼女【アニメ】#shorts",
+    "Channel": "そろ谷のアニメっち",
+    "Category": "Film & Animation",
+    "Format": "Short",
+    "Views Gained": 1806588
+  },
+  {
+    "Rank": 44,
     "Change": "-1",
-    "Thumbnail": "https://i.ytimg.com/vi/RyX_rY40Ci0/hqdefault.jpg",
-    "Title": "結局ニーなのおもろいw #月曜から夜ふかし #マツコ・デラックス#マツコ #デラックス",
-    "Channel": "Chuyện Miền Quê Đó Đây ",
+    "Thumbnail": "https://i.ytimg.com/vi/t5syk03CTyY/hqdefault.jpg",
+    "Title": "大人じゃないと分からないネタ4選www アニメ、漫画",
+    "Channel": "ハレスケ!【アニメ解説考察感想】",
+    "Category": "Film & Animation",
+    "Format": "Short",
+    "Views Gained": 1794454
+  },
+  {
+    "Rank": 45,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/3tYsNb8U3EY/hqdefault.jpg",
+    "Title": "【神回】ご祝儀大変だな　#お笑い #爆笑",
+    "Channel": "DJふぉい FAN【切り抜きch】",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 1890259
+    "Views Gained": 1619618
+  },
+  {
+    "Rank": 46,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/cEm9b-eozSM/hqdefault.jpg",
+    "Title": "(実話) 人種差別コーチをホームランで徹底指導した伝説",
+    "Channel": "カプムビ",
+    "Category": "Film & Animation",
+    "Format": "Standard",
+    "Views Gained": 1596817
+  },
+  {
+    "Rank": 47,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/RgayQ3xlqjI/hqdefault.jpg",
+    "Title": "東京リベンジャーズ / 壱番隊隊長の実力 #shorts",
+    "Channel": "名場面クリップ",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 1588024
+  },
+  {
+    "Rank": 48,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/_PtAuJu7Rvo/hqdefault.jpg",
+    "Title": "大悟の鬼ムチャぶりで爆笑大喜利が連発！『チャンスの時間』#ABEMA で無料配信中 #千鳥",
+    "Channel": "ABEMA チャンスの時間 【公式】",
+    "Category": "Comedy",
+    "Format": "Standard",
+    "Views Gained": 1586629
   },
   {
     "Rank": 49,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/mDJo7ey1Mr4/hqdefault.jpg",
-    "Title": "遊園地で腹筋崩壊する瞬間ww #おもしろ #面白い",
-    "Channel": "バズ神殿",
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/kQ0dBqssWms/hqdefault.jpg",
+    "Title": "まじでその通りやな。いいこと言ってるわ。 #月曜から夜ふかし #マツコ・デラックス#マツコ #デラックス",
+    "Channel": "Chuyện Miền Quê Đó Đây ",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 1861001
+    "Views Gained": 1572875
   },
   {
     "Rank": 50,
     "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/IWi8t-IMRbY/hqdefault.jpg",
-    "Title": "好感度が見えるメガネで恋愛しようとするやつ【アニメ】",
-    "Channel": "マイ部アニメ",
-    "Category": "Entertainment",
+    "Thumbnail": "https://i.ytimg.com/vi/Lgeas_10WwQ/hqdefault.jpg",
+    "Title": "絶対に止められない天才PK集 #サッカー",
+    "Channel": "サッカーワールド",
+    "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 1830507
+    "Views Gained": 1562394
   }
 ]
