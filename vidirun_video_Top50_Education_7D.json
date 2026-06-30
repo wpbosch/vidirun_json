@@ -1,43 +1,34 @@
 [
   {
     "Rank": 1,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/QDgddWUwVCs/hqdefault.jpg",
-    "Title": "THE MOST INTENSE STARE DOWN #dogwhisperer",
-    "Channel": "Dog Whisperer with Cesar Millan",
-    "Format": "Short",
-    "Views Gained": 5494838
-  },
-  {
-    "Rank": 2,
-    "Change": "New",
+    "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/rfcuaE-Eado/hqdefault.jpg",
     "Title": "#aestheic",
     "Channel": "Toll_Edir",
     "Format": "Short",
-    "Views Gained": 3117660
+    "Views Gained": 6563080
+  },
+  {
+    "Rank": 2,
+    "Change": "-1",
+    "Thumbnail": "https://i.ytimg.com/vi/QDgddWUwVCs/hqdefault.jpg",
+    "Title": "THE MOST INTENSE STARE DOWN #dogwhisperer",
+    "Channel": "Dog Whisperer with Cesar Millan",
+    "Format": "Short",
+    "Views Gained": 6538129
   },
   {
     "Rank": 3,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/iRDTY-4gT6U/hqdefault.jpg",
-    "Title": "iPhone 17 vs Samsung S26 in a Mous Case 🤯🤯",
-    "Channel": "Mous",
+    "Change": "+8",
+    "Thumbnail": "https://i.ytimg.com/vi/h1YG3XrRQIc/hqdefault.jpg",
+    "Title": "Nunu The Chihuahua FROM HELL #dogwhisperer",
+    "Channel": "Dog Whisperer with Cesar Millan",
     "Format": "Short",
-    "Views Gained": 2657676
+    "Views Gained": 2454787
   },
   {
     "Rank": 4,
     "Change": "+1",
-    "Thumbnail": "https://i.ytimg.com/vi/7KieCZckN4c/hqdefault.jpg",
-    "Title": "Bendera Ini Dapat Perlakuan Khusus di Piala Dunia #shorts",
-    "Channel": "SQ Media Partner",
-    "Format": "Short",
-    "Views Gained": 2108886
-  },
-  {
-    "Rank": 5,
-    "Change": "+2",
     "Thumbnail": "https://i.ytimg.com/vi/Z2ct2sI2r-Y/hqdefault.jpg",
     "Title": "This K9 Needs to Be Fired 🤦‍♂️🐕",
     "Channel": "Vilux",
@@ -45,26 +36,17 @@
     "Views Gained": 1849152
   },
   {
+    "Rank": 5,
+    "Change": "-2",
+    "Thumbnail": "https://i.ytimg.com/vi/iRDTY-4gT6U/hqdefault.jpg",
+    "Title": "iPhone 17 vs Samsung S26 in a Mous Case 🤯🤯",
+    "Channel": "Mous",
+    "Format": "Short",
+    "Views Gained": 1735001
+  },
+  {
     "Rank": 6,
-    "Change": "-4",
-    "Thumbnail": "https://i.ytimg.com/vi/Rc8xZYALSKU/hqdefault.jpg",
-    "Title": "Women Saves Her House!",
-    "Channel": "TrendClips",
-    "Format": "Short",
-    "Views Gained": 1792964
-  },
-  {
-    "Rank": 7,
-    "Change": "-1",
-    "Thumbnail": "https://i.ytimg.com/vi/V-0JaW7cnow/hqdefault.jpg",
-    "Title": "AMD's new AI PC #amd #lisasu #gpu",
-    "Channel": "Value Signals",
-    "Format": "Short",
-    "Views Gained": 1637318
-  },
-  {
-    "Rank": 8,
-    "Change": "0",
+    "Change": "+2",
     "Thumbnail": "https://i.ytimg.com/vi/DYNcV_6Tk1U/hqdefault.jpg",
     "Title": "A Música Perfeita? 😮",
     "Channel": "Humorado 2024",
@@ -72,8 +54,17 @@
     "Views Gained": 1632655
   },
   {
-    "Rank": 9,
-    "Change": "0",
+    "Rank": 7,
+    "Change": "+6",
+    "Thumbnail": "https://i.ytimg.com/vi/x_wD7OXgA-g/hqdefault.jpg",
+    "Title": "Rahasia Memilih Kursti TERBAIK di Stadion ⚽🏟️",
+    "Channel": "Fakta Setiap Hari",
+    "Format": "Short",
+    "Views Gained": 1537122
+  },
+  {
+    "Rank": 8,
+    "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/VVOYCDrbDmU/hqdefault.jpg",
     "Title": "Animal Moments Shouldn't Be Real, But They Are!",
     "Channel": "Animal Dose",
@@ -81,8 +72,8 @@
     "Views Gained": 1363954
   },
   {
-    "Rank": 10,
-    "Change": "0",
+    "Rank": 9,
+    "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/P5iXnBfpNGM/hqdefault.jpg",
     "Title": "Infinite SpongeBob Ice Cream Glitch 😭✌️ #comedy #icecream #prank #freewill #troll #ytshorts",
     "Channel": "VerrTV",
@@ -90,17 +81,26 @@
     "Views Gained": 1340415
   },
   {
-    "Rank": 11,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/h1YG3XrRQIc/hqdefault.jpg",
-    "Title": "Nunu The Chihuahua FROM HELL #dogwhisperer",
-    "Channel": "Dog Whisperer with Cesar Millan",
+    "Rank": 10,
+    "Change": "-6",
+    "Thumbnail": "https://i.ytimg.com/vi/7KieCZckN4c/hqdefault.jpg",
+    "Title": "Bendera Ini Dapat Perlakuan Khusus di Piala Dunia #shorts",
+    "Channel": "SQ Media Partner",
     "Format": "Short",
-    "Views Gained": 1227172
+    "Views Gained": 1222580
+  },
+  {
+    "Rank": 11,
+    "Change": "-4",
+    "Thumbnail": "https://i.ytimg.com/vi/V-0JaW7cnow/hqdefault.jpg",
+    "Title": "AMD's new AI PC #amd #lisasu #gpu",
+    "Channel": "Value Signals",
+    "Format": "Short",
+    "Views Gained": 1198792
   },
   {
     "Rank": 12,
-    "Change": "New",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/4vy46JSmtMI/hqdefault.jpg",
     "Title": "🐶💎 Chloe & Pahlawan Gembala! ❤️✨",
     "Channel": "Rahasia Film",
@@ -109,12 +109,12 @@
   },
   {
     "Rank": 13,
-    "Change": "+2",
-    "Thumbnail": "https://i.ytimg.com/vi/x_wD7OXgA-g/hqdefault.jpg",
-    "Title": "Rahasia Memilih Kursti TERBAIK di Stadion ⚽🏟️",
-    "Channel": "Fakta Setiap Hari",
+    "Change": "-7",
+    "Thumbnail": "https://i.ytimg.com/vi/Rc8xZYALSKU/hqdefault.jpg",
+    "Title": "Women Saves Her House!",
+    "Channel": "TrendClips",
     "Format": "Short",
-    "Views Gained": 998987
+    "Views Gained": 980953
   },
   {
     "Rank": 14,
@@ -123,47 +123,38 @@
     "Title": "이재용의 저주가 중앙그룹의 돈 줄을 틀어막았다 삼성의 뒤통수를 친 중앙일보의 최후",
     "Channel": "귀에쏙쏙경제학",
     "Format": "Long",
-    "Views Gained": 803965
+    "Views Gained": 853497
   },
   {
     "Rank": 15,
-    "Change": "-2",
-    "Thumbnail": "https://i.ytimg.com/vi/4S25FfbFw4M/hqdefault.jpg",
-    "Title": "Oligarchy is worse than you think",
-    "Channel": "Johnny Harris",
-    "Format": "Long",
-    "Views Gained": 679456
+    "Change": "+11",
+    "Thumbnail": "https://i.ytimg.com/vi/y1bajI-gBe4/hqdefault.jpg",
+    "Title": "小学校４年担任　ワールドカップな１日#日本代表#あるある#教員#授業 #サッカー",
+    "Channel": "ささT　学級経営と教師の本音",
+    "Format": "Standard",
+    "Views Gained": 705684
   },
   {
     "Rank": 16,
-    "Change": "-12",
-    "Thumbnail": "https://i.ytimg.com/vi/TY6AtzUnsLg/hqdefault.jpg",
-    "Title": "Thoughts 💭",
-    "Channel": "Ollys TV",
-    "Format": "Short",
-    "Views Gained": 676212
-  },
-  {
-    "Rank": 17,
-    "Change": "-1",
+    "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/PtfUA1OHCg4/hqdefault.jpg",
     "Title": "Почему французский звучит смешно для русских",
     "Channel": "Skyeng – онлайн-школа иностранных языков",
     "Format": "Short",
-    "Views Gained": 653138
+    "Views Gained": 686179
+  },
+  {
+    "Rank": 17,
+    "Change": "+10",
+    "Thumbnail": "https://i.ytimg.com/vi/1-p8MucdXzM/hqdefault.jpg",
+    "Title": "定員割れしている大学のリアル 3選 #pispis #shorts",
+    "Channel": "こうじ先生@大学受験pispis",
+    "Format": "Short",
+    "Views Gained": 674414
   },
   {
     "Rank": 18,
-    "Change": "-7",
-    "Thumbnail": "https://i.ytimg.com/vi/e3i8IrGxcCg/hqdefault.jpg",
-    "Title": "무릎을 굽히지 않고 앉는 창의적인 방법",
-    "Channel": "디데이쇼츠",
-    "Format": "Short",
-    "Views Gained": 648269
-  },
-  {
-    "Rank": 19,
-    "Change": "-2",
+    "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/tNuWltO0mS0/hqdefault.jpg",
     "Title": "grefg se queja del doblaje de dragon ball japones #mariocastañeda #goku #dragonball #doblaje",
     "Channel": "Beal",
@@ -171,8 +162,17 @@
     "Views Gained": 633536
   },
   {
+    "Rank": 19,
+    "Change": "+2",
+    "Thumbnail": "https://i.ytimg.com/vi/Wtg_s1GQiMU/hqdefault.jpg",
+    "Title": "Leave Windows 11 Idle for 24 Hours and Watch What Happens",
+    "Channel": "The Infographics Show",
+    "Format": "Long",
+    "Views Gained": 540570
+  },
+  {
     "Rank": 20,
-    "Change": "-2",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/TEzWaUL51Ho/hqdefault.jpg",
     "Title": "子供の宿題に親が本気を出してきたとき先生は… #shorts #学校 #先生",
     "Channel": "やんばるゼミ",
@@ -181,25 +181,7 @@
   },
   {
     "Rank": 21,
-    "Change": "-1",
-    "Thumbnail": "https://i.ytimg.com/vi/Wtg_s1GQiMU/hqdefault.jpg",
-    "Title": "Leave Windows 11 Idle for 24 Hours and Watch What Happens",
-    "Channel": "The Infographics Show",
-    "Format": "Long",
-    "Views Gained": 508570
-  },
-  {
-    "Rank": 22,
-    "Change": "-10",
-    "Thumbnail": "https://i.ytimg.com/vi/KsdCQLtzZFU/hqdefault.jpg",
-    "Title": "I Can't Do This 🥶😳 | #shortsfeed #trending #rumi",
-    "Channel": "Selected Zone",
-    "Format": "Short",
-    "Views Gained": 499780
-  },
-  {
-    "Rank": 23,
-    "Change": "-4",
+    "Change": "+2",
     "Thumbnail": "https://i.ytimg.com/vi/5mMaYW9CtSw/hqdefault.jpg",
     "Title": "Caught Inside a Tornado",
     "Channel": "Vilux",
@@ -207,8 +189,44 @@
     "Views Gained": 496740
   },
   {
+    "Rank": 22,
+    "Change": "-7",
+    "Thumbnail": "https://i.ytimg.com/vi/4S25FfbFw4M/hqdefault.jpg",
+    "Title": "Oligarchy is worse than you think",
+    "Channel": "Johnny Harris",
+    "Format": "Long",
+    "Views Gained": 482639
+  },
+  {
+    "Rank": 23,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/Mszws3D7sJQ/hqdefault.jpg",
+    "Title": "Life 100% Ruined, After His Phone Number Got LEAKED in Indian Movie Cinema Screen #shorts",
+    "Channel": "FactTechz",
+    "Format": "Short",
+    "Views Gained": 480185
+  },
+  {
     "Rank": 24,
-    "Change": "-1",
+    "Change": "+5",
+    "Thumbnail": "https://i.ytimg.com/vi/-Ih9b62zNjE/hqdefault.jpg",
+    "Title": "최민식이 16년 만에 해보는 플러팅 #맨끝줄소년",
+    "Channel": "영화한입하실",
+    "Format": "Short",
+    "Views Gained": 469509
+  },
+  {
+    "Rank": 25,
+    "Change": "+8",
+    "Thumbnail": "https://i.ytimg.com/vi/kfkn5Ak4oJI/hqdefault.jpg",
+    "Title": "#illustration #digitalart #pov #trendingshorts #montagem #trending#tiktok #isolation",
+    "Channel": "Team Maxico 1M",
+    "Format": "Short",
+    "Views Gained": 452946
+  },
+  {
+    "Rank": 26,
+    "Change": "-2",
     "Thumbnail": "https://i.ytimg.com/vi/BFRsmmK80lU/hqdefault.jpg",
     "Title": "Acharam o Brinco do Speed",
     "Channel": "Investiga, Pinhel! ",
@@ -216,8 +234,26 @@
     "Views Gained": 450281
   },
   {
-    "Rank": 25,
-    "Change": "-1",
+    "Rank": 27,
+    "Change": "+3",
+    "Thumbnail": "https://i.ytimg.com/vi/ZZnpmcUzpAw/hqdefault.jpg",
+    "Title": "Bad Day For India - Tata Got Fully HACKED -  600 GB Data Leaked in India! #shorts",
+    "Channel": "FactTechz",
+    "Format": "Short",
+    "Views Gained": 432692
+  },
+  {
+    "Rank": 28,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/4irDIZETCyI/hqdefault.jpg",
+    "Title": "世界のスマホ入力が衝撃すぎる【6カ国】",
+    "Channel": "だいじろー Daijiro",
+    "Format": "Short",
+    "Views Gained": 424578
+  },
+  {
+    "Rank": 29,
+    "Change": "-4",
     "Thumbnail": "https://i.ytimg.com/vi/oq4pIedwdDw/hqdefault.jpg",
     "Title": "Шаг 1 в профессии механика страдай 🥵",
     "Channel": "Доктор Факт",
@@ -225,53 +261,26 @@
     "Views Gained": 413352
   },
   {
-    "Rank": 26,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/y1bajI-gBe4/hqdefault.jpg",
-    "Title": "小学校４年担任　ワールドカップな１日#日本代表#あるある#教員#授業 #サッカー",
-    "Channel": "ささT　学級経営と教師の本音",
-    "Format": "Standard",
-    "Views Gained": 398802
-  },
-  {
-    "Rank": 27,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/1-p8MucdXzM/hqdefault.jpg",
-    "Title": "定員割れしている大学のリアル 3選 #pispis #shorts",
-    "Channel": "こうじ先生@大学受験pispis",
-    "Format": "Short",
-    "Views Gained": 377515
-  },
-  {
-    "Rank": 28,
+    "Rank": 30,
     "Change": "-2",
     "Thumbnail": "https://i.ytimg.com/vi/SmqbVzaoYuo/hqdefault.jpg",
     "Title": "Mormon Cops Claim They Smell Alcohol on EVERYONE",
     "Channel": "The Civil Rights Lawyer",
     "Format": "Standard",
-    "Views Gained": 354637
-  },
-  {
-    "Rank": 29,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/-Ih9b62zNjE/hqdefault.jpg",
-    "Title": "최민식이 16년 만에 해보는 플러팅 #맨끝줄소년",
-    "Channel": "영화한입하실",
-    "Format": "Short",
-    "Views Gained": 347499
-  },
-  {
-    "Rank": 30,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/ZZnpmcUzpAw/hqdefault.jpg",
-    "Title": "Bad Day For India - Tata Got Fully HACKED -  600 GB Data Leaked in India! #shorts",
-    "Channel": "FactTechz",
-    "Format": "Short",
-    "Views Gained": 332590
+    "Views Gained": 378260
   },
   {
     "Rank": 31,
-    "Change": "-4",
+    "Change": "+3",
+    "Thumbnail": "https://i.ytimg.com/vi/Gcft9kVf798/hqdefault.jpg",
+    "Title": "J'AIME LES NAINS",
+    "Channel": "Bazar du Grenier",
+    "Format": "Long",
+    "Views Gained": 350296
+  },
+  {
+    "Rank": 32,
+    "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/EsaNn4DltBY/hqdefault.jpg",
     "Title": "War Against INDIA - Pakistani Defence Minister Threatens WAR With India! #shorts",
     "Channel": "FactTechz",
@@ -279,44 +288,53 @@
     "Views Gained": 318470
   },
   {
-    "Rank": 32,
-    "Change": "-11",
-    "Thumbnail": "https://i.ytimg.com/vi/HjXT1rGJLHg/hqdefault.jpg",
-    "Title": "Kenapa Petugas Stadion Ini Harus Mengabaikan Tim Favoritnya #faktaunik #animation",
-    "Channel": "Penjelajah Fakta",
-    "Format": "Short",
-    "Views Gained": 267933
-  },
-  {
     "Rank": 33,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/kfkn5Ak4oJI/hqdefault.jpg",
-    "Title": "#illustration #digitalart #pov #trendingshorts #montagem #trending#tiktok #isolation",
-    "Channel": "Team Maxico 1M",
+    "Change": "-15",
+    "Thumbnail": "https://i.ytimg.com/vi/e3i8IrGxcCg/hqdefault.jpg",
+    "Title": "무릎을 굽히지 않고 앉는 창의적인 방법",
+    "Channel": "디데이쇼츠",
     "Format": "Short",
-    "Views Gained": 263760
+    "Views Gained": 304606
   },
   {
     "Rank": 34,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/Gcft9kVf798/hqdefault.jpg",
-    "Title": "J'AIME LES NAINS",
-    "Channel": "Bazar du Grenier",
-    "Format": "Long",
-    "Views Gained": 242769
+    "Change": "-12",
+    "Thumbnail": "https://i.ytimg.com/vi/KsdCQLtzZFU/hqdefault.jpg",
+    "Title": "I Can't Do This 🥶😳 | #shortsfeed #trending #rumi",
+    "Channel": "Selected Zone",
+    "Format": "Short",
+    "Views Gained": 294085
   },
   {
     "Rank": 35,
-    "Change": "-10",
-    "Thumbnail": "https://i.ytimg.com/vi/DxWagC-ePUg/hqdefault.jpg",
-    "Title": "Ranking Monitor Setups",
-    "Channel": "Gohar Khan",
-    "Format": "Short",
-    "Views Gained": 242701
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/qwWqingoVCw/hqdefault.jpg",
+    "Title": "Поиск провода в стене с помощью конденсатора НЕ УДАЛСЯ! #энерголикбез #секрет",
+    "Channel": "Александр Мальков",
+    "Format": "Standard",
+    "Views Gained": 276005
   },
   {
     "Rank": 36,
-    "Change": "-4",
+    "Change": "+1",
+    "Thumbnail": "https://i.ytimg.com/vi/NRWRPLeOuLY/hqdefault.jpg",
+    "Title": "Abre e Fecha - Música Infantil",
+    "Channel": "Clube do Pititico",
+    "Format": "Standard",
+    "Views Gained": 267169
+  },
+  {
+    "Rank": 37,
+    "Change": "+5",
+    "Thumbnail": "https://i.ytimg.com/vi/tKx7ASAkrBc/hqdefault.jpg",
+    "Title": "Can Khan Sir Survive The Govt Crackdown? | Coaching Centre Sealed, Murder Probe On | Akash Banerjee",
+    "Channel": "The Deshbhakt",
+    "Format": "Long",
+    "Views Gained": 254751
+  },
+  {
+    "Rank": 38,
+    "Change": "-2",
     "Thumbnail": "https://i.ytimg.com/vi/_PeSoG-jqAc/hqdefault.jpg",
     "Title": "Warum Rotes Wasser?",
     "Channel": "Cornally",
@@ -324,98 +342,80 @@
     "Views Gained": 237575
   },
   {
-    "Rank": 37,
-    "Change": "-2",
-    "Thumbnail": "https://i.ytimg.com/vi/NRWRPLeOuLY/hqdefault.jpg",
-    "Title": "Abre e Fecha - Música Infantil",
-    "Channel": "Clube do Pititico",
-    "Format": "Standard",
-    "Views Gained": 227621
-  },
-  {
-    "Rank": 38,
-    "Change": "-10",
-    "Thumbnail": "https://i.ytimg.com/vi/RKXFueNVlmQ/hqdefault.jpg",
-    "Title": "Unfortunately, India Will NEVER Be in FIFA Football World Cup! Sad Situation of Football #shorts",
-    "Channel": "FactTechz",
-    "Format": "Short",
-    "Views Gained": 202410
-  },
-  {
     "Rank": 39,
-    "Change": "-9",
-    "Thumbnail": "https://i.ytimg.com/vi/cfr5Z03gnik/hqdefault.jpg",
-    "Title": "Tv de tubo vs IMÁN",
-    "Channel": "Eze Martínez",
-    "Format": "Short",
-    "Views Gained": 201189
-  },
-  {
-    "Rank": 40,
-    "Change": "-11",
-    "Thumbnail": "https://i.ytimg.com/vi/-1AAPBnNNlo/hqdefault.jpg",
-    "Title": "uDlamini YIstar part 05 - extra episodes (2)",
-    "Channel": "MDM Sketch Comedy",
-    "Format": "Long",
-    "Views Gained": 201064
-  },
-  {
-    "Rank": 41,
-    "Change": "-19",
-    "Thumbnail": "https://i.ytimg.com/vi/4FUqZRhoRuI/hqdefault.jpg",
-    "Title": "Karma Instantâneo 💀",
-    "Channel": "Investiga, Pinhel! ",
-    "Format": "Short",
-    "Views Gained": 184351
-  },
-  {
-    "Rank": 42,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/tKx7ASAkrBc/hqdefault.jpg",
-    "Title": "Can Khan Sir Survive The Govt Crackdown? | Coaching Centre Sealed, Murder Probe On | Akash Banerjee",
-    "Channel": "The Deshbhakt",
-    "Format": "Long",
-    "Views Gained": 165478
-  },
-  {
-    "Rank": 43,
-    "Change": "-7",
-    "Thumbnail": "https://i.ytimg.com/vi/lUYER-pLusw/hqdefault.jpg",
-    "Title": "Masalah Android ⁉️",
-    "Channel": "GTID",
-    "Format": "Short",
-    "Views Gained": 143472
-  },
-  {
-    "Rank": 44,
-    "Change": "New",
+    "Change": "+5",
     "Thumbnail": "https://i.ytimg.com/vi/Wm0kXS65Ovk/hqdefault.jpg",
     "Title": "Russia's Biggest Risk: Peanut Island | By Ankit Agrawal #shorts",
     "Channel": "StudyIQ IAS",
     "Format": "Short",
-    "Views Gained": 139922
+    "Views Gained": 231796
   },
   {
-    "Rank": 45,
+    "Rank": 40,
     "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/a2LSl6Rmh50/hqdefault.jpg",
+    "Title": "\"Malam Penuh Ketakutan, Rahasia, dan Ikatan Tak Terduga\" #shortvideo",
+    "Channel": "Recound 07",
+    "Format": "Short",
+    "Views Gained": 223937
+  },
+  {
+    "Rank": 41,
+    "Change": "+4",
     "Thumbnail": "https://i.ytimg.com/vi/TAHBdLN4qYk/hqdefault.jpg",
     "Title": "聴覚障害のある生徒に対して先生は… #shorts #学校 #先生",
     "Channel": "やんばるゼミ",
     "Format": "Short",
-    "Views Gained": 132150
+    "Views Gained": 221331
+  },
+  {
+    "Rank": 42,
+    "Change": "-7",
+    "Thumbnail": "https://i.ytimg.com/vi/DxWagC-ePUg/hqdefault.jpg",
+    "Title": "Ranking Monitor Setups",
+    "Channel": "Gohar Khan",
+    "Format": "Short",
+    "Views Gained": 173911
+  },
+  {
+    "Rank": 43,
+    "Change": "-4",
+    "Thumbnail": "https://i.ytimg.com/vi/cfr5Z03gnik/hqdefault.jpg",
+    "Title": "Tv de tubo vs IMÁN",
+    "Channel": "Eze Martínez",
+    "Format": "Short",
+    "Views Gained": 147723
+  },
+  {
+    "Rank": 44,
+    "Change": "-4",
+    "Thumbnail": "https://i.ytimg.com/vi/-1AAPBnNNlo/hqdefault.jpg",
+    "Title": "uDlamini YIstar part 05 - extra episodes (2)",
+    "Channel": "MDM Sketch Comedy",
+    "Format": "Long",
+    "Views Gained": 143637
+  },
+  {
+    "Rank": 45,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/ZSRIlSiu5n8/hqdefault.jpg",
+    "Title": "CERITA DARI HILANGNYA COLOKAN EARPHONE DI HAPE!! 😱🥶",
+    "Channel": "Risyad and Son",
+    "Format": "Standard",
+    "Views Gained": 135292
   },
   {
     "Rank": 46,
-    "Change": "-13",
-    "Thumbnail": "https://i.ytimg.com/vi/LF4ibR65FHg/hqdefault.jpg",
-    "Title": "Düsseldorf hat DLC-Ampeln lul",
-    "Channel": "70 Sekunden Wiki",
-    "Format": "Short",
-    "Views Gained": 117913
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/04RbArJ2PQ8/hqdefault.jpg",
+    "Title": "uDlamini YiStar Part 05 - Extra 3 (Trust and Insecurities)",
+    "Channel": "MDM Sketch Comedy",
+    "Format": "Long",
+    "Views Gained": 116255
   },
   {
     "Rank": 47,
-    "Change": "New",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/zse5QsB-BHA/hqdefault.jpg",
     "Title": "Akal Akalan Konyol | Huawei Matepad Mini",
     "Channel": "GTID",
@@ -425,28 +425,28 @@
   {
     "Rank": 48,
     "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/1EwpPkpsSh0/hqdefault.jpg",
-    "Title": "SolarBalls – Official Trailer",
-    "Channel": "SolarBalls",
+    "Thumbnail": "https://i.ytimg.com/vi/63zNqlPYOaI/hqdefault.jpg",
+    "Title": "Majors With the Highest GPA",
+    "Channel": "Gohar Khan",
     "Format": "Short",
-    "Views Gained": 96723
+    "Views Gained": 108233
   },
   {
     "Rank": 49,
-    "Change": "-18",
-    "Thumbnail": "https://i.ytimg.com/vi/DShb_SYbK2w/hqdefault.jpg",
-    "Title": "등 뒤로 날아온 공을 처리한 지루의 방법",
-    "Channel": "과거상자",
+    "Change": "-6",
+    "Thumbnail": "https://i.ytimg.com/vi/lUYER-pLusw/hqdefault.jpg",
+    "Title": "Masalah Android ⁉️",
+    "Channel": "GTID",
     "Format": "Short",
-    "Views Gained": 84405
+    "Views Gained": 105725
   },
   {
     "Rank": 50,
-    "Change": "-6",
-    "Thumbnail": "https://i.ytimg.com/vi/1hTj0m9B_gA/hqdefault.jpg",
-    "Title": "刑務所からSQLiteをゼロから書き換える男",
-    "Channel": "直也テック",
+    "Change": "-12",
+    "Thumbnail": "https://i.ytimg.com/vi/RKXFueNVlmQ/hqdefault.jpg",
+    "Title": "Unfortunately, India Will NEVER Be in FIFA Football World Cup! Sad Situation of Football #shorts",
+    "Channel": "FactTechz",
     "Format": "Short",
-    "Views Gained": 80341
+    "Views Gained": 99987
   }
 ]
