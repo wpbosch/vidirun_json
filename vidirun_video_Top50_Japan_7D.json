@@ -7,7 +7,7 @@
     "Channel": "JYP Entertainment",
     "Category": "Music",
     "Format": "Standard",
-    "Views Gained": 33017930
+    "Views Gained": 24736141
   },
   {
     "Rank": 2,
@@ -17,27 +17,27 @@
     "Channel": "BABYMONSTER",
     "Category": "Music",
     "Format": "Standard",
-    "Views Gained": 21390365
+    "Views Gained": 19026642
   },
   {
     "Rank": 3,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/f4VdofF9GQ0/hqdefault.jpg",
-    "Title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa Part 102",
-    "Channel": "Mr Tungtungsahur Blue ",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 8846223
-  },
-  {
-    "Rank": 4,
-    "Change": "0",
+    "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/ks5WI7JrTBw/hqdefault.jpg",
     "Title": "せいやが天才だと分かる瞬間w #すごい #お笑い",
     "Channel": "マスクメン",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 7230722
+    "Views Gained": 7408375
+  },
+  {
+    "Rank": 4,
+    "Change": "-1",
+    "Thumbnail": "https://i.ytimg.com/vi/f4VdofF9GQ0/hqdefault.jpg",
+    "Title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa Part 102",
+    "Channel": "Mr Tungtungsahur Blue ",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 5042303
   },
   {
     "Rank": 5,
@@ -47,71 +47,131 @@
     "Channel": "Mrs. GREEN APPLE",
     "Category": "Music",
     "Format": "Standard",
-    "Views Gained": 5167302
+    "Views Gained": 4641913
   },
   {
     "Rank": 6,
-    "Change": "+1",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/2M_odlWYB40/hqdefault.jpg",
     "Title": "夏の風物詩が今年も我が家にやってきた #カブトムシ #夏の風物詩 #shorts",
     "Channel": "PanoL",
     "Category": "Pets & Animals",
     "Format": "Short",
-    "Views Gained": 4160490
+    "Views Gained": 3886343
   },
   {
     "Rank": 7,
-    "Change": "-1",
-    "Thumbnail": "https://i.ytimg.com/vi/Bq84krESVgQ/hqdefault.jpg",
-    "Title": "新川優愛の大切なものを笑うスタジオで唯一笑わなかった聖人",
-    "Channel": "今日は泣きたい",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 4043701
+    "Change": "+13",
+    "Thumbnail": "https://i.ytimg.com/vi/h-TPXFw_q0I/hqdefault.jpg",
+    "Title": "Snow Man 'グッタイム' Music Video",
+    "Channel": "Snow Man",
+    "Category": "Music",
+    "Format": "Standard",
+    "Views Gained": 3690531
   },
   {
     "Rank": 8,
-    "Change": "+2",
-    "Thumbnail": "https://i.ytimg.com/vi/pDLvpkrvL00/hqdefault.jpg",
-    "Title": "大谷の負傷に反応する味方選手たち",
-    "Channel": "TheWorld",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 3226014
-  },
-  {
-    "Rank": 9,
-    "Change": "+3",
+    "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/cZCtlsRq_8U/hqdefault.jpg",
     "Title": "気づいた時には、もう遅かった…",
     "Channel": "何が好き?",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 3214134
+    "Views Gained": 3608511
   },
   {
-    "Rank": 10,
-    "Change": "+1",
-    "Thumbnail": "https://i.ytimg.com/vi/BV1tv2VVjss/hqdefault.jpg",
-    "Title": "障害のある子を持つ親の本音",
-    "Channel": "ひとくちえいが",
-    "Category": "Film & Animation",
-    "Format": "Standard",
-    "Views Gained": 3040061
-  },
-  {
-    "Rank": 11,
-    "Change": "+16",
+    "Rank": 9,
+    "Change": "+2",
     "Thumbnail": "https://i.ytimg.com/vi/7PeR_rZhzTU/hqdefault.jpg",
     "Title": "焦っても冷静でいるべき理由",
     "Channel": "一瞬だけ",
     "Category": "Sports",
     "Format": "Short",
-    "Views Gained": 2987673
+    "Views Gained": 3601858
+  },
+  {
+    "Rank": 10,
+    "Change": "-3",
+    "Thumbnail": "https://i.ytimg.com/vi/Bq84krESVgQ/hqdefault.jpg",
+    "Title": "新川優愛の大切なものを笑うスタジオで唯一笑わなかった聖人",
+    "Channel": "今日は泣きたい",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 3366493
+  },
+  {
+    "Rank": 11,
+    "Change": "-3",
+    "Thumbnail": "https://i.ytimg.com/vi/pDLvpkrvL00/hqdefault.jpg",
+    "Title": "大谷の負傷に反応する味方選手たち",
+    "Channel": "TheWorld",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 3343286
   },
   {
     "Rank": 12,
+    "Change": "+6",
+    "Thumbnail": "https://i.ytimg.com/vi/U31m4Vxf0Qk/hqdefault.jpg",
+    "Title": "高校生が見せるスーパープレイがかっこよすぎる！",
+    "Channel": "笑ンク",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 3247717
+  },
+  {
+    "Rank": 13,
     "Change": "+1",
+    "Thumbnail": "https://i.ytimg.com/vi/8Uuwmsr1aPw/hqdefault.jpg",
+    "Title": "煽りまくるK-POPアイドルのウォンヒが面白すぎるｗｗ【ILLIT】#illit #wonhee #kpop",
+    "Channel": "のぶのK-POP部屋",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 3108943
+  },
+  {
+    "Rank": 14,
+    "Change": "-1",
+    "Thumbnail": "https://i.ytimg.com/vi/gUyE3sUNQGc/hqdefault.jpg",
+    "Title": "2人とも似すぎやろ笑笑",
+    "Channel": "さいしょっぺ",
+    "Category": "Gaming",
+    "Format": "Short",
+    "Views Gained": 2956268
+  },
+  {
+    "Rank": 15,
+    "Change": "+7",
+    "Thumbnail": "https://i.ytimg.com/vi/lYqPG_e1GZ4/hqdefault.jpg",
+    "Title": "Purple iPad Setup, More Ways to Use It #tiaota #ipadkeyboard",
+    "Channel": "Tiaota",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 2884692
+  },
+  {
+    "Rank": 16,
+    "Change": "+13",
+    "Thumbnail": "https://i.ytimg.com/vi/MK8xSWPmadk/hqdefault.jpg",
+    "Title": "甲子園で高校球児がメジャーリーガー級の神プレイ",
+    "Channel": "今日の世界🌏",
+    "Category": "Sports",
+    "Format": "Short",
+    "Views Gained": 2780744
+  },
+  {
+    "Rank": 17,
+    "Change": "0",
+    "Thumbnail": "https://i.ytimg.com/vi/DewUcT7nkhE/hqdefault.jpg",
+    "Title": "大谷翔平ですら我慢できないラシン今や野球界で最も物議を醸す選手の一人になっている #大谷翔平 #MLB #プロ野球 #野球雑学 #野球",
+    "Channel": "野球記",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 2752044
+  },
+  {
+    "Rank": 18,
+    "Change": "-6",
     "Thumbnail": "https://i.ytimg.com/vi/1zfAhB15YkI/hqdefault.jpg",
     "Title": "世界でバズった「すぐにやり返された瞬間」TOP6",
     "Channel": "ほんの1分",
@@ -120,28 +180,18 @@
     "Views Gained": 2744639
   },
   {
-    "Rank": 13,
-    "Change": "+7",
-    "Thumbnail": "https://i.ytimg.com/vi/gUyE3sUNQGc/hqdefault.jpg",
-    "Title": "2人とも似すぎやろ笑笑",
-    "Channel": "さいしょっぺ",
-    "Category": "Gaming",
-    "Format": "Short",
-    "Views Gained": 2704196
+    "Rank": 19,
+    "Change": "+2",
+    "Thumbnail": "https://i.ytimg.com/vi/chl0R8C4NJ8/hqdefault.jpg",
+    "Title": "Hearts2Hearts 하츠투하츠 'ICONIC HEART' MV",
+    "Channel": "SMTOWN",
+    "Category": "Music",
+    "Format": "Standard",
+    "Views Gained": 2728620
   },
   {
-    "Rank": 14,
-    "Change": "+11",
-    "Thumbnail": "https://i.ytimg.com/vi/8Uuwmsr1aPw/hqdefault.jpg",
-    "Title": "煽りまくるK-POPアイドルのウォンヒが面白すぎるｗｗ【ILLIT】#illit #wonhee #kpop",
-    "Channel": "のぶのK-POP部屋",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 2698205
-  },
-  {
-    "Rank": 15,
-    "Change": "0",
+    "Rank": 20,
+    "Change": "-5",
     "Thumbnail": "https://i.ytimg.com/vi/-r9oWaViXoA/hqdefault.jpg",
     "Title": "警察に教える手錠講座",
     "Channel": "すごい瞬間",
@@ -150,78 +200,78 @@
     "Views Gained": 2690908
   },
   {
-    "Rank": 16,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/pHciG9_2xXM/hqdefault.jpg",
-    "Title": "Meet my GRLS, TUIDE",
-    "Channel": "HYBE LABELS",
-    "Category": "Music",
-    "Format": "Standard",
-    "Views Gained": 2659948
-  },
-  {
-    "Rank": 17,
-    "Change": "+6",
-    "Thumbnail": "https://i.ytimg.com/vi/DewUcT7nkhE/hqdefault.jpg",
-    "Title": "大谷翔平ですら我慢できないラシン今や野球界で最も物議を醸す選手の一人になっている #大谷翔平 #MLB #プロ野球 #野球雑学 #野球",
-    "Channel": "野球記",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 2624133
-  },
-  {
-    "Rank": 18,
-    "Change": "+18",
-    "Thumbnail": "https://i.ytimg.com/vi/U31m4Vxf0Qk/hqdefault.jpg",
-    "Title": "高校生が見せるスーパープレイがかっこよすぎる！",
-    "Channel": "笑ンク",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 2622486
-  },
-  {
-    "Rank": 19,
-    "Change": "-11",
-    "Thumbnail": "https://i.ytimg.com/vi/OgizhMyKcgA/hqdefault.jpg",
-    "Title": "娘が見た瞬間、すべてが終わった",
-    "Channel": "3分シネマ",
-    "Category": "People & Blogs",
-    "Format": "Standard",
-    "Views Gained": 2545135
-  },
-  {
-    "Rank": 20,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/h-TPXFw_q0I/hqdefault.jpg",
-    "Title": "Snow Man 'グッタイム' Music Video",
-    "Channel": "Snow Man",
-    "Category": "Music",
-    "Format": "Standard",
-    "Views Gained": 2355532
-  },
-  {
     "Rank": 21,
-    "Change": "+12",
-    "Thumbnail": "https://i.ytimg.com/vi/chl0R8C4NJ8/hqdefault.jpg",
-    "Title": "Hearts2Hearts 하츠투하츠 'ICONIC HEART' MV",
-    "Channel": "SMTOWN",
-    "Category": "Music",
-    "Format": "Standard",
-    "Views Gained": 2343119
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/c84y9gAY90c/hqdefault.jpg",
+    "Title": "Made by Google '26",
+    "Channel": "Made by Google",
+    "Category": "Science & Technology",
+    "Format": "Long",
+    "Views Gained": 2593208
   },
   {
     "Rank": 22,
-    "Change": "+8",
-    "Thumbnail": "https://i.ytimg.com/vi/lYqPG_e1GZ4/hqdefault.jpg",
-    "Title": "Purple iPad Setup, More Ways to Use It #tiaota #ipadkeyboard",
-    "Channel": "Tiaota",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 2314558
+    "Change": "+4",
+    "Thumbnail": "https://i.ytimg.com/vi/AWjrsLt78aQ/hqdefault.jpg",
+    "Title": "#チョコレートプラネット#おもしろネタ#ドッキリGP#千鳥ノブ#千鳥ドッキリGP#千鳥のクセがスゴいネタgp#スゴいネタGP#おもしろ動画#お笑い芸人#お笑い#shorts",
+    "Channel": "Jamil one man",
+    "Category": "Comedy",
+    "Format": "Standard",
+    "Views Gained": 2586071
   },
   {
     "Rank": 23,
-    "Change": "+21",
+    "Change": "+2",
+    "Thumbnail": "https://i.ytimg.com/vi/mJO9_bDCjxo/hqdefault.jpg",
+    "Title": "路上に隠れていた本物の才能",
+    "Channel": "オクタゴンタイム",
+    "Category": "Sports",
+    "Format": "Short",
+    "Views Gained": 2471503
+  },
+  {
+    "Rank": 24,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/hhDdg_WQITQ/hqdefault.jpg",
+    "Title": "アニメシーン再現集 #衝撃 #面白集 #アニメ",
+    "Channel": "世界GAMEまとめ",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 2441638
+  },
+  {
+    "Rank": 25,
+    "Change": "+5",
+    "Thumbnail": "https://i.ytimg.com/vi/PmkN1iH4Ci4/hqdefault.jpg",
+    "Title": "King Gnu - GO GHOST",
+    "Channel": "King Gnu official YouTube channel",
+    "Category": "Music",
+    "Format": "Standard",
+    "Views Gained": 2431754
+  },
+  {
+    "Rank": 26,
+    "Change": "+9",
+    "Thumbnail": "https://i.ytimg.com/vi/o9hspadICrc/hqdefault.jpg",
+    "Title": "ス。ｰ睡眠の重要性についてｰ#おもしろ #ネタ #アニメ #おすすめ",
+    "Channel": "どこぬし",
+    "Category": "Comedy",
+    "Format": "Short",
+    "Views Gained": 2361103
+  },
+  {
+    "Rank": 27,
+    "Change": "+1",
+    "Thumbnail": "https://i.ytimg.com/vi/S_vZGkhykIQ/hqdefault.jpg",
+    "Title": "阿部寛の魅力が半端ない #俳優 #vivant",
+    "Channel": "ネタは突然に",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 2323559
+  },
+  {
+    "Rank": 28,
+    "Change": "-5",
     "Thumbnail": "https://i.ytimg.com/vi/m3I7BbtCZ5Y/hqdefault.jpg",
     "Title": "こどもで腹筋崩壊する瞬間ww #おもしろ #面白い #こども",
     "Channel": "バズ神殿",
@@ -230,238 +280,178 @@
     "Views Gained": 2314328
   },
   {
-    "Rank": 24,
-    "Change": "+5",
-    "Thumbnail": "https://i.ytimg.com/vi/BUVobLBrDfM/hqdefault.jpg",
-    "Title": "yuriyan が語る櫻井翔に守られる瞬間#funny",
-    "Channel": "Coco Roll",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 2289439
-  },
-  {
-    "Rank": 25,
-    "Change": "+1",
-    "Thumbnail": "https://i.ytimg.com/vi/mJO9_bDCjxo/hqdefault.jpg",
-    "Title": "路上に隠れていた本物の才能",
-    "Channel": "オクタゴンタイム",
-    "Category": "Sports",
-    "Format": "Short",
-    "Views Gained": 2277554
-  },
-  {
-    "Rank": 26,
-    "Change": "+11",
-    "Thumbnail": "https://i.ytimg.com/vi/AWjrsLt78aQ/hqdefault.jpg",
-    "Title": "#チョコレートプラネット#おもしろネタ#ドッキリGP#千鳥ノブ#千鳥ドッキリGP#千鳥のクセがスゴいネタgp#スゴいネタGP#おもしろ動画#お笑い芸人#お笑い#shorts",
-    "Channel": "Jamil one man",
-    "Category": "Comedy",
-    "Format": "Standard",
-    "Views Gained": 2251258
-  },
-  {
-    "Rank": 27,
-    "Change": "-18",
-    "Thumbnail": "https://i.ytimg.com/vi/cEZFC46M7EE/hqdefault.jpg",
-    "Title": "この人を消してくれませんか？",
-    "Channel": "つばき蛍",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 2238661
-  },
-  {
-    "Rank": 28,
-    "Change": "+7",
-    "Thumbnail": "https://i.ytimg.com/vi/S_vZGkhykIQ/hqdefault.jpg",
-    "Title": "阿部寛の魅力が半端ない #俳優 #vivant",
-    "Channel": "ネタは突然に",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 2145989
-  },
-  {
     "Rank": 29,
-    "Change": "+19",
-    "Thumbnail": "https://i.ytimg.com/vi/MK8xSWPmadk/hqdefault.jpg",
-    "Title": "甲子園で高校球児がメジャーリーガー級の神プレイ",
-    "Channel": "今日の世界🌏",
-    "Category": "Sports",
-    "Format": "Short",
-    "Views Gained": 2130949
+    "Change": "-19",
+    "Thumbnail": "https://i.ytimg.com/vi/BV1tv2VVjss/hqdefault.jpg",
+    "Title": "障害のある子を持つ親の本音",
+    "Channel": "ひとくちえいが",
+    "Category": "Film & Animation",
+    "Format": "Standard",
+    "Views Gained": 2288318
   },
   {
     "Rank": 30,
-    "Change": "+11",
-    "Thumbnail": "https://i.ytimg.com/vi/PmkN1iH4Ci4/hqdefault.jpg",
-    "Title": "King Gnu - GO GHOST",
-    "Channel": "King Gnu official YouTube channel",
-    "Category": "Music",
-    "Format": "Standard",
-    "Views Gained": 2116266
-  },
-  {
-    "Rank": 31,
-    "Change": "-17",
-    "Thumbnail": "https://i.ytimg.com/vi/yTpH4x8QJ3o/hqdefault.jpg",
-    "Title": "一つの台座に⁉︎ アニメ「鬼滅の刃」 フィギュア-絆ノ装-狛治＆恋雪開封比較ディスプレイ #shorts #フィギュア #鬼滅の刃 #一番くじ プライズ",
-    "Channel": "ミツヤスエット / フィギュアCh.",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 2078301
-  },
-  {
-    "Rank": 32,
-    "Change": "-10",
-    "Thumbnail": "https://i.ytimg.com/vi/7VqCdhFGE78/hqdefault.jpg",
-    "Title": "M!LK - 罪と罰と雨とキス (佐野勇斗＆吉田仁人) (Official Music Video)",
-    "Channel": "M!LK",
-    "Category": "Music",
-    "Format": "Standard",
-    "Views Gained": 2075194
-  },
-  {
-    "Rank": 33,
-    "Change": "+5",
+    "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/9dmZN6S94CU/hqdefault.jpg",
     "Title": "ノリが良すぎる最高の教師達！",
     "Channel": "笑ンク",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 2043880
+    "Views Gained": 2283660
   },
   {
-    "Rank": 34,
-    "Change": "-17",
-    "Thumbnail": "https://i.ytimg.com/vi/TJV7ZADA9WA/hqdefault.jpg",
-    "Title": "スパイシーガーリック好き🤣",
-    "Channel": "める【プロフガチ】",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 2041199
-  },
-  {
-    "Rank": 35,
-    "Change": "+14",
-    "Thumbnail": "https://i.ytimg.com/vi/o9hspadICrc/hqdefault.jpg",
-    "Title": "ス。ｰ睡眠の重要性についてｰ#おもしろ #ネタ #アニメ #おすすめ",
-    "Channel": "どこぬし",
-    "Category": "Comedy",
-    "Format": "Short",
-    "Views Gained": 2038721
-  },
-  {
-    "Rank": 36,
-    "Change": "+4",
-    "Thumbnail": "https://i.ytimg.com/vi/Np5HH5LdxYI/hqdefault.jpg",
-    "Title": "テニスボールをすぐに捨てる理由",
-    "Channel": "なんか気持ちいい",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 1960873
-  },
-  {
-    "Rank": 37,
-    "Change": "-3",
-    "Thumbnail": "https://i.ytimg.com/vi/TIGQx_bzmuA/hqdefault.jpg",
-    "Title": "マネキンを妻と言う男に隠された真実とは",
-    "Channel": "混血のカレコレ",
-    "Category": "Film & Animation",
-    "Format": "Short",
-    "Views Gained": 1897900
-  },
-  {
-    "Rank": 38,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/MuTTosyTyPI/hqdefault.jpg",
-    "Title": "【大爆笑】見たら絶対欲しくなる‼︎海外でバズったストレス解消おもちゃの面白い瞬間TOP5",
-    "Channel": "ワールドハック",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 1843146
-  },
-  {
-    "Rank": 39,
-    "Change": "-18",
-    "Thumbnail": "https://i.ytimg.com/vi/4IKHox-DKrM/hqdefault.jpg",
-    "Title": "【Ado】モンストロ",
-    "Channel": "Ado",
-    "Category": "Music",
-    "Format": "Standard",
-    "Views Gained": 1837863
-  },
-  {
-    "Rank": 40,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/Xgvjy0sbDvA/hqdefault.jpg",
-    "Title": "1万人に1人の謎の足の爪！「治したくない」と医者に言われた衝撃の理由とは！？ #マツコ  #月曜から夜ふかし  #お笑い",
-    "Channel": "GMOD HT",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 1813581
-  },
-  {
-    "Rank": 41,
-    "Change": "-2",
-    "Thumbnail": "https://i.ytimg.com/vi/7LHAREM6auc/hqdefault.jpg",
-    "Title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearablegadget😱#shortsfeed#trending",
-    "Channel": "MR Vision BD",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 1786366
-  },
-  {
-    "Rank": 42,
-    "Change": "New",
+    "Rank": 31,
+    "Change": "+11",
     "Thumbnail": "https://i.ytimg.com/vi/EMwCythcDyw/hqdefault.jpg",
     "Title": "イチロー、理想の日本代表選出で内川聖一について語る件 #mlb #野球 #アメリカンリーグ #npb #プロ野球 #名言 #ホームラン #高校野球 #侍ジャパン #wbc #ソフトバンク #大谷翔平",
     "Channel": "baseball.worldclub",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 1763414
+    "Views Gained": 2180091
   },
   {
-    "Rank": 43,
-    "Change": "+2",
-    "Thumbnail": "https://i.ytimg.com/vi/0iKyP_NK-ZI/hqdefault.jpg",
-    "Title": "録画しといてマジでよかった",
-    "Channel": "1分ちょうだい",
-    "Category": "Film & Animation",
+    "Rank": 32,
+    "Change": "+6",
+    "Thumbnail": "https://i.ytimg.com/vi/MuTTosyTyPI/hqdefault.jpg",
+    "Title": "【大爆笑】見たら絶対欲しくなる‼︎海外でバズったストレス解消おもちゃの面白い瞬間TOP5",
+    "Channel": "ワールドハック",
+    "Category": "Entertainment",
     "Format": "Short",
-    "Views Gained": 1761791
+    "Views Gained": 2161580
   },
   {
-    "Rank": 44,
-    "Change": "-25",
-    "Thumbnail": "https://i.ytimg.com/vi/yvEPLyJUepc/hqdefault.jpg",
-    "Title": "珍しいアルバイト事情を街頭インタビュー！ #マツコ  #月曜から夜ふかし",
-    "Channel": "GMOD HT",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 1751603
-  },
-  {
-    "Rank": 45,
-    "Change": "-3",
-    "Thumbnail": "https://i.ytimg.com/vi/_rFsH0XVS0c/hqdefault.jpg",
-    "Title": "突然大金持ちになった男、お金の使い方が爽快すぎる #お笑い #お笑い芸人#面白い #shorts",
-    "Channel": "Tuffycat",
-    "Category": "Comedy",
-    "Format": "Short",
-    "Views Gained": 1727170
-  },
-  {
-    "Rank": 46,
-    "Change": "New",
+    "Rank": 33,
+    "Change": "+13",
     "Thumbnail": "https://i.ytimg.com/vi/o7rg8eBepE4/hqdefault.jpg",
     "Title": "【ラヴィット！】時代と戦う安村【とにかく明るい安村】#shorts #ラヴィット #とにかく明るい安村 #安村 #みりにゃ  #大谷映美里 #可愛い #アイドル #モデル #時代 #コンプラ #ネタ",
     "Channel": " × meme",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 1695867
+    "Views Gained": 2118296
   },
   {
-    "Rank": 47,
+    "Rank": 34,
+    "Change": "+2",
+    "Thumbnail": "https://i.ytimg.com/vi/Np5HH5LdxYI/hqdefault.jpg",
+    "Title": "テニスボールをすぐに捨てる理由",
+    "Channel": "なんか気持ちいい",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 2043349
+  },
+  {
+    "Rank": 35,
+    "Change": "+6",
+    "Thumbnail": "https://i.ytimg.com/vi/7LHAREM6auc/hqdefault.jpg",
+    "Title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearablegadget😱#shortsfeed#trending",
+    "Channel": "MR Vision BD",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 1982241
+  },
+  {
+    "Rank": 36,
+    "Change": "+4",
+    "Thumbnail": "https://i.ytimg.com/vi/Xgvjy0sbDvA/hqdefault.jpg",
+    "Title": "1万人に1人の謎の足の爪！「治したくない」と医者に言われた衝撃の理由とは！？ #マツコ  #月曜から夜ふかし  #お笑い",
+    "Channel": "GMOD HT",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 1930985
+  },
+  {
+    "Rank": 37,
+    "Change": "+6",
+    "Thumbnail": "https://i.ytimg.com/vi/0iKyP_NK-ZI/hqdefault.jpg",
+    "Title": "録画しといてマジでよかった",
+    "Channel": "1分ちょうだい",
+    "Category": "Film & Animation",
+    "Format": "Short",
+    "Views Gained": 1909519
+  },
+  {
+    "Rank": 38,
+    "Change": "-6",
+    "Thumbnail": "https://i.ytimg.com/vi/7VqCdhFGE78/hqdefault.jpg",
+    "Title": "M!LK - 罪と罰と雨とキス (佐野勇斗＆吉田仁人) (Official Music Video)",
+    "Channel": "M!LK",
+    "Category": "Music",
+    "Format": "Standard",
+    "Views Gained": 1882729
+  },
+  {
+    "Rank": 39,
     "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/ldDQkuQqaUE/hqdefault.jpg",
+    "Title": "これから何かが始まりそうな聴力検査",
+    "Channel": "千年ぶりのYouTube",
+    "Category": "Gaming",
+    "Format": "Short",
+    "Views Gained": 1839364
+  },
+  {
+    "Rank": 40,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/a6-4oR9d_HQ/hqdefault.jpg",
+    "Title": "何でも末っ子の味方をしてはいけない理由",
+    "Channel": "え、マジで!?",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 1826203
+  },
+  {
+    "Rank": 41,
+    "Change": "+9",
+    "Thumbnail": "https://i.ytimg.com/vi/Xv4OGIYfT3s/hqdefault.jpg",
+    "Title": "透明なサッカーボールの開発に成功した男性",
+    "Channel": "キイロネコ",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 1790286
+  },
+  {
+    "Rank": 42,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/ke-CSmU0vgE/hqdefault.jpg",
+    "Title": "この一瞬が大切 #twitter #shortsfeed",
+    "Channel": "おもしろ動画集",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 1783145
+  },
+  {
+    "Rank": 43,
+    "Change": "-19",
+    "Thumbnail": "https://i.ytimg.com/vi/BUVobLBrDfM/hqdefault.jpg",
+    "Title": "yuriyan が語る櫻井翔に守られる瞬間#funny",
+    "Channel": "Coco Roll",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 1743447
+  },
+  {
+    "Rank": 44,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/-gx9i2Dv_qM/hqdefault.jpg",
+    "Title": "母親の資格とは何なのか",
+    "Channel": "心のままに",
+    "Category": "Film & Animation",
+    "Format": "Short",
+    "Views Gained": 1660669
+  },
+  {
+    "Rank": 45,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/Aojzi6vcwX4/hqdefault.jpg",
+    "Title": "電車で居眠りしてたら突然知らない女性に頬を叩かれたんだがその理由が衝撃的だった...#2ch #2ch面白いスレ #shorts",
+    "Channel": "こうどん",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 1655338
+  },
+  {
+    "Rank": 46,
+    "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/C5nGCAn22hs/hqdefault.jpg",
     "Title": "決勝戦で同じチームの仲間と当たったら",
     "Channel": "タイムアタック",
@@ -470,18 +460,18 @@
     "Views Gained": 1610773
   },
   {
-    "Rank": 48,
-    "Change": "-30",
-    "Thumbnail": "https://i.ytimg.com/vi/g1b77ItMrQ8/hqdefault.jpg",
-    "Title": "給食はもらい方が大事な理由",
-    "Channel": "1分ヒーリング",
+    "Rank": 47,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/OfMBF85-yhc/hqdefault.jpg",
+    "Title": "ちっちゃい手で笑わせる！",
+    "Channel": "サクッと",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 1600545
+    "Views Gained": 1603934
   },
   {
-    "Rank": 49,
-    "Change": "New",
+    "Rank": 48,
+    "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/L07dWu_yCW8/hqdefault.jpg",
     "Title": "【武道・筋トレ】アニメのあり得ない動きを完全再現できるか！？筋トレ海外チャレンジやってみた！！#aikido  ＃karate #martial #武道 #空手＃筋トレ",
     "Channel": "YASU道",
@@ -490,13 +480,23 @@
     "Views Gained": 1582915
   },
   {
+    "Rank": 49,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/qomAAB8JvL0/hqdefault.jpg",
+    "Title": "見た目だけで判断した人の結末",
+    "Channel": "1分シネマ",
+    "Category": "People & Blogs",
+    "Format": "Standard",
+    "Views Gained": 1575213
+  },
+  {
     "Rank": 50,
     "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/Xv4OGIYfT3s/hqdefault.jpg",
-    "Title": "透明なサッカーボールの開発に成功した男性",
-    "Channel": "キイロネコ",
-    "Category": "People & Blogs",
+    "Thumbnail": "https://i.ytimg.com/vi/Gb_YYFXumLI/hqdefault.jpg",
+    "Title": "カメラ角度のおかげで疑いが晴れた選手",
+    "Channel": "一分一秒",
+    "Category": "Film & Animation",
     "Format": "Short",
-    "Views Gained": 1571466
+    "Views Gained": 1573988
   }
 ]
