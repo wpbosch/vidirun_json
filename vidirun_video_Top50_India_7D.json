@@ -1,47 +1,57 @@
 [
   {
     "Rank": 1,
-    "Change": "+1",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/kJu5VMN3yow/hqdefault.jpg",
     "Title": "I Survived 100 Days on One Block",
     "Channel": "MrBeast Gaming",
     "Category": "Gaming",
     "Format": "Long",
-    "Views Gained": 36936825
+    "Views Gained": 38617240
   },
   {
     "Rank": 2,
-    "Change": "-1",
-    "Thumbnail": "https://i.ytimg.com/vi/FCRb4kjnRx4/hqdefault.jpg",
-    "Title": "Chhathi Maiya - The VVAAN | Sidharth Malhotra & Tamannaah | Vishal Mishra | Kaushal K | Chinni P",
-    "Channel": "Zee Music Company",
-    "Category": "Music",
-    "Format": "Standard",
-    "Views Gained": 32683058
-  },
-  {
-    "Rank": 3,
     "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/yWNPxS0sXnE/hqdefault.jpg",
     "Title": "Ramayana: Jai Jai Ram (Song) | Namit M, Nitesh T | Ranbir, Yash | AR Rahman, Shreya, Arijit S, Kumar",
     "Channel": "T-Series",
     "Category": "Music",
     "Format": "Standard",
-    "Views Gained": 28649260
+    "Views Gained": 33471007
+  },
+  {
+    "Rank": 3,
+    "Change": "-1",
+    "Thumbnail": "https://i.ytimg.com/vi/FCRb4kjnRx4/hqdefault.jpg",
+    "Title": "Chhathi Maiya - The VVAAN | Sidharth Malhotra & Tamannaah | Vishal Mishra | Kaushal K | Chinni P",
+    "Channel": "Zee Music Company",
+    "Category": "Music",
+    "Format": "Standard",
+    "Views Gained": 25768411
   },
   {
     "Rank": 4,
-    "Change": "-1",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/JqFzhcWo3EU/hqdefault.jpg",
     "Title": "Yeshanagula | The Paradise | Nani | Keerthy Suresh | Anirudh Ravichander | Srikanth Odela",
     "Channel": "Saregama Telugu",
     "Category": "Music",
     "Format": "Standard",
-    "Views Gained": 26030113
+    "Views Gained": 25245498
   },
   {
     "Rank": 5,
-    "Change": "0",
+    "Change": "+2",
+    "Thumbnail": "https://i.ytimg.com/vi/uGsVDBcKonY/hqdefault.jpg",
+    "Title": "Enka Hath jab tak hai tak koi hath nhi laga skta 🙏🏻😂",
+    "Channel": "Mihir Patra",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 22250009
+  },
+  {
+    "Rank": 6,
+    "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/3gYL9d_u0r8/hqdefault.jpg",
     "Title": "Longest Food Item Under Rs 50 Challenge😃 #shorts",
     "Channel": "TeAm STARS",
@@ -50,118 +60,98 @@
     "Views Gained": 21275176
   },
   {
-    "Rank": 6,
-    "Change": "+2",
-    "Thumbnail": "https://i.ytimg.com/vi/KEFtbhLRXVA/hqdefault.jpg",
-    "Title": "Share with your Group 😂😂",
-    "Channel": "The Asstag Lite",
-    "Category": "People & Blogs",
-    "Format": "Standard",
-    "Views Gained": 18855038
-  },
-  {
     "Rank": 7,
-    "Change": "+4",
-    "Thumbnail": "https://i.ytimg.com/vi/uGsVDBcKonY/hqdefault.jpg",
-    "Title": "Enka Hath jab tak hai tak koi hath nhi laga skta 🙏🏻😂",
-    "Channel": "Mihir Patra",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 18478468
-  },
-  {
-    "Rank": 8,
-    "Change": "-1",
+    "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/UFQ5B6Jrvh8/hqdefault.jpg",
     "Title": "Abhishek Sharma Smashes 82 off 32: India Blitz Afghanistan's Target in Just 13.4 Overs | Highlights",
     "Channel": "FanCode",
     "Category": "Sports",
     "Format": "Long",
-    "Views Gained": 18404598
+    "Views Gained": 18486818
+  },
+  {
+    "Rank": 8,
+    "Change": "-2",
+    "Thumbnail": "https://i.ytimg.com/vi/KEFtbhLRXVA/hqdefault.jpg",
+    "Title": "Share with your Group 😂😂",
+    "Channel": "The Asstag Lite",
+    "Category": "People & Blogs",
+    "Format": "Standard",
+    "Views Gained": 18192191
   },
   {
     "Rank": 9,
+    "Change": "+4",
+    "Thumbnail": "https://i.ytimg.com/vi/ed6E9UFv7jQ/hqdefault.jpg",
+    "Title": "THE VVAAN - Official Trailer | Sidharth Malhotra | Tamannaah | In Cinemas 25th Sept 2026",
+    "Channel": "Balaji Motion Pictures",
+    "Category": "Film & Animation",
+    "Format": "Standard",
+    "Views Gained": 14572326
+  },
+  {
+    "Rank": 10,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/NlLdMri1Uvc/hqdefault.jpg",
+    "Title": "TOM&JERRY😘Funny moment(MANI&MEDHU)#KRISHNAAVYU",
+    "Channel": "Krishna Avyu",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 13413305
+  },
+  {
+    "Rank": 11,
+    "Change": "+1",
+    "Thumbnail": "https://i.ytimg.com/vi/rjfxLq3OQ0w/hqdefault.jpg",
+    "Title": "Parvati (Full Song) | Jab Zid Pe Aa Gayi Parvati | Hanuman Ansh | Sadhu Tiwari | Shobhinaw Satyaa",
+    "Channel": "Times Music",
+    "Category": "Music",
+    "Format": "Standard",
+    "Views Gained": 13224830
+  },
+  {
+    "Rank": 12,
     "Change": "-3",
     "Thumbnail": "https://i.ytimg.com/vi/2OHEEy_qhyE/hqdefault.jpg",
     "Title": "Nayyi Navelli: Official Teaser | Yami, Addinath | Balaji Mohan | Aanand L Rai, Himanshu S | 16th Oct",
     "Channel": "Amazon MGM Studios India",
     "Category": "Entertainment",
     "Format": "Short",
-    "Views Gained": 16884816
-  },
-  {
-    "Rank": 10,
-    "Change": "-1",
-    "Thumbnail": "https://i.ytimg.com/vi/FyS5dAywkEo/hqdefault.jpg",
-    "Title": "LISA - SaWaDiKa (Official Music Video)",
-    "Channel": "LISAOfficialVEVO",
-    "Category": "Music",
-    "Format": "Standard",
-    "Views Gained": 15845019
-  },
-  {
-    "Rank": 11,
-    "Change": "+1",
-    "Thumbnail": "https://i.ytimg.com/vi/2qvlkxvzwHs/hqdefault.jpg",
-    "Title": "Desi vs Modern Popcorn Maker!",
-    "Channel": "MostTechy Shorts",
-    "Category": "Science & Technology",
-    "Format": "Short",
-    "Views Gained": 14183075
-  },
-  {
-    "Rank": 12,
-    "Change": "+5",
-    "Thumbnail": "https://i.ytimg.com/vi/rjfxLq3OQ0w/hqdefault.jpg",
-    "Title": "Parvati (Full Song) | Jab Zid Pe Aa Gayi Parvati | Hanuman Ansh | Sadhu Tiwari | Shobhinaw Satyaa",
-    "Channel": "Times Music",
-    "Category": "Music",
-    "Format": "Standard",
-    "Views Gained": 12664336
+    "Views Gained": 12131350
   },
   {
     "Rank": 13,
-    "Change": "+11",
-    "Thumbnail": "https://i.ytimg.com/vi/ed6E9UFv7jQ/hqdefault.jpg",
-    "Title": "THE VVAAN - Official Trailer | Sidharth Malhotra | Tamannaah | In Cinemas 25th Sept 2026",
-    "Channel": "Balaji Motion Pictures",
-    "Category": "Film & Animation",
-    "Format": "Standard",
-    "Views Gained": 12448063
-  },
-  {
-    "Rank": 14,
-    "Change": "+1",
-    "Thumbnail": "https://i.ytimg.com/vi/Q3FcCNXUoU8/hqdefault.jpg",
-    "Title": "Don't Buy the New iPhone Duo! ⚠️",
-    "Channel": "Dhruv Rathee",
-    "Category": "Education",
-    "Format": "Short",
-    "Views Gained": 12202167
-  },
-  {
-    "Rank": 15,
     "Change": "+3",
-    "Thumbnail": "https://i.ytimg.com/vi/BrVeOs0PrCo/hqdefault.jpg",
-    "Title": "Bunty Vs Didi #shorts",
-    "Channel": "Shreemani Tripathi",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 11647320
-  },
-  {
-    "Rank": 16,
-    "Change": "+4",
     "Thumbnail": "https://i.ytimg.com/vi/3HC7ocMJbIY/hqdefault.jpg",
     "Title": "Bunty Vs Aunty! Ganesh Chaturthi #shorts ￼",
     "Channel": "Shreemani Tripathi",
     "Category": "Entertainment",
     "Format": "Short",
-    "Views Gained": 11163871
+    "Views Gained": 11937800
   },
   {
-    "Rank": 17,
+    "Rank": 14,
     "Change": "+4",
+    "Thumbnail": "https://i.ytimg.com/vi/qdqRv92r_EU/hqdefault.jpg",
+    "Title": "Rain Gadgets vs Chotu!",
+    "Channel": "MostTechy Shorts",
+    "Category": "Science & Technology",
+    "Format": "Short",
+    "Views Gained": 11589532
+  },
+  {
+    "Rank": 15,
+    "Change": "-4",
+    "Thumbnail": "https://i.ytimg.com/vi/2qvlkxvzwHs/hqdefault.jpg",
+    "Title": "Desi vs Modern Popcorn Maker!",
+    "Channel": "MostTechy Shorts",
+    "Category": "Science & Technology",
+    "Format": "Short",
+    "Views Gained": 10881669
+  },
+  {
+    "Rank": 16,
+    "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/RmZdF_f5mXk/hqdefault.jpg",
     "Title": "आज तो बड़े गणेश जी लूंगा 🥳 #ganeshchaturthi #youtubeshorts #shorts #fun #golu008 #ganesh",
     "Channel": "GOLU008",
@@ -170,28 +160,38 @@
     "Views Gained": 10762537
   },
   {
-    "Rank": 18,
-    "Change": "+7",
-    "Thumbnail": "https://i.ytimg.com/vi/qdqRv92r_EU/hqdefault.jpg",
-    "Title": "Rain Gadgets vs Chotu!",
-    "Channel": "MostTechy Shorts",
-    "Category": "Science & Technology",
+    "Rank": 17,
+    "Change": "-2",
+    "Thumbnail": "https://i.ytimg.com/vi/BrVeOs0PrCo/hqdefault.jpg",
+    "Title": "Bunty Vs Didi #shorts",
+    "Channel": "Shreemani Tripathi",
+    "Category": "Entertainment",
     "Format": "Short",
-    "Views Gained": 10548458
+    "Views Gained": 10656978
+  },
+  {
+    "Rank": 18,
+    "Change": "+19",
+    "Thumbnail": "https://i.ytimg.com/vi/cARUxUgFQqQ/hqdefault.jpg",
+    "Title": "OMG😳😳😱😱 Never seen Such a Huge Dog in My Life 🤣🤪😂  #vivekjadoo #deepikavivek",
+    "Channel": "Vivekjadoo Deepika",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 10509969
   },
   {
     "Rank": 19,
-    "Change": "-5",
-    "Thumbnail": "https://i.ytimg.com/vi/jR3rWCBeO6M/hqdefault.jpg",
-    "Title": "@SaiAbhyankkar - Radhimaa (Music Video) | Bhagyashri Borse | Vivek | Thejo Bharathwaj | Think Indie",
-    "Channel": "Think Music India",
-    "Category": "Music",
-    "Format": "Standard",
-    "Views Gained": 9912813
+    "Change": "+4",
+    "Thumbnail": "https://i.ytimg.com/vi/09_VOx1Pqs8/hqdefault.jpg",
+    "Title": "Girls During Pregnancy🤣 Part 2 tomorrow Morning🥰 #ytshorts #comedy #funny #genz #girls #pregnancy",
+    "Channel": "Chhote & Aandu",
+    "Category": "Comedy",
+    "Format": "Short",
+    "Views Gained": 9423904
   },
   {
     "Rank": 20,
-    "Change": "+2",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/eCbRBh_NMoY/hqdefault.jpg",
     "Title": "Dulhe Ka Sehra❤🥰 | #AkshayKumar & #ShilpaShetty | Dhadkan | Ishtar Music",
     "Channel": "Rachana Pandey",
@@ -201,67 +201,47 @@
   },
   {
     "Rank": 21,
-    "Change": "-11",
-    "Thumbnail": "https://i.ytimg.com/vi/Od6M0AXpcxQ/hqdefault.jpg",
-    "Title": "iPhone 18 Pro/Duo Impressions: Mogged",
-    "Channel": "Marques Brownlee",
-    "Category": "Science & Technology",
-    "Format": "Long",
-    "Views Gained": 8930317
+    "Change": "+9",
+    "Thumbnail": "https://i.ytimg.com/vi/-mnTITqqiT0/hqdefault.jpg",
+    "Title": "Other Mommy | Official Trailer 2",
+    "Channel": "Universal Pictures",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 8667898
   },
   {
     "Rank": 22,
-    "Change": "-9",
-    "Thumbnail": "https://i.ytimg.com/vi/fneuVQ7uO_w/hqdefault.jpg",
-    "Title": "Drishyam: The Conclusion | Official Trailer | Ajay Devgn, Tabu, Jaideep | Abhishek Pathak | 2 Oct",
-    "Channel": "Star Studios",
-    "Category": "Entertainment",
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/Lufa9QAFFeY/hqdefault.jpg",
+    "Title": "ROSÉ - new trick (OFFICIAL MUSIC VIDEO)",
+    "Channel": "ROSÉ",
+    "Category": "Music",
     "Format": "Standard",
-    "Views Gained": 8842527
+    "Views Gained": 8644009
   },
   {
     "Rank": 23,
-    "Change": "+5",
-    "Thumbnail": "https://i.ytimg.com/vi/09_VOx1Pqs8/hqdefault.jpg",
-    "Title": "Girls During Pregnancy🤣 Part 2 tomorrow Morning🥰 #ytshorts #comedy #funny #genz #girls #pregnancy",
-    "Channel": "Chhote & Aandu",
-    "Category": "Comedy",
-    "Format": "Short",
-    "Views Gained": 8816775
-  },
-  {
-    "Rank": 24,
-    "Change": "-5",
-    "Thumbnail": "https://i.ytimg.com/vi/zbIr24Tes7E/hqdefault.jpg",
-    "Title": "INDIA’S GOT LATENT S2 EP6 ft. Rakhi Sawant, Ashneer Grover, Kushagra Srivastava",
-    "Channel": "Samay Raina",
-    "Category": "Comedy",
-    "Format": "Long",
-    "Views Gained": 8420674
-  },
-  {
-    "Rank": 25,
-    "Change": "-2",
-    "Thumbnail": "https://i.ytimg.com/vi/7w7LUaLpM4E/hqdefault.jpg",
-    "Title": "MALLEPOOLA PALLAKI 8K VIDEO | RAVI TEJA | GV PRAKASH | DAPPU SRINU | IRUMUDI | AYYAPPA SONG",
-    "Channel": "T-Series",
-    "Category": "Music",
-    "Format": "Standard",
-    "Views Gained": 8276852
-  },
-  {
-    "Rank": 26,
     "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/pvm5gvobL5w/hqdefault.jpg",
     "Title": "Transformers: Rise of Unicron - New Official Teaser",
     "Channel": "Transformers: Rise of Unicron",
     "Category": "Film & Animation",
     "Format": "Short",
-    "Views Gained": 8127651
+    "Views Gained": 8516390
   },
   {
-    "Rank": 27,
-    "Change": "0",
+    "Rank": 24,
+    "Change": "+5",
+    "Thumbnail": "https://i.ytimg.com/vi/Ay4XMeYoD0k/hqdefault.jpg",
+    "Title": "Wait For Twist..😲🔥 #shorts #trending #viral #motivation #emotional #viralvideo",
+    "Channel": "Upendragani shorts vlogs",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 8182805
+  },
+  {
+    "Rank": 25,
+    "Change": "+2",
     "Thumbnail": "https://i.ytimg.com/vi/lU40CPN7Ww0/hqdefault.jpg",
     "Title": "Meesaya Murukku 2 - Official Trailer | Hiphop Tamizha | Khushbu Sundar | ACS Arun Kumar",
     "Channel": "Saregama Tamil",
@@ -270,233 +250,253 @@
     "Views Gained": 8007853
   },
   {
-    "Rank": 28,
+    "Rank": 26,
     "Change": "-12",
-    "Thumbnail": "https://i.ytimg.com/vi/TV9hHv2zQhI/hqdefault.jpg",
-    "Title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-    "Channel": "KL BRO Biju Rithvik",
-    "Category": "Entertainment",
+    "Thumbnail": "https://i.ytimg.com/vi/Q3FcCNXUoU8/hqdefault.jpg",
+    "Title": "Don't Buy the New iPhone Duo! ⚠️",
+    "Channel": "Dhruv Rathee",
+    "Category": "Education",
     "Format": "Short",
-    "Views Gained": 7935560
+    "Views Gained": 7773960
   },
   {
-    "Rank": 29,
-    "Change": "+12",
-    "Thumbnail": "https://i.ytimg.com/vi/Ay4XMeYoD0k/hqdefault.jpg",
-    "Title": "Wait For Twist..😲🔥 #shorts #trending #viral #motivation #emotional #viralvideo",
-    "Channel": "Upendragani shorts vlogs",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 7049840
-  },
-  {
-    "Rank": 30,
-    "Change": "+17",
-    "Thumbnail": "https://i.ytimg.com/vi/-mnTITqqiT0/hqdefault.jpg",
-    "Title": "Other Mommy | Official Trailer 2",
-    "Channel": "Universal Pictures",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 6620564
-  },
-  {
-    "Rank": 31,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/PwTcikeQ8Wg/hqdefault.jpg",
-    "Title": "Parvati (Lyrical) | Jab Zid Pe Aa Gayi Parvati | Hanuman Ansh | Sadhu Tiwari | Shiv Parvati Song",
-    "Channel": "Times Music",
-    "Category": "Music",
-    "Format": "Standard",
-    "Views Gained": 6602877
-  },
-  {
-    "Rank": 32,
-    "Change": "+5",
-    "Thumbnail": "https://i.ytimg.com/vi/teyF15t-8lQ/hqdefault.jpg",
-    "Title": "#418 Official Trailer - The Last Warning | Prashanth Neel Presents | Kirtan N | In Cinemas Sep 18th",
-    "Channel": "Mythri Movie Makers",
-    "Category": "Entertainment",
-    "Format": "Standard",
-    "Views Gained": 6141738
-  },
-  {
-    "Rank": 33,
-    "Change": "-7",
-    "Thumbnail": "https://i.ytimg.com/vi/FhhA5purigQ/hqdefault.jpg",
-    "Title": "Magale - Music Video | Baththa | Vijay Sethupathi | @SaiAbhyankkar | Balaji Tharaneetharan",
+    "Rank": 27,
+    "Change": "-8",
+    "Thumbnail": "https://i.ytimg.com/vi/jR3rWCBeO6M/hqdefault.jpg",
+    "Title": "@SaiAbhyankkar - Radhimaa (Music Video) | Bhagyashri Borse | Vivek | Thejo Bharathwaj | Think Indie",
     "Channel": "Think Music India",
     "Category": "Music",
     "Format": "Standard",
-    "Views Gained": 6051662
+    "Views Gained": 7362518
   },
   {
-    "Rank": 34,
-    "Change": "+2",
-    "Thumbnail": "https://i.ytimg.com/vi/EtTf6f3Ydak/hqdefault.jpg",
-    "Title": "IRUMUDI KATTU Video: Irumudi | Ravi Teja | GV Prakash | Ananthu | Shiva Nirvana",
-    "Channel": "T-Series Telugu",
+    "Rank": 28,
+    "Change": "-3",
+    "Thumbnail": "https://i.ytimg.com/vi/7w7LUaLpM4E/hqdefault.jpg",
+    "Title": "MALLEPOOLA PALLAKI 8K VIDEO | RAVI TEJA | GV PRAKASH | DAPPU SRINU | IRUMUDI | AYYAPPA SONG",
+    "Channel": "T-Series",
     "Category": "Music",
     "Format": "Standard",
-    "Views Gained": 5937097
+    "Views Gained": 7119740
   },
   {
-    "Rank": 35,
-    "Change": "+11",
-    "Thumbnail": "https://i.ytimg.com/vi/dwDlCN9xnPQ/hqdefault.jpg",
-    "Title": "People On Ganesh Chaturthi Be Like 😂 #Shorts #ytshorts #ganeshchaturthi",
-    "Channel": "Mohak Meet",
+    "Rank": 29,
+    "Change": "-5",
+    "Thumbnail": "https://i.ytimg.com/vi/zbIr24Tes7E/hqdefault.jpg",
+    "Title": "INDIA’S GOT LATENT S2 EP6 ft. Rakhi Sawant, Ashneer Grover, Kushagra Srivastava",
+    "Channel": "Samay Raina",
     "Category": "Comedy",
-    "Format": "Short",
-    "Views Gained": 5849393
+    "Format": "Long",
+    "Views Gained": 6931362
   },
   {
-    "Rank": 36,
-    "Change": "+3",
-    "Thumbnail": "https://i.ytimg.com/vi/4FIougAER-g/hqdefault.jpg",
-    "Title": "இதுக்கு பருத்தி மூட்டை குடோன்லயே இருக்கலாம்😜🤣 #shorts #fun #comedy",
-    "Channel": "With Love Nagaraj Sangeetha",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 5791094
-  },
-  {
-    "Rank": 37,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/cARUxUgFQqQ/hqdefault.jpg",
-    "Title": "OMG😳😳😱😱 Never seen Such a Huge Dog in My Life 🤣🤪😂  #vivekjadoo #deepikavivek",
-    "Channel": "Vivekjadoo Deepika",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 5698381
-  },
-  {
-    "Rank": 38,
-    "Change": "New",
+    "Rank": 30,
+    "Change": "+8",
     "Thumbnail": "https://i.ytimg.com/vi/rH30Q_03Ues/hqdefault.jpg",
     "Title": "Wait for it😂🗿 #ismail0102 #tamilcomedy #funnyvideo #viral #comedy #funny #friends #viralvideo",
     "Channel": "ismail0102",
     "Category": "Entertainment",
     "Format": "Short",
-    "Views Gained": 5599578
+    "Views Gained": 6723465
   },
   {
-    "Rank": 39,
-    "Change": "+5",
+    "Rank": 31,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/r_2KnmczMyM/hqdefault.jpg",
+    "Title": "PRO FOOTBALLER SKILL LEVELS!!",
+    "Channel": "Joris",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 6458342
+  },
+  {
+    "Rank": 32,
+    "Change": "-1",
+    "Thumbnail": "https://i.ytimg.com/vi/PwTcikeQ8Wg/hqdefault.jpg",
+    "Title": "Parvati (Lyrical) | Jab Zid Pe Aa Gayi Parvati | Hanuman Ansh | Sadhu Tiwari | Shiv Parvati Song",
+    "Channel": "Times Music",
+    "Category": "Music",
+    "Format": "Standard",
+    "Views Gained": 6421956
+  },
+  {
+    "Rank": 33,
+    "Change": "+2",
+    "Thumbnail": "https://i.ytimg.com/vi/dwDlCN9xnPQ/hqdefault.jpg",
+    "Title": "People On Ganesh Chaturthi Be Like 😂 #Shorts #ytshorts #ganeshchaturthi",
+    "Channel": "Mohak Meet",
+    "Category": "Comedy",
+    "Format": "Short",
+    "Views Gained": 6380504
+  },
+  {
+    "Rank": 34,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/oI7y516nVSA/hqdefault.jpg",
+    "Title": "Didi😬🐍 #zidaanshahidaly #brothersister #shorts",
+    "Channel": "Zidaan Shahid Aly",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 6236418
+  },
+  {
+    "Rank": 35,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/7loanjtRzVI/hqdefault.jpg",
+    "Title": "Rat🐀 in normal days v/s rat in Ganesh Chaturthi 😂 #comedy #funny #ganeshchaturthi2026",
+    "Channel": "Ketan mehta",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 6010315
+  },
+  {
+    "Rank": 36,
+    "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/BhYBlCwKBTU/hqdefault.jpg",
     "Title": "Random Ai video - Part 8 ft. Vinayaka Chathurthi 🙏😂😁 #policouple #funnyshorts #comedy #trending",
     "Channel": "Poli Couple💃🕺",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 5384914
+    "Views Gained": 5990191
+  },
+  {
+    "Rank": 37,
+    "Change": "-9",
+    "Thumbnail": "https://i.ytimg.com/vi/TV9hHv2zQhI/hqdefault.jpg",
+    "Title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
+    "Channel": "KL BRO Biju Rithvik",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 5439826
+  },
+  {
+    "Rank": 38,
+    "Change": "-5",
+    "Thumbnail": "https://i.ytimg.com/vi/FhhA5purigQ/hqdefault.jpg",
+    "Title": "Magale - Music Video | Baththa | Vijay Sethupathi | @SaiAbhyankkar | Balaji Tharaneetharan",
+    "Channel": "Think Music India",
+    "Category": "Music",
+    "Format": "Standard",
+    "Views Gained": 5319732
+  },
+  {
+    "Rank": 39,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/SVcc76vOHjU/hqdefault.jpg",
+    "Title": "❤️😂",
+    "Channel": "Payal Malik Vlogs ",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 5184242
   },
   {
     "Rank": 40,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/Ke_d5lAtyL4/hqdefault.jpg",
-    "Title": "Ab iska zeher kaun nikalega😂",
-    "Channel": "Jahaann",
-    "Category": "Entertainment",
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/_NvxN_lnT60/hqdefault.jpg",
+    "Title": "Bike Skates ने रोक दी नेताजी की Rally! 😂#shorts",
+    "Channel": "Tech Master",
+    "Category": "Science & Technology",
     "Format": "Short",
-    "Views Gained": 5202671
+    "Views Gained": 5043908
   },
   {
     "Rank": 41,
-    "Change": "-8",
-    "Thumbnail": "https://i.ytimg.com/vi/H7oaeD8Zams/hqdefault.jpg",
-    "Title": "Worst Nightmare 😓😮‍💨 #ShortsBreak #ComedyVideos",
-    "Channel": "Shorts Break",
-    "Category": "Comedy",
-    "Format": "Short",
-    "Views Gained": 4842178
-  },
-  {
-    "Rank": 42,
-    "Change": "-12",
-    "Thumbnail": "https://i.ytimg.com/vi/BIGRyTCUITQ/hqdefault.jpg",
-    "Title": "Jal devta-2 😂-#funnyvideo #funny #shorts",
-    "Channel": "AMIT FF YT",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 4811436
-  },
-  {
-    "Rank": 43,
-    "Change": "-9",
-    "Thumbnail": "https://i.ytimg.com/vi/NICpmTJXELY/hqdefault.jpg",
-    "Title": "Principal Sir ka Name 😂 #shorts #funny #explore #vlog",
-    "Channel": "SANSAR COMEDY BAR",
-    "Category": "Comedy",
-    "Format": "Short",
-    "Views Gained": 4805131
-  },
-  {
-    "Rank": 44,
-    "Change": "-1",
-    "Thumbnail": "https://i.ytimg.com/vi/29HZ0hhDqjE/hqdefault.jpg",
-    "Title": "Maine Tere Hi Bharose Hanuman (Lyrical Video) | Hanuman Ansh | Suneel Lodhi | Neem Karoli Baba",
-    "Channel": "Times Music",
-    "Category": "Music",
-    "Format": "Standard",
-    "Views Gained": 4684092
-  },
-  {
-    "Rank": 45,
-    "Change": "+3",
-    "Thumbnail": "https://i.ytimg.com/vi/Le_mCdzSM40/hqdefault.jpg",
-    "Title": "Cold drink pekar power aa gaye #comedy #funny #cutebaby #shortsfeed #viralvideo",
-    "Channel": "Simran Singh Vlogs",
-    "Category": "Comedy",
-    "Format": "Short",
-    "Views Gained": 4543765
-  },
-  {
-    "Rank": 46,
-    "Change": "-4",
-    "Thumbnail": "https://i.ytimg.com/vi/P8ZrtPx7Ug4/hqdefault.jpg",
-    "Title": "Sanson ki Mala (Mirzapur The Movie) | Madhur Sharma | Bollywood Song | Birju Lohar & Beena Tripathi",
-    "Channel": "iPop Superhits",
-    "Category": "Music",
-    "Format": "Standard",
-    "Views Gained": 4510416
-  },
-  {
-    "Rank": 47,
-    "Change": "New",
+    "Change": "+6",
     "Thumbnail": "https://i.ytimg.com/vi/ohqxP8EEumo/hqdefault.jpg",
     "Title": "iPhone 18 Pro Review: All About that Chip",
     "Channel": "Marques Brownlee",
     "Category": "Science & Technology",
     "Format": "Long",
-    "Views Gained": 4444120
+    "Views Gained": 5019741
   },
   {
-    "Rank": 48,
-    "Change": "-13",
-    "Thumbnail": "https://i.ytimg.com/vi/-d9aMS41DLU/hqdefault.jpg",
-    "Title": "Acherii bangyi 😂😭 #chetanthebackbencher #funny #uttrakhand",
-    "Channel": "Chetan the backbencher",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 4428577
-  },
-  {
-    "Rank": 49,
+    "Rank": 42,
     "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/m8wmgqRIEpE/hqdefault.jpg",
+    "Title": "Hood Ambience (Official Music Video) Navaan Sandhu | New Punjabi Songs 2026",
+    "Channel": "Navaan Sandhu",
+    "Category": "Music",
+    "Format": "Standard",
+    "Views Gained": 4997116
+  },
+  {
+    "Rank": 43,
+    "Change": "-22",
+    "Thumbnail": "https://i.ytimg.com/vi/Od6M0AXpcxQ/hqdefault.jpg",
+    "Title": "iPhone 18 Pro/Duo Impressions: Mogged",
+    "Channel": "Marques Brownlee",
+    "Category": "Science & Technology",
+    "Format": "Long",
+    "Views Gained": 4987780
+  },
+  {
+    "Rank": 44,
+    "Change": "-10",
+    "Thumbnail": "https://i.ytimg.com/vi/EtTf6f3Ydak/hqdefault.jpg",
+    "Title": "IRUMUDI KATTU Video: Irumudi | Ravi Teja | GV Prakash | Ananthu | Shiva Nirvana",
+    "Channel": "T-Series Telugu",
+    "Category": "Music",
+    "Format": "Standard",
+    "Views Gained": 4911919
+  },
+  {
+    "Rank": 45,
+    "Change": "0",
+    "Thumbnail": "https://i.ytimg.com/vi/Le_mCdzSM40/hqdefault.jpg",
+    "Title": "Cold drink pekar power aa gaye #comedy #funny #cutebaby #shortsfeed #viralvideo",
+    "Channel": "Simran Singh Vlogs",
+    "Category": "Comedy",
+    "Format": "Short",
+    "Views Gained": 4723559
+  },
+  {
+    "Rank": 46,
+    "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/46P1rL0rzPE/hqdefault.jpg",
     "Title": "Smriti Mandhana On Controlling Emotions, Handling Pressure & Failures | FO561 Raj Shamani",
     "Channel": "Raj Shamani",
     "Category": "People & Blogs",
     "Format": "Long",
-    "Views Gained": 4359630
+    "Views Gained": 4497709
+  },
+  {
+    "Rank": 47,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/n6hPB3Arr_M/hqdefault.jpg",
+    "Title": "iPhone 18 Pro Unboxing - This Needs Explaining",
+    "Channel": "Mrwhosetheboss",
+    "Category": "Science & Technology",
+    "Format": "Standard",
+    "Views Gained": 4454747
+  },
+  {
+    "Rank": 48,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/NK7AfP_wi8M/hqdefault.jpg",
+    "Title": "Race Highlights | 2026 Spanish Grand Prix",
+    "Channel": "FORMULA 1",
+    "Category": "Sports",
+    "Format": "Standard",
+    "Views Gained": 4441603
+  },
+  {
+    "Rank": 49,
+    "Change": "-5",
+    "Thumbnail": "https://i.ytimg.com/vi/29HZ0hhDqjE/hqdefault.jpg",
+    "Title": "Maine Tere Hi Bharose Hanuman (Lyrical Video) | Hanuman Ansh | Suneel Lodhi | Neem Karoli Baba",
+    "Channel": "Times Music",
+    "Category": "Music",
+    "Format": "Standard",
+    "Views Gained": 4412262
   },
   {
     "Rank": 50,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/6MrcbEkd5xA/hqdefault.jpg",
-    "Title": "Acche dost har jage par sath mai baithe hin✨🥹♥️ #shorts #viral #trending #explore #subscribe #frien",
-    "Channel": "Katil Aman",
+    "Change": "-14",
+    "Thumbnail": "https://i.ytimg.com/vi/4FIougAER-g/hqdefault.jpg",
+    "Title": "இதுக்கு பருத்தி மூட்டை குடோன்லயே இருக்கலாம்😜🤣 #shorts #fun #comedy",
+    "Channel": "With Love Nagaraj Sangeetha",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 4338867
+    "Views Gained": 4306628
   }
 ]
