@@ -6,7 +6,7 @@
     "Title": "$10,000 Every Day You Survive In Minecraft",
     "Channel": "MrBeast Gaming",
     "Category": "Gaming",
-    "Views Gained": 45337117
+    "Views Gained": 28285663
   },
   {
     "Rank": 2,
@@ -15,7 +15,7 @@
     "Title": "What If They Never Met?",
     "Channel": "Jordan Matter",
     "Category": "Entertainment",
-    "Views Gained": 15231109
+    "Views Gained": 10051923
   },
   {
     "Rank": 3,
@@ -24,11 +24,11 @@
     "Title": "Угадай Настоящего Музыканта! Взрослые Угадывают MADK1D (Сатир, Янчик, Эмир, Сабина, Кокошка, Карен)",
     "Channel": "ExileShow",
     "Category": "Entertainment",
-    "Views Gained": 9005820
+    "Views Gained": 9756224
   },
   {
     "Rank": 4,
-    "Change": "+1",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/zOgHWLOO9Ec/hqdefault.jpg",
     "Title": "Daha 17 | 20. Bölüm",
     "Channel": "Daha 17",
@@ -37,7 +37,25 @@
   },
   {
     "Rank": 5,
-    "Change": "+1",
+    "Change": "+3",
+    "Thumbnail": "https://i.ytimg.com/vi/XOmoPnWOve4/hqdefault.jpg",
+    "Title": "Yeraltı 18. Bölüm",
+    "Channel": "Yeraltı",
+    "Category": "Entertainment",
+    "Views Gained": 7539282
+  },
+  {
+    "Rank": 6,
+    "Change": "+3",
+    "Thumbnail": "https://i.ytimg.com/vi/LLNj5queq4s/hqdefault.jpg",
+    "Title": "Altı Üstü İstanbul 16. Bölüm",
+    "Channel": "Altı Üstü İstanbul",
+    "Category": "Entertainment",
+    "Views Gained": 6695211
+  },
+  {
+    "Rank": 7,
+    "Change": "-2",
     "Thumbnail": "https://i.ytimg.com/vi/uWIfU7t0j2E/hqdefault.jpg",
     "Title": "LA POLICIA ENFRENTÓ A MINI MINI.EXE",
     "Channel": "Fede Vigevani",
@@ -45,53 +63,8 @@
     "Views Gained": 6532560
   },
   {
-    "Rank": 6,
-    "Change": "+1",
-    "Thumbnail": "https://i.ytimg.com/vi/PF0dHrbvuFo/hqdefault.jpg",
-    "Title": "Taşacak Bu Deniz 33. Bölüm @trt1",
-    "Channel": "Taşacak Bu Deniz",
-    "Category": "Entertainment",
-    "Views Gained": 6369725
-  },
-  {
-    "Rank": 7,
-    "Change": "+1",
-    "Thumbnail": "https://i.ytimg.com/vi/blCC9uY-h1g/hqdefault.jpg",
-    "Title": "ENFRENTÉ A ALFA.EXE",
-    "Channel": "Fede Vigevani",
-    "Category": "Entertainment",
-    "Views Gained": 6262602
-  },
-  {
     "Rank": 8,
-    "Change": "+10",
-    "Thumbnail": "https://i.ytimg.com/vi/XOmoPnWOve4/hqdefault.jpg",
-    "Title": "Yeraltı 18. Bölüm",
-    "Channel": "Yeraltı",
-    "Category": "Entertainment",
-    "Views Gained": 6054950
-  },
-  {
-    "Rank": 9,
     "Change": "+3",
-    "Thumbnail": "https://i.ytimg.com/vi/LLNj5queq4s/hqdefault.jpg",
-    "Title": "Altı Üstü İstanbul 16. Bölüm",
-    "Channel": "Altı Üstü İstanbul",
-    "Category": "Entertainment",
-    "Views Gained": 6040366
-  },
-  {
-    "Rank": 10,
-    "Change": "-1",
-    "Thumbnail": "https://i.ytimg.com/vi/WsWNWzSwVUA/hqdefault.jpg",
-    "Title": "Dream's \"UNCUT\" Manhunts Are a Lie",
-    "Channel": "Dart Spark",
-    "Category": "Gaming",
-    "Views Gained": 5793889
-  },
-  {
-    "Rank": 11,
-    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/FZQylFVLGjM/hqdefault.jpg",
     "Title": "MY FIRST DAY AT MY NEW SHOWROOM! | GTA GAMEPLAY #171",
     "Channel": "Techno Gamerz",
@@ -99,34 +72,43 @@
     "Views Gained": 5493575
   },
   {
-    "Rank": 12,
-    "Change": "-8",
-    "Thumbnail": "https://i.ytimg.com/vi/AvYFL4Aku_k/hqdefault.jpg",
-    "Title": "Yeraltı 17. Bölüm",
-    "Channel": "Yeraltı",
-    "Category": "Entertainment",
-    "Views Gained": 5239062
-  },
-  {
-    "Rank": 13,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/jccqEa0Qd40/hqdefault.jpg",
-    "Title": "1 Year in Alaska in ULTRA REALISTIC Minecraft",
-    "Channel": "Forge Labs",
-    "Category": "Gaming",
-    "Views Gained": 4759656
-  },
-  {
-    "Rank": 14,
-    "Change": "+1",
+    "Rank": 9,
+    "Change": "+5",
     "Thumbnail": "https://i.ytimg.com/vi/nQdXp6HKKik/hqdefault.jpg",
     "Title": "I tested the most Futuristic Tech - it scared me.",
     "Channel": "Mrwhosetheboss",
     "Category": "Science & Technology",
-    "Views Gained": 4726228
+    "Views Gained": 5418481
   },
   {
-    "Rank": 15,
+    "Rank": 10,
+    "Change": "+7",
+    "Thumbnail": "https://i.ytimg.com/vi/9-j9GWjyWpY/hqdefault.jpg",
+    "Title": "1000 Players Simulate End Prison in Minecraft",
+    "Channel": "Parrot",
+    "Category": "Gaming",
+    "Views Gained": 4881235
+  },
+  {
+    "Rank": 11,
+    "Change": "+8",
+    "Thumbnail": "https://i.ytimg.com/vi/TtjDltoXhqI/hqdefault.jpg",
+    "Title": "Probando la pizza con más queso del mundo | CHICAGO VLOG  🍕🇺🇸",
+    "Channel": "Luisito Comunica",
+    "Category": "Entertainment",
+    "Views Gained": 4754718
+  },
+  {
+    "Rank": 12,
+    "Change": "+4",
+    "Thumbnail": "https://i.ytimg.com/vi/-ahL61xAPQQ/hqdefault.jpg",
+    "Title": "MATTERS OF THE HEART - SARIAN MARTIN, TIMINI EGBUSON, AUDREY HARRISON, Latest 2026 Nigerian Movie",
+    "Channel": "Sarian Martin Tv",
+    "Category": "Film & Animation",
+    "Views Gained": 4710837
+  },
+  {
+    "Rank": 13,
     "Change": "+2",
     "Thumbnail": "https://i.ytimg.com/vi/V0ECd2dwHFE/hqdefault.jpg",
     "Title": "Piyush Ne Kisko \"I Love You\" Bol Diya 😲 Truth And Dare 🤣 Part 2",
@@ -135,62 +117,62 @@
     "Views Gained": 4561511
   },
   {
+    "Rank": 14,
+    "Change": "-4",
+    "Thumbnail": "https://i.ytimg.com/vi/WsWNWzSwVUA/hqdefault.jpg",
+    "Title": "Dream's \"UNCUT\" Manhunts Are a Lie",
+    "Channel": "Dart Spark",
+    "Category": "Gaming",
+    "Views Gained": 4110125
+  },
+  {
+    "Rank": 15,
+    "Change": "+11",
+    "Thumbnail": "https://i.ytimg.com/vi/Etj3X7j--50/hqdefault.jpg",
+    "Title": "OUT OF TIME -FREDERICK LEONARD, SARIAN MARTIN. Latest Nigerian Movie 2026 #trending #movie #Drama",
+    "Channel": "Frederick Leonard TV.",
+    "Category": "Entertainment",
+    "Views Gained": 3957712
+  },
+  {
     "Rank": 16,
-    "Change": "-2",
-    "Thumbnail": "https://i.ytimg.com/vi/-ahL61xAPQQ/hqdefault.jpg",
-    "Title": "MATTERS OF THE HEART - SARIAN MARTIN, TIMINI EGBUSON, AUDREY HARRISON, Latest 2026 Nigerian Movie",
-    "Channel": "Sarian Martin Tv",
-    "Category": "Film & Animation",
-    "Views Gained": 4439288
+    "Change": "-10",
+    "Thumbnail": "https://i.ytimg.com/vi/PF0dHrbvuFo/hqdefault.jpg",
+    "Title": "Taşacak Bu Deniz 33. Bölüm @trt1",
+    "Channel": "Taşacak Bu Deniz",
+    "Category": "Entertainment",
+    "Views Gained": 3683939
   },
   {
     "Rank": 17,
-    "Change": "+3",
-    "Thumbnail": "https://i.ytimg.com/vi/9-j9GWjyWpY/hqdefault.jpg",
-    "Title": "1000 Players Simulate End Prison in Minecraft",
-    "Channel": "Parrot",
-    "Category": "Gaming",
-    "Views Gained": 4360717
+    "Change": "+12",
+    "Thumbnail": "https://i.ytimg.com/vi/X9qKwma5m3M/hqdefault.jpg",
+    "Title": "The Scariest Night of Our Lives (ft. Kalogeras Sisters)",
+    "Channel": "Sam and Colby",
+    "Category": "Entertainment",
+    "Views Gained": 3539154
   },
   {
     "Rank": 18,
-    "Change": "-8",
-    "Thumbnail": "https://i.ytimg.com/vi/_Ju2j1NSt9w/hqdefault.jpg",
-    "Title": "Gorilla King Found his Real Parents",
-    "Channel": "Silver",
+    "Change": "-5",
+    "Thumbnail": "https://i.ytimg.com/vi/jccqEa0Qd40/hqdefault.jpg",
+    "Title": "1 Year in Alaska in ULTRA REALISTIC Minecraft",
+    "Channel": "Forge Labs",
     "Category": "Gaming",
-    "Views Gained": 3976551
+    "Views Gained": 3517241
   },
   {
     "Rank": 19,
-    "Change": "+9",
-    "Thumbnail": "https://i.ytimg.com/vi/TtjDltoXhqI/hqdefault.jpg",
-    "Title": "Probando la pizza con más queso del mundo | CHICAGO VLOG  🍕🇺🇸",
-    "Channel": "Luisito Comunica",
+    "Change": "-7",
+    "Thumbnail": "https://i.ytimg.com/vi/AvYFL4Aku_k/hqdefault.jpg",
+    "Title": "Yeraltı 17. Bölüm",
+    "Channel": "Yeraltı",
     "Category": "Entertainment",
-    "Views Gained": 3849451
+    "Views Gained": 3333724
   },
   {
     "Rank": 20,
-    "Change": "-1",
-    "Thumbnail": "https://i.ytimg.com/vi/0rakGyBI1EE/hqdefault.jpg",
-    "Title": "BREAKING POINT - TIMINI EGBUSON & SANDRA OKUNZUWA. NIGERIAN MOVIES 2026 LATEST FULL MOVIE ",
-    "Channel": "BOLAJI OGUNMOLA TV",
-    "Category": "Entertainment",
-    "Views Gained": 3761700
-  },
-  {
-    "Rank": 21,
-    "Change": "-5",
-    "Thumbnail": "https://i.ytimg.com/vi/0_JzNVzFukE/hqdefault.jpg",
-    "Title": "MY 30TH WEDDING.  STARRING BIMBO ADEMOYE,TIMINI EGBUSON, 2026 LATEST ROMANCE MOVIE.",
-    "Channel": "Bimbo Ademoye TV",
-    "Category": "People & Blogs",
-    "Views Gained": 3556288
-  },
-  {
-    "Rank": 22,
-    "Change": "-1",
+    "Change": "+2",
     "Thumbnail": "https://i.ytimg.com/vi/8e0FfuwOI9M/hqdefault.jpg",
     "Title": "ㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁ",
     "Channel": "안녕하세요원이입니다잘부탁드립니다",
@@ -198,17 +180,17 @@
     "Views Gained": 3265839
   },
   {
-    "Rank": 23,
+    "Rank": 21,
     "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/tCa7-acZ9uM/hqdefault.jpg",
-    "Title": "LOVE LOOKS GOOD ON YOU - Nigerian Movies 2026 Latest Full Movies",
-    "Channel": "Omoni Oboli TV",
-    "Category": "Entertainment",
-    "Views Gained": 3243874
+    "Thumbnail": "https://i.ytimg.com/vi/0_JzNVzFukE/hqdefault.jpg",
+    "Title": "MY 30TH WEDDING.  STARRING BIMBO ADEMOYE,TIMINI EGBUSON, 2026 LATEST ROMANCE MOVIE.",
+    "Channel": "Bimbo Ademoye TV",
+    "Category": "People & Blogs",
+    "Views Gained": 3153692
   },
   {
-    "Rank": 24,
-    "Change": "-2",
+    "Rank": 22,
+    "Change": "+2",
     "Thumbnail": "https://i.ytimg.com/vi/NmxoC89w1-A/hqdefault.jpg",
     "Title": "Minecraft, But You Can Combine Any Mobs!",
     "Channel": "ProBoiz 95",
@@ -216,8 +198,8 @@
     "Views Gained": 3146739
   },
   {
-    "Rank": 25,
-    "Change": "+1",
+    "Rank": 23,
+    "Change": "+2",
     "Thumbnail": "https://i.ytimg.com/vi/_ud34NhfpMI/hqdefault.jpg",
     "Title": "ROBLOX HE ATE THEM!!",
     "Channel": "Foltyn",
@@ -225,16 +207,61 @@
     "Views Gained": 3097957
   },
   {
-    "Rank": 26,
+    "Rank": 24,
     "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/Etj3X7j--50/hqdefault.jpg",
-    "Title": "OUT OF TIME -FREDERICK LEONARD, SARIAN MARTIN. Latest Nigerian Movie 2026 #trending #movie #Drama",
-    "Channel": "Frederick Leonard TV.",
+    "Thumbnail": "https://i.ytimg.com/vi/Ak6x4Tx7V90/hqdefault.jpg",
+    "Title": "MI VECINO FUE POSEÍDO POR MINI MINI.EXE",
+    "Channel": "Fede Vigevani",
     "Category": "Entertainment",
-    "Views Gained": 2902351
+    "Views Gained": 3080934
+  },
+  {
+    "Rank": 25,
+    "Change": "-7",
+    "Thumbnail": "https://i.ytimg.com/vi/_Ju2j1NSt9w/hqdefault.jpg",
+    "Title": "Gorilla King Found his Real Parents",
+    "Channel": "Silver",
+    "Category": "Gaming",
+    "Views Gained": 3039485
+  },
+  {
+    "Rank": 26,
+    "Change": "+6",
+    "Thumbnail": "https://i.ytimg.com/vi/_9Z0EtKKNVQ/hqdefault.jpg",
+    "Title": "LOVE AND DUTY - MAURICE SAM, BAMBAM OLAWUNMI, Latest 2026 Nigerian Movie",
+    "Channel": "Maurice Sam TV",
+    "Category": "Film & Animation",
+    "Views Gained": 3005588
   },
   {
     "Rank": 27,
+    "Change": "+8",
+    "Thumbnail": "https://i.ytimg.com/vi/vtVIB2qBTy4/hqdefault.jpg",
+    "Title": "Sevdan Bir Ateş 6. Bölüm @showtv",
+    "Channel": "Sevdan Bir Ateş",
+    "Category": "Entertainment",
+    "Views Gained": 3002750
+  },
+  {
+    "Rank": 28,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/A4Q8q0KQQ14/hqdefault.jpg",
+    "Title": "Tesla Saves Owner From Prison",
+    "Channel": "The Civil Rights Lawyer",
+    "Category": "Entertainment",
+    "Views Gained": 2977212
+  },
+  {
+    "Rank": 29,
+    "Change": "-9",
+    "Thumbnail": "https://i.ytimg.com/vi/0rakGyBI1EE/hqdefault.jpg",
+    "Title": "BREAKING POINT - TIMINI EGBUSON & SANDRA OKUNZUWA. NIGERIAN MOVIES 2026 LATEST FULL MOVIE ",
+    "Channel": "BOLAJI OGUNMOLA TV",
+    "Category": "Entertainment",
+    "Views Gained": 2867469
+  },
+  {
+    "Rank": 30,
     "Change": "-3",
     "Thumbnail": "https://i.ytimg.com/vi/5SAwvBpQuIw/hqdefault.jpg",
     "Title": "Uzak Şehir 68. Bölüm",
@@ -243,26 +270,26 @@
     "Views Gained": 2865960
   },
   {
-    "Rank": 28,
-    "Change": "-3",
-    "Thumbnail": "https://i.ytimg.com/vi/IBUCAD6vrLw/hqdefault.jpg",
-    "Title": "Kızılcık Şerbeti 142. Bölüm  @showtv",
-    "Channel": "Kızılcık Şerbeti",
-    "Category": "Entertainment",
-    "Views Gained": 2747606
+    "Rank": 31,
+    "Change": "0",
+    "Thumbnail": "https://i.ytimg.com/vi/JS1RiLRZeYI/hqdefault.jpg",
+    "Title": "ESSAYEZ DE NE PAS RÉAGIR AU CONTENU DE LA BOITE #3",
+    "Channel": "Amixem",
+    "Category": "Comedy",
+    "Views Gained": 2692086
   },
   {
-    "Rank": 29,
+    "Rank": 32,
     "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/X9qKwma5m3M/hqdefault.jpg",
-    "Title": "The Scariest Night of Our Lives (ft. Kalogeras Sisters)",
-    "Channel": "Sam and Colby",
+    "Thumbnail": "https://i.ytimg.com/vi/3aZKfH4pzsM/hqdefault.jpg",
+    "Title": "Taşacak Bu Deniz 34. Bölüm  @trt1",
+    "Channel": "Taşacak Bu Deniz",
     "Category": "Entertainment",
-    "Views Gained": 2703941
+    "Views Gained": 2683965
   },
   {
-    "Rank": 30,
-    "Change": "+9",
+    "Rank": 33,
+    "Change": "-3",
     "Thumbnail": "https://i.ytimg.com/vi/QW8--61TRPo/hqdefault.jpg",
     "Title": "Anne Yarısı 4. Bölüm",
     "Channel": "Anne Yarısı",
@@ -270,26 +297,44 @@
     "Views Gained": 2676374
   },
   {
-    "Rank": 31,
-    "Change": "+1",
-    "Thumbnail": "https://i.ytimg.com/vi/JS1RiLRZeYI/hqdefault.jpg",
-    "Title": "ESSAYEZ DE NE PAS RÉAGIR AU CONTENU DE LA BOITE #3",
-    "Channel": "Amixem",
-    "Category": "Comedy",
-    "Views Gained": 2568614
+    "Rank": 34,
+    "Change": "-27",
+    "Thumbnail": "https://i.ytimg.com/vi/blCC9uY-h1g/hqdefault.jpg",
+    "Title": "ENFRENTÉ A ALFA.EXE",
+    "Channel": "Fede Vigevani",
+    "Category": "Entertainment",
+    "Views Gained": 2633460
   },
   {
-    "Rank": 32,
-    "Change": "+15",
-    "Thumbnail": "https://i.ytimg.com/vi/_9Z0EtKKNVQ/hqdefault.jpg",
-    "Title": "LOVE AND DUTY - MAURICE SAM, BAMBAM OLAWUNMI, Latest 2026 Nigerian Movie",
-    "Channel": "Maurice Sam TV",
-    "Category": "Film & Animation",
-    "Views Gained": 2466216
+    "Rank": 35,
+    "Change": "-12",
+    "Thumbnail": "https://i.ytimg.com/vi/tCa7-acZ9uM/hqdefault.jpg",
+    "Title": "LOVE LOOKS GOOD ON YOU - Nigerian Movies 2026 Latest Full Movies",
+    "Channel": "Omoni Oboli TV",
+    "Category": "Entertainment",
+    "Views Gained": 2574046
   },
   {
-    "Rank": 33,
-    "Change": "-4",
+    "Rank": 36,
+    "Change": "+7",
+    "Thumbnail": "https://i.ytimg.com/vi/TgmLGIfqssg/hqdefault.jpg",
+    "Title": "Dar-e-Nijaat Episode 22 | 16 October 2026 | Sheheryar Munawar | Dur-e-Fishan | ENG SUB | ARY Digital",
+    "Channel": "ARY Digital HD",
+    "Category": "Entertainment",
+    "Views Gained": 2512880
+  },
+  {
+    "Rank": 37,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/QXYCAjG4BEg/hqdefault.jpg",
+    "Title": "ROSSA SANGAT TAKUT !!!",
+    "Channel": "dika_ bj",
+    "Category": "People & Blogs",
+    "Views Gained": 2509580
+  },
+  {
+    "Rank": 38,
+    "Change": "-5",
     "Thumbnail": "https://i.ytimg.com/vi/aO_U1RwJMDk/hqdefault.jpg",
     "Title": "I Streamed The Real VERITY Mod",
     "Channel": "ohnepixel raw",
@@ -297,8 +342,8 @@
     "Views Gained": 2439378
   },
   {
-    "Rank": 34,
-    "Change": "-4",
+    "Rank": 39,
+    "Change": "-5",
     "Thumbnail": "https://i.ytimg.com/vi/pLPaCYsCMmk/hqdefault.jpg",
     "Title": "HIDE THE BODY TO SURVIVE!",
     "Channel": "Ujjwal",
@@ -306,26 +351,8 @@
     "Views Gained": 2413476
   },
   {
-    "Rank": 35,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/vtVIB2qBTy4/hqdefault.jpg",
-    "Title": "Sevdan Bir Ateş 6. Bölüm @showtv",
-    "Channel": "Sevdan Bir Ateş",
-    "Category": "Entertainment",
-    "Views Gained": 2409936
-  },
-  {
-    "Rank": 36,
-    "Change": "-5",
-    "Thumbnail": "https://i.ytimg.com/vi/unIudLtH-Js/hqdefault.jpg",
-    "Title": "Dar-e-Nijaat Episode 21 | 10 October 2026 | Sheheryar Munawar | Dur-e-Fishan | ENG SUB | ARY Digital",
-    "Channel": "ARY Digital HD",
-    "Category": "Entertainment",
-    "Views Gained": 2405595
-  },
-  {
-    "Rank": 37,
-    "Change": "-4",
+    "Rank": 40,
+    "Change": "-3",
     "Thumbnail": "https://i.ytimg.com/vi/OohUE0yMiDg/hqdefault.jpg",
     "Title": "We tried NEW Backrooms games...",
     "Channel": "SMii7Y",
@@ -333,26 +360,17 @@
     "Views Gained": 2337360
   },
   {
-    "Rank": 38,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/NvoKphWCXXk/hqdefault.jpg",
-    "Title": "I Survived 100 Days on ONE CHEST in Minecraft Hardcore",
-    "Channel": "aCookieGod",
-    "Category": "Gaming",
-    "Views Gained": 2273384
+    "Rank": 41,
+    "Change": "+3",
+    "Thumbnail": "https://i.ytimg.com/vi/TM1EbMKhT4Y/hqdefault.jpg",
+    "Title": "Generic Drugs: Last Week Tonight with John Oliver (HBO)",
+    "Channel": "LastWeekTonight",
+    "Category": "Entertainment",
+    "Views Gained": 2081548
   },
   {
-    "Rank": 39,
+    "Rank": 42,
     "Change": "-2",
-    "Thumbnail": "https://i.ytimg.com/vi/y17156N1o-M/hqdefault.jpg",
-    "Title": "The Game Of Niche Ball Knowledge",
-    "Channel": "Joe Bart Games",
-    "Category": "Gaming",
-    "Views Gained": 2120575
-  },
-  {
-    "Rank": 40,
-    "Change": "+2",
     "Thumbnail": "https://i.ytimg.com/vi/xqP6w8Sn3EI/hqdefault.jpg",
     "Title": "EXPLORING THE ZOMBIE HOSPITAL | RESIDENT EVIL GAMEPLAY #2",
     "Channel": "Techno Gamerz",
@@ -360,8 +378,8 @@
     "Views Gained": 2035592
   },
   {
-    "Rank": 41,
-    "Change": "+2",
+    "Rank": 43,
+    "Change": "-2",
     "Thumbnail": "https://i.ytimg.com/vi/LJdx8d8ENwc/hqdefault.jpg",
     "Title": "I Became Richer Than Ambani 🤑",
     "Channel": "Mythpat",
@@ -369,44 +387,35 @@
     "Views Gained": 2023846
   },
   {
-    "Rank": 42,
-    "Change": "-8",
-    "Thumbnail": "https://i.ytimg.com/vi/ArTj5p3lTkc/hqdefault.jpg",
-    "Title": "No sabía que esto pasa en España | VLOG 🇪🇸",
-    "Channel": "Luisito Comunica",
-    "Category": "Entertainment",
-    "Views Gained": 2014983
-  },
-  {
-    "Rank": 43,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/TgmLGIfqssg/hqdefault.jpg",
-    "Title": "Dar-e-Nijaat Episode 22 | 16 October 2026 | Sheheryar Munawar | Dur-e-Fishan | ENG SUB | ARY Digital",
-    "Channel": "ARY Digital HD",
-    "Category": "Entertainment",
-    "Views Gained": 1971914
-  },
-  {
     "Rank": 44,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/TM1EbMKhT4Y/hqdefault.jpg",
-    "Title": "Generic Drugs: Last Week Tonight with John Oliver (HBO)",
-    "Channel": "LastWeekTonight",
+    "Change": "+4",
+    "Thumbnail": "https://i.ytimg.com/vi/YnUD60t_8gY/hqdefault.jpg",
+    "Title": "ALGORITHOMUS - Episódio 3",
+    "Channel": "Mundo Torajo",
     "Category": "Entertainment",
-    "Views Gained": 1961244
+    "Views Gained": 1979145
   },
   {
     "Rank": 45,
-    "Change": "-18",
-    "Thumbnail": "https://i.ytimg.com/vi/oPZY7nKtUTc/hqdefault.jpg",
-    "Title": "Berasa kolab iPhone & Xiaomi... Tapi harga 2 jutaan aja 🤨",
-    "Channel": "GadgetIn",
-    "Category": "Science & Technology",
-    "Views Gained": 1848080
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/OYK-Ft1n5RM/hqdefault.jpg",
+    "Title": "Our Worst Fishing Trip So Far...",
+    "Channel": "SMii7Y",
+    "Category": "Gaming",
+    "Views Gained": 1970023
   },
   {
     "Rank": 46,
-    "Change": "+3",
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/syFuweZ4NCY/hqdefault.jpg",
+    "Title": "VTECH : Gran Turismo",
+    "Channel": "Sylvain Lyve",
+    "Category": "Autos & Vehicles",
+    "Views Gained": 1875797
+  },
+  {
+    "Rank": 47,
+    "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/8-soxf9QaPU/hqdefault.jpg",
     "Title": "Ömür Usta 3. Bölüm",
     "Channel": "Ömür Usta",
@@ -414,39 +423,30 @@
     "Views Gained": 1840310
   },
   {
-    "Rank": 47,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/xKf0fjMwJic/hqdefault.jpg",
-    "Title": "I Built a Police Station That's Responsible for 99.9% of All Crime - Police Chief Simulator",
-    "Channel": "Let's Game It Out",
-    "Category": "Gaming",
-    "Views Gained": 1837309
-  },
-  {
     "Rank": 48,
     "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/YnUD60t_8gY/hqdefault.jpg",
-    "Title": "ALGORITHOMUS - Episódio 3",
-    "Channel": "Mundo Torajo",
+    "Thumbnail": "https://i.ytimg.com/vi/SP78F3l8OHs/hqdefault.jpg",
+    "Title": "Wife Realizes Her Detective Husband Is a Predator",
+    "Channel": "EWU Bodycam",
     "Category": "Entertainment",
-    "Views Gained": 1748304
+    "Views Gained": 1779150
   },
   {
     "Rank": 49,
     "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/MpXWWUT9erg/hqdefault.jpg",
+    "Title": "Abrí los Productos MÁS RAROS de Pokémon",
+    "Channel": "Rubius Z",
+    "Category": "Entertainment",
+    "Views Gained": 1757197
+  },
+  {
+    "Rank": 50,
+    "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/rMvqiIWGZ5g/hqdefault.jpg",
     "Title": "ROAM0120.exe",
     "Channel": "Markiplier",
     "Category": "Gaming",
     "Views Gained": 1737723
-  },
-  {
-    "Rank": 50,
-    "Change": "-14",
-    "Thumbnail": "https://i.ytimg.com/vi/G6C6kFVQy0Q/hqdefault.jpg",
-    "Title": "Onile Owo - Latest Yoruba movie 2026 Drama | Iteledicon | Odunlade Adekola | Kemity | Efun",
-    "Channel": "Itelediconstudio",
-    "Category": "Film & Animation",
-    "Views Gained": 1712040
   }
 ]
