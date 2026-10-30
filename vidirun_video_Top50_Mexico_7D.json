@@ -7,7 +7,7 @@
     "Channel": "BullyJuice",
     "Category": "Entertainment",
     "Format": "Short",
-    "Views Gained": 180537297
+    "Views Gained": 203080339
   },
   {
     "Rank": 2,
@@ -17,7 +17,7 @@
     "Channel": "CokiFam",
     "Category": "Film & Animation",
     "Format": "Short",
-    "Views Gained": 111379600
+    "Views Gained": 111407050
   },
   {
     "Rank": 3,
@@ -27,7 +27,7 @@
     "Channel": "HEILWIG OFFICIAL",
     "Category": "Entertainment",
     "Format": "Short",
-    "Views Gained": 103376154
+    "Views Gained": 103381592
   },
   {
     "Rank": 4,
@@ -37,11 +37,21 @@
     "Channel": "SASHA SHOW",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 70349187
+    "Views Gained": 63940572
   },
   {
     "Rank": 5,
-    "Change": "+5",
+    "Change": "+2",
+    "Thumbnail": "https://i.ytimg.com/vi/Ax87tvuqahs/hqdefault.jpg",
+    "Title": "He literally has his life in his hands💀💔",
+    "Channel": "MainStream Media",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 61505160
+  },
+  {
+    "Rank": 6,
+    "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/DJ490C-1gx8/hqdefault.jpg",
     "Title": "معجون الاسنان",
     "Channel": "قصص وحواديت ",
@@ -50,98 +60,88 @@
     "Views Gained": 54929323
   },
   {
-    "Rank": 6,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/1Pyqm65w5E0/hqdefault.jpg",
-    "Title": "She's NEVER walking in again 💀",
-    "Channel": "ash",
-    "Category": "Comedy",
-    "Format": "Short",
-    "Views Gained": 52692807
-  },
-  {
     "Rank": 7,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/Ax87tvuqahs/hqdefault.jpg",
-    "Title": "He literally has his life in his hands💀💔",
-    "Channel": "MainStream Media",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 51767852
-  },
-  {
-    "Rank": 8,
-    "Change": "-3",
-    "Thumbnail": "https://i.ytimg.com/vi/nQVMHTR4OSg/hqdefault.jpg",
-    "Title": "Kommentiere “RUHE“, wenn dein Hund solche Ohrenschützer braucht❤️‍🩹#hundeliebe #böllerangst #hund",
-    "Channel": "HundC🐶LM",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 50728158
-  },
-  {
-    "Rank": 9,
-    "Change": "0",
+    "Change": "+2",
     "Thumbnail": "https://i.ytimg.com/vi/pP4B4vGTuXc/hqdefault.jpg",
     "Title": "Ranking Best Iconic Meme Recreations 😭",
     "Channel": "FyvoraRank",
     "Category": "Entertainment",
     "Format": "Short",
-    "Views Gained": 42725919
+    "Views Gained": 50704017
   },
   {
-    "Rank": 10,
+    "Rank": 8,
     "Change": "-2",
+    "Thumbnail": "https://i.ytimg.com/vi/1Pyqm65w5E0/hqdefault.jpg",
+    "Title": "She's NEVER walking in again 💀",
+    "Channel": "ash",
+    "Category": "Comedy",
+    "Format": "Short",
+    "Views Gained": 42881233
+  },
+  {
+    "Rank": 9,
+    "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/f5rnnl2NsTY/hqdefault.jpg",
     "Title": "He Should’ve Listened to Mom 🐝😭",
     "Channel": "Linc Avenue",
     "Category": "Film & Animation",
     "Format": "Short",
-    "Views Gained": 42561400
+    "Views Gained": 42566773
+  },
+  {
+    "Rank": 10,
+    "Change": "-2",
+    "Thumbnail": "https://i.ytimg.com/vi/nQVMHTR4OSg/hqdefault.jpg",
+    "Title": "Kommentiere “RUHE“, wenn dein Hund solche Ohrenschützer braucht❤️‍🩹#hundeliebe #böllerangst #hund",
+    "Channel": "HundC🐶LM",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 36452279
   },
   {
     "Rank": 11,
-    "Change": "-5",
-    "Thumbnail": "https://i.ytimg.com/vi/Y8IJi7iP5vk/hqdefault.jpg",
-    "Title": "Last To Fall Wins",
-    "Channel": "MrBeast",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 33712273
-  },
-  {
-    "Rank": 12,
-    "Change": "-1",
-    "Thumbnail": "https://i.ytimg.com/vi/NDFE8W8wQ-Y/hqdefault.jpg",
-    "Title": "iSHOWSPEED vs DUDE PERFECT GAUNTLET!",
-    "Channel": "IShowSpeed",
-    "Category": "Gaming",
-    "Format": "Short",
-    "Views Gained": 28568845
-  },
-  {
-    "Rank": 13,
     "Change": "+2",
     "Thumbnail": "https://i.ytimg.com/vi/-5ZXrO_lYSA/hqdefault.jpg",
     "Title": "LISA - Tarantino (Official Music Video)",
     "Channel": "LISAOfficialVEVO",
     "Category": "Music",
     "Format": "Standard",
-    "Views Gained": 28183214
+    "Views Gained": 30474376
+  },
+  {
+    "Rank": 12,
+    "Change": "0",
+    "Thumbnail": "https://i.ytimg.com/vi/NDFE8W8wQ-Y/hqdefault.jpg",
+    "Title": "iSHOWSPEED vs DUDE PERFECT GAUNTLET!",
+    "Channel": "IShowSpeed",
+    "Category": "Gaming",
+    "Format": "Short",
+    "Views Gained": 29765087
+  },
+  {
+    "Rank": 13,
+    "Change": "+3",
+    "Thumbnail": "https://i.ytimg.com/vi/Kvc_hpdMMVA/hqdefault.jpg",
+    "Title": "when your glass breaks but LISA is playing #LISA#pressplay#blackpink#blackpinklisa#blink#kpop#shorts",
+    "Channel": "vivivibes",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 27122428
   },
   {
     "Rank": 14,
-    "Change": "-1",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/nBlg_W5oZUw/hqdefault.jpg",
     "Title": "Lisa push rose?🔥😱 #kpopshorts #blackpink #lisa #rose #chaelisa #jisoo #jennie #kpop #shorts",
     "Channel": "IZMK x vsoo x kpop 🎀",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 26620848
+    "Views Gained": 26621105
   },
   {
     "Rank": 15,
-    "Change": "-1",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/91IO1692mTg/hqdefault.jpg",
     "Title": "She didn’t move in 12h😭 #roadtrip #siblings #sleep #pillow #usashorts",
     "Channel": "Dozora ☁️",
@@ -151,17 +151,27 @@
   },
   {
     "Rank": 16,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/Kvc_hpdMMVA/hqdefault.jpg",
-    "Title": "when your glass breaks but LISA is playing #LISA#pressplay#blackpink#blackpinklisa#blink#kpop#shorts",
-    "Channel": "vivivibes",
+    "Change": "-5",
+    "Thumbnail": "https://i.ytimg.com/vi/Y8IJi7iP5vk/hqdefault.jpg",
+    "Title": "Last To Fall Wins",
+    "Channel": "MrBeast",
     "Category": "Entertainment",
     "Format": "Short",
-    "Views Gained": 22464018
+    "Views Gained": 25033289
   },
   {
     "Rank": 17,
-    "Change": "0",
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/CIk-JJINbzA/hqdefault.jpg",
+    "Title": "#sawadika #lisablackpink #languagechallenge #sawadikalisa #kpopdancechallenge",
+    "Channel": "See you Ziyu",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 21809324
+  },
+  {
+    "Rank": 18,
+    "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/m28oOp4s0C4/hqdefault.jpg",
     "Title": "¡Llegó la Hora de Dormir! 🌙😴 | Rutina Nocturna para Niños",
     "Channel": "El Tren Ñam-Ñam",
@@ -170,108 +180,128 @@
     "Views Gained": 20073946
   },
   {
-    "Rank": 18,
-    "Change": "-6",
-    "Thumbnail": "https://i.ytimg.com/vi/iROvzF7U5fY/hqdefault.jpg",
-    "Title": "SAVE THE FOOTBALLER BY STOPPING THE DISCS FROM FALLING | WHO WON?😱🙏",
-    "Channel": "DuoWave ",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 18079920
-  },
-  {
     "Rank": 19,
-    "Change": "New",
+    "Change": "0",
     "Thumbnail": "https://i.ytimg.com/vi/3Jd_Yl22uBI/hqdefault.jpg",
     "Title": "OH!! Samsung S27 Ultra Camera Result🧀🔥#noads #tiktok #usa",
     "Channel": "Fun_Games",
     "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 15090171
+    "Views Gained": 14371859
   },
   {
     "Rank": 20,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/wmt8g8hZ8c0/hqdefault.jpg",
-    "Title": "Hice una Coca Cola Falsa !",
-    "Channel": "Don Papi",
-    "Category": "Gaming",
-    "Format": "Short",
-    "Views Gained": 14318425
-  },
-  {
-    "Rank": 21,
-    "Change": "+3",
+    "Change": "+1",
     "Thumbnail": "https://i.ytimg.com/vi/ougPSGhp8Uc/hqdefault.jpg",
     "Title": "Pensó que lo habían pillado por su broma 😳",
     "Channel": "El Diario De Jazmín",
     "Category": "Entertainment",
     "Format": "Short",
-    "Views Gained": 12754138
+    "Views Gained": 14127096
+  },
+  {
+    "Rank": 21,
+    "Change": "+10",
+    "Thumbnail": "https://i.ytimg.com/vi/uJqaGLmZpGo/hqdefault.jpg",
+    "Title": "Dune: Part Three | Final Trailer",
+    "Channel": "Warner Bros.",
+    "Category": "Film & Animation",
+    "Format": "Standard",
+    "Views Gained": 13942080
   },
   {
     "Rank": 22,
-    "Change": "-1",
-    "Thumbnail": "https://i.ytimg.com/vi/8zQCv3NeiGs/hqdefault.jpg",
-    "Title": "Culpa Del Perro Torpe! ¡Pesa Demasiado!🐶😤😹",
-    "Channel": "Bao Bao Planet",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 12141849
-  },
-  {
-    "Rank": 23,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/z-2QpGU-pIY/hqdefault.jpg",
-    "Title": "¡Rompió La Litera! 💥",
-    "Channel": "La Historia de Él",
-    "Category": "Gaming",
-    "Format": "Short",
-    "Views Gained": 11638790
-  },
-  {
-    "Rank": 24,
-    "Change": "+11",
+    "Change": "+2",
     "Thumbnail": "https://i.ytimg.com/vi/IfTapdOL94o/hqdefault.jpg",
     "Title": "EL SACRIFICIO DE MINI MINI.EXE",
     "Channel": "Fede Vigevani",
     "Category": "Entertainment",
     "Format": "Long",
-    "Views Gained": 11107473
+    "Views Gained": 12926781
+  },
+  {
+    "Rank": 23,
+    "Change": "-5",
+    "Thumbnail": "https://i.ytimg.com/vi/iROvzF7U5fY/hqdefault.jpg",
+    "Title": "SAVE THE FOOTBALLER BY STOPPING THE DISCS FROM FALLING | WHO WON?😱🙏",
+    "Channel": "DuoWave ",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 12286676
+  },
+  {
+    "Rank": 24,
+    "Change": "-4",
+    "Thumbnail": "https://i.ytimg.com/vi/wmt8g8hZ8c0/hqdefault.jpg",
+    "Title": "Hice una Coca Cola Falsa !",
+    "Channel": "Don Papi",
+    "Category": "Gaming",
+    "Format": "Short",
+    "Views Gained": 12188838
   },
   {
     "Rank": 25,
-    "Change": "0",
+    "Change": "-2",
+    "Thumbnail": "https://i.ytimg.com/vi/z-2QpGU-pIY/hqdefault.jpg",
+    "Title": "¡Rompió La Litera! 💥",
+    "Channel": "La Historia de Él",
+    "Category": "Gaming",
+    "Format": "Short",
+    "Views Gained": 11900678
+  },
+  {
+    "Rank": 26,
+    "Change": "+3",
+    "Thumbnail": "https://i.ytimg.com/vi/bV2BovYO_rc/hqdefault.jpg",
+    "Title": "Phillies land All-Star closer Jhoan Duran ahead of MLB trade deadline 👀🔥 #jhoanduran",
+    "Channel": "zhumi",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 11271648
+  },
+  {
+    "Rank": 27,
+    "Change": "+8",
+    "Thumbnail": "https://i.ytimg.com/vi/tvG8aLv1n4A/hqdefault.jpg",
+    "Title": "🐶 ¡Un CACHORRITO atrapado en el TECHO! 🚒 | #shorts #perros #bomberos #infantil #animacion3d #cute",
+    "Channel": "Brigada Kids: Aventuras al Rescate",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 11039619
+  },
+  {
+    "Rank": 28,
+    "Change": "-3",
     "Thumbnail": "https://i.ytimg.com/vi/VzRr1zWFl8U/hqdefault.jpg",
     "Title": "FC BARCELONA 1 - 2 REAL MADRID | RESUMEN LALIGA EA SPORTS",
     "Channel": "LALIGA EA SPORTS",
     "Category": "Sports",
     "Format": "Standard",
-    "Views Gained": 10656312
+    "Views Gained": 10910705
   },
   {
-    "Rank": 26,
-    "Change": "-4",
-    "Thumbnail": "https://i.ytimg.com/vi/BUBDVWSKSMg/hqdefault.jpg",
-    "Title": "Le robó su squishy",
-    "Channel": "BeluHistorias",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 9908638
-  },
-  {
-    "Rank": 27,
-    "Change": "-9",
-    "Thumbnail": "https://i.ytimg.com/vi/63LuntU2wKk/hqdefault.jpg",
-    "Title": "¡Encuentra Mi Hogar! 🏡🐾 | ¿Dónde Viven los Animales?",
+    "Rank": 29,
+    "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/4Eqcv2py3PM/hqdefault.jpg",
+    "Title": "¡Oh, No! ¡El Tren Chu-Chu Perdió Sus Colores! 🚂🌈 | ¡Toothy y Tootsie al Rescate!",
     "Channel": "El Tren Ñam-Ñam",
     "Category": "Entertainment",
     "Format": "Short",
-    "Views Gained": 9558706
+    "Views Gained": 10423429
   },
   {
-    "Rank": 28,
-    "Change": "+10",
+    "Rank": 30,
+    "Change": "-8",
+    "Thumbnail": "https://i.ytimg.com/vi/8zQCv3NeiGs/hqdefault.jpg",
+    "Title": "Culpa Del Perro Torpe! ¡Pesa Demasiado!🐶😤😹",
+    "Channel": "Bao Bao Planet",
+    "Category": "People & Blogs",
+    "Format": "Short",
+    "Views Gained": 10230972
+  },
+  {
+    "Rank": 31,
+    "Change": "-3",
     "Thumbnail": "https://i.ytimg.com/vi/XRMMQv3m50M/hqdefault.jpg",
     "Title": "¿Qué Pasa Dentro de la Pared al Cargar tu Móvil? 🤯",
     "Channel": "Mente misteriosa",
@@ -280,18 +310,8 @@
     "Views Gained": 9263598
   },
   {
-    "Rank": 29,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/bV2BovYO_rc/hqdefault.jpg",
-    "Title": "Phillies land All-Star closer Jhoan Duran ahead of MLB trade deadline 👀🔥 #jhoanduran",
-    "Channel": "zhumi",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 9129580
-  },
-  {
-    "Rank": 30,
-    "Change": "+7",
+    "Rank": 32,
+    "Change": "-2",
     "Thumbnail": "https://i.ytimg.com/vi/4AYD1DHKqCM/hqdefault.jpg",
     "Title": "Messi Pie Superhumano 💀🔥",
     "Channel": "Arias Football TV",
@@ -300,18 +320,8 @@
     "Views Gained": 8952209
   },
   {
-    "Rank": 31,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/uJqaGLmZpGo/hqdefault.jpg",
-    "Title": "Dune: Part Three | Final Trailer",
-    "Channel": "Warner Bros.",
-    "Category": "Film & Animation",
-    "Format": "Standard",
-    "Views Gained": 8877052
-  },
-  {
-    "Rank": 32,
-    "Change": "+4",
+    "Rank": 33,
+    "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/Jw17woBXKBk/hqdefault.jpg",
     "Title": "9-1-1: Lone Star (2020) | Mereces 12 nuggets 😊 #shorts #triste #cinema #pelicula",
     "Channel": "Lil Resumen",
@@ -320,183 +330,173 @@
     "Views Gained": 8853380
   },
   {
-    "Rank": 33,
-    "Change": "-2",
-    "Thumbnail": "https://i.ytimg.com/vi/9EYJzA7BH0w/hqdefault.jpg",
-    "Title": "La respuesta más lógica y absurda a la vez 😂",
-    "Channel": "Flyxoblox clips",
-    "Category": "People & Blogs",
-    "Format": "Short",
-    "Views Gained": 8849151
-  },
-  {
     "Rank": 34,
-    "Change": "-7",
-    "Thumbnail": "https://i.ytimg.com/vi/VZSFu1D1Xac/hqdefault.jpg",
-    "Title": "Mis gatos me dan miedo 😰😳",
-    "Channel": "Patricio Razo",
+    "Change": "+8",
+    "Thumbnail": "https://i.ytimg.com/vi/IOXXdEKuDGA/hqdefault.jpg",
+    "Title": "CULEBRA VENENOSA #comedia",
+    "Channel": "Alfredo Larin",
     "Category": "Entertainment",
     "Format": "Short",
-    "Views Gained": 8138854
+    "Views Gained": 8690294
   },
   {
     "Rank": 35,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/tvG8aLv1n4A/hqdefault.jpg",
-    "Title": "🐶 ¡Un CACHORRITO atrapado en el TECHO! 🚒 | #shorts #perros #bomberos #infantil #animacion3d #cute",
-    "Channel": "Brigada Kids: Aventuras al Rescate",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 7961749
-  },
-  {
-    "Rank": 36,
-    "Change": "-7",
-    "Thumbnail": "https://i.ytimg.com/vi/xf5zUQlauD0/hqdefault.jpg",
-    "Title": "CUANDO TE TOCAN EL TIMBRE Y RECUERDAS QUE TU TAMBIÉN LO HACÍAS DE NIÑO🥺❤️",
-    "Channel": "Los PQliares",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 7778963
-  },
-  {
-    "Rank": 37,
-    "Change": "-5",
-    "Thumbnail": "https://i.ytimg.com/vi/2iH0iiHOmbg/hqdefault.jpg",
-    "Title": "El Chavo Anime VS Original",
-    "Channel": "Darent Z ART",
-    "Category": "Film & Animation",
-    "Format": "Short",
-    "Views Gained": 7656286
-  },
-  {
-    "Rank": 38,
-    "Change": "-10",
-    "Thumbnail": "https://i.ytimg.com/vi/sQfg6A0CijQ/hqdefault.jpg",
-    "Title": "Fist Fight (2017) | Cuando una broma en clase cruza la línea #shorts #edit",
-    "Channel": "Eyser",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 7644957
-  },
-  {
-    "Rank": 39,
-    "Change": "0",
-    "Thumbnail": "https://i.ytimg.com/vi/ESABTN4VtrA/hqdefault.jpg",
-    "Title": "iPhone Duo Review: First Generation Fun!",
-    "Channel": "Marques Brownlee",
-    "Category": "Science & Technology",
-    "Format": "Long",
-    "Views Gained": 7600092
-  },
-  {
-    "Rank": 40,
     "Change": "+5",
     "Thumbnail": "https://i.ytimg.com/vi/0HVRBIZ6R8g/hqdefault.jpg",
     "Title": "1 Second VS 1 Hour Football",
     "Channel": "Futcrunch",
     "Category": "Sports",
     "Format": "Short",
-    "Views Gained": 7575913
+    "Views Gained": 8347959
   },
   {
-    "Rank": 41,
-    "Change": "-15",
-    "Thumbnail": "https://i.ytimg.com/vi/5BF5ahX33Vw/hqdefault.jpg",
-    "Title": "Tengo los peores amigos 😡😰",
-    "Channel": "Patricio Razo",
+    "Rank": 36,
+    "Change": "-10",
+    "Thumbnail": "https://i.ytimg.com/vi/BUBDVWSKSMg/hqdefault.jpg",
+    "Title": "Le robó su squishy",
+    "Channel": "BeluHistorias",
     "Category": "Entertainment",
     "Format": "Short",
-    "Views Gained": 7444760
+    "Views Gained": 7299406
   },
   {
-    "Rank": 42,
-    "Change": "+1",
-    "Thumbnail": "https://i.ytimg.com/vi/IOXXdEKuDGA/hqdefault.jpg",
-    "Title": "CULEBRA VENENOSA #comedia",
-    "Channel": "Alfredo Larin",
-    "Category": "Entertainment",
-    "Format": "Short",
-    "Views Gained": 7369051
-  },
-  {
-    "Rank": 43,
+    "Rank": 37,
     "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/bMB3KEYgIrY/hqdefault.jpg",
-    "Title": "Ranking Funniest Chris Colditz Moments✌🏼😭",
-    "Channel": "Layla",
-    "Category": "Entertainment",
+    "Thumbnail": "https://i.ytimg.com/vi/UCRNeWsjwcw/hqdefault.jpg",
+    "Title": "octubre 25, 2026",
+    "Channel": "Gestly ",
+    "Category": "People & Blogs",
     "Format": "Short",
-    "Views Gained": 6973045
+    "Views Gained": 6987787
   },
   {
-    "Rank": 44,
-    "Change": "-11",
-    "Thumbnail": "https://i.ytimg.com/vi/zJOaqPMHs7Y/hqdefault.jpg",
-    "Title": "The Victoria’s Secret Fashion Show 2026",
-    "Channel": "Victoria's Secret",
-    "Category": "Entertainment",
-    "Format": "Long",
-    "Views Gained": 6480226
-  },
-  {
-    "Rank": 45,
-    "Change": "+2",
-    "Thumbnail": "https://i.ytimg.com/vi/5laDGy4INB0/hqdefault.jpg",
-    "Title": "iPhone Duo Durability: Destroyed",
-    "Channel": "JerryRigEverything",
-    "Category": "Howto & Style",
-    "Format": "Standard",
-    "Views Gained": 6313156
-  },
-  {
-    "Rank": 46,
-    "Change": "+3",
-    "Thumbnail": "https://i.ytimg.com/vi/7bU4ojt7WGU/hqdefault.jpg",
-    "Title": "AVENGERS: DOOMSDAY New Trailer (2026) Extended",
-    "Channel": "MovieGasm‍․com",
-    "Category": "Film & Animation",
-    "Format": "Standard",
-    "Views Gained": 6115268
-  },
-  {
-    "Rank": 47,
+    "Rank": 38,
     "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/V2V9-9VhYJo/hqdefault.jpg",
+    "Title": "ILLIT (아일릿) '체포하겠어 (You’re Under Arrest)’ Official MV",
+    "Channel": "HYBE LABELS",
+    "Category": "Music",
+    "Format": "Standard",
+    "Views Gained": 6946422
+  },
+  {
+    "Rank": 39,
+    "Change": "+8",
     "Thumbnail": "https://i.ytimg.com/vi/vgo5iBEz8eo/hqdefault.jpg",
     "Title": "¡ESA CHANCLA TIENE MÁS PODER QUE TODOS LOS MONSTRUOS JUNTOS! 😭 #humor",
     "Channel": "LA TIA LOLA",
     "Category": "Entertainment",
     "Format": "Short",
-    "Views Gained": 5794555
+    "Views Gained": 6934083
   },
   {
-    "Rank": 48,
+    "Rank": 40,
     "Change": "New",
+    "Thumbnail": "https://i.ytimg.com/vi/wFI6wrH0VBo/hqdefault.jpg",
+    "Title": "¡ALTO! ¡No es Jugo!...Cuidado Con Los Productos de Limpieza  🧴 Cuento Infantil de Seguridad en Casa",
+    "Channel": "More Good Stories",
+    "Category": "Education",
+    "Format": "Short",
+    "Views Gained": 6889376
+  },
+  {
+    "Rank": 41,
+    "Change": "+4",
+    "Thumbnail": "https://i.ytimg.com/vi/5laDGy4INB0/hqdefault.jpg",
+    "Title": "iPhone Duo Durability: Destroyed",
+    "Channel": "JerryRigEverything",
+    "Category": "Howto & Style",
+    "Format": "Standard",
+    "Views Gained": 6853903
+  },
+  {
+    "Rank": 42,
+    "Change": "+4",
+    "Thumbnail": "https://i.ytimg.com/vi/7bU4ojt7WGU/hqdefault.jpg",
+    "Title": "AVENGERS: DOOMSDAY New Trailer (2026) Extended",
+    "Channel": "MovieGasm‍․com",
+    "Category": "Film & Animation",
+    "Format": "Standard",
+    "Views Gained": 6505149
+  },
+  {
+    "Rank": 43,
+    "Change": "-9",
+    "Thumbnail": "https://i.ytimg.com/vi/VZSFu1D1Xac/hqdefault.jpg",
+    "Title": "Mis gatos me dan miedo 😰😳",
+    "Channel": "Patricio Razo",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 6154131
+  },
+  {
+    "Rank": 44,
+    "Change": "-8",
+    "Thumbnail": "https://i.ytimg.com/vi/xf5zUQlauD0/hqdefault.jpg",
+    "Title": "CUANDO TE TOCAN EL TIMBRE Y RECUERDAS QUE TU TAMBIÉN LO HACÍAS DE NIÑO🥺❤️",
+    "Channel": "Los PQliares",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 6152570
+  },
+  {
+    "Rank": 45,
+    "Change": "+3",
     "Thumbnail": "https://i.ytimg.com/vi/UfNu7pcR0e8/hqdefault.jpg",
     "Title": "Avengers: Doomsday | In Theaters December 18",
     "Channel": "Marvel Entertainment",
     "Category": "Entertainment",
     "Format": "Short",
-    "Views Gained": 5549693
+    "Views Gained": 6127575
+  },
+  {
+    "Rank": 46,
+    "Change": "+4",
+    "Thumbnail": "https://i.ytimg.com/vi/CK49r39INgE/hqdefault.jpg",
+    "Title": "¡Me Lanzó Ladrillos! 😱",
+    "Channel": "La Historia de Él",
+    "Category": "Gaming",
+    "Format": "Standard",
+    "Views Gained": 5885542
+  },
+  {
+    "Rank": 47,
+    "Change": "-6",
+    "Thumbnail": "https://i.ytimg.com/vi/5BF5ahX33Vw/hqdefault.jpg",
+    "Title": "Tengo los peores amigos 😡😰",
+    "Channel": "Patricio Razo",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 5806489
+  },
+  {
+    "Rank": 48,
+    "Change": "-10",
+    "Thumbnail": "https://i.ytimg.com/vi/sQfg6A0CijQ/hqdefault.jpg",
+    "Title": "Fist Fight (2017) | Cuando una broma en clase cruza la línea #shorts #edit",
+    "Channel": "Eyser",
+    "Category": "Entertainment",
+    "Format": "Short",
+    "Views Gained": 5674330
   },
   {
     "Rank": 49,
-    "Change": "New",
+    "Change": "-12",
+    "Thumbnail": "https://i.ytimg.com/vi/2iH0iiHOmbg/hqdefault.jpg",
+    "Title": "El Chavo Anime VS Original",
+    "Channel": "Darent Z ART",
+    "Category": "Film & Animation",
+    "Format": "Short",
+    "Views Gained": 5543115
+  },
+  {
+    "Rank": 50,
+    "Change": "-1",
     "Thumbnail": "https://i.ytimg.com/vi/6fY-3A1aqg0/hqdefault.jpg",
     "Title": "USA is champion! No more straining your voice to cheer for your favorite team #usa #fyp #youtube",
     "Channel": "MidnightMuse037",
     "Category": "People & Blogs",
     "Format": "Short",
     "Views Gained": 5393983
-  },
-  {
-    "Rank": 50,
-    "Change": "New",
-    "Thumbnail": "https://i.ytimg.com/vi/CK49r39INgE/hqdefault.jpg",
-    "Title": "¡Me Lanzó Ladrillos! 😱",
-    "Channel": "La Historia de Él",
-    "Category": "Gaming",
-    "Format": "Standard",
-    "Views Gained": 5384683
   }
 ]
